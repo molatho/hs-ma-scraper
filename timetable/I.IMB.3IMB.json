@@ -1,0 +1,101 @@
+{
+    "token": "3IMB",
+    "courses": {
+        "WEB": {
+            "token": "WEB",
+            "name": "Webtechnologien",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "SPE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "SPE"
+                }
+            ]
+        },
+        "MA3": {
+            "token": "MA3",
+            "name": "Mathematik 3",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "STL"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "STL"
+                }
+            ]
+        },
+        "MI4": {
+            "token": "MI4",
+            "name": "Medizinische Informatik 4",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "WOI"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "WOI"
+                }
+            ]
+        },
+        "DM": {
+            "token": "DM",
+            "name": "Datenmanagement",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "GUM"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "GUM"
+                }
+            ]
+        },
+        "MI3": {
+            "token": "MI3",
+            "name": "Medizinische Informatik 3",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "SMP"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "SMP"
+                }
+            ]
+        },
+        "SE2": {
+            "token": "SE2",
+            "name": "Software Engineering 2",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "KOK"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "KAE"
+                }
+            ]
+        }
+    }
+}

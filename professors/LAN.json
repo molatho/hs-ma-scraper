@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Birgitta Landwehr",
+    "email": "b.landwehr",
+    "website": "http://www.tv.hs-mannheim.de/landwehr",
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "TV",
+                "name": "Thermische Verfahrenstechnik",
+                "link": "http://www.tv.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Prodekanin V und Studiendekanin VB",
+    "location": "Geb. E (05) Raum 101",
+    "phone": "(0621)-292-6305 Fax -6420",
+    "appointments": "Mo. 10:00-11:00 Uhr u. nach Vereinbarung"
+}

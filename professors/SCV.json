@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Volkmar Schmidt",
+    "email": "v.m.schmidt",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "CV",
+                "name": "Chemische Verfahrenstechnik",
+                "link": "http://www.cv.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. E (05) Raum 103",
+    "phone": "(0621)-292-6307 Fax -6470",
+    "appointments": "Mi 14.30 - 15.30"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Olaf Kittel",
+    "email": null,
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": null,
+    "phone": null,
+    "appointments": ""
+}

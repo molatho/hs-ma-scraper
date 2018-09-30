@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Sachar Paulus",
+    "email": "s.paulus",
+    "website": "https://jonathan.sv.hs-mannheim.de/~s.paulus",
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "A106a",
+    "phone": "(0621)-0621 292 6708",
+    "appointments": "nach Vereinbarung per E-Mail"
+}

@@ -1,0 +1,21 @@
+{
+    "token": "GER",
+    "courses": {
+        "GDB": {
+            "token": "GDB",
+            "name": "Grundlagen Datenbanken",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "KLS"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "KLS"
+                }
+            ]
+        }
+    }
+}

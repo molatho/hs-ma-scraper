@@ -1,0 +1,127 @@
+{
+    "token": "1VB",
+    "courses": {
+        "KO1": {
+            "token": "KO1",
+            "name": "Konstruktionslehre 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "SIN"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "SIN"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SIN"
+                }
+            ]
+        },
+        "PH1": {
+            "token": "PH1",
+            "name": "Physik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "CAN"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "CAN"
+                }
+            ]
+        },
+        "MA1": {
+            "token": "MA1",
+            "name": "Mathematik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "SIN"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "SIN"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SIN"
+                }
+            ]
+        },
+        "AC": {
+            "token": "AC",
+            "name": "Allgemeine und anorganische Chemie",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "HOF"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "HOF"
+                }
+            ]
+        },
+        "KOMP": {
+            "token": "KOMP",
+            "name": "Kompass",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SIN"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "SIN"
+                }
+            ]
+        },
+        "TB": {
+            "token": "TB",
+            "name": "Technische Biologie",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "KUN"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "KUN"
+                }
+            ]
+        },
+        "TM1": {
+            "token": "TM1",
+            "name": "Technische Mechanik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "BEL"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "BEL"
+                }
+            ]
+        }
+    }
+}

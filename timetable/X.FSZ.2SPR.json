@@ -1,0 +1,79 @@
+{
+    "token": "2SPR",
+    "courses": {
+        "DEU1a": {
+            "token": "DEU1a",
+            "name": "Deutsch als Fremdsprache 1 - Gruppe A",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "�ZE"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SDA"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "SDA"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "�ZE"
+                }
+            ]
+        },
+        "DEU1b": {
+            "token": "DEU1b",
+            "name": "Deutsch als Fremdsprache 1 - Gruppe B",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SDA"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "�ZE"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "SDA"
+                }
+            ]
+        },
+        "DAZ": {
+            "token": "DAZ",
+            "name": "Deutsch f�r akadimische Zwecke",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "LBX1"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "LBX1"
+                }
+            ]
+        },
+        "DEU2b": {
+            "token": "DEU2b",
+            "name": "Deutsch als Fremdsprache 2 - Gruppe B",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "ENC"
+                }
+            ]
+        }
+    }
+}

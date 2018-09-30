@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Heidi Bergmann",
+    "email": "h.bergmann",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "W",
+            "name": "Wirtschaftsingenieurwesen",
+            "link": "http://www.wing.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. L (11) Raum 154",
+    "phone": "(0621)-292-6149 Fax -6453",
+    "appointments": "nach Vereinbarung"
+}

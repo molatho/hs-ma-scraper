@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Ulrich W. Scherer",
+    "email": "u.scherer",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Gebäude G (06) Raum 142",
+    "phone": "(0621)-292 6485 Fax 292 664851",
+    "appointments": "nach Vereinbarung"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Matthias Klimmer",
+    "email": "m.klimmer",
+    "website": "http://www.wing.hs-mannheim.de",
+    "associations": {
+        "faculty": {
+            "token": "W",
+            "name": "Wirtschaftsingenieurwesen",
+            "link": "http://www.wing.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IFU",
+                "name": "Unternehmensführung",
+                "link": "http://www.ifu.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Dekan",
+    "location": "L 057",
+    "phone": "(0621)-292-6384 Fax -6453",
+    "appointments": "MI 10.00 - 11.00 Uhr sowie nach Vereinbarung"
+}

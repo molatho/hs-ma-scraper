@@ -1,0 +1,48 @@
+{
+    "token": "3SM",
+    "courses": {
+        "F�": {
+            "token": "F�",
+            "name": "Leitungspraxis in sozialen Organisationen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "ENE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "ENE"
+                }
+            ]
+        },
+        "RE": {
+            "token": "RE",
+            "name": "Rechtliche Aspekte",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "LBS4"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "LBS4"
+                }
+            ]
+        },
+        "SP": {
+            "token": "SP",
+            "name": "Internationale Sozialpolitik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "BWF"
+                }
+            ]
+        }
+    }
+}

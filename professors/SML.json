@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Hans-Peter Schmalzl",
+    "email": "h.schmalzl",
+    "website": "http://www.ifa.hs-mannheim.de",
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IFA",
+                "name": "Institut für Innovative Fahrzeugantriebe",
+                "link": "http://www.ifa.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Rudolf-Diesel-Straße 24",
+    "phone": "(0621)-0621 860 854 432 Fax 0621 860 854 433",
+    "appointments": "nach Vereinbarung"
+}

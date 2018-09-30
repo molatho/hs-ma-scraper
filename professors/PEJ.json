@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Jochen Peter",
+    "email": "jochen.peter",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. C (03) Raum 304",
+    "phone": "(0621)-292-6722",
+    "appointments": "nach Vereinbarung"
+}

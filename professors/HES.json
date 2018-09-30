@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Stefan Heger",
+    "email": "s.heger",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. S, Raum 310",
+    "phone": "(0621)-292-6861",
+    "appointments": "nach Vereinbarung                     (per E-Mail)"
+}

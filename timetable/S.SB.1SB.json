@@ -1,0 +1,159 @@
+{
+    "token": "1SB",
+    "courses": {
+        "NEUR": {
+            "token": "NEUR",
+            "name": "Neurowissenschaften",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "OSM"
+                }
+            ]
+        },
+        "PSY": {
+            "token": "PSY",
+            "name": "Einf�hrung in die Psychologie",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "SSC"
+                }
+            ]
+        },
+        "EINR-A": {
+            "token": "EINR-A",
+            "name": "Einrichtungen und Arbeitsfelder",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "BAL"
+                }
+            ]
+        },
+        "RECH-A": {
+            "token": "RECH-A",
+            "name": "Recht und Soziale Arbeit (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "TOU"
+                }
+            ]
+        },
+        "MAT-A": {
+            "token": "MAT-A",
+            "name": "Materielle Grundsicherung (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "MAZ"
+                }
+            ]
+        },
+        "LFI1-B": {
+            "token": "LFI1-B",
+            "name": "Lern- und Forschungswerkstatt Soziale Arbeit - Einf�hrung (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "VAR"
+                }
+            ]
+        },
+        "LFI1-A": {
+            "token": "LFI1-A",
+            "name": "Lern- und Forschungswerkstatt Soziale Arbeit - Einf�hrung (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "SSC"
+                }
+            ]
+        },
+        "EINR-B": {
+            "token": "EINR-B",
+            "name": "Einrichtungen und Arbeitsfelder",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "BWF"
+                }
+            ]
+        },
+        "RECH-B": {
+            "token": "RECH-B",
+            "name": "Recht und Soziale Arbeit (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "TOU"
+                }
+            ]
+        },
+        "MAT-B": {
+            "token": "MAT-B",
+            "name": "Materielle Grundsicherung (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "MAZ"
+                }
+            ]
+        },
+        "DIV-A": {
+            "token": "DIV-A",
+            "name": "Interkulturelle Kompetenz/Diversity Management (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "BWF"
+                }
+            ]
+        },
+        "WIS": {
+            "token": "WIS",
+            "name": "Wissenschaftliches Arbeiten und wissenschaftliches Schreiben",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "NOY"
+                }
+            ]
+        },
+        "DIV-B": {
+            "token": "DIV-B",
+            "name": "Interkulturelle Kompetenz/Diversity Management (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "BWF"
+                }
+            ]
+        },
+        "EMP": {
+            "token": "EMP",
+            "name": "Praxisforschung / Empirische Sozialforschung",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "NOY"
+                }
+            ]
+        }
+    }
+}

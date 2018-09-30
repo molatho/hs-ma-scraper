@@ -1,0 +1,182 @@
+{
+    "token": "1CM",
+    "courses": {
+        "MN": {
+            "token": "MN",
+            "name": "Mikro- und Nanotechnolgie",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "R�T"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "R�T"
+                }
+            ]
+        },
+        "ANM": {
+            "token": "ANM",
+            "name": "Angewandte nummerische Mathematik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "OTO"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "OTO"
+                }
+            ]
+        },
+        "VE": {
+            "token": "VE",
+            "name": "Verfahrensentwicklung",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "ADR"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "ADR"
+                }
+            ]
+        },
+        "ICH": {
+            "token": "ICH",
+            "name": "Industrielle Chemie",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "SCV"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SCV"
+                }
+            ]
+        },
+        "TDG": {
+            "token": "TDG",
+            "name": "Thermodynamik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "ADR"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "ADR"
+                }
+            ]
+        },
+        "PRC": {
+            "token": "PRC",
+            "name": "Radiochemie - Praktikum",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "SEH"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "SEH"
+                }
+            ]
+        },
+        "MS": {
+            "token": "MS",
+            "name": "Modellierung und Simulation",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "DIW"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "DIW"
+                }
+            ]
+        },
+        "MCI": {
+            "token": "MCI",
+            "name": "Medieneinsatz im Chemieingenieurwesen",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SUB"
+                }
+            ]
+        },
+        "CFM": {
+            "token": "CFM",
+            "name": "Str�mungssimulation",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "BEL"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "BEL"
+                }
+            ]
+        },
+        "NUE": {
+            "token": "NUE",
+            "name": "Nukleare Entsorgung",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "LBV1"
+                }
+            ]
+        },
+        "KSS": {
+            "token": "KSS",
+            "name": "Korrosionsschutz",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "LOS"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "LOS"
+                }
+            ]
+        },
+        "KOR": {
+            "token": "KOR",
+            "name": "Korrosion",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "SIN"
+                }
+            ]
+        }
+    }
+}

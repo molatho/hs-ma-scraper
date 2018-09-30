@@ -1,0 +1,149 @@
+{
+    "token": "2MTB",
+    "courses": {
+        "PH2": {
+            "token": "PH2",
+            "name": "Physik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "KNA"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "KNA"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "KNA"
+                }
+            ]
+        },
+        "OOP": {
+            "token": "OOP",
+            "name": "Objektorientierte Programmierung",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "BTH"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "BTH"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "BTH"
+                }
+            ]
+        },
+        "WST": {
+            "token": "WST",
+            "name": "Wechselstromtechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "SKH"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "SKH"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SKH"
+                }
+            ]
+        },
+        "MA2": {
+            "token": "MA2",
+            "name": "Mathematik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "POP"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "POP"
+                }
+            ]
+        },
+        "ES": {
+            "token": "ES",
+            "name": "Elektronische Schaltungen",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "WIB"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "WIB"
+                }
+            ]
+        },
+        "PRO": {
+            "token": "PRO",
+            "name": "Begleitprogramm ES+",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "MAT"
+                }
+            ]
+        },
+        "ESL": {
+            "token": "ESL",
+            "name": "Elektronische Schaltungen Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "WIB"
+                }
+            ]
+        },
+        "T-MA2": {
+            "token": "T-MA2",
+            "name": "Tutorium - Mathematik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "POP"
+                }
+            ]
+        },
+        "MED2": {
+            "token": "MED2",
+            "name": "Medizin 2",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "LBN1"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "LBN1"
+                }
+            ]
+        }
+    }
+}

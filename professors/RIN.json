@@ -1,0 +1,23 @@
+{
+    "name": "Hermann Ringshauser",
+    "email": "h.ringshauser",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "DK",
+                "name": "Digitaltechnik",
+                "link": "http://digitaltechnik.fh-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. S, Raum 122",
+    "phone": "(0621)-292-6342 Fax -6454 / -663421",
+    "appointments": "nach Vereinbarung per Email"
+}

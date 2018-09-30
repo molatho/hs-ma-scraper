@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Matthias Seitz",
+    "email": "m.seitz",
+    "website": "http://www.et.hs-mannheim.de/set",
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IAS",
+                "name": "Automatisierungssysteme",
+                "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/automatisierungssyteme.html"
+            }
+        ]
+    },
+    "extra": "Studiendekan EB/UB Hauptstudium, Studiendekan EBE/UBE",
+    "location": "B112, B103 oder B102",
+    "phone": "(0621)-06151/606233 Fax 0621/292-662782",
+    "appointments": "Do. 11:30 Uhr (in der vorlesungsfreien Zeit nach Vereinbarung per Email)"
+}

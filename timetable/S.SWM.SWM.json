@@ -1,0 +1,224 @@
+{
+    "token": "SWM",
+    "courses": {
+        "MP2": {
+            "token": "MP2",
+            "name": "Theorie und Praxis der neuen Medien",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "LBS3"
+                }
+            ]
+        },
+        "MH5": {
+            "token": "MH5",
+            "name": "Suchterkrankungen - Entstehung und Unterst�tzung",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "LBS6"
+                }
+            ]
+        },
+        "HF5": {
+            "token": "HF5",
+            "name": "Erziehungshilfe nach Plan - Hilfen zur Erziehung",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "LBS2"
+                }
+            ]
+        },
+        "HT6": {
+            "token": "HT6",
+            "name": "Diversityorientierte Kinder- und Jugendbildung",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "LNG"
+                }
+            ]
+        },
+        "MH7": {
+            "token": "MH7",
+            "name": "Risk factors for mental disorders and ways of prevention",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "LBS6"
+                }
+            ]
+        },
+        "HF10": {
+            "token": "HF10",
+            "name": "Grundlagen der Schuldnerberatung",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "KKA"
+                }
+            ]
+        },
+        "HF6": {
+            "token": "HF6",
+            "name": "Straff�lligenhilfe f�r junge Erwachsene",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "ENE"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "ENE"
+                }
+            ]
+        },
+        "HT9": {
+            "token": "HT9",
+            "name": "Deeskalation im Spannungsfeld der Sozialen Arbeit",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "BLR"
+                }
+            ]
+        },
+        "HF9": {
+            "token": "HF9",
+            "name": "Ringvorlesung ",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "BWF"
+                }
+            ]
+        },
+        "MW4": {
+            "token": "MW4",
+            "name": "Konfliktmanagement/Gewaltpr�vention",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "KIL"
+                }
+            ]
+        },
+        "HF2": {
+            "token": "HF2",
+            "name": "B�rgerschaftliches Engagement",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "VAR"
+                }
+            ]
+        },
+        "HT4": {
+            "token": "HT4",
+            "name": "Kreatives Lesen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "UTZ"
+                }
+            ]
+        },
+        "HT10": {
+            "token": "HT10",
+            "name": "Praxen der Migration: Bedeutung und Perspektiven f�r Soziale Arbeit in Gemeinwesen",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "LBS5"
+                }
+            ]
+        },
+        "HF1": {
+            "token": "HF1",
+            "name": "ASD - mehr als Kindesschutz",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "WST"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "WST"
+                }
+            ]
+        },
+        "HT2": {
+            "token": "HT2",
+            "name": "Politische Unordnung",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "VAR"
+                }
+            ]
+        },
+        "HT8": {
+            "token": "HT8",
+            "name": "Soziale Arbeit nach Auschwitz",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "WEJ"
+                }
+            ]
+        },
+        "HF7": {
+            "token": "HF7",
+            "name": "�bergang Schule und Beruf",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SPT"
+                }
+            ]
+        },
+        "MP8": {
+            "token": "MP8",
+            "name": "(�ber-) Lebenskunst / Elemente eines gelingenden Lebens",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "BHE"
+                }
+            ]
+        },
+        "HF3": {
+            "token": "HF3",
+            "name": "Soziale Arbeit mit Menschen mit Behinderung",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "SUT"
+                }
+            ]
+        }
+    }
+}

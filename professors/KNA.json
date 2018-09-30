@@ -1,0 +1,28 @@
+{
+    "name": "Dr. Wolfgang Knaak",
+    "email": "w.knaak",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ING",
+                "name": "Naturwissenschaftliche Grundlagen",
+                "link": "http://www.physik.hs-mannheim.de/"
+            },
+            {
+                "token": "DK",
+                "name": "Digitaltechnik",
+                "link": "http://digitaltechnik.fh-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. R (08) Raum 006",
+    "phone": "(0621)-292-6815",
+    "appointments": "nach Vereinbarung (email)"
+}

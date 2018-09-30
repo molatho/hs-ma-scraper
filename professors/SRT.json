@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Bodo Schertel",
+    "email": "b.schertel",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": [
+            {
+                "token": "MI",
+                "name": "Medizinische Informatik",
+                "link": "http://mi.informatik.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "",
+    "location": null,
+    "phone": null,
+    "appointments": "nach Vereinbahrung"
+}

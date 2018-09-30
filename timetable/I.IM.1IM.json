@@ -1,0 +1,181 @@
+{
+    "token": "1IM",
+    "courses": {
+        "SMA": {
+            "token": "SMA",
+            "name": "Security Management ",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "PLS"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "PLS"
+                }
+            ]
+        },
+        "KDM": {
+            "token": "KDM",
+            "name": "Knowledge Discovery and Management",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "SMS"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "SMS"
+                }
+            ]
+        },
+        "KRY": {
+            "token": "KRY",
+            "name": "Kryptographie",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "FIM"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "FIM"
+                }
+            ]
+        },
+        "MMI": {
+            "token": "MMI",
+            "name": "Mensch-Maschine-Interaktion",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "KOK"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "KOK"
+                }
+            ]
+        },
+        "COM": {
+            "token": "COM",
+            "name": "Compilerbau",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SCA"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "SCA"
+                }
+            ]
+        },
+        "EBK": {
+            "token": "EBK",
+            "name": "Entscheidbarkeit, Berechenbarkeit und Komplexit�t",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "STL"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "STL"
+                }
+            ]
+        },
+        "PPR": {
+            "token": "PPR",
+            "name": "Parallele Prozesse",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "LET"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "LET"
+                }
+            ]
+        },
+        "NNW": {
+            "token": "NNW",
+            "name": "Neuronale Netzwerke",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "WOI"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "WOI"
+                }
+            ]
+        },
+        "GAE": {
+            "token": "GAE",
+            "name": "Game Engineering",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "DOP"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "DOP"
+                }
+            ]
+        },
+        "DTP": {
+            "token": "DTP",
+            "name": "Design Thinking Project",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "KOK"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "KOK"
+                }
+            ]
+        },
+        "AMR": {
+            "token": "AMR",
+            "name": "Autonome mobile Roboter",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "IME"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "IME"
+                }
+            ]
+        }
+    }
+}

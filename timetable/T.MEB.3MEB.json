@@ -1,0 +1,177 @@
+{
+    "token": "3MEB",
+    "courses": {
+        "EAT": {
+            "token": "EAT",
+            "name": "Elektrischen Antriebstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "HMM"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "HMM"
+                }
+            ]
+        },
+        "MA3": {
+            "token": "MA3",
+            "name": "Mathematik 3",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "LGU"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "LGU"
+                }
+            ]
+        },
+        "WR": {
+            "token": "WR",
+            "name": "Wirtschaftsrecht",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "BGM"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "BGM"
+                }
+            ]
+        },
+        "MMT": {
+            "token": "MMT",
+            "name": "Messtechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "SKH"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "SKH"
+                }
+            ]
+        },
+        "MEL": {
+            "token": "MEL",
+            "name": "Maschinenelemente",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "HLF"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HLF"
+                }
+            ]
+        },
+        "ES": {
+            "token": "ES",
+            "name": "Elektronische Schaltungen",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "K�Z"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "K�Z"
+                }
+            ]
+        },
+        "ENB2a": {
+            "token": "ENB2a",
+            "name": "Englisch B2 Gruppe a",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "BAN"
+                }
+            ]
+        },
+        "BL1": {
+            "token": "BL1",
+            "name": "Betriebswirtschaftslehre 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "MTA"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "MTA"
+                }
+            ]
+        },
+        "ENB2b": {
+            "token": "ENB2b",
+            "name": "Englisch B2 Gruppe b",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "BAN"
+                }
+            ]
+        },
+        "ESL": {
+            "token": "ESL",
+            "name": "Elektronische Schaltungen Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "K�Z"
+                }
+            ]
+        },
+        "ENC1": {
+            "token": "ENC1",
+            "name": "Englisch C1 - Business Communication",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "SHE"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "SHE"
+                }
+            ]
+        },
+        "MWA": {
+            "token": "MWA",
+            "name": "Methoden des wissenschaftlichen Arbeitens",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "EFS"
+                }
+            ]
+        }
+    }
+}

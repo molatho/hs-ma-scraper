@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Michael Gröschel",
+    "email": "m.groeschel",
+    "website": "http://www.taxxas.com",
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. A, Raum 105b",
+    "phone": "(0621)-292-6764 Fax 292-667641",
+    "appointments": "nach Vereinbarung per E-Mail"
+}

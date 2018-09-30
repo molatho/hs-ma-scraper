@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Dennis Trebbels",
+    "email": "d.trebbels",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "Prodekan der Fakultät für Elektrotechnik",
+    "location": "Bau B, Raum 206",
+    "phone": "(0621)-292-6252",
+    "appointments": "nach Vereinbarung"
+}

@@ -1,0 +1,117 @@
+{
+    "token": "3IEB",
+    "courses": {
+        "DMCL": {
+            "token": "DMCL",
+            "name": "Digital und Microcomputertechnik Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "ACK"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "ACK"
+                }
+            ]
+        },
+        "MA3": {
+            "token": "MA3",
+            "name": "Mathematik 3",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "SUR"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "SUR"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SUR"
+                }
+            ]
+        },
+        "SS": {
+            "token": "SS",
+            "name": "Signale und Systeme",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "MAR"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "MAR"
+                }
+            ]
+        },
+        "DMC": {
+            "token": "DMC",
+            "name": "Digital und Microcomputertechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "ACK"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "ACK"
+                }
+            ]
+        },
+        "FEL": {
+            "token": "FEL",
+            "name": "Felder",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SHK"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "SHK"
+                }
+            ]
+        },
+        "AGT1": {
+            "token": "AGT1",
+            "name": "Analogtechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "K�Z"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "K�Z"
+                }
+            ]
+        },
+        "T-DMC": {
+            "token": "T-DMC",
+            "name": "Tutorium - Digital und Microcomputertechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "ACK"
+                }
+            ]
+        }
+    }
+}

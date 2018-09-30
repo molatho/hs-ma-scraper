@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Bernhard Hoffner",
+    "email": "b.hoffner",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": null,
+    "phone": null,
+    "appointments": ""
+}

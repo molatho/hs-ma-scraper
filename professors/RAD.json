@@ -1,0 +1,28 @@
+{
+    "name": "Dr. Matthias Rädle",
+    "email": "m.raedle",
+    "website": "http://www.pi.hs-mannheim.de",
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "PI",
+                "name": "Prozessmesstechnik und  innovative Energiesysteme",
+                "link": "http://www.pi.hs-mannheim.de/"
+            },
+            {
+                "token": "CeMOS",
+                "name": "Kompetenzzentrum CeMOS",
+                "link": "https://www.cemos.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Stv. Leiter CeMOS, Institutsleiter Institut PI",
+    "location": "Bau W Raum 001",
+    "phone": "(0621)-0621-761508-0 Fax 0621-761508-99",
+    "appointments": "Termine bitte über das Sekretariat Herrn Koch (k.koch@hs-mannheim.de) vereinbaren"
+}

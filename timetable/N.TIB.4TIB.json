@@ -1,0 +1,106 @@
+{
+    "token": "4TIB",
+    "courses": {
+        "CN2": {
+            "token": "CN2",
+            "name": "Computer Netzwerke 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "KOE"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "KOE"
+                }
+            ]
+        },
+        "DR": {
+            "token": "DR",
+            "name": "Digitale Regelungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "SKH"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "SKH"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "SKH"
+                }
+            ]
+        },
+        "EMB": {
+            "token": "EMB",
+            "name": "Embedded Systems 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "KBL"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "KBL"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "KBL"
+                }
+            ]
+        },
+        "DSV": {
+            "token": "DSV",
+            "name": "Digitale Signalverarbeitung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "WIR"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "WIR"
+                }
+            ]
+        },
+        "EMBL": {
+            "token": "EMBL",
+            "name": "Embedded Systems Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "KBL"
+                }
+            ]
+        },
+        "BS": {
+            "token": "BS",
+            "name": "Betriebssysteme",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "BJM"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "BJM"
+                }
+            ]
+        }
+    }
+}

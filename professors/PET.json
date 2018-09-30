@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Karl Peters",
+    "email": "k.peters",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IPM",
+                "name": "Produktionstechnik",
+                "link": "http://www.ipm.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. G Raum 145",
+    "phone": "(0621)-292-6473",
+    "appointments": "nach Vereinbarung per Mail"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Felix Müller-Gliesmann",
+    "email": "f.mueller-gliesmann",
+    "website": "http://www.analogtechnik.hs-mannheim.de",
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "AGT",
+                "name": "Analogtechnik und Sensorik",
+                "link": "http://www.analogtechnik.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Leiter Praktikantenamt N",
+    "location": "Geb. R (08) Raum 106",
+    "phone": "(0621)-292 - 6818 Fax - 668181",
+    "appointments": "nach Vereinbarung"
+}

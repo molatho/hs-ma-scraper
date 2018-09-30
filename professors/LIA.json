@@ -1,0 +1,23 @@
+{
+    "name": "Armin Lindauer",
+    "email": "a.lindauer",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "D",
+            "name": "Gestaltung",
+            "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+        },
+        "institutes": [
+            {
+                "token": "PM",
+                "name": "Printorientierte Medien",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. L (11) Raum 354",
+    "phone": "(0621)-292-6161 Fax -661612",
+    "appointments": "Mi 11.00 - 12.00"
+}

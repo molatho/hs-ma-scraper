@@ -1,0 +1,21 @@
+{
+    "token": "1RRD",
+    "courses": {
+        "EFD": {
+            "token": "EFD",
+            "name": "Englisch f�r Design",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "MNE"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "MNE"
+                }
+            ]
+        }
+    }
+}

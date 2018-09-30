@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Manfred Oster",
+    "email": "m.oster",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "Prodekan S/ Beauftragter f. Studierende m. Behinderung / chron. Erkr.",
+    "location": "Geb. C Raum 305",
+    "phone": "(0621)-292-6726",
+    "appointments": "nach Vereinbarung"
+}

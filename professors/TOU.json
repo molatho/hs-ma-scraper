@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Ulla Törnig",
+    "email": "u.toernig",
+    "website": "http://www.toernigu.twoday.net",
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "Projektleiterin familienfreundliche HS",
+    "location": "Geb. C (03) Raum 405",
+    "phone": "(0621)-292-6734 Fax 292-6720",
+    "appointments": "http://www.sw.hs-mannheim.de/fakultaet/ansprechpartnerfunktionen/perso"
+}

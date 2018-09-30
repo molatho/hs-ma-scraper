@@ -1,0 +1,96 @@
+{
+    "token": "NWF",
+    "courses": {
+        "DLM": {
+            "token": "DLM",
+            "name": "Deep Learning Methoden",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "VET"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "VET"
+                }
+            ]
+        },
+        "BMO": {
+            "token": "BMO",
+            "name": "Biomedizinische Optik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "KNA"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "KNA"
+                }
+            ]
+        },
+        "ESR": {
+            "token": "ESR",
+            "name": "Embedded Systems in rekonfigurierbarer Hardware",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "WIB"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "WIB"
+                }
+            ]
+        },
+        "EFT": {
+            "token": "EFT",
+            "name": "Elektronikfertigungstechnogien",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "MGL"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "MGL"
+                }
+            ]
+        },
+        "PSM1": {
+            "token": "PSM1",
+            "name": "Projektlabor Sensorik und Mechatronik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "VOI"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "VOI"
+                }
+            ]
+        },
+        "SIT": {
+            "token": "SIT",
+            "name": "Sicherheit in IT-Systemen",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "LBN2"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Jürgen Berger",
+    "email": "j.berger",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "D",
+            "name": "Gestaltung",
+            "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": null,
+    "phone": null,
+    "appointments": ""
+}

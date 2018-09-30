@@ -1,0 +1,28 @@
+{
+    "name": "Dr. Marcus Vetter",
+    "email": "m.vetter",
+    "website": "http://www.emb-lab.org",
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "EMB",
+                "name": "Embedded Systems",
+                "link": "http://mikrocomputertechnik.hs-mannheim.de/"
+            },
+            {
+                "token": "SWT",
+                "name": "Softwaretechnik und Datenkommunikation",
+                "link": "http://www.swt.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Leiter des Institut für eingebettete Systeme und Medizintechnik",
+    "location": "Geb. K Raum 111",
+    "phone": "(0621)-292-6347 Fax -6454",
+    "appointments": "Di 10:00 - 11:00"
+}

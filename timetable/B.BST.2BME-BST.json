@@ -1,0 +1,141 @@
+{
+    "token": "2BME-BST",
+    "courses": {
+        "MBEE": {
+            "token": "MBEE",
+            "name": "Metabolic Engineering",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "MCK"
+                }
+            ]
+        },
+        "BINE": {
+            "token": "BINE",
+            "name": "Bioinformatics",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "SRI"
+                }
+            ]
+        },
+        "ADBE": {
+            "token": "ADBE",
+            "name": "Advanced Bioanalytics Lab",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "HOP"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HOP"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "WPH"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "WPH"
+                }
+            ]
+        },
+        "PROE": {
+            "token": "PROE",
+            "name": "Proteomics",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HOP"
+                }
+            ]
+        },
+        "TSAE": {
+            "token": "TSAE",
+            "name": "Tissue Analytics",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "HOP"
+                }
+            ]
+        },
+        "IMUE": {
+            "token": "IMUE",
+            "name": "Immunology",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "STN"
+                }
+            ]
+        },
+        "MAME": {
+            "token": "MAME",
+            "name": "Modern Analytical Methods",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "WPH"
+                }
+            ]
+        },
+        "IEAE": {
+            "token": "IEAE",
+            "name": "Industrial Environmental Analytics",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "KUZ"
+                }
+            ]
+        },
+        "HPYE": {
+            "token": "HPYE",
+            "name": "Human Physiology",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "GRE"
+                }
+            ]
+        },
+        "EBTE": {
+            "token": "EBTE",
+            "name": "Environmental Biotechnology",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "SWZ"
+                }
+            ]
+        },
+        "BISE": {
+            "token": "BISE",
+            "name": "Biosensors",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "RUO"
+                }
+            ]
+        }
+    }
+}

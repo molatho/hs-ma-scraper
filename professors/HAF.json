@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Mathias Hafner",
+    "email": "m.hafner",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "MZ",
+                "name": "Molekular- und Zellbiologie",
+                "link": "http://www.imz.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Vertrauensdozent (Studienstiftung); Promotionsausschuss Med. Fak. Uni",
+    "location": "Geb. K (12) Raum 215",
+    "phone": "(0621)-292-6538 Fax -6420",
+    "appointments": "täglich nach Vereinb."
+}

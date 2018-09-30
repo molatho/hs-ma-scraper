@@ -1,0 +1,154 @@
+{
+    "token": "3ELB",
+    "courses": {
+        "GSE2L": {
+            "token": "GSE2L",
+            "name": "Mikroelektronik - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "EFS"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "EFS"
+                }
+            ]
+        },
+        "GSE2": {
+            "token": "GSE2",
+            "name": "Mikroelektronik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "EFS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "EFS"
+                }
+            ]
+        },
+        "SYT": {
+            "token": "SYT",
+            "name": "Systemtheorie",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "G�T"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "G�T"
+                }
+            ]
+        },
+        "EMT": {
+            "token": "EMT",
+            "name": "Elektrische Messtechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "MEZ"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "MEZ"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "MEZ"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "MEZ"
+                }
+            ]
+        },
+        "EM1": {
+            "token": "EM1",
+            "name": "Gleich- und Drehstrommaschinen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "HMM"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "HMM"
+                }
+            ]
+        },
+        "MA3": {
+            "token": "MA3",
+            "name": "Differenzialgleichungen, lineare Algebra und Numerik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "BCK"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "BCK"
+                }
+            ]
+        },
+        "ATD": {
+            "token": "ATD",
+            "name": "Allgemeine Technikdidaktik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "VOT"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "VOT"
+                }
+            ]
+        },
+        "EM1L": {
+            "token": "EM1L",
+            "name": "Gleich- und Drehstrommaschinen - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "HMM"
+                }
+            ]
+        },
+        "SSTA": {
+            "token": "SSTA",
+            "name": "Seminar",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "G�T"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "G�T"
+                }
+            ]
+        }
+    }
+}

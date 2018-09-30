@@ -1,0 +1,17 @@
+{
+    "name": "Andrea Bandau",
+    "email": null,
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": null,
+    "phone": null,
+    "appointments": ""
+}

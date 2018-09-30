@@ -1,0 +1,23 @@
+{
+    "name": "Kai Beiderwellen",
+    "email": "k.beiderwellen",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "D",
+            "name": "Gestaltung",
+            "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+        },
+        "institutes": [
+            {
+                "token": "IAM",
+                "name": "Interaktive Medien",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. L (11) Raum 355",
+    "phone": "(0621)-292-6162",
+    "appointments": "n.Vereinb."
+}

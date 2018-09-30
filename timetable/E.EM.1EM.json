@@ -1,0 +1,133 @@
+{
+    "token": "1EM",
+    "courses": {
+        "WGA": {
+            "token": "WGA",
+            "name": "Webtechnologien f�r die Geb�udeautomation",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "HAN"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "HAN"
+                }
+            ]
+        },
+        "MSE": {
+            "token": "MSE",
+            "name": "Moderne Systemkomponenten in der Energietechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "ELS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "ELS"
+                }
+            ]
+        },
+        "WR": {
+            "token": "WR",
+            "name": "Wirtschaftsrecht",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "BGM"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "BGM"
+                }
+            ]
+        },
+        "GM": {
+            "token": "GM",
+            "name": "General Management",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "CHR"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "CHR"
+                }
+            ]
+        },
+        "GVR": {
+            "token": "GVR",
+            "name": "Gehobene Verfahren der Regelungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "SET"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "SET"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "G�T"
+                }
+            ]
+        },
+        "MS": {
+            "token": "MS",
+            "name": "Modellbildung und Simulation technischer Systeme",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "LGU"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "LGU"
+                }
+            ]
+        },
+        "EW": {
+            "token": "EW",
+            "name": "Energiewirtschaft",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "HUT"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "ZIR"
+                }
+            ]
+        },
+        "IWU": {
+            "token": "IWU",
+            "name": "Ingenieur wird Unternehmer",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 5,
+                    "prof": "HAN"
+                }
+            ]
+        }
+    }
+}

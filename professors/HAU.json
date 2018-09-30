@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Maximilian Hauske",
+    "email": "m.hauske",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "Studiendekan ELB, ELM",
+    "location": "B110",
+    "phone": "(0621)-292-6266",
+    "appointments": "Nach Vereinbarung per E-Mail"
+}

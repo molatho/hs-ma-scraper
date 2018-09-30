@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Birgit Hoffmann",
+    "email": "b.hoffmann",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. C (03) Raum 408",
+    "phone": "(0621)-292-6735",
+    "appointments": "nach Vereinbarung"
+}

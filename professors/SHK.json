@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Karin Schuler",
+    "email": "k.schuler",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "HFT",
+                "name": "Hochfrequenztechnik und  Optische Nachrichtentechnik",
+                "link": "http://www.hft.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "R / 206",
+    "phone": "(0621)-292-6593 Fax 292-665931",
+    "appointments": "Mo. 14:00 - 15:00 Uhr (in der Vorlesungszeit) und nach Vereinbarung"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Petra Kioschis-Schneider",
+    "email": "p.kioschis",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "MZ",
+                "name": "Molekular- und Zellbiologie",
+                "link": "http://www.imz.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Studiendekanin MSc Biotechnology",
+    "location": "Geb. K (12) Raum 232",
+    "phone": "(0621)-292-6523 Fax -6420",
+    "appointments": "Di 10.00 - 12.00 Uhr und nach Vereinbarung"
+}

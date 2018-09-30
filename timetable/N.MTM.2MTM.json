@@ -1,0 +1,117 @@
+{
+    "token": "2MTM",
+    "courses": {
+        "USM": {
+            "token": "USM",
+            "name": "Ultraschalltechnik in der Medizin",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "HES"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "HES"
+                }
+            ]
+        },
+        "SIP2": {
+            "token": "SIP2",
+            "name": "Signalprozessoren- Projektlabor 2",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "WIR"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "WIR"
+                }
+            ]
+        },
+        "PES": {
+            "token": "PES",
+            "name": "Projektlabor Embedded Security",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "BJM"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "BJM"
+                }
+            ]
+        },
+        "ME2": {
+            "token": "ME2",
+            "name": "Medizinische Elektronik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "NGU"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "NGU"
+                }
+            ]
+        },
+        "PME2": {
+            "token": "PME2",
+            "name": "Projektlabor Medizin 2",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "LBN2"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "LBN2"
+                }
+            ]
+        },
+        "CAV": {
+            "token": "CAV",
+            "name": "Codierung von Sprache, Audio und Video",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "FES"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "FES"
+                }
+            ]
+        },
+        "PSM2": {
+            "token": "PSM2",
+            "name": "Projektlabor Sensorik und Mechatronik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "VOI"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "VOI"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Steffen Rasenat",
+    "email": "s.rasenat",
+    "website": "http://www.et.hs-mannheim.de/fakultaet/ansprechpartner/professoren/prof-dr-rasenat.html",
+    "associations": {
+        "faculty": {
+            "token": "MBI",
+            "name": "Institut für Mathematische Biologie",
+            "link": "http://www.mbi.hs-mannheim.de"
+        },
+        "institutes": [
+            {
+                "token": "ING",
+                "name": "Naturwissenschaftliche Grundlagen",
+                "link": "http://www.physik.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Studiendekan Grundstudium EB/UB, Leiter ING",
+    "location": "Geb. A Raum 207",
+    "phone": "(0621)-292-6771",
+    "appointments": "nach Vereinbarung per EMail"
+}

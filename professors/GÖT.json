@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Walter Götzmann",
+    "email": "w.goetzmann",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IAS",
+                "name": "Automatisierungssysteme",
+                "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/automatisierungssyteme.html"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. B Raum 110",
+    "phone": "(0621)-292-6775 Fax 292-667751",
+    "appointments": "MI  11:30-13:30 und nach Vereinb."
+}

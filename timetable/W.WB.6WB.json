@@ -1,0 +1,106 @@
+{
+    "token": "6WB",
+    "courses": {
+        "PM": {
+            "token": "PM",
+            "name": "Projektmanagement",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "SIP"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "SIP"
+                }
+            ]
+        },
+        "ET3": {
+            "token": "ET3",
+            "name": "Automatisierungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "HAU"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "HAU"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "HAU"
+                }
+            ]
+        },
+        "WR2": {
+            "token": "WR2",
+            "name": "Wirtschaftsrecht 2",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "BGM"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "BGM"
+                }
+            ]
+        },
+        "QM": {
+            "token": "QM",
+            "name": "Qualit�tsmanagement",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "HAP"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "HAP"
+                }
+            ]
+        },
+        "IT2": {
+            "token": "IT2",
+            "name": "Informationstechnologie 2",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "BIR"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "BIR"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "BIR"
+                }
+            ]
+        },
+        "STA": {
+            "token": "STA",
+            "name": "Studienarbeit",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "BGM"
+                }
+            ]
+        }
+    }
+}

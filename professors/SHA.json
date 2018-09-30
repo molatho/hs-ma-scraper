@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Hartmut Schulz",
+    "email": "h.schulz",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "OC",
+                "name": "Organische Chemie",
+                "link": "http://www.oc.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Prodekan B",
+    "location": "Geb. G (06) Raum 222",
+    "phone": "(0621)-292-6493 Fax -6420",
+    "appointments": "Di 10:00 bis 12:00 Uhr Raum 06/118"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Richard Utz",
+    "email": "r.utz",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "Prodekan S",
+    "location": "Geb. C (03) Raum 304",
+    "phone": "(0621)-292-6723",
+    "appointments": "nach Vereinbarung"
+}

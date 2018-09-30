@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Michael Hauth",
+    "email": "m.hauth",
+    "website": "http://www.wing.hs-mannheim.de",
+    "associations": {
+        "faculty": {
+            "token": "W",
+            "name": "Wirtschaftsingenieurwesen",
+            "link": "http://www.wing.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "WIRTSCHAFTSINGENIEURWESEN",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "extra": "Logistik und Einkauf",
+    "location": "Geb. L Raum 156",
+    "phone": "(0621)-+49 621 292 6834",
+    "appointments": "Di. 9:30-10:30 in der Vorlesungszeit, sonst nach Vereinbarung"
+}

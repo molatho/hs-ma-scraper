@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Wolfgang Neuhaus",
+    "email": "w.neuhaus",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "W",
+            "name": "Wirtschaftsingenieurwesen",
+            "link": "http://www.wing.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ING",
+                "name": "Naturwissenschaftliche Grundlagen",
+                "link": "http://www.physik.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. L (11) Raum 021",
+    "phone": "(0621)-292-6828",
+    "appointments": "Vorlesungszeit:  Do 15.30-16.30h, sonst n. Vereinbarung"
+}

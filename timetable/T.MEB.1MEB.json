@@ -1,0 +1,138 @@
+{
+    "token": "1MEB",
+    "courses": {
+        "GE1": {
+            "token": "GE1",
+            "name": "Grundlagen der Elektrotechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "HAU"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "HAU"
+                }
+            ]
+        },
+        "T-MA1": {
+            "token": "T-MA1",
+            "name": "Tutorium  - Mathematik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "ELS"
+                }
+            ]
+        },
+        "MA1": {
+            "token": "MA1",
+            "name": "Mathematik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "ELS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "ELS"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "ELS"
+                }
+            ]
+        },
+        "TM1": {
+            "token": "TM1",
+            "name": "Technische Mechanik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "HIL"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "HIL"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "HIL"
+                }
+            ]
+        },
+        "PH": {
+            "token": "PH",
+            "name": "Physik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "MGL"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "MGL"
+                }
+            ]
+        },
+        "INF1": {
+            "token": "INF1",
+            "name": "Informatik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "IME"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "FIJ"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "IME"
+                }
+            ]
+        },
+        "WK": {
+            "token": "WK",
+            "name": "Werkstoffkunde",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "STF"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "STF"
+                }
+            ]
+        },
+        "T-WK": {
+            "token": "T-WK",
+            "name": "Tutorium - Werkstoffkunde",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "STF"
+                }
+            ]
+        }
+    }
+}

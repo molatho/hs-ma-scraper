@@ -1,0 +1,132 @@
+{
+    "token": "3BB",
+    "courses": {
+        "PCH": {
+            "token": "PCH",
+            "name": "Physikalische Chemie",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "SUB"
+                }
+            ]
+        },
+        "MBP": {
+            "token": "MBP",
+            "name": "Mikrobiologisches Praktikum",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "MCK"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "MCK"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "MCK"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "MCK"
+                }
+            ]
+        },
+        "OCP": {
+            "token": "OCP",
+            "name": "Organisch-chemisches Praktikum",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "ARR"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "ARR"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "ARR"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "ARR"
+                }
+            ]
+        },
+        "MIB": {
+            "token": "MIB",
+            "name": "Mikrobiologie",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "MCK"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "MCK"
+                }
+            ]
+        },
+        "BC1": {
+            "token": "BC1",
+            "name": "Biochemie 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "STN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "STN"
+                }
+            ]
+        },
+        "GVT": {
+            "token": "GVT",
+            "name": "Grundlagen der Verfahrenstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "PRE"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "PRE"
+                }
+            ]
+        },
+        "STK": {
+            "token": "STK",
+            "name": "Statistik - Biostatistik Grundlagen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "RUF"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "RUF"
+                }
+            ]
+        }
+    }
+}

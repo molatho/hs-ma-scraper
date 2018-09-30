@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Paul Schmücker",
+    "email": "p.schmuecker",
+    "website": "http://mi.informatik.hs-mannheim.de/schmuecker",
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": [
+            {
+                "token": "MI",
+                "name": "Medizinische Informatik",
+                "link": "http://mi.informatik.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Institutsleiter",
+    "location": "Geb. A (01) Raum 007b",
+    "phone": "(0621)-292-6206 Fax 292-662061",
+    "appointments": "n. Vereinb."
+}

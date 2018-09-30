@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Martina Schäufele",
+    "email": "m.schaeufele",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "C/407",
+    "phone": "(0621)-292-6079",
+    "appointments": ""
+}

@@ -1,0 +1,31 @@
+{
+    "token": "4UIB",
+    "courses": {
+        "USP": {
+            "token": "USP",
+            "name": "Unternehmens-Software-Projekt",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "SMI"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "GMI"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "GMI"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "GMI"
+                }
+            ]
+        }
+    }
+}

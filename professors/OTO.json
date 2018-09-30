@@ -1,0 +1,28 @@
+{
+    "name": "Dr. Jürgen Otto",
+    "email": "j.otto",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ING",
+                "name": "Naturwissenschaftliche Grundlagen",
+                "link": "http://www.physik.hs-mannheim.de/"
+            },
+            {
+                "token": "ATF",
+                "name": "Angewandte Thermo- und Fluiddynamik",
+                "link": "http://www.atf.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. B (02) Raum 005a",
+    "phone": "(0621)-292-6218",
+    "appointments": "Di. 11:45-12:45; Mi. 8:00-9:00; Do. 15:30-16:15"
+}

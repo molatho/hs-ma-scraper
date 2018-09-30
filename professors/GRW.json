@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Werner Grundmann",
+    "email": "w.grundmann",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "VKM",
+                "name": "Verbrennungskraftmaschinen",
+                "link": "http://www.turboacademy.de/"
+            }
+        ]
+    },
+    "extra": "Dekan M",
+    "location": "Geb. B Raum 003",
+    "phone": "(0621)-6558 Fax 665581",
+    "appointments": "Freitags 14 Uhr"
+}

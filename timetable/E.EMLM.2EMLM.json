@@ -1,0 +1,90 @@
+{
+    "token": "2EMLM",
+    "courses": {
+        "WGA": {
+            "token": "WGA",
+            "name": "Webtechnologien f�r die Geb�udeautomation",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "HBN"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "HBN"
+                }
+            ]
+        },
+        "MSE": {
+            "token": "MSE",
+            "name": "Moderne Systemkomponenten in der Energietechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "ELS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "ELS"
+                }
+            ]
+        },
+        "GVR": {
+            "token": "GVR",
+            "name": "Gehobene Verfahren der Regelungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "SET"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "SET"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "G�T"
+                }
+            ]
+        },
+        "BP": {
+            "token": "BP",
+            "name": "Berufsp�dagogik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "VOT"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "VOT"
+                }
+            ]
+        },
+        "PDIL": {
+            "token": "PDIL",
+            "name": "P�dagogisch-psychologische Diagnostik und Intervention bei Lernauff�lligkeiten",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "JAE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "JAE"
+                }
+            ]
+        }
+    }
+}

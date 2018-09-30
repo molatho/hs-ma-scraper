@@ -1,0 +1,96 @@
+{
+    "token": "6TIB",
+    "courses": {
+        "CN2": {
+            "token": "CN2",
+            "name": "Computer Netzwerke 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "KOE"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "KOE"
+                }
+            ]
+        },
+        "BMU": {
+            "token": "BMU",
+            "name": "Bildverarbeitung und Mustererkennung",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "SHR"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "SHR"
+                }
+            ]
+        },
+        "BL": {
+            "token": "BL",
+            "name": "Betriebswirtschaftslehre",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "PFA"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "PFA"
+                }
+            ]
+        },
+        "SOE": {
+            "token": "SOE",
+            "name": "Software Engineering",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "SEW"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SEW"
+                }
+            ]
+        },
+        "PLB": {
+            "token": "PLB",
+            "name": "Programierbare Logikbausteine",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "ACK"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "ACK"
+                }
+            ]
+        },
+        "PLBL": {
+            "token": "PLBL",
+            "name": "Programmierbare Logikbausteine - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "ACK"
+                }
+            ]
+        }
+    }
+}

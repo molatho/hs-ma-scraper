@@ -1,0 +1,21 @@
+{
+    "token": "7MEBa",
+    "courses": {
+        "MLE": {
+            "token": "MLE",
+            "name": "Maschinelles Lernen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "FIJ"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "FIJ"
+                }
+            ]
+        }
+    }
+}

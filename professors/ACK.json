@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Kurt Ackermann",
+    "email": "k.ackermann",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. S, Raum 216",
+    "phone": "(0621)-292-6351 Fax 663512",
+    "appointments": "nach Vereinbarung"
+}

@@ -1,0 +1,87 @@
+{
+    "token": "5SB",
+    "courses": {
+        "KAS-A": {
+            "token": "KAS-A",
+            "name": "Kasuistik (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "GAD"
+                }
+            ]
+        },
+        "PSYIA": {
+            "token": "PSYIA",
+            "name": "Sozialpsychiatrie",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "OSM"
+                }
+            ]
+        },
+        "KAS-B": {
+            "token": "KAS-B",
+            "name": "Kasuistik (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "GAD"
+                }
+            ]
+        },
+        "STADT": {
+            "token": "STADT",
+            "name": "Stadt, Gemeinde und soziale Arbeit",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "VAR"
+                }
+            ]
+        },
+        "THEO": {
+            "token": "THEO",
+            "name": "Einf�hrung i. d. Theorien der Sozialen Arbeit",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "SOU"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SOU"
+                }
+            ]
+        },
+        "SOPR": {
+            "token": "SOPR",
+            "name": "Soziale Problemlagen",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "UTZ"
+                }
+            ]
+        },
+        "PSST": {
+            "token": "PSST",
+            "name": "Psychische St�rungen",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "NOY"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Thomas Specht",
+    "email": "t.specht",
+    "website": "http://www.mwi.hs-mannheim.de/ansprechpartner/prof-dr-thomas-specht.html",
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": [
+            {
+                "token": "IT",
+                "name": "Internettechnologien und IT-Management",
+                "link": "http://www.mwi.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Studiengangsleiter UIB",
+    "location": "Geb. A (01) Raum 105b",
+    "phone": "(0621)-292-6765 Fax 292-667651",
+    "appointments": "Nach Vereinbarung per E-Mail"
+}

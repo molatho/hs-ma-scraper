@@ -1,0 +1,37 @@
+{
+    "token": "7UBE",
+    "courses": {
+        "PLT": {
+            "token": "PLT",
+            "name": "Prozessleittechnik zur Automatisierung verfahrenstechnischer Anlagen",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "SET"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "SET"
+                }
+            ]
+        },
+        "SSTA": {
+            "token": "SSTA",
+            "name": "Seminar",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "G�T"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "G�T"
+                }
+            ]
+        }
+    }
+}

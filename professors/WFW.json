@@ -1,0 +1,28 @@
+{
+    "name": "Dr. Wiebke Werft",
+    "email": "w.werft",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ING",
+                "name": "Naturwissenschaftliche Grundlagen",
+                "link": "http://www.physik.hs-mannheim.de/"
+            },
+            {
+                "token": "TRI",
+                "name": "Tribologie",
+                "link": "http://www.tri.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. A Raum 207",
+    "phone": "(0621)-292-6882",
+    "appointments": "nach Vereinbarung (via Mail)"
+}

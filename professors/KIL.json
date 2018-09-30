@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Rainer Kilb",
+    "email": "r.kilb",
+    "website": "http://kilbr.twoday.net",
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "Institutsleitung IFW",
+    "location": "Geb. C (03) Raum 405",
+    "phone": "(0621)-292-6719",
+    "appointments": "mittwochs 11:30-12:30 Uhr und nach Vereinbarung"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Peter M. Kunz",
+    "email": "p.kunz",
+    "website": "http://www.ibv.hs-mannheim.de",
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IBV",
+                "name": "Biologische Verfahrenstechnik",
+                "link": "http://www.ibv.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Institutsleiter",
+    "location": "Geb. E (05) Raum 004",
+    "phone": "(0621)-292-6304 / +49-175-2091380 Fax Fax -6470",
+    "appointments": "nach Vereinbarung"
+}

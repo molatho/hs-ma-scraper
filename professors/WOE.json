@@ -1,0 +1,23 @@
+{
+    "name": "Hartmut Wöhlbier",
+    "email": "h.woehlbier",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "D",
+            "name": "Gestaltung",
+            "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+        },
+        "institutes": [
+            {
+                "token": "IAM",
+                "name": "Interaktive Medien",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            }
+        ]
+    },
+    "extra": "Dekan D",
+    "location": "Geb. L (11) Raum 352",
+    "phone": "(0621)-292-6158 Fax -6160",
+    "appointments": "n. Vereinb."
+}

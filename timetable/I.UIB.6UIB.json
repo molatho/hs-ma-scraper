@@ -1,0 +1,181 @@
+{
+    "token": "6UIB",
+    "courses": {
+        "GDV": {
+            "token": "GDV",
+            "name": "Grundlagen der Datenvisualisierung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "NAT"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "NAT"
+                }
+            ]
+        },
+        "WAF": {
+            "token": "WAF",
+            "name": "Webarchitekturen und Frameworks",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "SPE"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "SPE"
+                }
+            ]
+        },
+        "IGT": {
+            "token": "IGT",
+            "name": "Integrationstechnologien",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "KOJ"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "KOJ"
+                }
+            ]
+        },
+        "SMA": {
+            "token": "SMA",
+            "name": "Security Management ",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "PLS"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "PLS"
+                }
+            ]
+        },
+        "ERD": {
+            "token": "ERD",
+            "name": "Recht und Datenschutz",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "ZBO"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "ZBO"
+                }
+            ]
+        },
+        "WIA": {
+            "token": "WIA",
+            "name": "Wissenschaftliches Arbeiten",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "PLS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "PLS"
+                }
+            ]
+        },
+        "UNF": {
+            "token": "UNF",
+            "name": "Business Intelligence und Unternehmensf�hrung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "ROD"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "ROD"
+                }
+            ]
+        },
+        "VS": {
+            "token": "VS",
+            "name": "Verteilte Systeme",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SPE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "SPE"
+                }
+            ]
+        },
+        "IPS4": {
+            "token": "IPS4",
+            "name": "Integrierte Gesch�ftsprozesse in SAP S/4HANA",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "ROD"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "ROD"
+                }
+            ]
+        },
+        "ABPM": {
+            "token": "ABPM",
+            "name": "Advanced Business Process Management",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "GMI"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "GMI"
+                }
+            ]
+        },
+        "SQUAD": {
+            "token": "SQUAD",
+            "name": "SQUAD",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "SMI"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "SMI"
+                }
+            ]
+        }
+    }
+}

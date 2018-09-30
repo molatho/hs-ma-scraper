@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Philipp Wiedemann",
+    "email": "p.wiedemann",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "MZ",
+                "name": "Molekular- und Zellbiologie",
+                "link": "http://www.imz.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. G (06) Raum 223",
+    "phone": "(0621)-292-6809",
+    "appointments": "täglich / nach Vereinbarung"
+}

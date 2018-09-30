@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Anna Luther",
+    "email": "a.luther",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "TRI",
+                "name": "Tribologie",
+                "link": "http://www.tri.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb G,  Raum 144",
+    "phone": "(0621)-292-6901",
+    "appointments": "nach Vereinbarung"
+}

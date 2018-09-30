@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Alexander Noyon",
+    "email": "a.noyon",
+    "website": "http://noyona.twoday.net/",
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. C (03) Raum 404",
+    "phone": "(0621)-0621 - 292 6729",
+    "appointments": "nur nach vereinbarung"
+}

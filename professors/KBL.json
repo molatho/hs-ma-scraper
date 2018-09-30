@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Lukusa Didier Kabulepa",
+    "email": "l.kabulepa",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "S010",
+    "phone": "(0621)-0621/292-6854",
+    "appointments": "Dienstags von 11:30 bis 12:30 Uhr"
+}

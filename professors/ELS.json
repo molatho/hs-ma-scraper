@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Steffen Elschner",
+    "email": "s.elschner",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IES",
+                "name": "Energiesysteme",
+                "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/energiesysteme"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. B (02) Raum 107",
+    "phone": "(0621)-292-6774",
+    "appointments": "Di  9.30 - 10.30 und n. Vereinb."
+}

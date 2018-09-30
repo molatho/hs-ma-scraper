@@ -1,0 +1,42 @@
+{
+    "token": "5TS",
+    "courses": {
+        "RUD": {
+            "token": "RUD",
+            "name": "Recht und Datenschutz",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "ZBO"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "ZBO"
+                }
+            ]
+        },
+        "KOM3": {
+            "token": "KOM3",
+            "name": "Kommunikationstechnik 3",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "HAN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "HAN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "HAN"
+                }
+            ]
+        }
+    }
+}

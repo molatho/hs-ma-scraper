@@ -1,0 +1,60 @@
+{
+    "token": "6SB",
+    "courses": {
+        "SOME1": {
+            "token": "SOME1",
+            "name": "Grundlagen der Sozialmedizin",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "OSM"
+                }
+            ]
+        },
+        "SOME2": {
+            "token": "SOME2",
+            "name": "Anwendungsgebiete der Sozialmedizin",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "OSM"
+                }
+            ]
+        },
+        "ETH-A": {
+            "token": "ETH-A",
+            "name": "Ethik und Soziale Arbeit (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "WEJ"
+                }
+            ]
+        },
+        "GSA": {
+            "token": "GSA",
+            "name": "Geschichte der Sozialen Arbeit",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "WLF"
+                }
+            ]
+        },
+        "ETH-B": {
+            "token": "ETH-B",
+            "name": "Ethik und Soziale Arbeit (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "WEJ"
+                }
+            ]
+        }
+    }
+}

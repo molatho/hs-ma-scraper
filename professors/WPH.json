@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Philipp Weller",
+    "email": "p.weller",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": null,
+    "phone": null,
+    "appointments": ""
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Gerhard Rufa",
+    "email": "g.rufa",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ING",
+                "name": "Naturwissenschaftliche Grundlagen",
+                "link": "http://www.physik.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Studienggl. BM",
+    "location": "Geb. L (11) Raum 21",
+    "phone": "(0621)-292-6242",
+    "appointments": "Mo 14.00 - 15.00"
+}

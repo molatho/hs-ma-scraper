@@ -1,0 +1,23 @@
+{
+    "name": "Thomas Hansemann",
+    "email": "t.hansemann",
+    "website": "http://www.et.hs-mannheim.de/han",
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IDK",
+                "name": "Industrielle Datentechnik und Kommunikation",
+                "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/industrielle-datentechnik-und-kommunikation.html"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. B (02) Raum 107",
+    "phone": "(0621)-292-6264",
+    "appointments": "in der vorlesungsfreien Zeit nach Vereinbarung per E-Mail"
+}

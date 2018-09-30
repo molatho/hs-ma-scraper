@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Joachim Steffen",
+    "email": "steffen",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "WOT",
+                "name": "Werkstoffwissenschaft und  Oberflächentechnik",
+                "link": "http://www.materials-science-institute.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. K (12) Raum 116",
+    "phone": "(0621)-292-6543 Fax -6420",
+    "appointments": "n. Vereinb."
+}

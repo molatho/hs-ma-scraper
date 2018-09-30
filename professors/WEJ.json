@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Joachim Weber",
+    "email": "j.weber",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "Studiendekan S",
+    "location": "Geb. C (03) Raum 208",
+    "phone": "(0621)-292-6721",
+    "appointments": "nach Vereinbarung"
+}

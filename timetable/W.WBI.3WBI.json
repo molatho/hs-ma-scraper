@@ -1,0 +1,123 @@
+{
+    "token": "3WBI",
+    "courses": {
+        "STK": {
+            "token": "STK",
+            "name": "Statistik - Biostatistik Grundlagen",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "N�R"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "N�R"
+                }
+            ]
+        },
+        "KA": {
+            "token": "KA",
+            "name": "Kraft- und Arbeitsmaschinen",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "LID"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "LID"
+                }
+            ]
+        },
+        "FT": {
+            "token": "FT",
+            "name": "Fertigungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "BLS"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "BLS"
+                }
+            ]
+        },
+        "ET1": {
+            "token": "ET1",
+            "name": "Grundlagen der Elektrotechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "WKT"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "WKT"
+                }
+            ]
+        },
+        "IUF": {
+            "token": "IUF",
+            "name": "Investition und Finanzen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SCU"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "SCU"
+                }
+            ]
+        },
+        "AEE": {
+            "token": "AEE",
+            "name": "Advanced English for Engineers",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "LBW2"
+                }
+            ]
+        },
+        "RW2": {
+            "token": "RW2",
+            "name": "Rechnungswesen 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "CHR"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "CHR"
+                }
+            ]
+        },
+        "IC": {
+            "token": "IC",
+            "name": "International Competences",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "LBW2"
+                }
+            ]
+        }
+    }
+}

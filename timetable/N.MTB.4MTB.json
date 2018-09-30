@@ -1,0 +1,112 @@
+{
+    "token": "4MTB",
+    "courses": {
+        "HF1": {
+            "token": "HF1",
+            "name": "Hochfrequenztechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "SHK"
+                }
+            ]
+        },
+        "MED3": {
+            "token": "MED3",
+            "name": "Medizin 3 - Klinische Medizin",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "LBN1"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "LBN1"
+                }
+            ]
+        },
+        "DSV": {
+            "token": "DSV",
+            "name": "Digitale Signalverarbeitung",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "FES"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "FES"
+                }
+            ]
+        },
+        "EMB": {
+            "token": "EMB",
+            "name": "Embedded Systems 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "KBL"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "KBL"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "KBL"
+                }
+            ]
+        },
+        "BVM": {
+            "token": "BVM",
+            "name": "Bildgebende Verfahren in der Medizintechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HES"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "HES"
+                }
+            ]
+        },
+        "BS": {
+            "token": "BS",
+            "name": "Betriebssysteme",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "BJM"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "BJM"
+                }
+            ]
+        },
+        "EMBL": {
+            "token": "EMBL",
+            "name": "Embedded Systems Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "KBL"
+                }
+            ]
+        }
+    }
+}

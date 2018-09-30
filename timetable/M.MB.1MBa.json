@@ -1,0 +1,155 @@
+{
+    "token": "1MBa",
+    "courses": {
+        "FVF1": {
+            "token": "FVF1",
+            "name": "Fertigungsverfahren 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "PET"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "PET"
+                }
+            ]
+        },
+        "T-PHY1": {
+            "token": "T-PHY1",
+            "name": "Tutorium - Physik1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "LUH"
+                }
+            ]
+        },
+        "TME1": {
+            "token": "TME1",
+            "name": "Technische Mechanik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "HIL"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "HIL"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "HIL"
+                }
+            ]
+        },
+        "PHY1": {
+            "token": "PHY1",
+            "name": "Physik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "LUH"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "LUH"
+                }
+            ]
+        },
+        "MAT1": {
+            "token": "MAT1",
+            "name": "Mathematik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "LUH"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "LUH"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "LUH"
+                }
+            ]
+        },
+        "WTK1": {
+            "token": "WTK1",
+            "name": "Werkstofftechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "BLS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "BLS"
+                }
+            ]
+        },
+        "KON1": {
+            "token": "KON1",
+            "name": "Konstruktion 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "SGS"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "SGS"
+                }
+            ]
+        },
+        "WTL": {
+            "token": "WTL",
+            "name": "Werkstofftechnik - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "BLS"
+                }
+            ]
+        },
+        "T-MAT1": {
+            "token": "T-MAT1",
+            "name": "Tutorium - Mathematik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "LUH"
+                }
+            ]
+        },
+        "LAT": {
+            "token": "LAT",
+            "name": "Lern- und Arbeitstechniken",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "SGS"
+                }
+            ]
+        }
+    }
+}

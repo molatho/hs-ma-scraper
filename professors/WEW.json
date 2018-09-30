@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Winfried W. Weber",
+    "email": "w.weber",
+    "website": "http://www.mim.hs-mannheim.de/",
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": [
+            {
+                "token": "MIM",
+                "name": "Mannheimer Institut für angwandte  Managementforschung",
+                "link": "http://www.mim.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Leiter Mannheimer Institut für Angewandte Managementforschun",
+    "location": "Geb. C (03) Raum 204",
+    "phone": "(0621)-292-6731 Fax 292-6720",
+    "appointments": "nach Vereinbarung"
+}

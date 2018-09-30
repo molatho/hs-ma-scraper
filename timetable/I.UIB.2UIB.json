@@ -1,0 +1,133 @@
+{
+    "token": "2UIB",
+    "courses": {
+        "PR2": {
+            "token": "PR2",
+            "name": "Programmierung 2",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "DOP"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "DOP"
+                }
+            ]
+        },
+        "MA2": {
+            "token": "MA2",
+            "name": "Mathematik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "STL"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "STL"
+                }
+            ]
+        },
+        "SE1": {
+            "token": "SE1",
+            "name": "Software Engineering 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "SPE"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SPE"
+                }
+            ]
+        },
+        "WI2": {
+            "token": "WI2",
+            "name": "Wirtschaftsinformatik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "GMI"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "GMI"
+                }
+            ]
+        },
+        "BWL2": {
+            "token": "BWL2",
+            "name": "Betriebswirtschaftslehre 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "DCH"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "DCH"
+                }
+            ]
+        },
+        "T-PR2": {
+            "token": "T-PR2",
+            "name": "Tutorium - Programmierung 2",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "DOP"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "DOP"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "DOP"
+                }
+            ]
+        },
+        "T-WI2": {
+            "token": "T-WI2",
+            "name": "Tutorium - Wirtschaftsinformatik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "GMI"
+                }
+            ]
+        },
+        "PR2-L": {
+            "token": "PR2-L",
+            "name": "Programmierung 2 - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "DOP"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "DOP"
+                }
+            ]
+        }
+    }
+}

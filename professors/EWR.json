@@ -1,0 +1,17 @@
+{
+    "name": "Dr. René Eiswirth",
+    "email": "r.eiswirth",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. E (05) Raum 201",
+    "phone": "(0621)-292-6489",
+    "appointments": "nach Vereinbarung per E-Mail"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Dr. Hajo Suhr",
+    "email": "h.suhr",
+    "website": "https://www.inftech.hs-mannheim.de/ueber-die-fakultaet/forschung-und-entwicklung/projekte/in-situ-mikroskopie.html",
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "DK",
+                "name": "Digitaltechnik",
+                "link": "http://digitaltechnik.fh-mannheim.de/"
+            },
+            {
+                "token": "ING",
+                "name": "Naturwissenschaftliche Grundlagen",
+                "link": "http://www.physik.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Studienberater Grundstudium NEB,TIB,MTB",
+    "location": "Geb. R (08) Raum 006",
+    "phone": "(0621)-292-6557 Fax 292-665571",
+    "appointments": "Dienstags, 15:30 bis 17:00 Uhr und nach und telef. Vereinb., bitte nicht über Anrufbeantworter"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Thomas Beuermann",
+    "email": "t.beuermann",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "PI",
+                "name": "Prozessmesstechnik und  innovative Energiesysteme",
+                "link": "http://www.pi.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. S (20) Raum 017",
+    "phone": "(0621)-292-6330 Fax -6454",
+    "appointments": "Mo 14.00 - 15.00"
+}

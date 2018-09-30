@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Stefan Halfmeier",
+    "email": "s.halfmeier",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. G Raum 228",
+    "phone": "(0621)-292-6499",
+    "appointments": "nach Vereinbarung"
+}

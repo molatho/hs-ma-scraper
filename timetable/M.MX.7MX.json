@@ -1,0 +1,128 @@
+{
+    "token": "7MX",
+    "courses": {
+        "FVF1": {
+            "token": "FVF1",
+            "name": "Fertigungsverfahren 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "PET"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "PET"
+                }
+            ]
+        },
+        "FO": {
+            "token": "FO",
+            "name": "Fertigungsorganisation",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "SAD"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "SAD"
+                }
+            ]
+        },
+        "RG": {
+            "token": "RG",
+            "name": "Regelungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "HLF"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "HLF"
+                }
+            ]
+        },
+        "FM1": {
+            "token": "FM1",
+            "name": "Fluidmechanik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "SSO"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SSO"
+                }
+            ]
+        },
+        "KON3": {
+            "token": "KON3",
+            "name": "Konstruktion 3",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "WEI"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "WEI"
+                }
+            ]
+        },
+        "TH2": {
+            "token": "TH2",
+            "name": "Thermodynamik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "GRW"
+                }
+            ]
+        },
+        "DEU2a": {
+            "token": "DEU2a",
+            "name": "Deutsch als Fremdsprache 2 - Gruppe A",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "FOT"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "ENC"
+                }
+            ]
+        },
+        "DEU2b": {
+            "token": "DEU2b",
+            "name": "Deutsch als Fremdsprache 2 - Gruppe B",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "FOT"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "ENC"
+                }
+            ]
+        }
+    }
+}

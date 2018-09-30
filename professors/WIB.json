@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Rüdiger Willenberg",
+    "email": "r.willenberg",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "S/010",
+    "phone": "(0621)-+49 621 292 6355",
+    "appointments": "nach Vereinbarung"
+}

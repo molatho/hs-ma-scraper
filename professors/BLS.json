@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Sabine Blessenohl",
+    "email": "s.blessenohl",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "WSP",
+                "name": "Werkstoffkunde, -prüfung  und Kunststofftechnik",
+                "link": "http://www.wsp.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Praktikantenamtsleitung M, Fachberaterin M",
+    "location": "Bau K, Raum 130",
+    "phone": "(0621)-292-6532 Fax -665321",
+    "appointments": "nach Vereinbarung per Mail"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Christof Hübner",
+    "email": "c.huebner",
+    "website": "http://www.et.hs-mannheim.de/fakultaet/ansprechpartner/professoren/prof-dr-huebner.html",
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. B (02) Raum 206",
+    "phone": "(0621)-292-6251 Fax 292-662511",
+    "appointments": "n. Vereinb."
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Hermann Merz",
+    "email": "h.merz",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IDK",
+                "name": "Industrielle Datentechnik und Kommunikation",
+                "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/industrielle-datentechnik-und-kommunikation.html"
+            }
+        ]
+    },
+    "extra": "Leiter des Praktikantenamts der Fakultät für Elektrotechnik",
+    "location": "B 206",
+    "phone": "(0621)-292-6778 Fax -667781",
+    "appointments": "nach Vereinbarung per E-Mail"
+}

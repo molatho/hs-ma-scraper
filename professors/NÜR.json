@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Frank-Thomas Nürnberg",
+    "email": "f.nuernberg",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "W",
+            "name": "Wirtschaftsingenieurwesen",
+            "link": "http://www.wing.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ING",
+                "name": "Naturwissenschaftliche Grundlagen",
+                "link": "http://www.physik.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. L  Raum 253",
+    "phone": "(0621)-292-6217",
+    "appointments": "Mi 11:00-12:00 Uhr, bitte vorher E-Mail"
+}

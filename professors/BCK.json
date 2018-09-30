@@ -1,0 +1,28 @@
+{
+    "name": "Dr. Klaus Beck",
+    "email": "k.beck",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IES",
+                "name": "Energiesysteme",
+                "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/energiesysteme"
+            },
+            {
+                "token": "ING",
+                "name": "Naturwissenschaftliche Grundlagen",
+                "link": "http://www.physik.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Dekan der Fakultät für Elektrotechnik",
+    "location": "Geb. B (02) Raum 210",
+    "phone": "(0621)-292-6265",
+    "appointments": "nach Vereinbarung"
+}

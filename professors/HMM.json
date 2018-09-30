@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Martin Hoffmann",
+    "email": "m.hoffmann",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. B (02) Raum 312",
+    "phone": "(0621)-+49(0)621 292-6782",
+    "appointments": "Donnerstags 9:45-10:45 Uhr, bitte um Anmeldung per Email"
+}

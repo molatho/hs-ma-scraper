@@ -1,0 +1,60 @@
+{
+    "token": "7SB",
+    "courses": {
+        "MEDU-A": {
+            "token": "MEDU-A",
+            "name": "Medienpraxis und Kulturanalyse in versch. Arbeitsfeldern der Sozialen Arbeit (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "LNG"
+                }
+            ]
+        },
+        "FAMR": {
+            "token": "FAMR",
+            "name": "Familienrecht und Betreuungsrecht",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "TOU"
+                }
+            ]
+        },
+        "FAFA": {
+            "token": "FAFA",
+            "name": "Fallseminar",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "TOU"
+                }
+            ]
+        },
+        "MEDU-B": {
+            "token": "MEDU-B",
+            "name": "Medienpraxis und Kulturanalyse in versch. Arbeitsfeldern der Sozialen Arbeit (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "LNG"
+                }
+            ]
+        },
+        "MEDA": {
+            "token": "MEDA",
+            "name": "Medien- und Kulturanalyse",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "LNG"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Peter Barth",
+    "email": "p.barth",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "SWT",
+                "name": "Softwaretechnik und Datenkommunikation",
+                "link": "http://www.swt.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "S119",
+    "phone": "(0621)-292 6335",
+    "appointments": "Mittwochs, 10:00 - 11:00 Uhr"
+}

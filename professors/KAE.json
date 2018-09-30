@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Peter Kaiser",
+    "email": "p.kaiser",
+    "website": "http://services.informatik.hs-mannheim.de/~kaiser",
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "Studiendekan",
+    "location": "Geb. A (01) Raum 113a",
+    "phone": "(0621)-292-6768 Fax 292-6 6768 1",
+    "appointments": "Nach Vereinbarung per EMail"
+}

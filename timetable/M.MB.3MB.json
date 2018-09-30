@@ -1,0 +1,123 @@
+{
+    "token": "3MB",
+    "courses": {
+        "MAT3": {
+            "token": "MAT3",
+            "name": "Mathematik 3",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "LUH"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "LUH"
+                }
+            ]
+        },
+        "TH1": {
+            "token": "TH1",
+            "name": "Thermodynamik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "MRK"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "MRK"
+                }
+            ]
+        },
+        "EAT": {
+            "token": "EAT",
+            "name": "Elektrischen Antriebstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HUT"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "HUT"
+                }
+            ]
+        },
+        "TRI": {
+            "token": "TRI",
+            "name": "Tribologie",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "MOJ"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "MOJ"
+                }
+            ]
+        },
+        "KON3": {
+            "token": "KON3",
+            "name": "Konstruktion 3",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "WEI"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "WEI"
+                }
+            ]
+        },
+        "TME3": {
+            "token": "TME3",
+            "name": "Technische Mechanik 3",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "NAE"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "NAE"
+                }
+            ]
+        },
+        "PCS": {
+            "token": "PCS",
+            "name": "Physikalisch-chemische Aspekte der Schmierstoffe",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "RUL"
+                }
+            ]
+        },
+        "T-MAT3": {
+            "token": "T-MAT3",
+            "name": "Tutorium - Mathematik 3",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "LUH"
+                }
+            ]
+        }
+    }
+}

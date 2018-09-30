@@ -1,0 +1,101 @@
+{
+    "token": "1CSB",
+    "courses": {
+        "PR1-L": {
+            "token": "PR1-L",
+            "name": "Programmierung 1 - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "HUM"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "HUM"
+                }
+            ]
+        },
+        "EI": {
+            "token": "EI",
+            "name": "Einf�hrung in die Informatik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "FOL"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "FOL"
+                }
+            ]
+        },
+        "BWL1": {
+            "token": "BWL1",
+            "name": "Betriebswirtschaftslehre 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "DCH"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "DCH"
+                }
+            ]
+        },
+        "MA1": {
+            "token": "MA1",
+            "name": "Mathematik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "TOY"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "TOY"
+                }
+            ]
+        },
+        "PR1": {
+            "token": "PR1",
+            "name": "Programmierung 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "HUM"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "HUM"
+                }
+            ]
+        },
+        "GAT": {
+            "token": "GAT",
+            "name": "Automatisierungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HAU"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "HAU"
+                }
+            ]
+        }
+    }
+}

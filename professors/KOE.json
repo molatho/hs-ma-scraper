@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Eckhart Körner",
+    "email": "e.koerner",
+    "website": "http://www.swt.hs-mannheim.de",
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "SWT",
+                "name": "Softwaretechnik und Datenkommunikation",
+                "link": "http://www.swt.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Studiendekan NM/MTM, Institutsleiter SWT",
+    "location": "Geb. S Raum 110",
+    "phone": "(0621)-292-6552 Fax -6454",
+    "appointments": "Mo. 13.00 - 14.00 Uhr und n. Vereinb."
+}

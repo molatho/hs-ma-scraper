@@ -1,0 +1,117 @@
+{
+    "token": "7MPB",
+    "courses": {
+        "WZM": {
+            "token": "WZM",
+            "name": "Werkzeugmaschinen",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HAP"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "HAP"
+                }
+            ]
+        },
+        "SM": {
+            "token": "SM",
+            "name": "Str�mungsmaschinen",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "GRW"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "GRW"
+                }
+            ]
+        },
+        "KMA": {
+            "token": "KMA",
+            "name": "Kobenmaschinen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "GRW"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "GRW"
+                }
+            ]
+        },
+        "ST": {
+            "token": "ST",
+            "name": "Statistik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "WFW"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "WFW"
+                }
+            ]
+        },
+        "MMO": {
+            "token": "MMO",
+            "name": "Mechatronische Modellbildung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "HLF"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "HLF"
+                }
+            ]
+        },
+        "MM": {
+            "token": "MM",
+            "name": "Managementmethoden",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SAD"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SAD"
+                }
+            ]
+        },
+        "NIM": {
+            "token": "NIM",
+            "name": "Normung im Maschinenbau",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "NAR"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "NAR"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Martin Damm",
+    "email": "damm",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "SWT",
+                "name": "Softwaretechnik und Datenkommunikation",
+                "link": "http://www.swt.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. S (20) Raum 111",
+    "phone": "(0621)-292-6858 Fax 292-6454",
+    "appointments": "Nach Vereinbarung"
+}

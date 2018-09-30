@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Dieter Leonhard",
+    "email": "rektor",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "Rektor der Hochschule",
+    "location": "Geb. A Raum 409",
+    "phone": "(0621)-292-6400",
+    "appointments": ""
+}

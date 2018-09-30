@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Roswitha Stenzel",
+    "email": "r.stenzel",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "BIC",
+                "name": "Biochemie",
+                "link": "http://www.bic.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Studiendekanin und Fachberaterin Praxissemester für BCB",
+    "location": "Geb. G (06) Raum 222",
+    "phone": "(0621)-292-6808 Fax -6420",
+    "appointments": "Di 11.30 -12.00 Uhr und nach Vereinbarung"
+}

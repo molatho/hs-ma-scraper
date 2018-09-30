@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Hans-Peter Weiser",
+    "email": "p.weiser",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "CAE",
+                "name": "CAE-Anwendungen",
+                "link": "http://www.cae.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. K (12) Raum 117",
+    "phone": "(0621)-292-6155 Fax -6481",
+    "appointments": "Nach Vereinbarung"
+}

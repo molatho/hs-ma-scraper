@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Markus Gumbel",
+    "email": "m.gumbel",
+    "website": "http://mi.informatik.hs-mannheim.de/gumbel",
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": [
+            {
+                "token": "MI",
+                "name": "Medizinische Informatik",
+                "link": "http://mi.informatik.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Studiengangsleiter Bachelor Med. Informatik, Auslandsbeauftragter",
+    "location": "Geb. A, Raum 007b",
+    "phone": "(0621)-292-6246",
+    "appointments": "Dienstags, 11:15-12:15 Uhr. Anmeldung empfohlen."
+}

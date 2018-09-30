@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Chirly dos Santos-Stubbe",
+    "email": "c.santos-stubbe",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "Mitglied des Hochschulrates",
+    "location": "Geb. C (03) Raum 406",
+    "phone": "(0621)-292-6733",
+    "appointments": "Mittwochs zw. 10-11h und n. V."
+}

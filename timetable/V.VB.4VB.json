@@ -1,0 +1,139 @@
+{
+    "token": "4VB",
+    "courses": {
+        "VP1": {
+            "token": "VP1",
+            "name": "Verfahrenstechnisches Praktikum 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "LAN"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "LAN"
+                }
+            ]
+        },
+        "T-MV1": {
+            "token": "T-MV1",
+            "name": "Tutorium - Mechanische Verfahrenstechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "HOB"
+                }
+            ]
+        },
+        "ETV": {
+            "token": "ETV",
+            "name": "Elektrotechnik f�r Verfahrenstechniker",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "RAS"
+                }
+            ]
+        },
+        "RT1": {
+            "token": "RT1",
+            "name": "Reaktionstechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "R�T"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "R�T"
+                }
+            ]
+        },
+        "MV1": {
+            "token": "MV1",
+            "name": "Mechanische Verfahrenstechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "HOB"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "HOB"
+                }
+            ]
+        },
+        "TV1": {
+            "token": "TV1",
+            "name": "Thermische Verfahrenstechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "LAN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "LAN"
+                }
+            ]
+        },
+        "PV": {
+            "token": "PV",
+            "name": "Pumpen und Verdichter",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "WET"
+                }
+            ]
+        },
+        "MRP": {
+            "token": "MRP",
+            "name": "Mess- und Regelungstechnisches Praktikum",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "RAD"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "RAD"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "RAD"
+                }
+            ]
+        },
+        "AB1": {
+            "token": "AB1",
+            "name": "Apparatebau 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "WET"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "WET"
+                }
+            ]
+        }
+    }
+}

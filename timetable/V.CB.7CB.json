@@ -1,0 +1,129 @@
+{
+    "token": "7CB",
+    "courses": {
+        "PVB": {
+            "token": "PVB",
+            "name": "Programmieren mit Visual Basic",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "LAN"
+                }
+            ]
+        },
+        "CAC": {
+            "token": "CAC",
+            "name": "CAD f�r Chemieingenieure",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "SIN"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "SIN"
+                }
+            ]
+        },
+        "AS": {
+            "token": "AS",
+            "name": "Anlagensicherheit",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "WET"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "WET"
+                }
+            ]
+        },
+        "PV": {
+            "token": "PV",
+            "name": "Pumpen und Verdichter",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "WET"
+                }
+            ]
+        },
+        "BPE": {
+            "token": "BPE",
+            "name": "Bioreaktoren und periphere Einrichtungen",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "SUB"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SUB"
+                }
+            ]
+        },
+        "REE": {
+            "token": "REE",
+            "name": "Regenerative Energien",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "EIW"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "EIW"
+                }
+            ]
+        },
+        "LVT": {
+            "token": "LVT",
+            "name": "Lebensmittelverfahrenstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "HRA"
+                }
+            ]
+        },
+        "BBT": {
+            "token": "BBT",
+            "name": "Brennstoffzellen- und Baterietechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SCV"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "SCV"
+                }
+            ]
+        },
+        "FIT": {
+            "token": "FIT",
+            "name": "Filtertechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "SHU"
+                }
+            ]
+        }
+    }
+}

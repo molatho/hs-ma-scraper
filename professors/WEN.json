@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Tobias Werner",
+    "email": "t.werner",
+    "website": "http://www.ac.hs-mannheim.de",
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "AC",
+                "name": "Analytische Chemie",
+                "link": "http://www.ac.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. G (06) Raum 104",
+    "phone": "(0621)-292-6793 Fax 292-6-6793 1",
+    "appointments": "n. Vereinb."
+}

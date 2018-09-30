@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Thorsten Röder",
+    "email": "t.roeder",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. G (06) Raum 141",
+    "phone": "(0621)-6800",
+    "appointments": "Di 15:30 h bitte melden Sie sich per mail an"
+}

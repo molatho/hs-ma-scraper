@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Georg Schied",
+    "email": "g.schied",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "OC",
+                "name": "Organische Chemie",
+                "link": "http://www.oc.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. G (06) Raum 226",
+    "phone": "(0621)-292-6497",
+    "appointments": "Di 9:45 - 11:15"
+}

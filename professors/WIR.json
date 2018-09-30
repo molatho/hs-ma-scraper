@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Bernhard Wirnitzer",
+    "email": "b.wirnitzer",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "DS",
+                "name": "Digitale Signalverarbeitung",
+                "link": "http://dsp.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Dekan Informationstechnik",
+    "location": "Geb. S (20) Raum 321",
+    "phone": "(0621)-292-6353 Fax -6454",
+    "appointments": "n. Vereinb."
+}

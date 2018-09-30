@@ -1,0 +1,17 @@
+{
+    "name": "Axel Kolaschnik",
+    "email": "a.kolaschnik",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "D",
+            "name": "Gestaltung",
+            "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. L (11) Raum 354",
+    "phone": "(0621)-292-6161",
+    "appointments": "n. Vereinb."
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Sebastian Haupt",
+    "email": "s.haupt",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. G (06) Raum 145",
+    "phone": "(0621)-292-6221",
+    "appointments": "nach Vereinbarung"
+}

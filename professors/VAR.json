@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Ralf Vandamme",
+    "email": "r.vandamme",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "C/405",
+    "phone": "(0621)-292-6716",
+    "appointments": ""
+}

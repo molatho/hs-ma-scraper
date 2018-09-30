@@ -1,0 +1,149 @@
+{
+    "token": "2WMI",
+    "courses": {
+        "PR2": {
+            "token": "PR2",
+            "name": "Robuste Produktionsprozesse",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "HAT"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "HAT"
+                }
+            ]
+        },
+        "WR": {
+            "token": "WR",
+            "name": "Wirtschaftsrecht",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "BGM"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "BGM"
+                }
+            ]
+        },
+        "CO": {
+            "token": "CO",
+            "name": "Controlling",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "GAF"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "GAF"
+                }
+            ]
+        },
+        "EE": {
+            "token": "EE",
+            "name": "English for Engineers",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "BAN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "BAN"
+                }
+            ]
+        },
+        "TPM3": {
+            "token": "TPM3",
+            "name": "Controlling im Produktmanagement",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "GAF"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "GAF"
+                }
+            ]
+        },
+        "PR3": {
+            "token": "PR3",
+            "name": "Produktionsgestaltung: Fallstudien",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "BRI"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "BRI"
+                }
+            ]
+        },
+        "IC": {
+            "token": "IC",
+            "name": "International Competences",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "ALS"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "ALS"
+                }
+            ]
+        },
+        "IVWL": {
+            "token": "IVWL",
+            "name": "Internationale Wirtschaft und Volkswirtschaftslehre",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "KLZ"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "KLZ"
+                }
+            ]
+        },
+        "TPM2": {
+            "token": "TPM2",
+            "name": "Produktplanung und - betreuung",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "KLI"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "KLI"
+                }
+            ]
+        }
+    }
+}

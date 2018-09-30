@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Katharina Müller",
+    "email": "katharina.mueller",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "Auslandsbeauftragte u. Stipendienbeauftragte der Fakultät Sozialwesen",
+    "location": "Geb. C (03) Raum 305",
+    "phone": "(0621)-292-6724",
+    "appointments": "nach Vereinbarung per e-mail"
+}

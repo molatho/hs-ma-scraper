@@ -1,0 +1,101 @@
+{
+    "token": "6MTB",
+    "courses": {
+        "CN2": {
+            "token": "CN2",
+            "name": "Computer Netzwerke 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "KOE"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "KOE"
+                }
+            ]
+        },
+        "SE1": {
+            "token": "SE1",
+            "name": "Sensorik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "VOI"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "VOI"
+                }
+            ]
+        },
+        "NEP": {
+            "token": "NEP",
+            "name": "Neuro-Prothetik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "POP"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "POP"
+                }
+            ]
+        },
+        "BM": {
+            "token": "BM",
+            "name": "Bildgest�tzte Medizin und Navigation",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "VET"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "VET"
+                }
+            ]
+        },
+        "SOE": {
+            "token": "SOE",
+            "name": "Software Engineering",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "LBN2"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "LBN2"
+                }
+            ]
+        },
+        "BMT": {
+            "token": "BMT",
+            "name": "Biomechatronik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "NGU"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "NGU"
+                }
+            ]
+        }
+    }
+}

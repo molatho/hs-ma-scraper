@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Angelika Hirsch",
+    "email": "a.hirsch",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IBV",
+                "name": "Biologische Verfahrenstechnik",
+                "link": "http://www.ibv.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Gleichstellungsbeauftragte",
+    "location": "Geb. E (05) Raum 103",
+    "phone": "(0621)-292-6801 Fax -6470",
+    "appointments": "nach Vereinbarung"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Boris Brinzer",
+    "email": "b.brinzer",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "W",
+            "name": "Wirtschaftsingenieurwesen",
+            "link": "http://www.wing.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "KMP",
+                "name": "Kompetenzzentrum moderne Produktionssysteme",
+                "link": "http://www.kmp.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Bau L Raum 254",
+    "phone": "(0621)-292-6215 Fax 292-664531",
+    "appointments": "donnerstags 12:15 - 13:15 Uhr"
+}

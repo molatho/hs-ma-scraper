@@ -1,0 +1,148 @@
+{
+    "token": "4CB",
+    "courses": {
+        "AN2": {
+            "token": "AN2",
+            "name": "Analytische Chemie 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "STZ"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "STZ"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "STZ"
+                }
+            ]
+        },
+        "VP1": {
+            "token": "VP1",
+            "name": "Verfahrenstechnisches Praktikum 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "TRG"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "TRG"
+                }
+            ]
+        },
+        "MRP": {
+            "token": "MRP",
+            "name": "Mess- und Regelungstechnisches Praktikum",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "EIW"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "EIW"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "EIW"
+                }
+            ]
+        },
+        "RT1": {
+            "token": "RT1",
+            "name": "Reaktionstechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "R�T"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "R�T"
+                }
+            ]
+        },
+        "TC": {
+            "token": "TC",
+            "name": "Technische Chemie",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "FRN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "FRN"
+                }
+            ]
+        },
+        "TV": {
+            "token": "TV",
+            "name": "Thermische Verfahrenstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "ADR"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "ADR"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "ADR"
+                }
+            ]
+        },
+        "IA": {
+            "token": "IA",
+            "name": "Instrumentelle Analytik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "STZ"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "STZ"
+                }
+            ]
+        },
+        "KAT": {
+            "token": "KAT",
+            "name": "Technische Katalyse",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "SCV"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "SCV"
+                }
+            ]
+        }
+    }
+}

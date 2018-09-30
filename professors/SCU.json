@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Thomas Schüssler",
+    "email": "prorektor-lehre",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "W",
+            "name": "Wirtschaftsingenieurwesen",
+            "link": "http://www.wing.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IFU",
+                "name": "Unternehmensführung",
+                "link": "http://www.ifu.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Prorektor Lehre, studentische Dienstleistungen und Qualitätsmanagement",
+    "location": "H107",
+    "phone": "(0621)-292-6375",
+    "appointments": "nach Vereinbarung per email"
+}

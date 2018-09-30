@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Miriam Föller-Nord",
+    "email": "m.foeller",
+    "website": "https://www.informatik.hs-mannheim.de/fakultaet/professoren/prof-dr-miriam-foeller-nord.html",
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "Dekanin Fakultät I",
+    "location": "Geb. A (01) Raum 105c",
+    "phone": "(0621)-292-6224 Fax 292-6237",
+    "appointments": "nach Vereinbarung"
+}

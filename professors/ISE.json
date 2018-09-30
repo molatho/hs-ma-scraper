@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Klaus-Werner Iselborn",
+    "email": "k.iselborn",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IES",
+                "name": "Energiesysteme",
+                "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/energiesysteme"
+            }
+        ]
+    },
+    "extra": "Studiendekan",
+    "location": "Geb. B (02) Raum 312",
+    "phone": "(0621)-292-6781 Fax -617811",
+    "appointments": "Mi 18.00 - 19.00 nach Vereinbarung"
+}

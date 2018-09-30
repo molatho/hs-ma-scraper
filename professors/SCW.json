@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Jürgen Schwarz",
+    "email": "j.schwarz",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "D",
+            "name": "Gestaltung",
+            "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Bau R (08) Raum 106",
+    "phone": null,
+    "appointments": "n. Vereinb."
+}

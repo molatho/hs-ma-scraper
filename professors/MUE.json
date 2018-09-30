@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Herbert Müller",
+    "email": "h.mueller",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "CV",
+                "name": "Chemische Verfahrenstechnik",
+                "link": "http://www.cv.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. G Raum 140",
+    "phone": "(0621)-292-6787",
+    "appointments": "nach Vereinbarung per e-mail"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Stephan M. Altmann",
+    "email": "s.altmann",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "W",
+            "name": "Wirtschaftsingenieurwesen",
+            "link": "http://www.wing.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "Program Director WBI & International Relations",
+    "location": "L 156",
+    "phone": null,
+    "appointments": "Tuesday 08:00 - 09:30, please book a timeslot via e-mail first"
+}

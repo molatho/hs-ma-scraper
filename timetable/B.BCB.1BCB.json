@@ -1,0 +1,132 @@
+{
+    "token": "1BCB",
+    "courses": {
+        "AL1": {
+            "token": "AL1",
+            "name": "Analytische Chemie 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "SHA"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "SHA"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "SHA"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "PAK"
+                }
+            ]
+        },
+        "PH1": {
+            "token": "PH1",
+            "name": "Physik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "LBB1"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "LBB1"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "LBB1"
+                }
+            ]
+        },
+        "CH1": {
+            "token": "CH1",
+            "name": "Allgemeine und Physikalische Chemie 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "SHA"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SHA"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SHA"
+                }
+            ]
+        },
+        "GMB": {
+            "token": "GMB",
+            "name": "Grundlagen der Molekularbiologie",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "KIO"
+                }
+            ]
+        },
+        "TEN": {
+            "token": "TEN",
+            "name": "Technisches Englisch",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "HCL"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HCL"
+                }
+            ]
+        },
+        "MH1": {
+            "token": "MH1",
+            "name": "Mathematik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "BEU"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "BEU"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "BEU"
+                }
+            ]
+        },
+        "PBW": {
+            "token": "PBW",
+            "name": "Praxis der Biowissenschaften",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "PRE"
+                }
+            ]
+        }
+    }
+}

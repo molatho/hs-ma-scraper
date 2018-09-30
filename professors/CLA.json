@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Günter Claus",
+    "email": "g.claus",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "MIB",
+                "name": "Technische Mikrobiologie",
+                "link": "http://www.mib.hs-mannheim.de/home.html"
+            }
+        ]
+    },
+    "extra": "Studiendekan BB",
+    "location": "Geb. G, Raum 225",
+    "phone": "(0621)-292-6385 Fax -6427",
+    "appointments": "nach Vereinbarung"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Matthias Mack",
+    "email": "m.mack",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "MIB",
+                "name": "Technische Mikrobiologie",
+                "link": "http://www.mib.hs-mannheim.de/home.html"
+            }
+        ]
+    },
+    "extra": "Praktikantenamtsl. FB B Fachberater B 2.PS",
+    "location": "G (06) Raum 224",
+    "phone": "(0621)-292-6496 Fax -6424",
+    "appointments": "Mo 11.30 - 13.00"
+}

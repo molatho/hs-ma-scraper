@@ -1,0 +1,128 @@
+{
+    "token": "2WMB",
+    "courses": {
+        "T-ET2": {
+            "token": "T-ET2",
+            "name": "Tutorium - Elektrische Antriebstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "WKT"
+                }
+            ]
+        },
+        "TPM1": {
+            "token": "TPM1",
+            "name": "Innovations- und Technologiemanagement",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "ALS"
+                }
+            ]
+        },
+        "ET2": {
+            "token": "ET2",
+            "name": "Elektrische Antriebstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "WKT"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "WKT"
+                }
+            ]
+        },
+        "KA": {
+            "token": "KA",
+            "name": "Kraft- und Arbeitsmaschinen",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "LID"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "LID"
+                }
+            ]
+        },
+        "PR1": {
+            "token": "PR1",
+            "name": "Moderne Produktionssysteme",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "BRI"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "BRI"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "BRI"
+                }
+            ]
+        },
+        "KE": {
+            "token": "KE",
+            "name": "Konstruktionselemente",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "HGM"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HGM"
+                }
+            ]
+        },
+        "FT": {
+            "token": "FT",
+            "name": "Fertigungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "BLS"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "BLS"
+                }
+            ]
+        },
+        "PPS": {
+            "token": "PPS",
+            "name": "Produktionsplanung und -steuerung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "BIR"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "BIR"
+                }
+            ]
+        }
+    }
+}

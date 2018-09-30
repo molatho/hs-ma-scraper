@@ -1,0 +1,141 @@
+{
+    "token": "1BME-BPD",
+    "courses": {
+        "ENTE": {
+            "token": "ENTE",
+            "name": "Enzyme Technology and Biocatalysis",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "GRE"
+                }
+            ]
+        },
+        "MBEE": {
+            "token": "MBEE",
+            "name": "Metabolic Engineering",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "MCK"
+                }
+            ]
+        },
+        "EXSE": {
+            "token": "EXSE",
+            "name": "Expression Systems",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "KIO"
+                }
+            ]
+        },
+        "BRDE": {
+            "token": "BRDE",
+            "name": "Bioreaction Design",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "PRE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "PRE"
+                }
+            ]
+        },
+        "CPDE": {
+            "token": "CPDE",
+            "name": "Cell Culture Process Development",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "WIP"
+                }
+            ]
+        },
+        "BSTE": {
+            "token": "BSTE",
+            "name": "Biostatistics",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "RUF"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "RUF"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "RUF"
+                }
+            ]
+        },
+        "IMUE": {
+            "token": "IMUE",
+            "name": "Immunology",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "STN"
+                }
+            ]
+        },
+        "DDTE": {
+            "token": "DDTE",
+            "name": "Drug Development",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "ARR"
+                }
+            ]
+        },
+        "IEAE": {
+            "token": "IEAE",
+            "name": "Industrial Environmental Analytics",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "KUZ"
+                }
+            ]
+        },
+        "HPYE": {
+            "token": "HPYE",
+            "name": "Human Physiology",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "GRE"
+                }
+            ]
+        },
+        "EBTE": {
+            "token": "EBTE",
+            "name": "Environmental Biotechnology",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "SWZ"
+                }
+            ]
+        }
+    }
+}

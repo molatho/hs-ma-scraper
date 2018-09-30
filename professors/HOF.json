@@ -1,0 +1,28 @@
+{
+    "name": "Dr. Harald Martin Hoffmann",
+    "email": "h.hoffmann",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "PRC",
+                "name": "Physikalische Chemie und Radiochemie",
+                "link": "http://prc.hs-mannheim.de"
+            },
+            {
+                "token": "AC",
+                "name": "Analytische Chemie",
+                "link": "http://www.ac.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Studiendekan DF / PS Betreuer VB",
+    "location": "Geb. G (6) Raum 146",
+    "phone": "(0621)-292-6308 Fax -663081",
+    "appointments": "In der vorlesungsfreien Zeit  n. Vereinbarung"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Helmut Behler",
+    "email": "h.behler",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ATS",
+                "name": "Anlagentechnik und Anlagensicherheit",
+                "link": "http://www.ats.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. G (06) Raum 227",
+    "phone": "(0621)-292-6814 Fax -668141",
+    "appointments": "nach Vereinbarung"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Frank Dopatka",
+    "email": "f.dopatka",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. A, Raum 106a",
+    "phone": null,
+    "appointments": "nach Vereinbarung per Email"
+}

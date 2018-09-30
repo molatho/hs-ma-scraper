@@ -1,0 +1,3699 @@
+{
+    "ADR": {
+        "name": "Dr. Till Adrian",
+        "email": "t.adrian",
+        "website": "http://www.tv.hs-mannheim.de/adrian/adrian.html",
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "TV",
+                    "name": "Thermische Verfahrenstechnik",
+                    "link": "http://www.tv.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Institutsleiter Thermische Verfahrenstechnik",
+        "location": "Geb. E (05) Raum 101",
+        "phone": "(0621)-292-6784",
+        "appointments": "nach Vereinbarung"
+    },
+    "ARR": {
+        "name": "Dr. Karin Arregui",
+        "email": "k.arregui",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "OC",
+                    "name": "Organische Chemie",
+                    "link": "http://www.oc.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. G (06) Raum 226",
+        "phone": "(0621)-292-6812 Fax -6420",
+        "appointments": "nach Vereinbarung"
+    },
+    "HUD": {
+        "name": "Dr. Andrea Bandau",
+        "email": "a.huba",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. C (03) Raum 408",
+        "phone": "(0621)-292-6736",
+        "appointments": "nach Vereinbarung"
+    },
+    "BWF": {
+        "name": "Friederike Barié-Wimmer",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "BCK": {
+        "name": "Dr. Klaus Beck",
+        "email": "k.beck",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IES",
+                    "name": "Energiesysteme",
+                    "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/energiesysteme"
+                },
+                {
+                    "token": "ING",
+                    "name": "Naturwissenschaftliche Grundlagen",
+                    "link": "http://www.physik.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Dekan der Fakultät für Elektrotechnik",
+        "location": "Geb. B (02) Raum 210",
+        "phone": "(0621)-292-6265",
+        "appointments": "nach Vereinbarung"
+    },
+    "BLL": {
+        "name": "Kai Beiderwellen",
+        "email": "k.beiderwellen",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": [
+                {
+                    "token": "IAM",
+                    "name": "Interaktive Medien",
+                    "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 355",
+        "phone": "(0621)-292-6162",
+        "appointments": "n.Vereinb."
+    },
+    "BGM": {
+        "name": "Dr. Heidi Bergmann",
+        "email": "h.bergmann",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 154",
+        "phone": "(0621)-292-6149 Fax -6453",
+        "appointments": "nach Vereinbarung"
+    },
+    "BIR": {
+        "name": "Dr. Gunther Birkel",
+        "email": "g.birkel",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 155",
+        "phone": "(0621)-292-6833 Fax -6453",
+        "appointments": "nach Vereinbarung per E-Mail"
+    },
+    "BJM": {
+        "name": "Dr. Jens-Matthias Bohli",
+        "email": "j.bohli",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "S110",
+        "phone": "(0621)-292-6352",
+        "appointments": "Mi. 11:30-12:30 und nach Vereinbarung"
+    },
+    "BAW": {
+        "name": "Dr. Winfried Büschges-Abel",
+        "email": "w.bueschges-abel",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. C (03) Raum 404",
+        "phone": "(0621)-292-6728",
+        "appointments": "n. Vereinb."
+    },
+    "CLA": {
+        "name": "Dr. Günter Claus",
+        "email": "g.claus",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "MIB",
+                    "name": "Technische Mikrobiologie",
+                    "link": "http://www.mib.hs-mannheim.de/home.html"
+                }
+            ]
+        },
+        "extra": "Studiendekan BB",
+        "location": "Geb. G, Raum 225",
+        "phone": "(0621)-292-6385 Fax -6427",
+        "appointments": "nach Vereinbarung"
+    },
+    "DAM": {
+        "name": "Dr. Martin Damm",
+        "email": "damm",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "SWT",
+                    "name": "Softwaretechnik und Datenkommunikation",
+                    "link": "http://www.swt.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. S (20) Raum 111",
+        "phone": "(0621)-292-6858 Fax 292-6454",
+        "appointments": "Nach Vereinbarung"
+    },
+    "DIW": {
+        "name": "Dr. Werner Diewald",
+        "email": "w.diewald",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ATS",
+                    "name": "Anlagentechnik und Anlagensicherheit",
+                    "link": "http://www.ats.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Studiendekan CM",
+        "location": "G146",
+        "phone": "(0621)-292-6805 Fax 292-668051",
+        "appointments": "nach Vereinbarung"
+    },
+    "DUT": {
+        "name": "Thomas Duttenhoefer",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": [
+                {
+                    "token": "PM",
+                    "name": "Printorientierte Medien",
+                    "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 255",
+        "phone": "(0621)-292-6156 Fax -6160",
+        "appointments": "n. Vereinb."
+    },
+    "EIW": {
+        "name": "Dr. Wolfgang Eisenmann",
+        "email": "w.eisenmann",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "PI",
+                    "name": "Prozessmesstechnik und  innovative Energiesysteme",
+                    "link": "http://www.pi.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "S018",
+        "phone": "(0621)-292-6196 Fax -661961",
+        "appointments": "nach Vereinbarung per E-Mail"
+    },
+    "ELS": {
+        "name": "Dr. Steffen Elschner",
+        "email": "s.elschner",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IES",
+                    "name": "Energiesysteme",
+                    "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/energiesysteme"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. B (02) Raum 107",
+        "phone": "(0621)-292-6774",
+        "appointments": "Di  9.30 - 10.30 und n. Vereinb."
+    },
+    "FIM": {
+        "name": "Dr. Elena Fimmel",
+        "email": "e.fimmel",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": [
+                {
+                    "token": "MBI",
+                    "name": "Institut für Mathematische Biologie",
+                    "link": "http://www.mbi.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. A (01) Raum 204",
+        "phone": "(0621)-292-6243 Fax 292 - 662432",
+        "appointments": "Di 13:00-14:00 nach Voranmeldung per email"
+    },
+    "FRA": {
+        "name": "Dr. Oliver Franke",
+        "email": "o.franke",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. L (11), Raum 157",
+        "phone": "(0621)-292-6152",
+        "appointments": "mittwochs 11:30- 13:00Uhr, während der vorlesungsfreien Zeit nur n. Vereinbarung"
+    },
+    "FRD": {
+        "name": "Dr. Thomas Friedrich",
+        "email": "t.friedrich",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 355",
+        "phone": "(0621)-292-6162 Fax -6160",
+        "appointments": "n. Vereinb."
+    },
+    "GRT": {
+        "name": "Dr. Rainer Gerten",
+        "email": "r.gerten",
+        "website": "http://www.informatik.hs-mannheim.de/fakultaet/professoren/prof-dr-rainer-gerten.html",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": [
+                {
+                    "token": "IT",
+                    "name": "Internettechnologien und IT-Management",
+                    "link": "http://www.mwi.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. A  Raum 007c",
+        "phone": "(0621)-292-6581",
+        "appointments": "nach Vereinbarung per Email"
+    },
+    "GAF": {
+        "name": "Dr. Gerald Graf",
+        "email": "g.graf",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IFU",
+                    "name": "Unternehmensführung",
+                    "link": "http://www.ifu.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 155",
+        "phone": "(0621)-292-6150 Fax -6453",
+        "appointments": "nach Vereinbarung per Email"
+    },
+    "GRW": {
+        "name": "Dr. Werner Grundmann",
+        "email": "w.grundmann",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "VKM",
+                    "name": "Verbrennungskraftmaschinen",
+                    "link": "http://www.turboacademy.de/"
+                }
+            ]
+        },
+        "extra": "Dekan M",
+        "location": "Geb. B Raum 003",
+        "phone": "(0621)-6558 Fax 665581",
+        "appointments": "Freitags 14 Uhr"
+    },
+    "GUM": {
+        "name": "Dr. Markus Gumbel",
+        "email": "m.gumbel",
+        "website": "http://mi.informatik.hs-mannheim.de/gumbel",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": [
+                {
+                    "token": "MI",
+                    "name": "Medizinische Informatik",
+                    "link": "http://mi.informatik.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Studiengangsleiter Bachelor Med. Informatik, Auslandsbeauftragter",
+        "location": "Geb. A, Raum 007b",
+        "phone": "(0621)-292-6246",
+        "appointments": "Dienstags, 11:15-12:15 Uhr. Anmeldung empfohlen."
+    },
+    "GOL": {
+        "name": "Frank Göldner",
+        "email": "f.goeldner",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": [
+                {
+                    "token": "FOT",
+                    "name": "Fotografie",
+                    "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. Z Raum 46",
+        "phone": "(0621)-292-6511 Fax -6184",
+        "appointments": "n. Vereinb."
+    },
+    "GÖT": {
+        "name": "Dr. Walter Götzmann",
+        "email": "w.goetzmann",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IAS",
+                    "name": "Automatisierungssysteme",
+                    "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/automatisierungssyteme.html"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. B Raum 110",
+        "phone": "(0621)-292-6775 Fax 292-667751",
+        "appointments": "MI  11:30-13:30 und nach Vereinb."
+    },
+    "HAF": {
+        "name": "Dr. Mathias Hafner",
+        "email": "m.hafner",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "MZ",
+                    "name": "Molekular- und Zellbiologie",
+                    "link": "http://www.imz.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Vertrauensdozent (Studienstiftung); Promotionsausschuss Med. Fak. Uni",
+        "location": "Geb. K (12) Raum 215",
+        "phone": "(0621)-292-6538 Fax -6420",
+        "appointments": "täglich nach Vereinb."
+    },
+    "HJC": {
+        "name": "Jean-Claude Hamilius",
+        "email": "j.hamilius",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Bau R (08) Raum 106",
+        "phone": null,
+        "appointments": "nach Vereinbarung"
+    },
+    "HAR": {
+        "name": "Dr. Ulrich Harten",
+        "email": "u.harten",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ING",
+                    "name": "Naturwissenschaftliche Grundlagen",
+                    "link": "http://www.physik.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. A  Raum 207",
+        "phone": "(0621)-292-6772",
+        "appointments": "Di. 11.00 - 11.45 oder per mail"
+    },
+    "HAU": {
+        "name": "Dr. Maximilian Hauske",
+        "email": "m.hauske",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "Studiendekan ELB, ELM",
+        "location": "B110",
+        "phone": "(0621)-292-6266",
+        "appointments": "Nach Vereinbarung per E-Mail"
+    },
+    "HDB": {
+        "name": "Dr. Astrid Hedtke-Becker",
+        "email": "a.hedtke-becker",
+        "website": "http://hedtkebeckera.twoday.net/",
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Dekanin",
+        "location": "Geb. C (03) Raum 207",
+        "phone": "(0621)-292-6398 und mobil 0172-2180146 Fax 292-6720",
+        "appointments": "mittwochs 12.00-13.00 und n.V. Bitte per Mail oder mobil anmelden"
+    },
+    "HIL": {
+        "name": "Dr. Gerhard Hiltscher",
+        "email": "g.hiltscher",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "CAE",
+                    "name": "CAE-Anwendungen",
+                    "link": "http://www.cae.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. K130",
+        "phone": "(0621)-292-6848 Fax -6500",
+        "appointments": "Dienstag 11.15-12.15 Uhr"
+    },
+    "HOF": {
+        "name": "Dr. Harald Martin Hoffmann",
+        "email": "h.hoffmann",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "PRC",
+                    "name": "Physikalische Chemie und Radiochemie",
+                    "link": "http://prc.hs-mannheim.de"
+                },
+                {
+                    "token": "AC",
+                    "name": "Analytische Chemie",
+                    "link": "http://www.ac.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Studiendekan DF / PS Betreuer VB",
+        "location": "Geb. G (6) Raum 146",
+        "phone": "(0621)-292-6308 Fax -663081",
+        "appointments": "In der vorlesungsfreien Zeit  n. Vereinbarung"
+    },
+    "HMM": {
+        "name": "Dr. Martin Hoffmann",
+        "email": "m.hoffmann",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. B (02) Raum 312",
+        "phone": "(0621)-+49(0)621 292-6782",
+        "appointments": "Donnerstags 9:45-10:45 Uhr, bitte um Anmeldung per Email"
+    },
+    "HGM": {
+        "name": "Dr. Markus Hogg",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "HUM": {
+        "name": "Dr. Oliver Hummel",
+        "email": "o.hummel",
+        "website": "https://www.informatik.hs-mannheim.de/fakultaet/professoren/prof-dr-oliver-hummel.html",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "A 007a",
+        "phone": "(0621)-6223 Fax 662231",
+        "appointments": "Mo. 10.00-11.00 nach Voranmeldung per Mail"
+    },
+    "HBN": {
+        "name": "Dr. Christof Hübner",
+        "email": "c.huebner",
+        "website": "http://www.et.hs-mannheim.de/fakultaet/ansprechpartner/professoren/prof-dr-huebner.html",
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. B (02) Raum 206",
+        "phone": "(0621)-292-6251 Fax 292-662511",
+        "appointments": "n. Vereinb."
+    },
+    "ISE": {
+        "name": "Dr. Klaus-Werner Iselborn",
+        "email": "k.iselborn",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IES",
+                    "name": "Energiesysteme",
+                    "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/energiesysteme"
+                }
+            ]
+        },
+        "extra": "Studiendekan",
+        "location": "Geb. B (02) Raum 312",
+        "phone": "(0621)-292-6781 Fax -617811",
+        "appointments": "Mi 18.00 - 19.00 nach Vereinbarung"
+    },
+    "KBL": {
+        "name": "Dr. Lukusa Didier Kabulepa",
+        "email": "l.kabulepa",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "S010",
+        "phone": "(0621)-0621/292-6854",
+        "appointments": "Dienstags von 11:30 bis 12:30 Uhr"
+    },
+    "KIL": {
+        "name": "Dr. Rainer Kilb",
+        "email": "r.kilb",
+        "website": "http://kilbr.twoday.net",
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Institutsleitung IFW",
+        "location": "Geb. C (03) Raum 405",
+        "phone": "(0621)-292-6719",
+        "appointments": "mittwochs 11:30-12:30 Uhr und nach Vereinbarung"
+    },
+    "KIO": {
+        "name": "Dr. Petra Kioschis-Schneider",
+        "email": "p.kioschis",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "MZ",
+                    "name": "Molekular- und Zellbiologie",
+                    "link": "http://www.imz.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Studiendekanin MSc Biotechnology",
+        "location": "Geb. K (12) Raum 232",
+        "phone": "(0621)-292-6523 Fax -6420",
+        "appointments": "Di 10.00 - 12.00 Uhr und nach Vereinbarung"
+    },
+    "KLS": {
+        "name": "Dr. Sven Klaus",
+        "email": "s.klaus",
+        "website": "http://www.informatik.hs-mannheim.de/fakultaet/professoren/prof-dr-sven-klaus.html",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Gebäude A, Raum A007a",
+        "phone": "(0621)-292-6153 Fax 292-6237",
+        "appointments": "MO. 11:30 - 12:30 n. Vereinbarung via E-Mail"
+    },
+    "KNA": {
+        "name": "Dr. Wolfgang Knaak",
+        "email": "w.knaak",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ING",
+                    "name": "Naturwissenschaftliche Grundlagen",
+                    "link": "http://www.physik.hs-mannheim.de/"
+                },
+                {
+                    "token": "DK",
+                    "name": "Digitaltechnik",
+                    "link": "http://digitaltechnik.fh-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. R (08) Raum 006",
+        "phone": "(0621)-292-6815",
+        "appointments": "nach Vereinbarung (email)"
+    },
+    "KNI": {
+        "name": "Dr. Norbert Kniffler",
+        "email": "n.kniffler",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IES",
+                    "name": "Energiesysteme",
+                    "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/energiesysteme"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. B (02) Raum 107",
+        "phone": "(0621)-292-6233",
+        "appointments": "nach Vereinbarung"
+    },
+    "KOK": {
+        "name": "Kirstin Kohler",
+        "email": "k.kohler",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": [
+                {
+                    "token": "UXID",
+                    "name": " Institut für User Experience & Interaction Design",
+                    "link": "http://www.uxid.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. A (01) Raum 106b",
+        "phone": null,
+        "appointments": ""
+    },
+    "KUN": {
+        "name": "Dr. Peter M. Kunz",
+        "email": "p.kunz",
+        "website": "http://www.ibv.hs-mannheim.de",
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IBV",
+                    "name": "Biologische Verfahrenstechnik",
+                    "link": "http://www.ibv.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Institutsleiter",
+        "location": "Geb. E (05) Raum 004",
+        "phone": "(0621)-292-6304 / +49-175-2091380 Fax Fax -6470",
+        "appointments": "nach Vereinbarung"
+    },
+    "KOE": {
+        "name": "Dr. Eckhart Körner",
+        "email": "e.koerner",
+        "website": "http://www.swt.hs-mannheim.de",
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "SWT",
+                    "name": "Softwaretechnik und Datenkommunikation",
+                    "link": "http://www.swt.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Studiendekan NM/MTM, Institutsleiter SWT",
+        "location": "Geb. S Raum 110",
+        "phone": "(0621)-292-6552 Fax -6454",
+        "appointments": "Mo. 13.00 - 14.00 Uhr und n. Vereinb."
+    },
+    "LNG": {
+        "name": "Dr. Susanne Lang",
+        "email": "s.lang",
+        "website": "http://slhsma.twoday.net/",
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. C (03) Raum 406",
+        "phone": "(0621)-292-6732 Fax -6720",
+        "appointments": "sie Homepage"
+    },
+    "LET": {
+        "name": "Dr. Sandro Leuchter",
+        "email": "s.leuchter",
+        "website": "https://dama.io/",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. A (01) Raum 113a",
+        "phone": null,
+        "appointments": "Mi 13:15-14:15 nach Anmeldung per E-Mail"
+    },
+    "LID": {
+        "name": "Dr. Matthias Lindner",
+        "email": "m.lindner",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. L, Raum 154",
+        "phone": "(0621)-292-6832",
+        "appointments": "donnerstags, 10.00 bis 11:00"
+    },
+    "LUH": {
+        "name": "Dr. Anna Luther",
+        "email": "a.luther",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "TRI",
+                    "name": "Tribologie",
+                    "link": "http://www.tri.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb G,  Raum 144",
+        "phone": "(0621)-292-6901",
+        "appointments": "nach Vereinbarung"
+    },
+    "MRK": {
+        "name": "Dr. Torsten Markus",
+        "email": "t.markus",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. B   Raum 001",
+        "phone": "(0621)-292-6201 Fax 292-6240",
+        "appointments": "nach Vereinbarung"
+    },
+    "MEZ": {
+        "name": "Dr. Hermann Merz",
+        "email": "h.merz",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IDK",
+                    "name": "Industrielle Datentechnik und Kommunikation",
+                    "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/industrielle-datentechnik-und-kommunikation.html"
+                }
+            ]
+        },
+        "extra": "Leiter des Praktikantenamts der Fakultät für Elektrotechnik",
+        "location": "B 206",
+        "phone": "(0621)-292-6778 Fax -667781",
+        "appointments": "nach Vereinbarung per E-Mail"
+    },
+    "MLL": {
+        "name": "Dr. Katharina Müller",
+        "email": "katharina.mueller",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Auslandsbeauftragte u. Stipendienbeauftragte der Fakultät Sozialwesen",
+        "location": "Geb. C (03) Raum 305",
+        "phone": "(0621)-292-6724",
+        "appointments": "nach Vereinbarung per e-mail"
+    },
+    "MGL": {
+        "name": "Dr. Felix Müller-Gliesmann",
+        "email": "f.mueller-gliesmann",
+        "website": "http://www.analogtechnik.hs-mannheim.de",
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "AGT",
+                    "name": "Analogtechnik und Sensorik",
+                    "link": "http://www.analogtechnik.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Leiter Praktikantenamt N",
+        "location": "Geb. R (08) Raum 106",
+        "phone": "(0621)-292 - 6818 Fax - 668181",
+        "appointments": "nach Vereinbarung"
+    },
+    "NAE": {
+        "name": "Dr. Andreas Nauerz",
+        "email": "a.nauerz",
+        "website": "http://www.cae.hs-mannheim.de/institut/startseite.html",
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "Prodekan M",
+        "location": "G 132",
+        "phone": "(0621)-6813 Fax 668131",
+        "appointments": "WS 18/19, Fr. 14:00 -15:00 Uhr"
+    },
+    "NOY": {
+        "name": "Dr. Alexander Noyon",
+        "email": "a.noyon",
+        "website": "http://noyona.twoday.net/",
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. C (03) Raum 404",
+        "phone": "(0621)-0621 - 292 6729",
+        "appointments": "nur nach vereinbarung"
+    },
+    "OSM": {
+        "name": "Dr. Manfred Oster",
+        "email": "m.oster",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Prodekan S/ Beauftragter f. Studierende m. Behinderung / chron. Erkr.",
+        "location": "Geb. C Raum 305",
+        "phone": "(0621)-292-6726",
+        "appointments": "nach Vereinbarung"
+    },
+    "PLS": {
+        "name": "Dr. Sachar Paulus",
+        "email": "s.paulus",
+        "website": "https://jonathan.sv.hs-mannheim.de/~s.paulus",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "A106a",
+        "phone": "(0621)-0621 292 6708",
+        "appointments": "nach Vereinbarung per E-Mail"
+    },
+    "PET": {
+        "name": "Dr. Karl Peters",
+        "email": "k.peters",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IPM",
+                    "name": "Produktionstechnik",
+                    "link": "http://www.ipm.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. G Raum 145",
+        "phone": "(0621)-292-6473",
+        "appointments": "nach Vereinbarung per Mail"
+    },
+    "PRE": {
+        "name": "Dr. Karlheinz Preuß",
+        "email": "k.preuss",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "MIB",
+                    "name": "Technische Mikrobiologie",
+                    "link": "http://www.mib.hs-mannheim.de/home.html"
+                }
+            ]
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "RIN": {
+        "name": "Hermann Ringshauser",
+        "email": "h.ringshauser",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "DK",
+                    "name": "Digitaltechnik",
+                    "link": "http://digitaltechnik.fh-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. S, Raum 122",
+        "phone": "(0621)-292-6342 Fax -6454 / -663421",
+        "appointments": "nach Vereinbarung per Email"
+    },
+    "ROD": {
+        "name": "Dr. Gabriele Roth-Dietrich",
+        "email": "g.roth",
+        "website": "http://www.informatik.hs-mannheim.de/fakultaet/professoren/prof-dr-gabriele-roth-dietrich.html",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "A-006",
+        "phone": "(0621)-292-6190 Fax 292-66 19 01",
+        "appointments": "nach Vereinbarung per Mail"
+    },
+    "RUF": {
+        "name": "Dr. Gerhard Rufa",
+        "email": "g.rufa",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ING",
+                    "name": "Naturwissenschaftliche Grundlagen",
+                    "link": "http://www.physik.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Studienggl. BM",
+        "location": "Geb. L (11) Raum 21",
+        "phone": "(0621)-292-6242",
+        "appointments": "Mo 14.00 - 15.00"
+    },
+    "RÖT": {
+        "name": "Dr. Thorsten Röder",
+        "email": "t.roeder",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. G (06) Raum 141",
+        "phone": "(0621)-6800",
+        "appointments": "Di 15:30 h bitte melden Sie sich per mail an"
+    },
+    "SSC": {
+        "name": "Dr. Chirly dos Santos-Stubbe",
+        "email": "c.santos-stubbe",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Mitglied des Hochschulrates",
+        "location": "Geb. C (03) Raum 406",
+        "phone": "(0621)-292-6733",
+        "appointments": "Mittwochs zw. 10-11h und n. V."
+    },
+    "SEH": {
+        "name": "Dr. Ulrich W. Scherer",
+        "email": "u.scherer",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Gebäude G (06) Raum 142",
+        "phone": "(0621)-292 6485 Fax 292 664851",
+        "appointments": "nach Vereinbarung"
+    },
+    "SCD": {
+        "name": "Dr. Georg Schied",
+        "email": "g.schied",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "OC",
+                    "name": "Organische Chemie",
+                    "link": "http://www.oc.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. G (06) Raum 226",
+        "phone": "(0621)-292-6497",
+        "appointments": "Di 9:45 - 11:15"
+    },
+    "SML": {
+        "name": "Dr. Hans-Peter Schmalzl",
+        "email": "h.schmalzl",
+        "website": "http://www.ifa.hs-mannheim.de",
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IFA",
+                    "name": "Institut für Innovative Fahrzeugantriebe",
+                    "link": "http://www.ifa.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Rudolf-Diesel-Straße 24",
+        "phone": "(0621)-0621 860 854 432 Fax 0621 860 854 433",
+        "appointments": "nach Vereinbarung"
+    },
+    "SMP": {
+        "name": "Dr. Paul Schmücker",
+        "email": "p.schmuecker",
+        "website": "http://mi.informatik.hs-mannheim.de/schmuecker",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": [
+                {
+                    "token": "MI",
+                    "name": "Medizinische Informatik",
+                    "link": "http://mi.informatik.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Institutsleiter",
+        "location": "Geb. A (01) Raum 007b",
+        "phone": "(0621)-292-6206 Fax 292-662061",
+        "appointments": "n. Vereinb."
+    },
+    "SCA": {
+        "name": "Dr. Wolfgang Schramm",
+        "email": "w.schramm",
+        "website": "http://www.informatik.hs-mannheim.de/~schramm/",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Studiengangsleiter IB",
+        "location": "Geb. A (01) Raum 106b",
+        "phone": "(0621)-292-6212 Fax -6237",
+        "appointments": "Do.  11.30 - 12.30"
+    },
+    "SHK": {
+        "name": "Dr. Karin Schuler",
+        "email": "k.schuler",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "HFT",
+                    "name": "Hochfrequenztechnik und  Optische Nachrichtentechnik",
+                    "link": "http://www.hft.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "R / 206",
+        "phone": "(0621)-292-6593 Fax 292-665931",
+        "appointments": "Mo. 14:00 - 15:00 Uhr (in der Vorlesungszeit) und nach Vereinbarung"
+    },
+    "SCW": {
+        "name": "Dr. Jürgen Schwarz",
+        "email": "j.schwarz",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Bau R (08) Raum 106",
+        "phone": null,
+        "appointments": "n. Vereinb."
+    },
+    "SHM": {
+        "name": "Dr. Martina Schäufele",
+        "email": "m.schaeufele",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "C/407",
+        "phone": "(0621)-292-6079",
+        "appointments": ""
+    },
+    "SET": {
+        "name": "Dr. Matthias Seitz",
+        "email": "m.seitz",
+        "website": "http://www.et.hs-mannheim.de/set",
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IAS",
+                    "name": "Automatisierungssysteme",
+                    "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/automatisierungssyteme.html"
+                }
+            ]
+        },
+        "extra": "Studiendekan EB/UB Hauptstudium, Studiendekan EBE/UBE",
+        "location": "B112, B103 oder B102",
+        "phone": "(0621)-06151/606233 Fax 0621/292-662782",
+        "appointments": "Do. 11:30 Uhr (in der vorlesungsfreien Zeit nach Vereinbarung per Email)"
+    },
+    "SPE": {
+        "name": "Dr. Thomas Specht",
+        "email": "t.specht",
+        "website": "http://www.mwi.hs-mannheim.de/ansprechpartner/prof-dr-thomas-specht.html",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": [
+                {
+                    "token": "IT",
+                    "name": "Internettechnologien und IT-Management",
+                    "link": "http://www.mwi.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Studiengangsleiter UIB",
+        "location": "Geb. A (01) Raum 105b",
+        "phone": "(0621)-292-6765 Fax 292-667651",
+        "appointments": "Nach Vereinbarung per E-Mail"
+    },
+    "SKH": {
+        "name": "Dr. Karl-Heinz Steglich",
+        "email": "k.steglich",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "Regelungstechnik",
+        "location": "Geb. S, R. 320, Geb. K, R. 110",
+        "phone": "(0621)-6864 (S) &  6521 (K)",
+        "appointments": "Nach Vereinbarung per Email"
+    },
+    "STZ": {
+        "name": "Dr. Heike Steinert",
+        "email": "h.steinert",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "CV",
+                    "name": "Chemische Verfahrenstechnik",
+                    "link": "http://www.cv.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Studiendekanin CB",
+        "location": "Geb. G  Raum 003",
+        "phone": "(0621)-292-6878",
+        "appointments": "Do. 10.00-11.00 Uhr und nach Vereinbarung"
+    },
+    "STL": {
+        "name": "Dr. Lutz Strüngmann",
+        "email": "l.struengmann",
+        "website": "http://www.informatik.hs-mannheim.de/fakultaet/professoren/prof-dr-lutz-struengmann.html",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. A (01) Raum 007c",
+        "phone": "(0621)-+49-621-292-6762",
+        "appointments": "Mittwoch 13-14 Uhr und nach Vereinbarung"
+    },
+    "SUR": {
+        "name": "Dr. Hajo Suhr",
+        "email": "h.suhr",
+        "website": "https://www.inftech.hs-mannheim.de/ueber-die-fakultaet/forschung-und-entwicklung/projekte/in-situ-mikroskopie.html",
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "DK",
+                    "name": "Digitaltechnik",
+                    "link": "http://digitaltechnik.fh-mannheim.de/"
+                },
+                {
+                    "token": "ING",
+                    "name": "Naturwissenschaftliche Grundlagen",
+                    "link": "http://www.physik.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Studienberater Grundstudium NEB,TIB,MTB",
+        "location": "Geb. R (08) Raum 006",
+        "phone": "(0621)-292-6557 Fax 292-665571",
+        "appointments": "Dienstags, 15:30 bis 17:00 Uhr und nach und telef. Vereinb., bitte nicht über Anrufbeantworter"
+    },
+    "TRG": {
+        "name": "Dr. Ulrich Trägner",
+        "email": "u.traegner",
+        "website": "http://www.vct.hs-mannheim.de/fakultaet/ansprechpartner.html",
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ATS",
+                    "name": "Anlagentechnik und Anlagensicherheit",
+                    "link": "http://www.ats.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Dekan Verfahrens- und Chemietechnik",
+        "location": "Geb. H  Raum 1112",
+        "phone": "(0621)-292-6387 Fax -6 6387 1",
+        "appointments": "Dienstag, von 10:00 - 11:30 Uhr + nach Vereinbarung"
+    },
+    "UTZ": {
+        "name": "Dr. Richard Utz",
+        "email": "r.utz",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Prodekan S",
+        "location": "Geb. C (03) Raum 304",
+        "phone": "(0621)-292-6723",
+        "appointments": "nach Vereinbarung"
+    },
+    "VAR": {
+        "name": "Dr. Ralf Vandamme",
+        "email": "r.vandamme",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "C/405",
+        "phone": "(0621)-292-6716",
+        "appointments": ""
+    },
+    "VIN": {
+        "name": "Dr. Stefan Vinzelberg",
+        "email": "s.vinzelberg",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. E (05) Raum 102",
+        "phone": "(0621)-292-6786",
+        "appointments": ""
+    },
+    "WEW": {
+        "name": "Dr. Winfried W. Weber",
+        "email": "w.weber",
+        "website": "http://www.mim.hs-mannheim.de/",
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": [
+                {
+                    "token": "MIM",
+                    "name": "Mannheimer Institut für angwandte  Managementforschung",
+                    "link": "http://www.mim.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Leiter Mannheimer Institut für Angewandte Managementforschun",
+        "location": "Geb. C (03) Raum 204",
+        "phone": "(0621)-292-6731 Fax 292-6720",
+        "appointments": "nach Vereinbarung"
+    },
+    "WKT": {
+        "name": "Dr. Thomas Weickert",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "WET": {
+        "name": "Dr. Torsten Weiß",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "WFW": {
+        "name": "Dr. Wiebke Werft",
+        "email": "w.werft",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ING",
+                    "name": "Naturwissenschaftliche Grundlagen",
+                    "link": "http://www.physik.hs-mannheim.de/"
+                },
+                {
+                    "token": "TRI",
+                    "name": "Tribologie",
+                    "link": "http://www.tri.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. A Raum 207",
+        "phone": "(0621)-292-6882",
+        "appointments": "nach Vereinbarung (via Mail)"
+    },
+    "WIP": {
+        "name": "Dr. Philipp Wiedemann",
+        "email": "p.wiedemann",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "MZ",
+                    "name": "Molekular- und Zellbiologie",
+                    "link": "http://www.imz.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. G (06) Raum 223",
+        "phone": "(0621)-292-6809",
+        "appointments": "täglich / nach Vereinbarung"
+    },
+    "WIR": {
+        "name": "Dr. Bernhard Wirnitzer",
+        "email": "b.wirnitzer",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "DS",
+                    "name": "Digitale Signalverarbeitung",
+                    "link": "http://dsp.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Dekan Informationstechnik",
+        "location": "Geb. S (20) Raum 321",
+        "phone": "(0621)-292-6353 Fax -6454",
+        "appointments": "n. Vereinb."
+    },
+    "WYR": {
+        "name": "Heinz Wyrwich",
+        "email": "h.wyrwich",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": [
+                {
+                    "token": "VCA",
+                    "name": "Video/Computeranimation",
+                    "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 352",
+        "phone": "(0621)-292-6154 Fax -6160",
+        "appointments": "Mo 13.00 - 14.00 Uhr"
+    },
+    "ACK": {
+        "name": "Dr. Kurt Ackermann",
+        "email": "k.ackermann",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. S, Raum 216",
+        "phone": "(0621)-292-6351 Fax 663512",
+        "appointments": "nach Vereinbarung"
+    },
+    "ALS": {
+        "name": "Dr. Stephan M. Altmann",
+        "email": "s.altmann",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "Program Director WBI & International Relations",
+        "location": "L 156",
+        "phone": null,
+        "appointments": "Tuesday 08:00 - 09:30, please book a timeslot via e-mail first"
+    },
+    "BAL": {
+        "name": "Dr. Marion Baldus",
+        "email": "m.baldus",
+        "website": "http://baldusm.twoday.net",
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. C (03) Raum 305",
+        "phone": "(0621)-292-6730",
+        "appointments": "Dienstag 10:00 Uhr - 11:00 Uhr, in der vorlesungsfr. Zeit n. Vereinb"
+    },
+    "BAA": {
+        "name": "Andrea Bandau",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "BTH": {
+        "name": "Dr. Peter Barth",
+        "email": "p.barth",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "SWT",
+                    "name": "Softwaretechnik und Datenkommunikation",
+                    "link": "http://www.swt.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "S119",
+        "phone": "(0621)-292 6335",
+        "appointments": "Mittwochs, 10:00 - 11:00 Uhr"
+    },
+    "BEL": {
+        "name": "Dr. Helmut Behler",
+        "email": "h.behler",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ATS",
+                    "name": "Anlagentechnik und Anlagensicherheit",
+                    "link": "http://www.ats.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. G (06) Raum 227",
+        "phone": "(0621)-292-6814 Fax -668141",
+        "appointments": "nach Vereinbarung"
+    },
+    "BEG": {
+        "name": "Dr. Jürgen Berger",
+        "email": "j.berger",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "BEU": {
+        "name": "Dr. Thomas Beuermann",
+        "email": "t.beuermann",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "PI",
+                    "name": "Prozessmesstechnik und  innovative Energiesysteme",
+                    "link": "http://www.pi.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. S (20) Raum 017",
+        "phone": "(0621)-292-6330 Fax -6454",
+        "appointments": "Mo 14.00 - 15.00"
+    },
+    "BLS": {
+        "name": "Dr. Sabine Blessenohl",
+        "email": "s.blessenohl",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "WSP",
+                    "name": "Werkstoffkunde, -prüfung  und Kunststofftechnik",
+                    "link": "http://www.wsp.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Praktikantenamtsleitung M, Fachberaterin M",
+        "location": "Bau K, Raum 130",
+        "phone": "(0621)-292-6532 Fax -665321",
+        "appointments": "nach Vereinbarung per Mail"
+    },
+    "BRI": {
+        "name": "Dr. Boris Brinzer",
+        "email": "b.brinzer",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "KMP",
+                    "name": "Kompetenzzentrum moderne Produktionssysteme",
+                    "link": "http://www.kmp.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Bau L Raum 254",
+        "phone": "(0621)-292-6215 Fax 292-664531",
+        "appointments": "donnerstags 12:15 - 13:15 Uhr"
+    },
+    "CHR": {
+        "name": "Dr. Claus-Jörg Christian",
+        "email": "c.christian",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 055",
+        "phone": "(0621)-292-6830 Fax 292-6453",
+        "appointments": "Di. 11.30 bis 12.30 nach Voranmeldung"
+    },
+    "CAN": {
+        "name": "Dr. Anabel Clemen",
+        "email": "a.clemen",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ING",
+                    "name": "Naturwissenschaftliche Grundlagen",
+                    "link": "http://www.physik.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. G (06) Raum 003",
+        "phone": "(0621)-6438",
+        "appointments": "nach Vereinbarung"
+    },
+    "DIT": {
+        "name": "Dr. Gerhard Dietrich",
+        "email": "g.dietrich",
+        "website": "http://www.et.hs-mannheim.de/fakultaet/ansprechpartner/professoren/prof-dr-dietrich.html",
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IAS",
+                    "name": "Automatisierungssysteme",
+                    "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/automatisierungssyteme.html"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. B (02) Raum 112",
+        "phone": "(0621)-292-6281 Fax 292-6 62 811",
+        "appointments": "Do. 11.15 - 12.00 Uhr, vorlesungsfreie Zeit: nach Vereinbarung."
+    },
+    "DOP": {
+        "name": "Dr. Frank Dopatka",
+        "email": "f.dopatka",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. A, Raum 106a",
+        "phone": null,
+        "appointments": "nach Vereinbarung per Email"
+    },
+    "EFS": {
+        "name": "Dr. Simon Effler",
+        "email": "s.effler",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "Studiendekan EBE/UBE",
+        "location": "Geb. B (02) Raum 206",
+        "phone": "(0621)-+49 621 292 6855",
+        "appointments": "nach Vereinbarung"
+    },
+    "EWR": {
+        "name": "Dr. René Eiswirth",
+        "email": "r.eiswirth",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. E (05) Raum 201",
+        "phone": "(0621)-292-6489",
+        "appointments": "nach Vereinbarung per E-Mail"
+    },
+    "FES": {
+        "name": "Dr. Stefan Feldes",
+        "email": "s.feldes",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "DS",
+                    "name": "Digitale Signalverarbeitung",
+                    "link": "http://dsp.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. S (20) Raum 320",
+        "phone": "(0621)-292-6354 Fax -6454",
+        "appointments": "Do 14.30 - 15.30"
+    },
+    "FIJ": {
+        "name": "Dr. Jörn Fischer",
+        "email": "j.fischer",
+        "website": "http://www.informatik.hs-mannheim.de/~fischer/",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "113a",
+        "phone": "(0621)-6767 Fax 6 6767 1",
+        "appointments": "nach Vereinbarung"
+    },
+    "FRC": {
+        "name": "Dr. Christian Frech",
+        "email": "c.frech",
+        "website": "http://www.bic.hs-mannheim.de/forschung/prof-dr-christian-frech.html",
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "BIC",
+                    "name": "Biochemie",
+                    "link": "http://www.bic.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. G (06) Raum 221",
+        "phone": "(0621)-292-6316 Fax 292-6452",
+        "appointments": "n. Vereinb."
+    },
+    "FOL": {
+        "name": "Dr. Miriam Föller-Nord",
+        "email": "m.foeller",
+        "website": "https://www.informatik.hs-mannheim.de/fakultaet/professoren/prof-dr-miriam-foeller-nord.html",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Dekanin Fakultät I",
+        "location": "Geb. A (01) Raum 105c",
+        "phone": "(0621)-292-6224 Fax 292-6237",
+        "appointments": "nach Vereinbarung"
+    },
+    "GIE": {
+        "name": "Dr. Jürgen Giehl",
+        "email": "j.giehl",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "EIS",
+                    "name": "Entwurf integrierter Schaltkreise",
+                    "link": "http://chip-design.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. S (20) Raum 216",
+        "phone": "(0621)-292-6860 Fax 292-6 6860 1",
+        "appointments": "nach Vereinbarung"
+    },
+    "GRE": {
+        "name": "Dr. Lasse Greiner",
+        "email": "l.greiner",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "BIC",
+                    "name": "Biochemie",
+                    "link": "http://www.bic.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Dekan B",
+        "location": "H1111",
+        "phone": "(0621)-292 6872",
+        "appointments": "nach Vereinbarung"
+    },
+    "GMI": {
+        "name": "Dr. Michael Gröschel",
+        "email": "m.groeschel",
+        "website": "http://www.taxxas.com",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. A, Raum 105b",
+        "phone": "(0621)-292-6764 Fax 292-667641",
+        "appointments": "nach Vereinbarung per E-Mail"
+    },
+    "GTM": {
+        "name": "Dr. Martin Gutting",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "GOT": {
+        "name": "Veruschka Götz",
+        "email": "v.goetz",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": [
+                {
+                    "token": "PM",
+                    "name": "Printorientierte Medien",
+                    "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 255",
+        "phone": "(0621)-292-6156",
+        "appointments": "n. Vereinb."
+    },
+    "HBD": {
+        "name": "Dr. Winrich Habedank",
+        "email": "w.habedank",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "Studiengangleiter WB",
+        "location": "Geb. L   Raum 254",
+        "phone": "(0621)-292-6759",
+        "appointments": "Fr. 10 - 11 Uhr; in vorlesungsfreien Zeiten nach Vereinb. (E-Mail)"
+    },
+    "HLF": {
+        "name": "Dr. Stefan Halfmeier",
+        "email": "s.halfmeier",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. G Raum 228",
+        "phone": "(0621)-292-6499",
+        "appointments": "nach Vereinbarung"
+    },
+    "HAN": {
+        "name": "Thomas Hansemann",
+        "email": "t.hansemann",
+        "website": "http://www.et.hs-mannheim.de/han",
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IDK",
+                    "name": "Industrielle Datentechnik und Kommunikation",
+                    "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/industrielle-datentechnik-und-kommunikation.html"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. B (02) Raum 107",
+        "phone": "(0621)-292-6264",
+        "appointments": "in der vorlesungsfreien Zeit nach Vereinbarung per E-Mail"
+    },
+    "HAP": {
+        "name": "Dr. Sebastian Haupt",
+        "email": "s.haupt",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. G (06) Raum 145",
+        "phone": "(0621)-292-6221",
+        "appointments": "nach Vereinbarung"
+    },
+    "HAT": {
+        "name": "Dr. Michael Hauth",
+        "email": "m.hauth",
+        "website": "http://www.wing.hs-mannheim.de",
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "WIRTSCHAFTSINGENIEURWESEN",
+                    "name": "",
+                    "link": ""
+                }
+            ]
+        },
+        "extra": "Logistik und Einkauf",
+        "location": "Geb. L Raum 156",
+        "phone": "(0621)-+49 621 292 6834",
+        "appointments": "Di. 9:30-10:30 in der Vorlesungszeit, sonst nach Vereinbarung"
+    },
+    "HES": {
+        "name": "Dr. Stefan Heger",
+        "email": "s.heger",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. S, Raum 310",
+        "phone": "(0621)-292-6861",
+        "appointments": "nach Vereinbarung                     (per E-Mail)"
+    },
+    "HRA": {
+        "name": "Dr. Angelika Hirsch",
+        "email": "a.hirsch",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IBV",
+                    "name": "Biologische Verfahrenstechnik",
+                    "link": "http://www.ibv.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Gleichstellungsbeauftragte",
+        "location": "Geb. E (05) Raum 103",
+        "phone": "(0621)-292-6801 Fax -6470",
+        "appointments": "nach Vereinbarung"
+    },
+    "HMB": {
+        "name": "Dr. Birgit Hoffmann",
+        "email": "b.hoffmann",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. C (03) Raum 408",
+        "phone": "(0621)-292-6735",
+        "appointments": "nach Vereinbarung"
+    },
+    "HOB": {
+        "name": "Dr. Bernhard Hoffner",
+        "email": "b.hoffner",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "HOP": {
+        "name": "Dr. Carsten Hopf",
+        "email": "c.hopf",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IA",
+                    "name": "Instrumentelle Analytik",
+                    "link": "http://www.ia.hs-mannheim.de/"
+                },
+                {
+                    "token": "CeMOS",
+                    "name": "Kompetenzzentrum CeMOS",
+                    "link": "https://www.cemos.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Institutsleiter IA, Sprecher ZAFH, Leiter CeMOS",
+        "location": "Geb. G (06) Raum 143",
+        "phone": "(0621)-292-6802",
+        "appointments": "nach Vereinbarung"
+    },
+    "HUT": {
+        "name": "Dr. Thomas Hunger",
+        "email": "t.hunger",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. B (02) Raum 312",
+        "phone": "(0621)-0621/292-6271",
+        "appointments": "nach Vereinbarung"
+    },
+    "IME": {
+        "name": "Dr. Thomas Ihme",
+        "email": "t.ihme",
+        "website": "https://services.informatik.hs-mannheim.de/~ihme/",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": [
+                {
+                    "token": "RI",
+                    "name": "Robotik",
+                    "link": "http://www.ri.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Leiter Institut für Robotik",
+        "location": "Geb. A (01) Raum 112",
+        "phone": "(0621)-292-6226 Fax -662261",
+        "appointments": "Di 14.00 - 15.00 (um Anmeldung wird gebeten)"
+    },
+    "JUN": {
+        "name": "Dr. Martin Junker",
+        "email": "m.junker",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. B (02) Raum 110",
+        "phone": "(0621)-292-6522",
+        "appointments": "nach Vereinbarung"
+    },
+    "KAE": {
+        "name": "Dr. Peter Kaiser",
+        "email": "p.kaiser",
+        "website": "http://services.informatik.hs-mannheim.de/~kaiser",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Studiendekan",
+        "location": "Geb. A (01) Raum 113a",
+        "phone": "(0621)-292-6768 Fax 292-6 6768 1",
+        "appointments": "Nach Vereinbarung per EMail"
+    },
+    "KMA": {
+        "name": "Dr.-Ing Martin Kim",
+        "email": "m.kim",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 352",
+        "phone": "(0621)-0179/39 84 036",
+        "appointments": ""
+    },
+    "KIT": {
+        "name": "Dr. Olaf Kittel",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "KLI": {
+        "name": "Dr. Matthias Klimmer",
+        "email": "m.klimmer",
+        "website": "http://www.wing.hs-mannheim.de",
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IFU",
+                    "name": "Unternehmensführung",
+                    "link": "http://www.ifu.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Dekan",
+        "location": "L 057",
+        "phone": "(0621)-292-6384 Fax -6453",
+        "appointments": "MI 10.00 - 11.00 Uhr sowie nach Vereinbarung"
+    },
+    "KNU": {
+        "name": "Dr. Peter Knauber",
+        "email": "p.knauber",
+        "website": "http://www.informatik.hs-mannheim.de/~knauber",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Prodekan, Studiengangleiter Master",
+        "location": "Geb. A (01) Raum 113b",
+        "phone": "(0621)-292-6209 Fax 292-6237",
+        "appointments": "Mittwoch 10-11 Uhr nach Vereinbarung"
+    },
+    "KÖZ": {
+        "name": "Dr. Özhan Koca",
+        "email": "oe.koca",
+        "website": "http://www.inftech.hs-mannheim.de/ueber-die-fakultaet/personen/professoren/koca.html",
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "Analoge elektronische Schaltungstechnik",
+        "location": "R/206",
+        "phone": "(0621)-292-6870 Fax 292-668701",
+        "appointments": "Nach Vereinbarung; Anfrage bitte per Email."
+    },
+    "KOA": {
+        "name": "Axel Kolaschnik",
+        "email": "a.kolaschnik",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 354",
+        "phone": "(0621)-292-6161",
+        "appointments": "n. Vereinb."
+    },
+    "KTS": {
+        "name": "Dr. Ulrike Kutscha",
+        "email": "u.kutscha",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. A (00) 007b",
+        "phone": "(0621)-+49 (621) 292-6206",
+        "appointments": "nach Vereinbarung"
+    },
+    "LAN": {
+        "name": "Dr. Birgitta Landwehr",
+        "email": "b.landwehr",
+        "website": "http://www.tv.hs-mannheim.de/landwehr",
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "TV",
+                    "name": "Thermische Verfahrenstechnik",
+                    "link": "http://www.tv.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Prodekanin V und Studiendekanin VB",
+        "location": "Geb. E (05) Raum 101",
+        "phone": "(0621)-292-6305 Fax -6420",
+        "appointments": "Mo. 10:00-11:00 Uhr u. nach Vereinbarung"
+    },
+    "LHD": {
+        "name": "Dr. Dieter Leonhard",
+        "email": "rektor",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "Rektor der Hochschule",
+        "location": "Geb. A Raum 409",
+        "phone": "(0621)-292-6400",
+        "appointments": ""
+    },
+    "LIA": {
+        "name": "Armin Lindauer",
+        "email": "a.lindauer",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": [
+                {
+                    "token": "PM",
+                    "name": "Printorientierte Medien",
+                    "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 354",
+        "phone": "(0621)-292-6161 Fax -661612",
+        "appointments": "Mi 11.00 - 12.00"
+    },
+    "LIP": {
+        "name": "Dr. Götz Lipphardt",
+        "email": "g.lipphardt",
+        "website": "http://www.et.hs-mannheim.de/fakultaet/ansprechpartner/professoren/prof-dr-lipphardt.html",
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ILA",
+                    "name": "Leistungselektronik und Antriebstechnik",
+                    "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/leistungselektronik-und-antriebstechnik.html"
+                }
+            ]
+        },
+        "extra": "Studiendekan Masterstudiengang Automatisierungs- und Energiesysteme",
+        "location": "B312",
+        "phone": "(0621)-292-6285 Fax 6-62853",
+        "appointments": "nach Vereinbarung per Email"
+    },
+    "MCK": {
+        "name": "Dr. Matthias Mack",
+        "email": "m.mack",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "MIB",
+                    "name": "Technische Mikrobiologie",
+                    "link": "http://www.mib.hs-mannheim.de/home.html"
+                }
+            ]
+        },
+        "extra": "Praktikantenamtsl. FB B Fachberater B 2.PS",
+        "location": "G (06) Raum 224",
+        "phone": "(0621)-292-6496 Fax -6424",
+        "appointments": "Mo 11.30 - 13.00"
+    },
+    "MAR": {
+        "name": "Dr. Utz Martin",
+        "email": "u.martin",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "DS",
+                    "name": "Digitale Signalverarbeitung",
+                    "link": "http://dsp.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Studiendekan NE",
+        "location": "Geb. S (20) Raum 321",
+        "phone": "(0621)-292-6865 Fax 292-668651",
+        "appointments": "Mo 13:45-14:45 und n. Vereinb."
+    },
+    "MOJ": {
+        "name": "Dr. Jürgen Molter",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "MUE": {
+        "name": "Dr. Herbert Müller",
+        "email": "h.mueller",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "CV",
+                    "name": "Chemische Verfahrenstechnik",
+                    "link": "http://www.cv.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. G Raum 140",
+        "phone": "(0621)-292-6787",
+        "appointments": "nach Vereinbarung per e-mail"
+    },
+    "NAT": {
+        "name": "Dr. Till Nagel",
+        "email": "t.nagel",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. A Raum 106b",
+        "phone": "(0621)-292-6886",
+        "appointments": "nach Vereinbarung"
+    },
+    "NEU": {
+        "name": "Dr. Wolfgang Neuhaus",
+        "email": "w.neuhaus",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ING",
+                    "name": "Naturwissenschaftliche Grundlagen",
+                    "link": "http://www.physik.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. L (11) Raum 021",
+        "phone": "(0621)-292-6828",
+        "appointments": "Vorlesungszeit:  Do 15.30-16.30h, sonst n. Vereinbarung"
+    },
+    "NÜR": {
+        "name": "Dr. Frank-Thomas Nürnberg",
+        "email": "f.nuernberg",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ING",
+                    "name": "Naturwissenschaftliche Grundlagen",
+                    "link": "http://www.physik.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. L  Raum 253",
+        "phone": "(0621)-292-6217",
+        "appointments": "Mi 11:00-12:00 Uhr, bitte vorher E-Mail"
+    },
+    "OTO": {
+        "name": "Dr. Jürgen Otto",
+        "email": "j.otto",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ING",
+                    "name": "Naturwissenschaftliche Grundlagen",
+                    "link": "http://www.physik.hs-mannheim.de/"
+                },
+                {
+                    "token": "ATF",
+                    "name": "Angewandte Thermo- und Fluiddynamik",
+                    "link": "http://www.atf.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. B (02) Raum 005a",
+        "phone": "(0621)-292-6218",
+        "appointments": "Di. 11:45-12:45; Mi. 8:00-9:00; Do. 15:30-16:15"
+    },
+    "PEJ": {
+        "name": "Dr. Jochen Peter",
+        "email": "jochen.peter",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. C (03) Raum 304",
+        "phone": "(0621)-292-6722",
+        "appointments": "nach Vereinbarung"
+    },
+    "POP": {
+        "name": "Dr. Wigand Poppendieck",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "RAS": {
+        "name": "Dr. Steffen Rasenat",
+        "email": "s.rasenat",
+        "website": "http://www.et.hs-mannheim.de/fakultaet/ansprechpartner/professoren/prof-dr-rasenat.html",
+        "associations": {
+            "faculty": {
+                "token": "MBI",
+                "name": "Institut für Mathematische Biologie",
+                "link": "http://www.mbi.hs-mannheim.de"
+            },
+            "institutes": [
+                {
+                    "token": "ING",
+                    "name": "Naturwissenschaftliche Grundlagen",
+                    "link": "http://www.physik.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Studiendekan Grundstudium EB/UB, Leiter ING",
+        "location": "Geb. A Raum 207",
+        "phone": "(0621)-292-6771",
+        "appointments": "nach Vereinbarung per EMail"
+    },
+    "RIS": {
+        "name": "Dr. Stefan Rist",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "RUO": {
+        "name": "Dr. Rüdiger Rudolf",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "RAD": {
+        "name": "Dr. Matthias Rädle",
+        "email": "m.raedle",
+        "website": "http://www.pi.hs-mannheim.de",
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "PI",
+                    "name": "Prozessmesstechnik und  innovative Energiesysteme",
+                    "link": "http://www.pi.hs-mannheim.de/"
+                },
+                {
+                    "token": "CeMOS",
+                    "name": "Kompetenzzentrum CeMOS",
+                    "link": "https://www.cemos.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Stv. Leiter CeMOS, Institutsleiter Institut PI",
+        "location": "Bau W Raum 001",
+        "phone": "(0621)-0621-761508-0 Fax 0621-761508-99",
+        "appointments": "Termine bitte über das Sekretariat Herrn Koch (k.koch@hs-mannheim.de) vereinbaren"
+    },
+    "SRO": {
+        "name": "Dr. Roger Sandhoff",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "SAD": {
+        "name": "Dr. Günter Schad",
+        "email": "g.schad",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "CAE",
+                    "name": "CAE-Anwendungen",
+                    "link": "http://www.cae.hs-mannheim.de/"
+                },
+                {
+                    "token": "KMP",
+                    "name": "Kompetenzzentrum moderne Produktionssysteme",
+                    "link": "http://www.kmp.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. K  Raum 117",
+        "phone": "(0621)-292-6847 Fax 292-668471",
+        "appointments": "nur nach Vereinbarung"
+    },
+    "SRT": {
+        "name": "Dr. Bodo Schertel",
+        "email": "b.schertel",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": [
+                {
+                    "token": "MI",
+                    "name": "Medizinische Informatik",
+                    "link": "http://mi.informatik.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": "nach Vereinbahrung"
+    },
+    "SIN": {
+        "name": "Dr. Bernd Schinke",
+        "email": "b.schinke",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "ATS",
+                    "name": "Anlagentechnik und Anlagensicherheit",
+                    "link": "http://www.ats.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. G (06) Raum 227",
+        "phone": "(0621)-292-6498",
+        "appointments": "nach Vereinbarung"
+    },
+    "SCV": {
+        "name": "Dr. Volkmar Schmidt",
+        "email": "v.m.schmidt",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "CV",
+                    "name": "Chemische Verfahrenstechnik",
+                    "link": "http://www.cv.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. E (05) Raum 103",
+        "phone": "(0621)-292-6307 Fax -6470",
+        "appointments": "Mi 14.30 - 15.30"
+    },
+    "SMS": {
+        "name": "Dr. Astrid Schmücker-Schend",
+        "email": "a.schmuecker",
+        "website": "http://www.informatik.hs-mannheim.de/fakultaet/professoren/prof-dr-astrid-schmuecker-schend.html",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. A (01) Raum 113c",
+        "phone": "(0621)-292-6225 Fax -6237",
+        "appointments": "nach Anmeldung per E-Mail"
+    },
+    "SUB": {
+        "name": "Dr. Wolfgang Schubert",
+        "email": "w.schubert",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "V",
+                "name": "Verfahrens- und Chemietechnik",
+                "link": "http://www.vct.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "PRC",
+                    "name": "Physikalische Chemie und Radiochemie",
+                    "link": "http://prc.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Institutsleiter",
+        "location": "Geb. G (06) Raum 142",
+        "phone": "(0621)-292 - 6783 Fax 292 - 6 6783 1",
+        "appointments": "nach Vereinbarung"
+    },
+    "SHA": {
+        "name": "Dr. Hartmut Schulz",
+        "email": "h.schulz",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "OC",
+                    "name": "Organische Chemie",
+                    "link": "http://www.oc.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Prodekan B",
+        "location": "Geb. G (06) Raum 222",
+        "phone": "(0621)-292-6493 Fax -6420",
+        "appointments": "Di 10:00 bis 12:00 Uhr Raum 06/118"
+    },
+    "SCU": {
+        "name": "Dr. Thomas Schüssler",
+        "email": "prorektor-lehre",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "W",
+                "name": "Wirtschaftsingenieurwesen",
+                "link": "http://www.wing.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IFU",
+                    "name": "Unternehmensführung",
+                    "link": "http://www.ifu.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "Prorektor Lehre, studentische Dienstleistungen und Qualitätsmanagement",
+        "location": "H107",
+        "phone": "(0621)-292-6375",
+        "appointments": "nach Vereinbarung per email"
+    },
+    "SEW": {
+        "name": "Dr. Thomas Seewaldt",
+        "email": "t.seewaldt",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "SWT",
+                    "name": "Softwaretechnik und Datenkommunikation",
+                    "link": "http://www.swt.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Fachberater PS MT",
+        "location": "Geb. S / 119",
+        "phone": "(0621)-292-6335",
+        "appointments": "Mittwoch 11:45-12:30 Uhr im WS17/18 sonst nach Veinbarung/email)"
+    },
+    "SMI": {
+        "name": "Thomas Smits",
+        "email": "t.smits",
+        "website": "http://jonathan.sv.hs-mannheim.de/~t.smits/",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Prodekan Fakultät I",
+        "location": "A106a",
+        "phone": "(0621)-0621 292-6191",
+        "appointments": "Nach Vereinbarung per E-Mail,"
+    },
+    "STF": {
+        "name": "Dr. Joachim Steffen",
+        "email": "steffen",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "WOT",
+                    "name": "Werkstoffwissenschaft und  Oberflächentechnik",
+                    "link": "http://www.materials-science-institute.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. K (12) Raum 116",
+        "phone": "(0621)-292-6543 Fax -6420",
+        "appointments": "n. Vereinb."
+    },
+    "SGS": {
+        "name": "Dr. Stefan Steiger",
+        "email": "S.Steiger",
+        "website": "http://www.mb.hs-mannheim.de/fakultaet-fuer-maschinenbau/personen/professoren/steiger.html",
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "Geb. G (06) / Raum 228",
+        "phone": "(0621)-Tel 292-6487 / Fax 292-6-6487-1",
+        "appointments": "Nach Vereinbarung, bevorzugt per E-Mail."
+    },
+    "STN": {
+        "name": "Dr. Roswitha Stenzel",
+        "email": "r.stenzel",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "BIC",
+                    "name": "Biochemie",
+                    "link": "http://www.bic.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Studiendekanin und Fachberaterin Praxissemester für BCB",
+        "location": "Geb. G (06) Raum 222",
+        "phone": "(0621)-292-6808 Fax -6420",
+        "appointments": "Di 11.30 -12.00 Uhr und nach Vereinbarung"
+    },
+    "STÖ": {
+        "name": "Dr. Jan Stöß",
+        "email": null,
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "TRE": {
+        "name": "Dr. Dennis Trebbels",
+        "email": "d.trebbels",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "Prodekan der Fakultät für Elektrotechnik",
+        "location": "Bau B, Raum 206",
+        "phone": "(0621)-292-6252",
+        "appointments": "nach Vereinbarung"
+    },
+    "TOU": {
+        "name": "Dr. Ulla Törnig",
+        "email": "u.toernig",
+        "website": "http://www.toernigu.twoday.net",
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Projektleiterin familienfreundliche HS",
+        "location": "Geb. C (03) Raum 405",
+        "phone": "(0621)-292-6734 Fax 292-6720",
+        "appointments": "http://www.sw.hs-mannheim.de/fakultaet/ansprechpartnerfunktionen/perso"
+    },
+    "LGU": {
+        "name": "Dr. Guido Van de Logt",
+        "email": "g.vandelogt",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "E",
+                "name": "Elektrotechnik",
+                "link": "http://www.et.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "IAS",
+                    "name": "Automatisierungssysteme",
+                    "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/automatisierungssyteme.html"
+                }
+            ]
+        },
+        "extra": "Prüfungsausschussvorsitzender Fak E Studiengangleiter MEB",
+        "location": "Geb. B (02) Raum 110",
+        "phone": "(0621)-6522",
+        "appointments": "nach Vereinbarung"
+    },
+    "VET": {
+        "name": "Dr. Marcus Vetter",
+        "email": "m.vetter",
+        "website": "http://www.emb-lab.org",
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "EMB",
+                    "name": "Embedded Systems",
+                    "link": "http://mikrocomputertechnik.hs-mannheim.de/"
+                },
+                {
+                    "token": "SWT",
+                    "name": "Softwaretechnik und Datenkommunikation",
+                    "link": "http://www.swt.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "Leiter des Institut für eingebettete Systeme und Medizintechnik",
+        "location": "Geb. K Raum 111",
+        "phone": "(0621)-292-6347 Fax -6454",
+        "appointments": "Di 10:00 - 11:00"
+    },
+    "VOI": {
+        "name": "Dr. Burkhard Voigt",
+        "email": "b.voigt",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "AGT",
+                    "name": "Analogtechnik und Sensorik",
+                    "link": "http://www.analogtechnik.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. R (08) Raum 106",
+        "phone": "(0621)-292-6559",
+        "appointments": "Mi + Do  11.15"
+    },
+    "WEJ": {
+        "name": "Dr. Joachim Weber",
+        "email": "j.weber",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "S",
+                "name": "Sozialwesen",
+                "link": "http://www.sw.hs-mannheim.de"
+            },
+            "institutes": null
+        },
+        "extra": "Studiendekan S",
+        "location": "Geb. C (03) Raum 208",
+        "phone": "(0621)-292-6721",
+        "appointments": "nach Vereinbarung"
+    },
+    "WEI": {
+        "name": "Dr. Hans-Peter Weiser",
+        "email": "p.weiser",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "M",
+                "name": "Maschinenbau",
+                "link": "http://www.mb.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "CAE",
+                    "name": "CAE-Anwendungen",
+                    "link": "http://www.cae.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. K (12) Raum 117",
+        "phone": "(0621)-292-6155 Fax -6481",
+        "appointments": "Nach Vereinbarung"
+    },
+    "WPH": {
+        "name": "Dr. Philipp Weller",
+        "email": "p.weller",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": null,
+        "phone": null,
+        "appointments": ""
+    },
+    "WEN": {
+        "name": "Dr. Tobias Werner",
+        "email": "t.werner",
+        "website": "http://www.ac.hs-mannheim.de",
+        "associations": {
+            "faculty": {
+                "token": "B",
+                "name": "Biotechnologie",
+                "link": "http://www.biotech.hs-mannheim.de/"
+            },
+            "institutes": [
+                {
+                    "token": "AC",
+                    "name": "Analytische Chemie",
+                    "link": "http://www.ac.hs-mannheim.de/"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. G (06) Raum 104",
+        "phone": "(0621)-292-6793 Fax 292-6-6793 1",
+        "appointments": "n. Vereinb."
+    },
+    "WIB": {
+        "name": "Dr. Rüdiger Willenberg",
+        "email": "r.willenberg",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "N",
+                "name": "Informationstechnik",
+                "link": "http://www.it.hs-mannheim.de/"
+            },
+            "institutes": null
+        },
+        "extra": "",
+        "location": "S/010",
+        "phone": "(0621)-+49 621 292 6355",
+        "appointments": "nach Vereinbarung"
+    },
+    "WOI": {
+        "name": "Dr. Ivo Wolf",
+        "email": "i.wolf",
+        "website": "http://www.informatik.hs-mannheim.de/fakultaet/professoren/prof-dr-ivo-wolf.html",
+        "associations": {
+            "faculty": {
+                "token": "I",
+                "name": "Informatik",
+                "link": "http://www.informatik.hs-mannheim.de"
+            },
+            "institutes": [
+                {
+                    "token": "MI",
+                    "name": "Medizinische Informatik",
+                    "link": "http://mi.informatik.hs-mannheim.de"
+                }
+            ]
+        },
+        "extra": "",
+        "location": "Geb. A (01) Raum 007a",
+        "phone": "(0621)-292-6246",
+        "appointments": "Mi, 13:30-14:30 nach Anmeldung per Email"
+    },
+    "WOE": {
+        "name": "Hartmut Wöhlbier",
+        "email": "h.woehlbier",
+        "website": null,
+        "associations": {
+            "faculty": {
+                "token": "D",
+                "name": "Gestaltung",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            },
+            "institutes": [
+                {
+                    "token": "IAM",
+                    "name": "Interaktive Medien",
+                    "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+                }
+            ]
+        },
+        "extra": "Dekan D",
+        "location": "Geb. L (11) Raum 352",
+        "phone": "(0621)-292-6158 Fax -6160",
+        "appointments": "n. Vereinb."
+    }
+}

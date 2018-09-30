@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Oliver Hummel",
+    "email": "o.hummel",
+    "website": "https://www.informatik.hs-mannheim.de/fakultaet/professoren/prof-dr-oliver-hummel.html",
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "A 007a",
+    "phone": "(0621)-6223 Fax 662231",
+    "appointments": "Mo. 10.00-11.00 nach Voranmeldung per Mail"
+}

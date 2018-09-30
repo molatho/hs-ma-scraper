@@ -1,0 +1,37 @@
+{
+    "token": "2MM",
+    "courses": {
+        "TUS": {
+            "token": "TUS",
+            "name": "Tribologie und Schmierungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "MOJ"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "MOJ"
+                }
+            ]
+        },
+        "FDY": {
+            "token": "FDY",
+            "name": "Fahrdynamik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "MOH"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "MOH"
+                }
+            ]
+        }
+    }
+}

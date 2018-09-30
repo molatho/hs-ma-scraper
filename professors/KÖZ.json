@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Özhan Koca",
+    "email": "oe.koca",
+    "website": "http://www.inftech.hs-mannheim.de/ueber-die-fakultaet/personen/professoren/koca.html",
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "Analoge elektronische Schaltungstechnik",
+    "location": "R/206",
+    "phone": "(0621)-292-6870 Fax 292-668701",
+    "appointments": "Nach Vereinbarung; Anfrage bitte per Email."
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Jens-Matthias Bohli",
+    "email": "j.bohli",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "S110",
+    "phone": "(0621)-292-6352",
+    "appointments": "Mi. 11:30-12:30 und nach Vereinbarung"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Thomas Hunger",
+    "email": "t.hunger",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. B (02) Raum 312",
+    "phone": "(0621)-0621/292-6271",
+    "appointments": "nach Vereinbarung"
+}

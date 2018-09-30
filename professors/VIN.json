@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Stefan Vinzelberg",
+    "email": "s.vinzelberg",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. E (05) Raum 102",
+    "phone": "(0621)-292-6786",
+    "appointments": ""
+}

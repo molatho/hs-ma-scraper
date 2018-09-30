@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Ulrich Trägner",
+    "email": "u.traegner",
+    "website": "http://www.vct.hs-mannheim.de/fakultaet/ansprechpartner.html",
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ATS",
+                "name": "Anlagentechnik und Anlagensicherheit",
+                "link": "http://www.ats.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Dekan Verfahrens- und Chemietechnik",
+    "location": "Geb. H  Raum 1112",
+    "phone": "(0621)-292-6387 Fax -6 6387 1",
+    "appointments": "Dienstag, von 10:00 - 11:30 Uhr + nach Vereinbarung"
+}

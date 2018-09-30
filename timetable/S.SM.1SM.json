@@ -1,0 +1,87 @@
+{
+    "token": "1SM",
+    "courses": {
+        "QL1": {
+            "token": "QL1",
+            "name": "Qualitative Methoden der Sozialen Arbeit",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "LNG"
+                }
+            ]
+        },
+        "TSA": {
+            "token": "TSA",
+            "name": "Theorie Sozialer Arbeit",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "WEJ"
+                }
+            ]
+        },
+        "WT": {
+            "token": "WT",
+            "name": "Wissenschaftstheorie",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "SSC"
+                }
+            ]
+        },
+        "MET": {
+            "token": "MET",
+            "name": "Methoden der Sozialen Arbeit",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "KIL"
+                }
+            ]
+        },
+        "HER": {
+            "token": "HER",
+            "name": "Hermeneutik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "UTZ"
+                }
+            ]
+        },
+        "QL2": {
+            "token": "QL2",
+            "name": "Quantiative Methoden der Sozialforschung",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "SHM"
+                }
+            ]
+        },
+        "MW11": {
+            "token": "MW11",
+            "name": "Profilierung der fachlichen Kompetenz",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "BAL"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "BAL"
+                }
+            ]
+        }
+    }
+}

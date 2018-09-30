@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Susanne Lang",
+    "email": "s.lang",
+    "website": "http://slhsma.twoday.net/",
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. C (03) Raum 406",
+    "phone": "(0621)-292-6732 Fax -6720",
+    "appointments": "sie Homepage"
+}

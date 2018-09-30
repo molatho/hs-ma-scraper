@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Lasse Greiner",
+    "email": "l.greiner",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "BIC",
+                "name": "Biochemie",
+                "link": "http://www.bic.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Dekan B",
+    "location": "H1111",
+    "phone": "(0621)-292 6872",
+    "appointments": "nach Vereinbarung"
+}

@@ -1,0 +1,185 @@
+{
+    "token": "4EB",
+    "courses": {
+        "ELA": {
+            "token": "ELA",
+            "name": "Elektrische Antriebstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "LIP"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "LIP"
+                }
+            ]
+        },
+        "RG1": {
+            "token": "RG1",
+            "name": "Einf�hrung in die Regelungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "G�T"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "G�T"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "G�T"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "G�T"
+                }
+            ]
+        },
+        "MC1L": {
+            "token": "MC1L",
+            "name": "Hardwarenahe Programmierung von Mikrocomputern 1 - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "TRE"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "TRE"
+                }
+            ]
+        },
+        "LE1": {
+            "token": "LE1",
+            "name": "Grundlagen der Leistungselektronik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "LIP"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "LIP"
+                }
+            ]
+        },
+        "EAK": {
+            "token": "EAK",
+            "name": "Energieanlagen und Kraftmaschinen",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "HUT"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "HUT"
+                }
+            ]
+        },
+        "MC1": {
+            "token": "MC1",
+            "name": "Hardwarenahe Programmierung von Mikrocomputern",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "TRE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "TRE"
+                }
+            ]
+        },
+        "SP1": {
+            "token": "SP1",
+            "name": "System- und Programmentwurf f�r speicherprogrammierbare Steuerungen",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "SET"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SET"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "SET"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "SET"
+                }
+            ]
+        },
+        "LE1L": {
+            "token": "LE1L",
+            "name": "Grundlagen der Leistungselektronik - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "LIP"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "LIP"
+                }
+            ]
+        },
+        "REN1": {
+            "token": "REN1",
+            "name": "Regenerative Energien - Grundlagen und Komponenten",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "HUT"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "HUT"
+                }
+            ]
+        },
+        "SSTA": {
+            "token": "SSTA",
+            "name": "Seminar",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "G�T"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "G�T"
+                }
+            ]
+        }
+    }
+}

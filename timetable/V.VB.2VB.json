@@ -1,0 +1,138 @@
+{
+    "token": "2VB",
+    "courses": {
+        "PH2": {
+            "token": "PH2",
+            "name": "Physik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "VIN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "VIN"
+                }
+            ]
+        },
+        "MA2": {
+            "token": "MA2",
+            "name": "Mathematik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "RAD"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "RAD"
+                }
+            ]
+        },
+        "PHP": {
+            "token": "PHP",
+            "name": "Pysikalisches Praktikum",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "RAS"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "RAS"
+                }
+            ]
+        },
+        "CAD": {
+            "token": "CAD",
+            "name": "Computer Aided Design",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "BEL"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "BEL"
+                }
+            ]
+        },
+        "PC1": {
+            "token": "PC1",
+            "name": "Physikalische Chemie 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "SCV"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "SCV"
+                }
+            ]
+        },
+        "TM2": {
+            "token": "TM2",
+            "name": "Technische Mechanik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "DIW"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "DIW"
+                }
+            ]
+        },
+        "CHP": {
+            "token": "CHP",
+            "name": "Chemisches Praktikum",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "VIN"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "VIN"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "VIN"
+                }
+            ]
+        },
+        "ST": {
+            "token": "ST",
+            "name": "Str�mungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "DIW"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "DIW"
+                }
+            ]
+        }
+    }
+}

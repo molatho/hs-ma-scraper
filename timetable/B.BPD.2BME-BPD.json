@@ -1,0 +1,196 @@
+{
+    "token": "2BME-BPD",
+    "courses": {
+        "PHDE": {
+            "token": "PHDE",
+            "name": "Pharmakodynamics",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "MUI"
+                }
+            ]
+        },
+        "PHKE": {
+            "token": "PHKE",
+            "name": "Pharmakokinetics",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "MEE"
+                }
+            ]
+        },
+        "BINE": {
+            "token": "BINE",
+            "name": "Bioinformatics",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "SRI"
+                }
+            ]
+        },
+        "BRDE": {
+            "token": "BRDE",
+            "name": "Bioreaction Design",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "PRE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "PRE"
+                }
+            ]
+        },
+        "PDPE": {
+            "token": "PDPE",
+            "name": "Protein Downstream Processing",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "FRC"
+                }
+            ]
+        },
+        "PROE": {
+            "token": "PROE",
+            "name": "Proteomics",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HOP"
+                }
+            ]
+        },
+        "ABEE": {
+            "token": "ABEE",
+            "name": "Advanced Bioreaction Engineering",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "GRE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "PRE"
+                }
+            ]
+        },
+        "DPLE": {
+            "token": "DPLE",
+            "name": "Downstream Processing Lab",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "FRC"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "FRC"
+                }
+            ]
+        },
+        "IMUE": {
+            "token": "IMUE",
+            "name": "Immunology",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "STN"
+                }
+            ]
+        },
+        "PRME": {
+            "token": "PRME",
+            "name": "Process Monitoring",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "BEU"
+                }
+            ]
+        },
+        "MAME": {
+            "token": "MAME",
+            "name": "Modern Analytical Methods",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "WPH"
+                }
+            ]
+        },
+        "IEAE": {
+            "token": "IEAE",
+            "name": "Industrial Environmental Analytics",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "KUZ"
+                }
+            ]
+        },
+        "IBDE": {
+            "token": "IBDE",
+            "name": "Industrial Bioprocess Development",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "KPF"
+                }
+            ]
+        },
+        "HPYE": {
+            "token": "HPYE",
+            "name": "Human Physiology",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "GRE"
+                }
+            ]
+        },
+        "EBTE": {
+            "token": "EBTE",
+            "name": "Environmental Biotechnology",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "SWZ"
+                }
+            ]
+        },
+        "BISE": {
+            "token": "BISE",
+            "name": "Biosensors",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "RUO"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "token": "6MB",
+    "courses": {
+        "ANM": {
+            "token": "ANM",
+            "name": "Angewandte Numerik im Maschinenbau",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "OTO"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "OTO"
+                }
+            ]
+        },
+        "FVF2": {
+            "token": "FVF2",
+            "name": "Fertigungsverfahren 2",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "PET"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "PET"
+                }
+            ]
+        },
+        "FB": {
+            "token": "FB",
+            "name": "Fahrzeugbau",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "MOH"
+                }
+            ]
+        },
+        "WZM": {
+            "token": "WZM",
+            "name": "Werkzeugmaschinen",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HAP"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "HAP"
+                }
+            ]
+        },
+        "MP": {
+            "token": "MP",
+            "name": "Maschinenbauprojekt",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "PET"
+                }
+            ]
+        },
+        "BL1": {
+            "token": "BL1",
+            "name": "Betriebswirtschaftslehre 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "MTA"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "MTA"
+                }
+            ]
+        },
+        "MT": {
+            "token": "MT",
+            "name": "Messtechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HAP"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "HAP"
+                }
+            ]
+        },
+        "FM2": {
+            "token": "FM2",
+            "name": "Fluidmechanik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "SSO"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SSO"
+                }
+            ]
+        },
+        "FEM": {
+            "token": "FEM",
+            "name": "Finite-Elemente-Methoden",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "NAE"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "NAE"
+                }
+            ]
+        },
+        "PCS": {
+            "token": "PCS",
+            "name": "Physikalisch-chemische Aspekte der Schmierstoffe",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "RUL"
+                }
+            ]
+        }
+    }
+}

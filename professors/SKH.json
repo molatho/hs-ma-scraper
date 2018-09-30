@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Karl-Heinz Steglich",
+    "email": "k.steglich",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "Regelungstechnik",
+    "location": "Geb. S, R. 320, Geb. K, R. 110",
+    "phone": "(0621)-6864 (S) &  6521 (K)",
+    "appointments": "Nach Vereinbarung per Email"
+}

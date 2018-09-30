@@ -1,0 +1,117 @@
+{
+    "token": "1IEB",
+    "courses": {
+        "PI": {
+            "token": "PI",
+            "name": "Praktische Informatik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "DAM"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "DAM"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "DAM"
+                }
+            ]
+        },
+        "MA1": {
+            "token": "MA1",
+            "name": "Mathematik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "WFW"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "WFW"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "WFW"
+                }
+            ]
+        },
+        "T-DT1": {
+            "token": "T-DT1",
+            "name": "Tutorium - Digitaltechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "WIB"
+                }
+            ]
+        },
+        "PH1": {
+            "token": "PH1",
+            "name": "Physik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "KIT"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "KIT"
+                }
+            ]
+        },
+        "DT1": {
+            "token": "DT1",
+            "name": "Digitaltechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "WIB"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "WIB"
+                }
+            ]
+        },
+        "ET1": {
+            "token": "ET1",
+            "name": "Elektrotechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "GIE"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "GIE"
+                }
+            ]
+        },
+        "T-MA1": {
+            "token": "T-MA1",
+            "name": "Tutorium  - Mathematik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "WFW"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Thomas Duttenhoefer",
+    "email": null,
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "D",
+            "name": "Gestaltung",
+            "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+        },
+        "institutes": [
+            {
+                "token": "PM",
+                "name": "Printorientierte Medien",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. L (11) Raum 255",
+    "phone": "(0621)-292-6156 Fax -6160",
+    "appointments": "n. Vereinb."
+}

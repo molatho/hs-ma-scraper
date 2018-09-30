@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Christian Frech",
+    "email": "c.frech",
+    "website": "http://www.bic.hs-mannheim.de/forschung/prof-dr-christian-frech.html",
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "BIC",
+                "name": "Biochemie",
+                "link": "http://www.bic.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. G (06) Raum 221",
+    "phone": "(0621)-292-6316 Fax 292-6452",
+    "appointments": "n. Vereinb."
+}

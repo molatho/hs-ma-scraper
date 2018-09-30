@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Thomas Friedrich",
+    "email": "t.friedrich",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "D",
+            "name": "Gestaltung",
+            "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. L (11) Raum 355",
+    "phone": "(0621)-292-6162 Fax -6160",
+    "appointments": "n. Vereinb."
+}

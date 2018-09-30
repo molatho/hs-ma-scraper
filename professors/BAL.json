@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Marion Baldus",
+    "email": "m.baldus",
+    "website": "http://baldusm.twoday.net",
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. C (03) Raum 305",
+    "phone": "(0621)-292-6730",
+    "appointments": "Dienstag 10:00 Uhr - 11:00 Uhr, in der vorlesungsfr. Zeit n. Vereinb"
+}

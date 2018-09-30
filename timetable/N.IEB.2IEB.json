@@ -1,0 +1,160 @@
+{
+    "token": "2IEB",
+    "courses": {
+        "OOP": {
+            "token": "OOP",
+            "name": "Objektorientierte Programmierung",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "BJM"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "BJM"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "BJM"
+                }
+            ]
+        },
+        "WST": {
+            "token": "WST",
+            "name": "Wechselstromtechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "SKH"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "SKH"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SKH"
+                }
+            ]
+        },
+        "MA2": {
+            "token": "MA2",
+            "name": "Mathematik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "MGL"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "MGL"
+                }
+            ]
+        },
+        "PH2": {
+            "token": "PH2",
+            "name": "Physik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "SUR"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "SUR"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "SUR"
+                }
+            ]
+        },
+        "DT2": {
+            "token": "DT2",
+            "name": "Digitaltechnik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "WIB"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "WIB"
+                }
+            ]
+        },
+        "ES": {
+            "token": "ES",
+            "name": "Elektronische Schaltungen",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "K�Z"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "K�Z"
+                }
+            ]
+        },
+        "DT2L": {
+            "token": "DT2L",
+            "name": "Digitaltechnik 2 - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "WIB"
+                }
+            ]
+        },
+        "T-PH2": {
+            "token": "T-PH2",
+            "name": "Tutorium - Physik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "SUR"
+                }
+            ]
+        },
+        "ESL": {
+            "token": "ESL",
+            "name": "Elektronische Schaltungen Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "K�Z"
+                }
+            ]
+        },
+        "T-MA2": {
+            "token": "T-MA2",
+            "name": "Tutorium - Mathematik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "MGL"
+                }
+            ]
+        }
+    }
+}

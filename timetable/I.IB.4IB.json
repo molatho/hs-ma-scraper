@@ -1,0 +1,31 @@
+{
+    "token": "4IB",
+    "courses": {
+        "SEP": {
+            "token": "SEP",
+            "name": "Software-Entwicklungsprojekt",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "KLS"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "KAE"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "KAE"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "KLS"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Torsten Markus",
+    "email": "t.markus",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. B   Raum 001",
+    "phone": "(0621)-292-6201 Fax 292-6240",
+    "appointments": "nach Vereinbarung"
+}

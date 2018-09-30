@@ -1,0 +1,117 @@
+{
+    "token": "3WB",
+    "courses": {
+        "STK": {
+            "token": "STK",
+            "name": "Statistik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "N�R"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "N�R"
+                }
+            ]
+        },
+        "ET1": {
+            "token": "ET1",
+            "name": "Grundlagen der Elektrotechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "WKT"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "WKT"
+                }
+            ]
+        },
+        "FT": {
+            "token": "FT",
+            "name": "Fertigungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "BLS"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "BLS"
+                }
+            ]
+        },
+        "PRM": {
+            "token": "PRM",
+            "name": "Produktionsmanagement",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "BRI"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "BRI"
+                }
+            ]
+        },
+        "IUF": {
+            "token": "IUF",
+            "name": "Investition und Finanzen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SCU"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "SCU"
+                }
+            ]
+        },
+        "ENB2": {
+            "token": "ENB2",
+            "name": "Englisch B2",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "MEY"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "MEY"
+                }
+            ]
+        },
+        "RW2": {
+            "token": "RW2",
+            "name": "Rechnungswesen 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "CHR"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "CHR"
+                }
+            ]
+        }
+    }
+}

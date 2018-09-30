@@ -1,0 +1,176 @@
+{
+    "token": "1WMB",
+    "courses": {
+        "T-PH": {
+            "token": "T-PH",
+            "name": "Tutorium - Physik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "RIS"
+                }
+            ]
+        },
+        "IM": {
+            "token": "IM",
+            "name": "Ingenieurmathematik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "NEU"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "NEU"
+                }
+            ]
+        },
+        "TZ": {
+            "token": "TZ",
+            "name": "Technisches Zeichnen",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "HGM"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "HGM"
+                }
+            ]
+        },
+        "CAD": {
+            "token": "CAD",
+            "name": "Computer Aided Design",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "FRM"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "FRM"
+                }
+            ]
+        },
+        "WK": {
+            "token": "WK",
+            "name": "Werkstoffkunde",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "FRA"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "FRA"
+                }
+            ]
+        },
+        "PH": {
+            "token": "PH",
+            "name": "Physik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "RIS"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "RIS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "RIS"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "RIS"
+                }
+            ]
+        },
+        "ET1": {
+            "token": "ET1",
+            "name": "Grundlagen der Elektrotechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "WKT"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "WKT"
+                }
+            ]
+        },
+        "TM": {
+            "token": "TM",
+            "name": "Technische Mechanik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "LID"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "LID"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "LID"
+                }
+            ]
+        },
+        "T-IM": {
+            "token": "T-IM",
+            "name": "Tutorium - Ingenieurmathematik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "NEU"
+                }
+            ]
+        },
+        "T-TM": {
+            "token": "T-TM",
+            "name": "Tutorium - Technische Mechanik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "LID"
+                }
+            ]
+        },
+        "T-ET1": {
+            "token": "T-ET1",
+            "name": "Tutorium - Grundlagen der Elektrotechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "WKT"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr.-Ing Martin Kim",
+    "email": "m.kim",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "D",
+            "name": "Gestaltung",
+            "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. L (11) Raum 352",
+    "phone": "(0621)-0179/39 84 036",
+    "appointments": ""
+}

@@ -1,0 +1,137 @@
+{
+    "token": "2BCB",
+    "courses": {
+        "AL2": {
+            "token": "AL2",
+            "name": "Analytische Chemie 2",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "WEN"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "WEN"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "WEN"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "WEN"
+                }
+            ]
+        },
+        "OCG": {
+            "token": "OCG",
+            "name": "Organische Chemische Grundlagen",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "SHA"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "SHA"
+                }
+            ]
+        },
+        "PHL": {
+            "token": "PHL",
+            "name": "Physik Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "ELS"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "ELS"
+                }
+            ]
+        },
+        "PH2": {
+            "token": "PH2",
+            "name": "Physik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "RUF"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "RUF"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "RUF"
+                }
+            ]
+        },
+        "MZB": {
+            "token": "MZB",
+            "name": "Molekulare Zellbiologie",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "HAF"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "HAF"
+                }
+            ]
+        },
+        "CH2": {
+            "token": "CH2",
+            "name": "Allgemeine und Physikalische Chemie 2",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "WEN"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "WEN"
+                }
+            ]
+        },
+        "MH2": {
+            "token": "MH2",
+            "name": "Mathematik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "RUF"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "RUF"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "RUF"
+                }
+            ]
+        }
+    }
+}

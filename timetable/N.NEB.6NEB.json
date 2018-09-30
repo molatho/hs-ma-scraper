@@ -1,0 +1,112 @@
+{
+    "token": "6NEB",
+    "courses": {
+        "KOM1": {
+            "token": "KOM1",
+            "name": "Kommunikationstechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "MAR"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "MAR"
+                }
+            ]
+        },
+        "SE1": {
+            "token": "SE1",
+            "name": "Sensorik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "VOI"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "VOI"
+                }
+            ]
+        },
+        "BL": {
+            "token": "BL",
+            "name": "Betriebswirtschaftslehre",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "PFA"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "PFA"
+                }
+            ]
+        },
+        "HF2": {
+            "token": "HF2",
+            "name": "Hochfrequenztechnik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "SHK"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "SHK"
+                }
+            ]
+        },
+        "PLB": {
+            "token": "PLB",
+            "name": "Programierbare Logikbausteine",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "ACK"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "ACK"
+                }
+            ]
+        },
+        "EIS1": {
+            "token": "EIS1",
+            "name": "Entwurf Integrierter Schaltungen 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "GIE"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "GIE"
+                }
+            ]
+        },
+        "PLBL": {
+            "token": "PLBL",
+            "name": "Programmierbare Logikbausteine - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "ACK"
+                }
+            ]
+        }
+    }
+}

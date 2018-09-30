@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Götz Lipphardt",
+    "email": "g.lipphardt",
+    "website": "http://www.et.hs-mannheim.de/fakultaet/ansprechpartner/professoren/prof-dr-lipphardt.html",
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ILA",
+                "name": "Leistungselektronik und Antriebstechnik",
+                "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/leistungselektronik-und-antriebstechnik.html"
+            }
+        ]
+    },
+    "extra": "Studiendekan Masterstudiengang Automatisierungs- und Energiesysteme",
+    "location": "B312",
+    "phone": "(0621)-292-6285 Fax 6-62853",
+    "appointments": "nach Vereinbarung per Email"
+}

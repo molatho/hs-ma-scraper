@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Anabel Clemen",
+    "email": "a.clemen",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ING",
+                "name": "Naturwissenschaftliche Grundlagen",
+                "link": "http://www.physik.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. G (06) Raum 003",
+    "phone": "(0621)-6438",
+    "appointments": "nach Vereinbarung"
+}

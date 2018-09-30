@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Winrich Habedank",
+    "email": "w.habedank",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "W",
+            "name": "Wirtschaftsingenieurwesen",
+            "link": "http://www.wing.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "Studiengangleiter WB",
+    "location": "Geb. L   Raum 254",
+    "phone": "(0621)-292-6759",
+    "appointments": "Fr. 10 - 11 Uhr; in vorlesungsfreien Zeiten nach Vereinb. (E-Mail)"
+}

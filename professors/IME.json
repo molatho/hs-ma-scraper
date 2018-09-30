@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Thomas Ihme",
+    "email": "t.ihme",
+    "website": "https://services.informatik.hs-mannheim.de/~ihme/",
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": [
+            {
+                "token": "RI",
+                "name": "Robotik",
+                "link": "http://www.ri.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Leiter Institut für Robotik",
+    "location": "Geb. A (01) Raum 112",
+    "phone": "(0621)-292-6226 Fax -662261",
+    "appointments": "Di 14.00 - 15.00 (um Anmeldung wird gebeten)"
+}

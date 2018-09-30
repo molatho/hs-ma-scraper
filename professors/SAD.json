@@ -1,0 +1,28 @@
+{
+    "name": "Dr. Günter Schad",
+    "email": "g.schad",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "CAE",
+                "name": "CAE-Anwendungen",
+                "link": "http://www.cae.hs-mannheim.de/"
+            },
+            {
+                "token": "KMP",
+                "name": "Kompetenzzentrum moderne Produktionssysteme",
+                "link": "http://www.kmp.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. K  Raum 117",
+    "phone": "(0621)-292-6847 Fax 292-668471",
+    "appointments": "nur nach Vereinbarung"
+}

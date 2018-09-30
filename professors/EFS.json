@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Simon Effler",
+    "email": "s.effler",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "Studiendekan EBE/UBE",
+    "location": "Geb. B (02) Raum 206",
+    "phone": "(0621)-+49 621 292 6855",
+    "appointments": "nach Vereinbarung"
+}

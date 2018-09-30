@@ -1,0 +1,112 @@
+{
+    "token": "1MTM",
+    "courses": {
+        "SE2": {
+            "token": "SE2",
+            "name": "Sensorik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "VOI"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "VOI"
+                }
+            ]
+        },
+        "EES": {
+            "token": "EES",
+            "name": "Eingebettete und Echtzeitsysteme",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "VET"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "VET"
+                }
+            ]
+        },
+        "SIP1": {
+            "token": "SIP1",
+            "name": "Signalprozessoren- Projektlabor 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "WIR"
+                }
+            ]
+        },
+        "AGT2": {
+            "token": "AGT2",
+            "name": "Analogtechnik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "K�Z"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "K�Z"
+                }
+            ]
+        },
+        "KIS": {
+            "token": "KIS",
+            "name": "Kommunikationssysteme in Stra�enfahrzeugen",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "KBL"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "KBL"
+                }
+            ]
+        },
+        "COM": {
+            "token": "COM",
+            "name": "Codierung und Modulation",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "MAR"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "MAR"
+                }
+            ]
+        },
+        "BMS": {
+            "token": "BMS",
+            "name": "Biomedizinische Sensorik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "RUO"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "RUO"
+                }
+            ]
+        }
+    }
+}

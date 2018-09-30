@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Utz Martin",
+    "email": "u.martin",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "DS",
+                "name": "Digitale Signalverarbeitung",
+                "link": "http://dsp.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Studiendekan NE",
+    "location": "Geb. S (20) Raum 321",
+    "phone": "(0621)-292-6865 Fax 292-668651",
+    "appointments": "Mo 13:45-14:45 und n. Vereinb."
+}

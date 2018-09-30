@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Matthias Lindner",
+    "email": "m.lindner",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "W",
+            "name": "Wirtschaftsingenieurwesen",
+            "link": "http://www.wing.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. L, Raum 154",
+    "phone": "(0621)-292-6832",
+    "appointments": "donnerstags, 10.00 bis 11:00"
+}

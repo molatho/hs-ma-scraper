@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Burkhard Voigt",
+    "email": "b.voigt",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "AGT",
+                "name": "Analogtechnik und Sensorik",
+                "link": "http://www.analogtechnik.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. R (08) Raum 106",
+    "phone": "(0621)-292-6559",
+    "appointments": "Mi + Do  11.15"
+}

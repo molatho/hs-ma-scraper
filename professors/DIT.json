@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Gerhard Dietrich",
+    "email": "g.dietrich",
+    "website": "http://www.et.hs-mannheim.de/fakultaet/ansprechpartner/professoren/prof-dr-dietrich.html",
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IAS",
+                "name": "Automatisierungssysteme",
+                "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/automatisierungssyteme.html"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. B (02) Raum 112",
+    "phone": "(0621)-292-6281 Fax 292-6 62 811",
+    "appointments": "Do. 11.15 - 12.00 Uhr, vorlesungsfreie Zeit: nach Vereinbarung."
+}

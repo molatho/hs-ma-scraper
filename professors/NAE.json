@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Andreas Nauerz",
+    "email": "a.nauerz",
+    "website": "http://www.cae.hs-mannheim.de/institut/startseite.html",
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "Prodekan M",
+    "location": "G 132",
+    "phone": "(0621)-6813 Fax 668131",
+    "appointments": "WS 18/19, Fr. 14:00 -15:00 Uhr"
+}

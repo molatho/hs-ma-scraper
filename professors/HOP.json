@@ -1,0 +1,28 @@
+{
+    "name": "Dr. Carsten Hopf",
+    "email": "c.hopf",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IA",
+                "name": "Instrumentelle Analytik",
+                "link": "http://www.ia.hs-mannheim.de/"
+            },
+            {
+                "token": "CeMOS",
+                "name": "Kompetenzzentrum CeMOS",
+                "link": "https://www.cemos.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Institutsleiter IA, Sprecher ZAFH, Leiter CeMOS",
+    "location": "Geb. G (06) Raum 143",
+    "phone": "(0621)-292-6802",
+    "appointments": "nach Vereinbarung"
+}

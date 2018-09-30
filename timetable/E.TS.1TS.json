@@ -1,0 +1,42 @@
+{
+    "token": "1TS",
+    "courses": {
+        "INF1": {
+            "token": "INF1",
+            "name": "Informatik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "MEH"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "MEH"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "MEH"
+                }
+            ]
+        },
+        "TIM": {
+            "token": "TIM",
+            "name": "Theoretische Informatik und Mathematik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "SMS"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "SMS"
+                }
+            ]
+        }
+    }
+}

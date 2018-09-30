@@ -1,0 +1,140 @@
+{
+    "token": "1SPR",
+    "courses": {
+        "TEN": {
+            "token": "TEN",
+            "name": "Technisches Englisch",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "HCL"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HCL"
+                }
+            ]
+        },
+        "EFD": {
+            "token": "EFD",
+            "name": "Englisch f�r Design",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "MNE"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "MNE"
+                }
+            ]
+        },
+        "ENB2a": {
+            "token": "ENB2a",
+            "name": "Englisch B2 Gruppe a",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "BAN"
+                }
+            ]
+        },
+        "ENB2": {
+            "token": "ENB2",
+            "name": "Englisch B2",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "CLE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "CLE"
+                }
+            ]
+        },
+        "ENC": {
+            "token": "ENC",
+            "name": "Englisch C1 Business Communication",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "BAN"
+                }
+            ]
+        },
+        "JAA1": {
+            "token": "JAA1",
+            "name": "Japanisch A1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "FUN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "FUN"
+                }
+            ]
+        },
+        "ENB2b": {
+            "token": "ENB2b",
+            "name": "Englisch B2 Gruppe b",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "BAN"
+                }
+            ]
+        },
+        "ENB1": {
+            "token": "ENB1",
+            "name": "Englisch B1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "CLE"
+                }
+            ]
+        },
+        "CHA1-2": {
+            "token": "CHA1-2",
+            "name": "Chinesisch A1-A2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "TRU"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "TRU"
+                }
+            ]
+        },
+        "SPB2": {
+            "token": "SPB2",
+            "name": "Spanisch B2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "RMO"
+                }
+            ]
+        }
+    }
+}

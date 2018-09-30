@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Martin Junker",
+    "email": "m.junker",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. B (02) Raum 110",
+    "phone": "(0621)-292-6522",
+    "appointments": "nach Vereinbarung"
+}

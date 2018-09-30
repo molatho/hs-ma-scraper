@@ -1,0 +1,23 @@
+{
+    "name": "Frank Göldner",
+    "email": "f.goeldner",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "D",
+            "name": "Gestaltung",
+            "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+        },
+        "institutes": [
+            {
+                "token": "FOT",
+                "name": "Fotografie",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. Z Raum 46",
+    "phone": "(0621)-292-6511 Fax -6184",
+    "appointments": "n. Vereinb."
+}

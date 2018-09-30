@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Stefan Steiger",
+    "email": "S.Steiger",
+    "website": "http://www.mb.hs-mannheim.de/fakultaet-fuer-maschinenbau/personen/professoren/steiger.html",
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. G (06) / Raum 228",
+    "phone": "(0621)-Tel 292-6487 / Fax 292-6-6487-1",
+    "appointments": "Nach Vereinbarung, bevorzugt per E-Mail."
+}

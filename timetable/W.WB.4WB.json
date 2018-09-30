@@ -1,0 +1,122 @@
+{
+    "token": "4WB",
+    "courses": {
+        "ET2": {
+            "token": "ET2",
+            "name": "Elektrische Antriebstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "HMM"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "HMM"
+                }
+            ]
+        },
+        "KA": {
+            "token": "KA",
+            "name": "Kraft- und Arbeitsmaschinen",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "LID"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "LID"
+                }
+            ]
+        },
+        "CO": {
+            "token": "CO",
+            "name": "Controlling",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "GAF"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "GAF"
+                }
+            ]
+        },
+        "MK": {
+            "token": "MK",
+            "name": "Marketing",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "GAF"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "GAF"
+                }
+            ]
+        },
+        "EKL": {
+            "token": "EKL",
+            "name": "Einkauf und Logistik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HAT"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "HAT"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "HAT"
+                }
+            ]
+        },
+        "IUF": {
+            "token": "IUF",
+            "name": "Investition und Finanzen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SCU"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "SCU"
+                }
+            ]
+        },
+        "RW2": {
+            "token": "RW2",
+            "name": "Rechnungswesen 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "CHR"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "CHR"
+                }
+            ]
+        }
+    }
+}

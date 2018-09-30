@@ -1,0 +1,177 @@
+{
+    "token": "2EB",
+    "courses": {
+        "GSE1L": {
+            "token": "GSE1L",
+            "name": "Halbleitergrundschaltungen und Kleinsignalverst�rker - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "EFS"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "EFS"
+                }
+            ]
+        },
+        "DV1L": {
+            "token": "DV1L",
+            "name": "Software-Engineering mit Einf�hrung in die C-Programmierung - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "DIT"
+                }
+            ]
+        },
+        "DV2L": {
+            "token": "DV2L",
+            "name": "C-Programmierung f�r Fortgeschrittene und Einf�hrung in die objektorientierte Programmierung - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "DIT"
+                }
+            ]
+        },
+        "PH1": {
+            "token": "PH1",
+            "name": "Mechanik und Schwingungen",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "BCK"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "BCK"
+                }
+            ]
+        },
+        "DV1": {
+            "token": "DV1",
+            "name": "Software-Engineering mit Einf�hrung in die C-Programmierung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "DIT"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 5,
+                    "prof": "DIT"
+                }
+            ]
+        },
+        "EMF": {
+            "token": "EMF",
+            "name": "Elektrische und magnetische Felder",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "DIT"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "DIT"
+                }
+            ]
+        },
+        "DV2": {
+            "token": "DV2",
+            "name": "C-Programmierung f�r Fortgeschrittene und Einf�hrung in die objektorientierte Programmierung",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "DIT"
+                }
+            ]
+        },
+        "MA2": {
+            "token": "MA2",
+            "name": "Mehrdimensionale Analysis und Reihen",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "RAS"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "RAS"
+                }
+            ]
+        },
+        "PH1�": {
+            "token": "PH1�",
+            "name": "Mechanik und Schwingungen - �bung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "BCK"
+                }
+            ]
+        },
+        "PH2": {
+            "token": "PH2",
+            "name": "Thermodynamik und Wellen",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "ELS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "ELS"
+                }
+            ]
+        },
+        "GE2": {
+            "token": "GE2",
+            "name": "Ein- und Mehrphasensysteme",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "MEZ"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "MEZ"
+                }
+            ]
+        },
+        "GSE1": {
+            "token": "GSE1",
+            "name": "Halbleitergrundschaltungen und Kleinsignalverst�rker",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "EFS"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "EFS"
+                }
+            ]
+        }
+    }
+}

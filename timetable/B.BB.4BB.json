@@ -1,0 +1,127 @@
+{
+    "token": "4BB",
+    "courses": {
+        "BC2": {
+            "token": "BC2",
+            "name": "Biochemie 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "FRC"
+                }
+            ]
+        },
+        "BCP": {
+            "token": "BCP",
+            "name": "Biochemie - Praktikum",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "FRC"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "FRC"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "FRC"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "FRC"
+                }
+            ]
+        },
+        "MRT": {
+            "token": "MRT",
+            "name": "Mess- und Regeltechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "BEU"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "BEU"
+                }
+            ]
+        },
+        "MRP": {
+            "token": "MRP",
+            "name": "Mess- und Regelungstechnisches Praktikum",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "BEU"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "BEU"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "BEU"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "BEU"
+                }
+            ]
+        },
+        "MOB": {
+            "token": "MOB",
+            "name": "Molekularbiologie",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "KIO"
+                }
+            ]
+        },
+        "BVT": {
+            "token": "BVT",
+            "name": "Bioverfahrenstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "PRE"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "PRE"
+                }
+            ]
+        },
+        "BRS": {
+            "token": "BRS",
+            "name": "Bioreaktionstechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "GRE"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "GRE"
+                }
+            ]
+        }
+    }
+}

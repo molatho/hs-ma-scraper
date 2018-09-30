@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Werner Diewald",
+    "email": "w.diewald",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ATS",
+                "name": "Anlagentechnik und Anlagensicherheit",
+                "link": "http://www.ats.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Studiendekan CM",
+    "location": "G146",
+    "phone": "(0621)-292-6805 Fax 292-668051",
+    "appointments": "nach Vereinbarung"
+}

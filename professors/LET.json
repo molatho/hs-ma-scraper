@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Sandro Leuchter",
+    "email": "s.leuchter",
+    "website": "https://dama.io/",
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. A (01) Raum 113a",
+    "phone": null,
+    "appointments": "Mi 13:15-14:15 nach Anmeldung per E-Mail"
+}

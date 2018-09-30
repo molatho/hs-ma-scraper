@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Till Adrian",
+    "email": "t.adrian",
+    "website": "http://www.tv.hs-mannheim.de/adrian/adrian.html",
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "TV",
+                "name": "Thermische Verfahrenstechnik",
+                "link": "http://www.tv.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "Institutsleiter Thermische Verfahrenstechnik",
+    "location": "Geb. E (05) Raum 101",
+    "phone": "(0621)-292-6784",
+    "appointments": "nach Vereinbarung"
+}

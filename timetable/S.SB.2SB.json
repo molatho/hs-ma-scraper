@@ -1,0 +1,168 @@
+{
+    "token": "2SB",
+    "courses": {
+        "SOP": {
+            "token": "SOP",
+            "name": "Sozialpolitik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "MLL"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "MLL"
+                }
+            ]
+        },
+        "JUH-A": {
+            "token": "JUH-A",
+            "name": "Jugendhilfe im Jugendstrafverfahren - Gruppe A",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "TOU"
+                }
+            ]
+        },
+        "SOS": {
+            "token": "SOS",
+            "name": "System moderner Gesellschaften",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "SSC"
+                }
+            ]
+        },
+        "ENTW": {
+            "token": "ENTW",
+            "name": "Entwicklungspsychologie",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "SSC"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "SSC"
+                }
+            ]
+        },
+        "JUH-B": {
+            "token": "JUH-B",
+            "name": "Jugendhilfe im Jugendstrafverfahren - Gruppe B",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "TOU"
+                }
+            ]
+        },
+        "WIS": {
+            "token": "WIS",
+            "name": "Wissenschaftliches Arbeiten und wissenschaftliches Schreiben",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "NOY"
+                }
+            ]
+        },
+        "LFI2-A": {
+            "token": "LFI2-A",
+            "name": "Lern- und Forschungswerkstatt Soziale Arbeit - Vertiefung (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HDB"
+                }
+            ]
+        },
+        "RBEZ-A": {
+            "token": "RBEZ-A",
+            "name": "Rechtsbeziehungen zw. Eltern und Kindern (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "HMB"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "HMB"
+                }
+            ]
+        },
+        "BWL": {
+            "token": "BWL",
+            "name": "Betriebswirtschaft Grundlagen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "WEW"
+                }
+            ]
+        },
+        "LEB": {
+            "token": "LEB",
+            "name": "Sozialpolit. Herausforderungen und Lebenslagen in Deutschlan",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "MLL"
+                }
+            ]
+        },
+        "LFI2-B": {
+            "token": "LFI2-B",
+            "name": "Lern- und Forschungswerkstatt Soziale Arbeit - Vertiefung (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "NOY"
+                }
+            ]
+        },
+        "SYS": {
+            "token": "SYS",
+            "name": "System moderner Gesellschaften",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "UTZ"
+                }
+            ]
+        },
+        "RBEZ-B": {
+            "token": "RBEZ-B",
+            "name": "Rechtsbeziehungen zw. Eltern und Kindern (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "HMB"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "HMB"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "token": "7UIB",
+    "courses": {
+        "MLE": {
+            "token": "MLE",
+            "name": "Maschinelles Lernen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "FIJ"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "FIJ"
+                }
+            ]
+        },
+        "UNS": {
+            "token": "UNS",
+            "name": "Unternehmenssimulation",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "ROD"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "ROD"
+                }
+            ]
+        },
+        "TRA": {
+            "token": "TRA",
+            "name": "Technisches Trading",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "DOP"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "DOP"
+                }
+            ]
+        },
+        "APV": {
+            "token": "APV",
+            "name": "Angewandte Projektarbeit:Visualisierung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "NAT"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "NAT"
+                }
+            ]
+        },
+        "WIA": {
+            "token": "WIA",
+            "name": "Wissenschaftliches Arbeiten",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "PLS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "PLS"
+                }
+            ]
+        },
+        "LSD": {
+            "token": "LSD",
+            "name": "Large Scale (Software-) Development",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "SMI"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "SMI"
+                }
+            ]
+        },
+        "AGI": {
+            "token": "AGI",
+            "name": "Agile SW-Entwicklung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "FUE"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "FUE"
+                }
+            ]
+        },
+        "VS": {
+            "token": "VS",
+            "name": "Verteilte Systeme",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SPE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "SPE"
+                }
+            ]
+        },
+        "GAE": {
+            "token": "GAE",
+            "name": "Game Engineering",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "DOP"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "DOP"
+                }
+            ]
+        },
+        "PML": {
+            "token": "PML",
+            "name": "Python und Maschinelles Lernen",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "GRT"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "GRT"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Heinz Wyrwich",
+    "email": "h.wyrwich",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "D",
+            "name": "Gestaltung",
+            "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+        },
+        "institutes": [
+            {
+                "token": "VCA",
+                "name": "Video/Computeranimation",
+                "link": "http://www.gestaltung.hs-mannheim.de/designwiki/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. L (11) Raum 352",
+    "phone": "(0621)-292-6154 Fax -6160",
+    "appointments": "Mo 13.00 - 14.00 Uhr"
+}

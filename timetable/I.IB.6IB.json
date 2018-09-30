@@ -1,0 +1,165 @@
+{
+    "token": "6IB",
+    "courses": {
+        "GDV": {
+            "token": "GDV",
+            "name": "Grundlagen der Datenvisualisierung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "NAT"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "NAT"
+                }
+            ]
+        },
+        "BIM": {
+            "token": "BIM",
+            "name": "Bioinformatik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "GUM"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "GUM"
+                }
+            ]
+        },
+        "WAF": {
+            "token": "WAF",
+            "name": "Webarchitekturen und Frameworks",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "SPE"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "SPE"
+                }
+            ]
+        },
+        "IGT": {
+            "token": "IGT",
+            "name": "Integrationstechnologien",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "KOJ"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "KOJ"
+                }
+            ]
+        },
+        "SMA": {
+            "token": "SMA",
+            "name": "Security Management ",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "PLS"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "PLS"
+                }
+            ]
+        },
+        "ERD": {
+            "token": "ERD",
+            "name": "Recht und Datenschutz",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "ZBO"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "ZBO"
+                }
+            ]
+        },
+        "WIA": {
+            "token": "WIA",
+            "name": "Wissenschaftliches Arbeiten",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "PLS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "PLS"
+                }
+            ]
+        },
+        "MBI": {
+            "token": "MBI",
+            "name": "Mathematische Biologie",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "STL"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "STL"
+                }
+            ]
+        },
+        "VS": {
+            "token": "VS",
+            "name": "Verteilte Systeme",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SPE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "SPE"
+                }
+            ]
+        },
+        "SQUAD": {
+            "token": "SQUAD",
+            "name": "SQUAD",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "HUM"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "SMI"
+                }
+            ]
+        }
+    }
+}

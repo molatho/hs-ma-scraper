@@ -1,0 +1,123 @@
+{
+    "token": "1WMW",
+    "courses": {
+        "TPM1": {
+            "token": "TPM1",
+            "name": "Innovations- und Technologiemanagement",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "ALS"
+                }
+            ]
+        },
+        "PR1": {
+            "token": "PR1",
+            "name": "Moderne Produktionssysteme",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "BRI"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "BRI"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "BRI"
+                }
+            ]
+        },
+        "IT": {
+            "token": "IT",
+            "name": "Informationsmanagement",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "HAT"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "HAT"
+                }
+            ]
+        },
+        "IR": {
+            "token": "IR",
+            "name": "Internationale Rechnungslegung",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "CHR"
+                }
+            ]
+        },
+        "INT": {
+            "token": "INT",
+            "name": "Innovative Technologien",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "NEU"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "NEU"
+                }
+            ]
+        },
+        "IWR": {
+            "token": "IWR",
+            "name": "Internationales Wirtschaftsrecht",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "BGM"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "BGM"
+                }
+            ]
+        },
+        "CAE": {
+            "token": "CAE",
+            "name": "Computer Aided Engineering",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "HBD"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "HBD"
+                }
+            ]
+        },
+        "SWK": {
+            "token": "SWK",
+            "name": "Spezielle Werkstoffe",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "FRA"
+                }
+            ]
+        }
+    }
+}

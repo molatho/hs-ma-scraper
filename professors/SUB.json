@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Wolfgang Schubert",
+    "email": "w.schubert",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "PRC",
+                "name": "Physikalische Chemie und Radiochemie",
+                "link": "http://prc.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Institutsleiter",
+    "location": "Geb. G (06) Raum 142",
+    "phone": "(0621)-292 - 6783 Fax 292 - 6 6783 1",
+    "appointments": "nach Vereinbarung"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Till Nagel",
+    "email": "t.nagel",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. A Raum 106b",
+    "phone": "(0621)-292-6886",
+    "appointments": "nach Vereinbarung"
+}

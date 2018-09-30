@@ -1,0 +1,17 @@
+{
+    "name": "Thomas Smits",
+    "email": "t.smits",
+    "website": "http://jonathan.sv.hs-mannheim.de/~t.smits/",
+    "associations": {
+        "faculty": {
+            "token": "I",
+            "name": "Informatik",
+            "link": "http://www.informatik.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "Prodekan Fakultät I",
+    "location": "A106a",
+    "phone": "(0621)-0621 292-6191",
+    "appointments": "Nach Vereinbarung per E-Mail,"
+}

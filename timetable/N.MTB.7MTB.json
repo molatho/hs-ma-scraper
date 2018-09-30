@@ -1,0 +1,21 @@
+{
+    "token": "7MTB",
+    "courses": {
+        "BL": {
+            "token": "BL",
+            "name": "Betriebswirtschaftslehre",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "PFA"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "PFA"
+                }
+            ]
+        }
+    }
+}

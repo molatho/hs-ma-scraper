@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Ulrich Harten",
+    "email": "u.harten",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "ING",
+                "name": "Naturwissenschaftliche Grundlagen",
+                "link": "http://www.physik.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. A  Raum 207",
+    "phone": "(0621)-292-6772",
+    "appointments": "Di. 11.00 - 11.45 oder per mail"
+}

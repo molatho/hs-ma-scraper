@@ -1,0 +1,193 @@
+{
+    "token": "6VB",
+    "courses": {
+        "VP2": {
+            "token": "VP2",
+            "name": "Verfahrenstechnisches Praktikum 2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "LAN"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "LAN"
+                }
+            ]
+        },
+        "PVB": {
+            "token": "PVB",
+            "name": "Programmieren mit Visual Basic",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "LAN"
+                }
+            ]
+        },
+        "TV2": {
+            "token": "TV2",
+            "name": "Thermische Verfahrenstechnik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "LAN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "LAN"
+                }
+            ]
+        },
+        "AP": {
+            "token": "AP",
+            "name": "Anlagenplanung",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "WET"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "WET"
+                }
+            ]
+        },
+        "PSV": {
+            "token": "PSV",
+            "name": "Prozess Simulation Verfahrenstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "EWR"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "EWR"
+                }
+            ]
+        },
+        "AS": {
+            "token": "AS",
+            "name": "Anlagensicherheit",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "WET"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "WET"
+                }
+            ]
+        },
+        "MV2": {
+            "token": "MV2",
+            "name": "Mechanische Verfahrenstechnik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HOB"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "HOB"
+                }
+            ]
+        },
+        "BPE": {
+            "token": "BPE",
+            "name": "Bioreaktoren und periphere Einrichtungen",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "SUB"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SUB"
+                }
+            ]
+        },
+        "REE": {
+            "token": "REE",
+            "name": "Regenerative Energien",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "EIW"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "EIW"
+                }
+            ]
+        },
+        "LVT": {
+            "token": "LVT",
+            "name": "Lebensmittelverfahrenstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "HRA"
+                }
+            ]
+        },
+        "VTS": {
+            "token": "VTS",
+            "name": "Verfahrenstechnisches Seminar",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "EWR"
+                }
+            ]
+        },
+        "BBT": {
+            "token": "BBT",
+            "name": "Brennstoffzellen- und Baterietechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SCV"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "SCV"
+                }
+            ]
+        },
+        "FIT": {
+            "token": "FIT",
+            "name": "Filtertechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "SHU"
+                }
+            ]
+        }
+    }
+}

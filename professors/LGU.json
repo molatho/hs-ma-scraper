@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Guido Van de Logt",
+    "email": "g.vandelogt",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "E",
+            "name": "Elektrotechnik",
+            "link": "http://www.et.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "IAS",
+                "name": "Automatisierungssysteme",
+                "link": "http://www.et.hs-mannheim.de/fakultaet/fachgebiete-institute/automatisierungssyteme.html"
+            }
+        ]
+    },
+    "extra": "Prüfungsausschussvorsitzender Fak E Studiengangleiter MEB",
+    "location": "Geb. B (02) Raum 110",
+    "phone": "(0621)-6522",
+    "appointments": "nach Vereinbarung"
+}

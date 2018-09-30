@@ -1,0 +1,37 @@
+{
+    "token": "7TIB",
+    "courses": {
+        "WAI": {
+            "token": "WAI",
+            "name": "Webarchitekturen im Internet",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "DAM"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "DAM"
+                }
+            ]
+        },
+        "DB": {
+            "token": "DB",
+            "name": "Datenbanken",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "BTH"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "BTH"
+                }
+            ]
+        }
+    }
+}

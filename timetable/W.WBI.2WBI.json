@@ -1,0 +1,127 @@
+{
+    "token": "2WBI",
+    "courses": {
+        "T-PH": {
+            "token": "T-PH",
+            "name": "Tutorium - Physik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "RIS"
+                }
+            ]
+        },
+        "ORG": {
+            "token": "ORG",
+            "name": "Organisation",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "KLI"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "KLI"
+                }
+            ]
+        },
+        "MA2W": {
+            "token": "MA2W",
+            "name": "Mathematik f�r Wirtschaftsingenieure 2",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "NEU"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "NEU"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "NEU"
+                }
+            ]
+        },
+        "WK": {
+            "token": "WK",
+            "name": "Werkstoffkunde",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "FRA"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "FRA"
+                }
+            ]
+        },
+        "PHW": {
+            "token": "PHW",
+            "name": "Physik f�r Wirtschaftsingenieure",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "RIS"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "RIS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "RIS"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "RIS"
+                }
+            ]
+        },
+        "IVWL": {
+            "token": "IVWL",
+            "name": "Internationale Wirtschaft und Volkswirtschaftslehre",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "KLZ"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "KLZ"
+                }
+            ]
+        },
+        "RW1": {
+            "token": "RW1",
+            "name": "Finanzbuchhaltung und Bilanzierung",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "FIB"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "FIB"
+                }
+            ]
+        }
+    }
+}

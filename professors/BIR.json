@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Gunther Birkel",
+    "email": "g.birkel",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "W",
+            "name": "Wirtschaftsingenieurwesen",
+            "link": "http://www.wing.hs-mannheim.de/"
+        },
+        "institutes": null
+    },
+    "extra": "",
+    "location": "Geb. L (11) Raum 155",
+    "phone": "(0621)-292-6833 Fax -6453",
+    "appointments": "nach Vereinbarung per E-Mail"
+}

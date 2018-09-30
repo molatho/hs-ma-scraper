@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Jürgen Giehl",
+    "email": "j.giehl",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "N",
+            "name": "Informationstechnik",
+            "link": "http://www.it.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "EIS",
+                "name": "Entwurf integrierter Schaltkreise",
+                "link": "http://chip-design.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. S (20) Raum 216",
+    "phone": "(0621)-292-6860 Fax 292-6 6860 1",
+    "appointments": "nach Vereinbarung"
+}

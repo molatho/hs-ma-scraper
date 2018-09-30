@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Gerhard Hiltscher",
+    "email": "g.hiltscher",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "M",
+            "name": "Maschinenbau",
+            "link": "http://www.mb.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "CAE",
+                "name": "CAE-Anwendungen",
+                "link": "http://www.cae.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "Geb. K130",
+    "phone": "(0621)-292-6848 Fax -6500",
+    "appointments": "Dienstag 11.15-12.15 Uhr"
+}

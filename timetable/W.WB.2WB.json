@@ -1,0 +1,127 @@
+{
+    "token": "2WB",
+    "courses": {
+        "PHW": {
+            "token": "PHW",
+            "name": "Physik f�r Wirtschaftsingenieure",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "RIS"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "RIS"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "RIS"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "RIS"
+                }
+            ]
+        },
+        "ORG": {
+            "token": "ORG",
+            "name": "Organisation",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "KLI"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "KLI"
+                }
+            ]
+        },
+        "RW1": {
+            "token": "RW1",
+            "name": "Finanzbuchhaltung und Bilanzierung",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "CHR"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "CHR"
+                }
+            ]
+        },
+        "IVWL": {
+            "token": "IVWL",
+            "name": "Internationale Wirtschaft und Volkswirtschaftslehre",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "KLZ"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "KLZ"
+                }
+            ]
+        },
+        "MA2W": {
+            "token": "MA2W",
+            "name": "Mathematik f�r Wirtschaftsingenieure 2",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "N�R"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "N�R"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "N�R"
+                }
+            ]
+        },
+        "WR1": {
+            "token": "WR1",
+            "name": "Wirtschaftsrecht 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "BGM"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "BGM"
+                }
+            ]
+        },
+        "T-PHW": {
+            "token": "T-PHW",
+            "name": "Tutorium - Pysik f�r Wirtschaftsingenieure",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "RIS"
+                }
+            ]
+        }
+    }
+}

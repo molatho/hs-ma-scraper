@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Astrid Hedtke-Becker",
+    "email": "a.hedtke-becker",
+    "website": "http://hedtkebeckera.twoday.net/",
+    "associations": {
+        "faculty": {
+            "token": "S",
+            "name": "Sozialwesen",
+            "link": "http://www.sw.hs-mannheim.de"
+        },
+        "institutes": null
+    },
+    "extra": "Dekanin",
+    "location": "Geb. C (03) Raum 207",
+    "phone": "(0621)-292-6398 und mobil 0172-2180146 Fax 292-6720",
+    "appointments": "mittwochs 12.00-13.00 und n.V. Bitte per Mail oder mobil anmelden"
+}

@@ -1,0 +1,101 @@
+{
+    "token": "1IMB",
+    "courses": {
+        "PR1": {
+            "token": "PR1",
+            "name": "Programmierung 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "FIJ"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "FIJ"
+                }
+            ]
+        },
+        "EI": {
+            "token": "EI",
+            "name": "Einf�hrung in die Informatik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "FOL"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "FOL"
+                }
+            ]
+        },
+        "PR1-L": {
+            "token": "PR1-L",
+            "name": "Programmierung 1 - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "IHU"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "IHU"
+                }
+            ]
+        },
+        "MI1": {
+            "token": "MI1",
+            "name": "Medizinische Informatik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "GUM"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "GUM"
+                }
+            ]
+        },
+        "MA1": {
+            "token": "MA1",
+            "name": "Mathematik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "TOY"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "TOY"
+                }
+            ]
+        },
+        "MED1": {
+            "token": "MED1",
+            "name": "Medizintechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "LBN1"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "LBN1"
+                }
+            ]
+        }
+    }
+}

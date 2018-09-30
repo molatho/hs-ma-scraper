@@ -1,0 +1,42 @@
+{
+    "token": "3TS",
+    "courses": {
+        "INT": {
+            "token": "INT",
+            "name": "Internetanwendungen",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "HAU"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "HAU"
+                }
+            ]
+        },
+        "PMS": {
+            "token": "PMS",
+            "name": "Projektmanagement und Softwareengineering",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "GRT"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "GRT"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "GRT"
+                }
+            ]
+        }
+    }
+}

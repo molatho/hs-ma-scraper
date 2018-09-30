@@ -1,0 +1,164 @@
+{
+    "token": "1UBE",
+    "courses": {
+        "EE1": {
+            "token": "EE1",
+            "name": "Analysis of Electric DC- and AC-Circuits",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "ISE"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "ISE"
+                }
+            ]
+        },
+        "EMF": {
+            "token": "EMF",
+            "name": "Elektrische und magnetische Felder",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "ISE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "ISE"
+                }
+            ]
+        },
+        "DP1": {
+            "token": "DP1",
+            "name": "Programming in C",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "POL"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "POL"
+                }
+            ]
+        },
+        "T-MA1": {
+            "token": "T-MA1",
+            "name": "Tutorium - Calculus",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "KSU"
+                }
+            ]
+        },
+        "MA1": {
+            "token": "MA1",
+            "name": "Calculus",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "KSU"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "KSU"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "KSU"
+                }
+            ]
+        },
+        "PH1": {
+            "token": "PH1",
+            "name": "Mechanics and Vibrations",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "HAR"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HAR"
+                }
+            ]
+        },
+        "T-DP1": {
+            "token": "T-DP1",
+            "name": "Tutorium - Software Engineering an Introduction to Programming in C",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "POL"
+                }
+            ]
+        },
+        "DEU1a": {
+            "token": "DEU1a",
+            "name": "Deutsch als Fremdsprache 1 - Gruppe A",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "�ZE"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SDA"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "SDA"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "�ZE"
+                }
+            ]
+        },
+        "DEU1b": {
+            "token": "DEU1b",
+            "name": "Deutsch als Fremdsprache 1 - Gruppe B",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SDA"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "�ZE"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "�ZE"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "SDA"
+                }
+            ]
+        }
+    }
+}

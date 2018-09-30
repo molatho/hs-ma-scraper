@@ -1,0 +1,138 @@
+{
+    "token": "3BCB",
+    "courses": {
+        "OCA": {
+            "token": "OCA",
+            "name": "Organische Chemie Parktikum A",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "SCD"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "SCD"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "SCD"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "SCD"
+                }
+            ]
+        },
+        "PCH": {
+            "token": "PCH",
+            "name": "Physikalische Chemie",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "SUB"
+                }
+            ]
+        },
+        "IAP": {
+            "token": "IAP",
+            "name": "Praktikum zur Instrumentellen Analytik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "WPH"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "WPH"
+                }
+            ]
+        },
+        "IA": {
+            "token": "IA",
+            "name": "Instrumentelle Analytik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "WPH"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "WPH"
+                }
+            ]
+        },
+        "BC1": {
+            "token": "BC1",
+            "name": "Biochemie 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "STN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "STN"
+                }
+            ]
+        },
+        "STK": {
+            "token": "STK",
+            "name": "Statistik - Biostatistik Grundlagen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "RUF"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "RUF"
+                }
+            ]
+        },
+        "PCP": {
+            "token": "PCP",
+            "name": "Physikalisch - Chemisches Praktikum",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SEH"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SEH"
+                }
+            ]
+        },
+        "OCH": {
+            "token": "OCH",
+            "name": "Organische Chemie",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "SHA"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "SHA"
+                }
+            ]
+        }
+    }
+}

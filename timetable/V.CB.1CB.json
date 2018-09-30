@@ -1,0 +1,106 @@
+{
+    "token": "1CB",
+    "courses": {
+        "PH1": {
+            "token": "PH1",
+            "name": "Physik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "VIN"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "VIN"
+                }
+            ]
+        },
+        "MA1": {
+            "token": "MA1",
+            "name": "Mathematik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "CAN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "CAN"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "CAN"
+                }
+            ]
+        },
+        "TG": {
+            "token": "TG",
+            "name": "Technische Grundlagen",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "DIW"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "DIW"
+                }
+            ]
+        },
+        "AC1": {
+            "token": "AC1",
+            "name": "Allgemeine und anorganische Chemie 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "HOF"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "HOF"
+                }
+            ]
+        },
+        "TB": {
+            "token": "TB",
+            "name": "Technische Biologie",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "HRA"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "HRA"
+                }
+            ]
+        },
+        "ANS": {
+            "token": "ANS",
+            "name": "Analysentechnik Seminar",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "STZ"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "STZ"
+                }
+            ]
+        }
+    }
+}

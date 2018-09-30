@@ -1,0 +1,117 @@
+{
+    "token": "2IB",
+    "courses": {
+        "SE1": {
+            "token": "SE1",
+            "name": "Software Engineering 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "KLS"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "KLS"
+                }
+            ]
+        },
+        "TEI2": {
+            "token": "TEI2",
+            "name": "Technische Informatik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "WOI"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "FIJ"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "FIJ"
+                }
+            ]
+        },
+        "THI": {
+            "token": "THI",
+            "name": "Theoretische Informatik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "SMS"
+                }
+            ]
+        },
+        "THI-�": {
+            "token": "THI-�",
+            "name": "Theoretische Informatik �bungen",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SMS"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SMS"
+                }
+            ]
+        },
+        "PR2": {
+            "token": "PR2",
+            "name": "Programmierung 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "LET"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "LET"
+                }
+            ]
+        },
+        "PR2-L": {
+            "token": "PR2-L",
+            "name": "Programmierung 2 - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "LET"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "LET"
+                }
+            ]
+        },
+        "MA2": {
+            "token": "MA2",
+            "name": "Mathematik 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "TOY"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "TOY"
+                }
+            ]
+        }
+    }
+}

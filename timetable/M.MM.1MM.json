@@ -1,0 +1,165 @@
+{
+    "token": "1MM",
+    "courses": {
+        "HTH": {
+            "token": "HTH",
+            "name": "H�here Thermodynamik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "MRK"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "MRK"
+                }
+            ]
+        },
+        "MD": {
+            "token": "MD",
+            "name": "Material Design",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "MRK"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "MRK"
+                }
+            ]
+        },
+        "WW": {
+            "token": "WW",
+            "name": "Werkstoffwissenschaft",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "STF"
+                }
+            ]
+        },
+        "MPV": {
+            "token": "MPV",
+            "name": "Moderne Produktionsverfahren",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "HAP"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "HAP"
+                }
+            ]
+        },
+        "PEP": {
+            "token": "PEP",
+            "name": "Produktentwicklungsprozesse",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "SGS"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "SGS"
+                }
+            ]
+        },
+        "TMA": {
+            "token": "TMA",
+            "name": "H�here Technische Mathematik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "OTO"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "OTO"
+                }
+            ]
+        },
+        "MUM": {
+            "token": "MUM",
+            "name": "Multifunktionelle Materialien",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "STF"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "STF"
+                }
+            ]
+        },
+        "MMT": {
+            "token": "MMT",
+            "name": "Mikromechatronik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "STF"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "STF"
+                }
+            ]
+        },
+        "MPS": {
+            "token": "MPS",
+            "name": "Moderne Produktionssysteme",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "HAP"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "HAP"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "HAP"
+                }
+            ]
+        },
+        "HFM": {
+            "token": "HFM",
+            "name": "H�here Fluidmechanik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "WEI"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "WEI"
+                }
+            ]
+        }
+    }
+}

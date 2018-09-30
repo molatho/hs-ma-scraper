@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Heike Steinert",
+    "email": "h.steinert",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "CV",
+                "name": "Chemische Verfahrenstechnik",
+                "link": "http://www.cv.hs-mannheim.de"
+            }
+        ]
+    },
+    "extra": "Studiendekanin CB",
+    "location": "Geb. G  Raum 003",
+    "phone": "(0621)-292-6878",
+    "appointments": "Do. 10.00-11.00 Uhr und nach Vereinbarung"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Karlheinz Preuß",
+    "email": "k.preuss",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "B",
+            "name": "Biotechnologie",
+            "link": "http://www.biotech.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "MIB",
+                "name": "Technische Mikrobiologie",
+                "link": "http://www.mib.hs-mannheim.de/home.html"
+            }
+        ]
+    },
+    "extra": "",
+    "location": null,
+    "phone": null,
+    "appointments": ""
+}

@@ -1,0 +1,111 @@
+{
+    "token": "1VF",
+    "courses": {
+        "WSU": {
+            "token": "WSU",
+            "name": "W�rme- und Stoff�bertragung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "EIW"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "EIW"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "EIW"
+                }
+            ]
+        },
+        "ANM": {
+            "token": "ANM",
+            "name": "Angewandte nummerische Mathematik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "OTO"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "OTO"
+                }
+            ]
+        },
+        "ICH": {
+            "token": "ICH",
+            "name": "Industrielle Chemie",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "SCV"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SCV"
+                }
+            ]
+        },
+        "AP": {
+            "token": "AP",
+            "name": "Anlagenplanung",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "WET"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "WET"
+                }
+            ]
+        },
+        "RT1": {
+            "token": "RT1",
+            "name": "Reaktionstechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "R�T"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "R�T"
+                }
+            ]
+        },
+        "TV": {
+            "token": "TV",
+            "name": "Thermische Verfahrenstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "ADR"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "ADR"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "ADR"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dr. Wolfgang Eisenmann",
+    "email": "w.eisenmann",
+    "website": null,
+    "associations": {
+        "faculty": {
+            "token": "V",
+            "name": "Verfahrens- und Chemietechnik",
+            "link": "http://www.vct.hs-mannheim.de/"
+        },
+        "institutes": [
+            {
+                "token": "PI",
+                "name": "Prozessmesstechnik und  innovative Energiesysteme",
+                "link": "http://www.pi.hs-mannheim.de/"
+            }
+        ]
+    },
+    "extra": "",
+    "location": "S018",
+    "phone": "(0621)-292-6196 Fax -661961",
+    "appointments": "nach Vereinbarung per E-Mail"
+}

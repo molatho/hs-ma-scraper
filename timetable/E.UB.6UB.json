@@ -1,0 +1,149 @@
+{
+    "token": "6UB",
+    "courses": {
+        "SP2": {
+            "token": "SP2",
+            "name": "Bewegungssteuerungen zur Automatisierung fertigungstechnischer Prozesse",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "SET"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "SET"
+                }
+            ]
+        },
+        "RG2": {
+            "token": "RG2",
+            "name": "Digitale Regelsysteme",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "G�T"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "G�T"
+                }
+            ]
+        },
+        "MC2": {
+            "token": "MC2",
+            "name": "Analoge und digitale Signalverarbeitung",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "JUN"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "JUN"
+                }
+            ]
+        },
+        "IK": {
+            "token": "IK",
+            "name": "Industrielle Kommunikatiostechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "HBN"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "HBN"
+                }
+            ]
+        },
+        "AST": {
+            "token": "AST",
+            "name": "Angewandte Schaltungstechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HBN"
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "TRE"
+                }
+            ]
+        },
+        "SM1": {
+            "token": "SM1",
+            "name": "Simulationstechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "RAS"
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "RAS"
+                }
+            ]
+        },
+        "SP2L": {
+            "token": "SP2L",
+            "name": "Bewegungssteuerungen zur Automatisierung fertigungstechnischer Prozesse - Labor",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SET"
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SET"
+                }
+            ]
+        },
+        "GT": {
+            "token": "GT",
+            "name": "Automatisierung in der Geb�udetechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "HAN"
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "HAN"
+                }
+            ]
+        },
+        "SSTA": {
+            "token": "SSTA",
+            "name": "Seminar",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "G�T"
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "G�T"
+                }
+            ]
+        }
+    }
+}
