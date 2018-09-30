@@ -8,12 +8,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "HUM"
+                    "prof": "HUM",
+                    "location": "H0409 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "KOJ",
+                    "location": "H0506,H0507 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "HUM"
+                    "prof": "HUM",
+                    "location": "H0409 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "KOJ",
+                    "location": "H0506,H0507 "
                 }
             ]
         },
@@ -24,12 +38,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "FOL"
+                    "prof": "FOL",
+                    "location": "A206 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "FOL"
+                    "prof": "FOL",
+                    "location": "A206 "
                 }
             ]
         },
@@ -40,12 +56,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "DCH"
+                    "prof": "DCH",
+                    "location": "A206 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "DCH"
+                    "prof": "DCH",
+                    "location": "A206 "
                 }
             ]
         },
@@ -56,12 +74,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "TOY"
+                    "prof": "TOY",
+                    "location": "A206 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "TOY"
+                    "prof": "TOY",
+                    "location": "B202 "
                 }
             ]
         },
@@ -72,12 +92,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "HUM"
+                    "prof": "HUM",
+                    "location": "H0906 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "HUM"
+                    "prof": "HUM",
+                    "location": "A206 "
                 }
             ]
         },
@@ -88,12 +110,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "GRT"
+                    "prof": "GRT",
+                    "location": "A206 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "GRT"
+                    "prof": "GRT",
+                    "location": "A206 "
                 }
             ]
         }

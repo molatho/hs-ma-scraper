@@ -8,12 +8,32 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "KOE"
+                    "prof": "KOE",
+                    "location": "L014 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "KOE"
+                    "prof": "KOE",
+                    "location": "H0807 "
+                }
+            ]
+        },
+        "KOM1": {
+            "token": "KOM1",
+            "name": "Kommunikationstechnik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "MAR",
+                    "location": "S212 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "MAR",
+                    "location": "S220 "
                 }
             ]
         },
@@ -24,12 +44,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "VOI"
+                    "prof": "VOI",
+                    "location": "L014 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 0,
-                    "prof": "VOI"
+                    "prof": "VOI",
+                    "location": "L209 "
                 }
             ]
         },
@@ -38,14 +60,16 @@
             "name": "Neuro-Prothetik",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "POP"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "POP"
+                    "prof": "POP",
+                    "location": "S220 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "POP",
+                    "location": "S221 "
                 }
             ]
         },
@@ -56,12 +80,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "VET"
+                    "prof": "VET",
+                    "location": "S113,S117 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "VET"
+                    "prof": "VET",
+                    "location": "S221 "
                 }
             ]
         },
@@ -72,12 +98,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "LBN2"
+                    "prof": "LBN2",
+                    "location": "S220 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "LBN2"
+                    "prof": "LBN2",
+                    "location": "S220 "
                 }
             ]
         },
@@ -86,14 +114,16 @@
             "name": "Biomechatronik",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "NGU"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "NGU"
+                    "prof": "NGU",
+                    "location": "S220 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "NGU",
+                    "location": "S220 "
                 }
             ]
         }

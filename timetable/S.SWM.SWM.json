@@ -8,7 +8,32 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "LBS3"
+                    "prof": "LBS3",
+                    "location": "C110 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "LBS3",
+                    "location": "C110 "
+                }
+            ]
+        },
+        "MP9": {
+            "token": "MP9",
+            "name": "Tanzp�dagogik und Tanzprojekte in der Kinder- und Jugendarbeit",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "BLR",
+                    "location": "C110 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "BLR",
+                    "location": "C110 "
                 }
             ]
         },
@@ -19,7 +44,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "LBS6"
+                    "prof": "LBS6",
+                    "location": "C110 "
                 }
             ]
         },
@@ -30,7 +56,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "LBS2"
+                    "prof": "LBS2",
+                    "location": "C002 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "LBS2",
+                    "location": "C003 "
                 }
             ]
         },
@@ -41,7 +74,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "LNG"
+                    "prof": "LNG",
+                    "location": "C310 "
+                }
+            ]
+        },
+        "HT9": {
+            "token": "HT9",
+            "name": "Deeskalation im Spannungsfeld der Sozialen Arbeit",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "BLR",
+                    "location": "C306 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "BLR",
+                    "location": "C306 "
                 }
             ]
         },
@@ -52,7 +104,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "LBS6"
+                    "prof": "LBS6",
+                    "location": "C110 "
                 }
             ]
         },
@@ -63,7 +116,44 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "KKA"
+                    "prof": "KKA",
+                    "location": "C002 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "KKA",
+                    "location": "C003 "
+                }
+            ]
+        },
+        "HT1": {
+            "token": "HT1",
+            "name": "Die neuen Kinderkrankheiten (!) - Entstehung aus der Perspektive aktualisierter psychodynamischer Erkenntnisse",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "NOC",
+                    "location": "C310 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "RSE",
+                    "location": "C310 "
+                }
+            ]
+        },
+        "MH2": {
+            "token": "MH2",
+            "name": "Kommunalpolitik",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "VAR",
+                    "location": "A212 "
                 }
             ]
         },
@@ -74,23 +164,32 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "ENE"
+                    "prof": "ENE",
+                    "location": "C110 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "ENE"
+                    "prof": "ENE",
+                    "location": "C110 "
                 }
             ]
         },
-        "HT9": {
-            "token": "HT9",
-            "name": "Deeskalation im Spannungsfeld der Sozialen Arbeit",
+        "HF8": {
+            "token": "HF8",
+            "name": "Schulsozialarbeit im Spannungsfeld ",
             "dates": [
                 {
-                    "dayOfWeek": 0,
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "MIK",
+                    "location": "C110 "
+                },
+                {
+                    "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "BLR"
+                    "prof": "MIK",
+                    "location": "C110 "
                 }
             ]
         },
@@ -101,7 +200,26 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "BWF"
+                    "prof": "BWF",
+                    "location": "C311/312 "
+                }
+            ]
+        },
+        "HT4": {
+            "token": "HT4",
+            "name": "Kreatives Lesen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "UTZ",
+                    "location": "C310 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "UTZ",
+                    "location": "C310 "
                 }
             ]
         },
@@ -112,7 +230,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "KIL"
+                    "prof": "KIL",
+                    "location": "C211 "
                 }
             ]
         },
@@ -123,18 +242,38 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "VAR"
+                    "prof": "VAR",
+                    "location": "C002 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "VAR",
+                    "location": "C003 "
                 }
             ]
         },
-        "HT4": {
-            "token": "HT4",
-            "name": "Kreatives Lesen",
+        "MP4": {
+            "token": "MP4",
+            "name": "Sozialdokumentarische Fotografie in der Sozialen Arbeit",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "WLF",
+                    "location": "C110 "
+                }
+            ]
+        },
+        "MH6": {
+            "token": "MH6",
+            "name": "Bilder. Macht. Wissen - Bildtheoretische und -analytische Zug�nge f�r den Einsatz dokumentarischer Methoden in der Sozialen Arbe",
             "dates": [
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "UTZ"
+                    "prof": "LNG",
+                    "location": "C003 "
                 }
             ]
         },
@@ -145,7 +284,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "LBS5"
+                    "prof": "LBS5",
+                    "location": "C212 "
                 }
             ]
         },
@@ -156,12 +296,26 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "WST"
+                    "prof": "WST",
+                    "location": "C002 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "WST",
+                    "location": "C003 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "WST"
+                    "prof": "WST",
+                    "location": "C002 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "WST",
+                    "location": "C003 "
                 }
             ]
         },
@@ -172,7 +326,38 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "VAR"
+                    "prof": "VAR",
+                    "location": "C211 "
+                }
+            ]
+        },
+        "MP8": {
+            "token": "MP8",
+            "name": "(�ber-) Lebenskunst / Elemente eines gelingenden Lebens",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "BHE",
+                    "location": "C002 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "BHE",
+                    "location": "C003 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "BHE",
+                    "location": "C002 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "BHE",
+                    "location": "C003 "
                 }
             ]
         },
@@ -183,7 +368,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "WEJ"
+                    "prof": "WEJ",
+                    "location": "C211 "
                 }
             ]
         },
@@ -194,18 +380,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "SPT"
-                }
-            ]
-        },
-        "MP8": {
-            "token": "MP8",
-            "name": "(�ber-) Lebenskunst / Elemente eines gelingenden Lebens",
-            "dates": [
-                {
-                    "dayOfWeek": 0,
-                    "timeSlot": 5,
-                    "prof": "BHE"
+                    "prof": "SPT",
+                    "location": "C110 "
                 }
             ]
         },
@@ -216,7 +392,26 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
-                    "prof": "SUT"
+                    "prof": "SUT",
+                    "location": "C110 "
+                }
+            ]
+        },
+        "MH3": {
+            "token": "MH3",
+            "name": "Studieren und Arbeiten in Deutschland",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "WEW",
+                    "location": "C002 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "WEW",
+                    "location": "C003 "
                 }
             ]
         }

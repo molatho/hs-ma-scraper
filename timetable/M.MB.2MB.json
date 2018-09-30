@@ -8,17 +8,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "HIL"
+                    "prof": "HIL",
+                    "location": "L015 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "HIL"
+                    "prof": "HIL",
+                    "location": "H0407 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 0,
-                    "prof": "HIL"
+                    "prof": "HIL",
+                    "location": "L113 "
                 }
             ]
         },
@@ -29,12 +32,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "ELS"
+                    "prof": "ELS",
+                    "location": "A307 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "ELS"
+                    "prof": "ELS",
+                    "location": "A307 "
                 }
             ]
         },
@@ -45,17 +50,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "LUH"
+                    "prof": "LUH",
+                    "location": "L013 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "LUH"
+                    "prof": "LUH",
+                    "location": "H0408 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "LUH"
+                    "prof": "LUH",
+                    "location": "H0408 "
                 }
             ]
         },
@@ -64,14 +72,16 @@
             "name": "Werkstofftechnik 2",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 1,
-                    "prof": "STF"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "STF"
+                    "prof": "STF",
+                    "location": "L207 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "STF",
+                    "location": "H0408 "
                 }
             ]
         },
@@ -80,19 +90,22 @@
             "name": "Konstruktion 2",
             "dates": [
                 {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "WEI",
+                    "location": "L113 "
+                },
+                {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "WEI"
+                    "prof": "WEI",
+                    "location": "H0407 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "WEI"
-                },
-                {
-                    "dayOfWeek": 0,
-                    "timeSlot": 3,
-                    "prof": "WEI"
+                    "prof": "WEI",
+                    "location": "H1010 "
                 }
             ]
         },
@@ -101,14 +114,16 @@
             "name": "Physik 2",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "OTO"
-                },
-                {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "OTO"
+                    "prof": "OTO",
+                    "location": "A309 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "OTO",
+                    "location": "A311 "
                 }
             ]
         },
@@ -119,7 +134,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "LUH"
+                    "prof": "LUH",
+                    "location": "H1114 "
                 }
             ]
         },
@@ -130,7 +146,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "STF"
+                    "prof": "STF",
+                    "location": "H1008 "
                 }
             ]
         },
@@ -141,12 +158,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "HNA"
+                    "prof": "HNA",
+                    "location": "G133 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "HNA"
+                    "prof": "HNA",
+                    "location": "G133 "
                 }
             ]
         }

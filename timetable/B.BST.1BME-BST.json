@@ -8,7 +8,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "MUI"
+                    "prof": "MUI",
+                    "location": "H1007 "
                 }
             ]
         },
@@ -19,7 +20,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "MEE"
+                    "prof": "MEE",
+                    "location": "H1008 "
                 }
             ]
         },
@@ -30,7 +32,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "KIO"
+                    "prof": "KIO",
+                    "location": "H1007 "
                 }
             ]
         },
@@ -41,7 +44,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "KIO"
+                    "prof": "KIO",
+                    "location": "H1008 "
                 }
             ]
         },
@@ -50,19 +54,22 @@
             "name": "Biostatistics",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 1,
-                    "prof": "RUF"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "RUF"
+                    "prof": "RUF",
+                    "location": "H1007 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "RUF"
+                    "prof": "RUF",
+                    "location": "H1007 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "RUF",
+                    "location": "H1007 "
                 }
             ]
         },
@@ -73,7 +80,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "KIO"
+                    "prof": "KIO",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -84,7 +92,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "STN"
+                    "prof": "STN",
+                    "location": "H0407 "
                 }
             ]
         },
@@ -95,7 +104,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "ARR"
+                    "prof": "ARR",
+                    "location": "G054 "
                 }
             ]
         },
@@ -106,7 +116,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "RUO"
+                    "prof": "RUO",
+                    "location": "B002 "
                 }
             ]
         },
@@ -117,7 +128,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "KUZ"
+                    "prof": "KUZ",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -128,7 +140,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "GRE"
+                    "prof": "GRE",
+                    "location": "G045 "
                 }
             ]
         },
@@ -139,7 +152,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
-                    "prof": "SWZ"
+                    "prof": "SWZ",
+                    "location": "H0908 "
                 }
             ]
         }

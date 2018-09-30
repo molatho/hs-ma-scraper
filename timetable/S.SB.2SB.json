@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "MLL"
+                    "prof": "MLL",
+                    "location": "C311/312 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "MLL"
+                    "prof": "MLL",
+                    "location": "C311/312 "
                 }
             ]
         },
@@ -24,7 +26,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "TOU"
+                    "prof": "TOU",
+                    "location": "C212 "
+                }
+            ]
+        },
+        "MAN-B": {
+            "token": "MAN-B",
+            "name": "Management-Grundlagen (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "WEW",
+                    "location": "C211 "
                 }
             ]
         },
@@ -35,7 +50,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "SSC"
+                    "prof": "SSC",
+                    "location": "C212 "
                 }
             ]
         },
@@ -44,14 +60,16 @@
             "name": "Entwicklungspsychologie",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "SSC"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "SSC"
+                    "prof": "SSC",
+                    "location": "H1107 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "SSC",
+                    "location": "H1006 "
                 }
             ]
         },
@@ -62,7 +80,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "TOU"
+                    "prof": "TOU",
+                    "location": "C212 "
+                }
+            ]
+        },
+        "MAN-A": {
+            "token": "MAN-A",
+            "name": "Management-Grundlagen (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "WEW",
+                    "location": "C211 "
                 }
             ]
         },
@@ -73,7 +104,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "NOY"
+                    "prof": "NOY",
+                    "location": "C212 "
                 }
             ]
         },
@@ -84,7 +116,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "HDB"
+                    "prof": "HDB",
+                    "location": "C110 "
                 }
             ]
         },
@@ -95,12 +128,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "HMB"
+                    "prof": "HMB",
+                    "location": "C311/312 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "HMB"
+                    "prof": "HMB",
+                    "location": "C311/312 "
                 }
             ]
         },
@@ -111,7 +146,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "WEW"
+                    "prof": "WEW",
+                    "location": "L209 "
                 }
             ]
         },
@@ -122,7 +158,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "MLL"
+                    "prof": "MLL",
+                    "location": "C311/312 "
                 }
             ]
         },
@@ -133,7 +170,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "NOY"
+                    "prof": "NOY",
+                    "location": "C310 "
                 }
             ]
         },
@@ -144,7 +182,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "UTZ"
+                    "prof": "UTZ",
+                    "location": "H0307 "
                 }
             ]
         },
@@ -155,12 +194,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "HMB"
+                    "prof": "HMB",
+                    "location": "C311/312 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "HMB"
+                    "prof": "HMB",
+                    "location": "C311/312 "
                 }
             ]
         }

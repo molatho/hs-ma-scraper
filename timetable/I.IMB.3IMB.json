@@ -6,14 +6,16 @@
             "name": "Webtechnologien",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 0,
-                    "prof": "SPE"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "SPE"
+                    "prof": "SPE",
+                    "location": "A211 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "SPE",
+                    "location": "A211 "
                 }
             ]
         },
@@ -22,14 +24,16 @@
             "name": "Mathematik 3",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 1,
-                    "prof": "STL"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "STL"
+                    "prof": "STL",
+                    "location": "A211 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "STL",
+                    "location": "A211 "
                 }
             ]
         },
@@ -38,14 +42,16 @@
             "name": "Medizinische Informatik 4",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 1,
-                    "prof": "WOI"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "WOI"
+                    "prof": "WOI",
+                    "location": "A010 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "WOI",
+                    "location": "A008 "
                 }
             ]
         },
@@ -54,14 +60,16 @@
             "name": "Datenmanagement",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 2,
-                    "prof": "GUM"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "GUM"
+                    "prof": "GUM",
+                    "location": "H0408 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "GUM",
+                    "location": "A008 "
                 }
             ]
         },
@@ -72,12 +80,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "SMP"
+                    "prof": "SMP",
+                    "location": "H0407 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "SMP"
+                    "prof": "SMP",
+                    "location": "H0407 "
                 }
             ]
         },
@@ -86,14 +96,28 @@
             "name": "Software Engineering 2",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 3,
-                    "prof": "KOK"
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "KAE",
+                    "location": "H0407 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "KAE"
+                    "prof": "KOK",
+                    "location": "H0407 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "KAE",
+                    "location": "H0408 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "KOK",
+                    "location": "H0408 "
                 }
             ]
         }

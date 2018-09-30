@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "PFA"
+                    "prof": "PFA",
+                    "location": "L113 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "PFA"
+                    "prof": "PFA",
+                    "location": "L113 "
                 }
             ]
         }

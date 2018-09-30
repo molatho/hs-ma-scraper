@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "LUH"
+                    "prof": "LUH",
+                    "location": "H0806 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "LUH"
+                    "prof": "LUH",
+                    "location": "H1006 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "MRK"
+                    "prof": "MRK",
+                    "location": "A305 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "MRK"
+                    "prof": "MRK",
+                    "location": "H1107 "
                 }
             ]
         },
@@ -40,12 +44,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "HUT"
+                    "prof": "HUT",
+                    "location": "L014 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "HUT"
+                    "prof": "HUT",
+                    "location": "G137 "
                 }
             ]
         },
@@ -54,14 +60,16 @@
             "name": "Tribologie",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "MOJ"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "MOJ"
+                    "prof": "MOJ",
+                    "location": "G045 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "MOJ",
+                    "location": "L210 "
                 }
             ]
         },
@@ -72,12 +80,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "WEI"
+                    "prof": "WEI",
+                    "location": "H1006 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "WEI"
+                    "prof": "WEI",
+                    "location": "H0806 "
                 }
             ]
         },
@@ -86,14 +96,16 @@
             "name": "Technische Mechanik 3",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 2,
-                    "prof": "NAE"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "NAE"
+                    "prof": "NAE",
+                    "location": "H0906 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "NAE",
+                    "location": "H0906 "
                 }
             ]
         },
@@ -104,7 +116,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "RUL"
+                    "prof": "RUL",
+                    "location": "L015 "
                 }
             ]
         },
@@ -115,7 +128,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "LUH"
+                    "prof": "LUH",
+                    "location": "H1114 "
                 }
             ]
         }

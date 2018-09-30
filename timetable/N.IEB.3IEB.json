@@ -8,12 +8,26 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "ACK"
+                    "prof": "ACK",
+                    "location": "R010 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "ACK",
+                    "location": "S012 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "ACK"
+                    "prof": "ACK",
+                    "location": "R010 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "ACK",
+                    "location": "S012 "
                 }
             ]
         },
@@ -22,19 +36,22 @@
             "name": "Mathematik 3",
             "dates": [
                 {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SUR",
+                    "location": "L110 "
+                },
+                {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "SUR"
+                    "prof": "SUR",
+                    "location": "S212 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "SUR"
-                },
-                {
-                    "dayOfWeek": 1,
-                    "timeSlot": 3,
-                    "prof": "SUR"
+                    "prof": "SUR",
+                    "location": "L110 "
                 }
             ]
         },
@@ -43,14 +60,16 @@
             "name": "Signale und Systeme",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "MAR"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "MAR"
+                    "prof": "MAR",
+                    "location": "S212 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "MAR",
+                    "location": "L110 "
                 }
             ]
         },
@@ -59,14 +78,16 @@
             "name": "Digital und Microcomputertechnik",
             "dates": [
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 2,
-                    "prof": "ACK"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "ACK"
+                    "prof": "ACK",
+                    "location": "H1107 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "ACK",
+                    "location": "H1107 "
                 }
             ]
         },
@@ -75,14 +96,16 @@
             "name": "Felder",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 2,
-                    "prof": "SHK"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "SHK"
+                    "prof": "SHK",
+                    "location": "L209 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SHK",
+                    "location": "L209 "
                 }
             ]
         },
@@ -93,12 +116,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "K�Z"
+                    "prof": "K�Z",
+                    "location": "L014 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "K�Z"
+                    "prof": "K�Z",
+                    "location": "L014 "
                 }
             ]
         },
@@ -109,7 +134,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "ACK"
+                    "prof": "ACK",
+                    "location": "L015 "
                 }
             ]
         }

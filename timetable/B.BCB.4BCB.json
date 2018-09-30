@@ -8,7 +8,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "FRC"
+                    "prof": "FRC",
+                    "location": "G137 "
                 }
             ]
         },
@@ -19,22 +20,32 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "STN"
+                    "prof": "STN",
+                    "location": "G211 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "STN",
+                    "location": "H0908 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "STN"
+                    "prof": "STN",
+                    "location": "G211 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "STN"
+                    "prof": "STN",
+                    "location": "G211 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "STN"
+                    "prof": "STN",
+                    "location": "G211 "
                 }
             ]
         },
@@ -45,17 +56,20 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "SCD"
+                    "prof": "SCD",
+                    "location": "G118 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "SCD"
+                    "prof": "SCD",
+                    "location": "G118 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "SCD"
+                    "prof": "SCD",
+                    "location": "G118 "
                 }
             ]
         },
@@ -66,22 +80,26 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "MCK"
+                    "prof": "MCK",
+                    "location": "G213 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "MCK"
+                    "prof": "MCK",
+                    "location": "G213 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "MCK"
+                    "prof": "MCK",
+                    "location": "G213 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "MCK"
+                    "prof": "MCK",
+                    "location": "G213 "
                 }
             ]
         },
@@ -90,14 +108,16 @@
             "name": "Mikrobiologie",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "MCK"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "MCK"
+                    "prof": "MCK",
+                    "location": "H0407 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "MCK",
+                    "location": "G045 "
                 }
             ]
         },
@@ -108,7 +128,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "KIO"
+                    "prof": "KIO",
+                    "location": "G137 "
                 }
             ]
         },
@@ -119,12 +140,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "SCD"
+                    "prof": "SCD",
+                    "location": "G045 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "SCD"
+                    "prof": "SCD",
+                    "location": "G045 "
                 }
             ]
         }

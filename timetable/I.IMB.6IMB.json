@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "NAT"
+                    "prof": "NAT",
+                    "location": "A210 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "NAT"
+                    "prof": "NAT",
+                    "location": "A008 "
                 }
             ]
         },
@@ -22,14 +24,16 @@
             "name": "Bioinformatik",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 0,
-                    "prof": "GUM"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "GUM"
+                    "prof": "GUM",
+                    "location": "A010 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "GUM",
+                    "location": "A212 "
                 }
             ]
         },
@@ -38,14 +42,16 @@
             "name": "Webarchitekturen und Frameworks",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "SPE"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "SPE"
+                    "prof": "SPE",
+                    "location": "A210 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "SPE",
+                    "location": "A210 "
                 }
             ]
         },
@@ -54,14 +60,16 @@
             "name": "Integrationstechnologien",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "KOJ"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "KOJ"
+                    "prof": "KOJ",
+                    "location": "A211 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "KOJ",
+                    "location": "A210 "
                 }
             ]
         },
@@ -72,12 +80,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "PLS"
+                    "prof": "PLS",
+                    "location": "PSD2 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "PLS"
+                    "prof": "PLS",
+                    "location": "PSD2 "
                 }
             ]
         },
@@ -88,12 +98,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "ZBO"
+                    "prof": "ZBO",
+                    "location": "A211 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "ZBO"
+                    "prof": "ZBO",
+                    "location": "A211 "
                 }
             ]
         },
@@ -104,12 +116,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "PLS"
+                    "prof": "PLS",
+                    "location": "A206 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "PLS"
+                    "prof": "PLS",
+                    "location": "A206 "
                 }
             ]
         },
@@ -120,12 +134,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "STL"
+                    "prof": "STL",
+                    "location": "H1007 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "STL"
+                    "prof": "STL",
+                    "location": "H0909 "
                 }
             ]
         },
@@ -136,12 +152,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "SPE"
+                    "prof": "SPE",
+                    "location": "A211 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "SPE"
+                    "prof": "SPE",
+                    "location": "A211 "
                 }
             ]
         },
@@ -152,12 +170,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "SMI"
+                    "prof": "HUM",
+                    "location": "PSD1 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "SMI",
+                    "location": "PSD1 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "HUM"
+                    "prof": "HUM",
+                    "location": "PSD1 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "SMI",
+                    "location": "PSD1 "
                 }
             ]
         }

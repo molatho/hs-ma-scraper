@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "SET"
+                    "prof": "SET",
+                    "location": "B004 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "SET"
+                    "prof": "SET",
+                    "location": "B004 "
                 }
             ]
         },
@@ -24,12 +26,26 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "G�T"
+                    "prof": "G�T",
+                    "location": "B105 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "G�T",
+                    "location": "B202 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "G�T"
+                    "prof": "G�T",
+                    "location": "B105 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "G�T",
+                    "location": "B202 "
                 }
             ]
         }

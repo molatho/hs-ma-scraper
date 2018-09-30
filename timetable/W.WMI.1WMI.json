@@ -8,7 +8,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "ALS"
+                    "prof": "ALS",
+                    "location": "L208 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "ALS",
+                    "location": "L112 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "ALS",
+                    "location": "L112 "
                 }
             ]
         },
@@ -19,17 +32,20 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "BRI"
+                    "prof": "BRI",
+                    "location": "L012 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "BRI"
+                    "prof": "BRI",
+                    "location": "L207 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "BRI"
+                    "prof": "BRI",
+                    "location": "L207 "
                 }
             ]
         },
@@ -38,14 +54,16 @@
             "name": "General Management",
             "dates": [
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 1,
-                    "prof": "CHR"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "CHR"
+                    "prof": "CHR",
+                    "location": "L112 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "CHR",
+                    "location": "L112 "
                 }
             ]
         },
@@ -56,12 +74,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "GAF"
+                    "prof": "GAF",
+                    "location": "L113 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "GAF"
+                    "prof": "GAF",
+                    "location": "L113 "
                 }
             ]
         },
@@ -70,19 +90,22 @@
             "name": "Einkauf und Logistik",
             "dates": [
                 {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "HAT",
+                    "location": "L209 "
+                },
+                {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "HAT"
+                    "prof": "HAT",
+                    "location": "H1107 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "HAT"
-                },
-                {
-                    "dayOfWeek": 0,
-                    "timeSlot": 3,
-                    "prof": "HAT"
+                    "prof": "HAT",
+                    "location": "H1107 "
                 }
             ]
         },
@@ -93,12 +116,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "BIR"
+                    "prof": "BIR",
+                    "location": "L305 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "BIR"
+                    "prof": "BIR",
+                    "location": "L305 "
                 }
             ]
         }

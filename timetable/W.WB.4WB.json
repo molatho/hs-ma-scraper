@@ -6,14 +6,16 @@
             "name": "Elektrische Antriebstechnik",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "HMM"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "HMM"
+                    "prof": "HMM",
+                    "location": "L012 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "HMM",
+                    "location": "L111 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "LID"
+                    "prof": "LID",
+                    "location": "L011 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "LID"
+                    "prof": "LID",
+                    "location": "H0910 "
                 }
             ]
         },
@@ -40,12 +44,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "GAF"
+                    "prof": "GAF",
+                    "location": "L207 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "GAF"
+                    "prof": "GAF",
+                    "location": "L206 "
                 }
             ]
         },
@@ -56,12 +62,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "GAF"
+                    "prof": "GAF",
+                    "location": "L113 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "GAF"
+                    "prof": "GAF",
+                    "location": "L113 "
                 }
             ]
         },
@@ -70,19 +78,22 @@
             "name": "Einkauf und Logistik",
             "dates": [
                 {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "HAT",
+                    "location": "L209 "
+                },
+                {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "HAT"
+                    "prof": "HAT",
+                    "location": "H1107 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "HAT"
-                },
-                {
-                    "dayOfWeek": 0,
-                    "timeSlot": 3,
-                    "prof": "HAT"
+                    "prof": "HAT",
+                    "location": "H1107 "
                 }
             ]
         },
@@ -93,12 +104,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "SCU"
+                    "prof": "SCU",
+                    "location": "H0906 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "SCU"
+                    "prof": "SCU",
+                    "location": "H0906 "
                 }
             ]
         },
@@ -107,14 +120,16 @@
             "name": "Rechnungswesen 2",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 3,
-                    "prof": "CHR"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "CHR"
+                    "prof": "CHR",
+                    "location": "H0806 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "CHR",
+                    "location": "H0906 "
                 }
             ]
         }

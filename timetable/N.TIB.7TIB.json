@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "DAM"
+                    "prof": "DAM",
+                    "location": "L215 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "DAM"
+                    "prof": "DAM",
+                    "location": "S117 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "BTH"
+                    "prof": "BTH",
+                    "location": "L208 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "BTH"
+                    "prof": "BTH",
+                    "location": "H0406 "
                 }
             ]
         }

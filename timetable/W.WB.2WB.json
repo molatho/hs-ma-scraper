@@ -6,24 +6,28 @@
             "name": "Physik f�r Wirtschaftsingenieure",
             "dates": [
                 {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "RIS",
+                    "location": "A311 "
+                },
+                {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "RIS"
+                    "prof": "RIS",
+                    "location": "A309 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "RIS"
+                    "prof": "RIS",
+                    "location": "L114 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "RIS"
-                },
-                {
-                    "dayOfWeek": 1,
-                    "timeSlot": 4,
-                    "prof": "RIS"
+                    "prof": "RIS",
+                    "location": "A305 "
                 }
             ]
         },
@@ -32,14 +36,16 @@
             "name": "Organisation",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "KLI"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "KLI"
+                    "prof": "KLI",
+                    "location": "L114 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "KLI",
+                    "location": "L114 "
                 }
             ]
         },
@@ -50,12 +56,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "CHR"
+                    "prof": "CHR",
+                    "location": "L015 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "CHR"
+                    "prof": "CHR",
+                    "location": "L015 "
                 }
             ]
         },
@@ -66,12 +74,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "KLZ"
+                    "prof": "KLZ",
+                    "location": "H0910 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "KLZ"
+                    "prof": "KLZ",
+                    "location": "H0910 "
                 }
             ]
         },
@@ -80,19 +90,22 @@
             "name": "Mathematik f�r Wirtschaftsingenieure 2",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "N�R"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "N�R"
+                    "prof": "N�R",
+                    "location": "L113 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "N�R"
+                    "prof": "N�R",
+                    "location": "H0808 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "N�R",
+                    "location": "L111 "
                 }
             ]
         },
@@ -103,12 +116,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "BGM"
+                    "prof": "BGM",
+                    "location": "L014 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "BGM"
+                    "prof": "BGM",
+                    "location": "L110 "
                 }
             ]
         },
@@ -119,7 +134,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "RIS"
+                    "prof": "RIS",
+                    "location": "L015 "
                 }
             ]
         }

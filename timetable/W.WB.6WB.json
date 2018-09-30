@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "SIP"
+                    "prof": "SIP",
+                    "location": "L110 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "SIP"
+                    "prof": "SIP",
+                    "location": "L110 "
                 }
             ]
         },
@@ -24,17 +26,32 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "HAU"
+                    "prof": "HAU",
+                    "location": "B103 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "HAU",
+                    "location": "L113 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "HAU"
+                    "prof": "HAU",
+                    "location": "B103 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "HAU",
+                    "location": "L113 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "HAU"
+                    "prof": "HAU",
+                    "location": "B103 "
                 }
             ]
         },
@@ -45,12 +62,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "BGM"
+                    "prof": "BGM",
+                    "location": "L012 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "BGM"
+                    "prof": "BGM",
+                    "location": "L012 "
                 }
             ]
         },
@@ -59,14 +78,16 @@
             "name": "Qualit�tsmanagement",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "HAP"
-                },
-                {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "HAP"
+                    "prof": "HAP",
+                    "location": "L114 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "HAP",
+                    "location": "L014 "
                 }
             ]
         },
@@ -75,19 +96,22 @@
             "name": "Informationstechnologie 2",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 2,
-                    "prof": "BIR"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "BIR"
+                    "prof": "BIR",
+                    "location": "L305 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "BIR",
+                    "location": "L305 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "BIR"
+                    "prof": "BIR",
+                    "location": "L305 "
                 }
             ]
         },
@@ -98,7 +122,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "BGM"
+                    "prof": "BGM",
+                    "location": "L112 "
                 }
             ]
         }

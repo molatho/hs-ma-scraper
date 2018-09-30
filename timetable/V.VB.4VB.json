@@ -8,12 +8,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "LAN"
+                    "prof": "LAN",
+                    "location": "E001 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "LAN",
+                    "location": "H0406A "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "LAN"
+                    "prof": "LAN",
+                    "location": "E001 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "LAN",
+                    "location": "H0406A "
                 }
             ]
         },
@@ -24,7 +38,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "HOB"
+                    "prof": "HOB",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -35,7 +50,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "RAS"
+                    "prof": "RAS",
+                    "location": "H1007 "
                 }
             ]
         },
@@ -46,12 +62,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "R�T"
+                    "prof": "R�T",
+                    "location": "L209 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "R�T"
+                    "prof": "R�T",
+                    "location": "H0910 "
                 }
             ]
         },
@@ -60,14 +78,16 @@
             "name": "Mechanische Verfahrenstechnik 1",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "HOB"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "HOB"
+                    "prof": "HOB",
+                    "location": "H0908 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "HOB",
+                    "location": "L207 "
                 }
             ]
         },
@@ -78,12 +98,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "LAN"
+                    "prof": "LAN",
+                    "location": "L207 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "LAN"
+                    "prof": "LAN",
+                    "location": "L207 "
                 }
             ]
         },
@@ -94,7 +116,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "WET"
+                    "prof": "WET",
+                    "location": "H0807 "
                 }
             ]
         },
@@ -105,17 +128,20 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "RAD"
+                    "prof": "RAD",
+                    "location": "S017 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "RAD"
+                    "prof": "RAD",
+                    "location": "S017 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "RAD"
+                    "prof": "RAD",
+                    "location": "S017 "
                 }
             ]
         },
@@ -126,12 +152,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "WET"
+                    "prof": "WET",
+                    "location": "H0909 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "WET"
+                    "prof": "WET",
+                    "location": "H0908 "
                 }
             ]
         }

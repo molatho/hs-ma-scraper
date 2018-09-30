@@ -8,7 +8,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "FRC"
+                    "prof": "FRC",
+                    "location": "G137 "
                 }
             ]
         },
@@ -19,22 +20,26 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "FRC"
+                    "prof": "FRC",
+                    "location": "G211 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "FRC"
+                    "prof": "FRC",
+                    "location": "G211 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "FRC"
+                    "prof": "FRC",
+                    "location": "G211 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "FRC"
+                    "prof": "FRC",
+                    "location": "G211 "
                 }
             ]
         },
@@ -45,12 +50,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "BEU"
+                    "prof": "BEU",
+                    "location": "H0909 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "BEU"
+                    "prof": "BEU",
+                    "location": "H0908 "
                 }
             ]
         },
@@ -61,22 +68,26 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "BEU"
+                    "prof": "BEU",
+                    "location": "S017 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "BEU"
+                    "prof": "BEU",
+                    "location": "S017 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "BEU"
+                    "prof": "BEU",
+                    "location": "S017 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "BEU"
+                    "prof": "BEU",
+                    "location": "S017 "
                 }
             ]
         },
@@ -87,7 +98,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "KIO"
+                    "prof": "KIO",
+                    "location": "G137 "
                 }
             ]
         },
@@ -96,14 +108,16 @@
             "name": "Bioverfahrenstechnik",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "PRE"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "PRE"
+                    "prof": "PRE",
+                    "location": "H0908 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "PRE",
+                    "location": "H1007 "
                 }
             ]
         },
@@ -112,14 +126,16 @@
             "name": "Bioreaktionstechnik 1",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 3,
-                    "prof": "GRE"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "GRE"
+                    "prof": "GRE",
+                    "location": "H0908 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "GRE",
+                    "location": "H1007 "
                 }
             ]
         }

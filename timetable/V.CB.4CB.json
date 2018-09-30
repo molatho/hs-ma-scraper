@@ -8,17 +8,20 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "STZ"
+                    "prof": "STZ",
+                    "location": "G111 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "STZ"
+                    "prof": "STZ",
+                    "location": "G111 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "STZ"
+                    "prof": "STZ",
+                    "location": "G111 "
                 }
             ]
         },
@@ -29,12 +32,26 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "TRG"
+                    "prof": "TRG",
+                    "location": "E001 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "TRG",
+                    "location": "H0406A "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "TRG"
+                    "prof": "TRG",
+                    "location": "E001 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "TRG",
+                    "location": "H0406A "
                 }
             ]
         },
@@ -45,17 +62,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "EIW"
+                    "prof": "EIW",
+                    "location": "S017 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "EIW"
+                    "prof": "EIW",
+                    "location": "S017 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "EIW"
+                    "prof": "EIW",
+                    "location": "S017 "
                 }
             ]
         },
@@ -66,12 +86,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "R�T"
+                    "prof": "R�T",
+                    "location": "L209 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "R�T"
+                    "prof": "R�T",
+                    "location": "H0910 "
                 }
             ]
         },
@@ -82,12 +104,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "FRN"
+                    "prof": "FRN",
+                    "location": "H0910 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "FRN"
+                    "prof": "FRN",
+                    "location": "H0910 "
                 }
             ]
         },
@@ -96,19 +120,22 @@
             "name": "Thermische Verfahrenstechnik",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 2,
-                    "prof": "ADR"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "ADR"
+                    "prof": "ADR",
+                    "location": "L111 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "ADR",
+                    "location": "H0908 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "ADR"
+                    "prof": "ADR",
+                    "location": "H0910 "
                 }
             ]
         },
@@ -117,14 +144,16 @@
             "name": "Instrumentelle Analytik",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 2,
-                    "prof": "STZ"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "STZ"
+                    "prof": "STZ",
+                    "location": "H1008 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "STZ",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -133,14 +162,16 @@
             "name": "Technische Katalyse",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 3,
-                    "prof": "SCV"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "SCV"
+                    "prof": "SCV",
+                    "location": "H0910 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "SCV",
+                    "location": "H0909 "
                 }
             ]
         }

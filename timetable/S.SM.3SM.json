@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "ENE"
+                    "prof": "ENE",
+                    "location": "C002 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "ENE"
+                    "prof": "ENE",
+                    "location": "C002 "
                 }
             ]
         },
@@ -24,12 +26,32 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "LBS4"
+                    "prof": "LBS4",
+                    "location": "C110 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "LBS4"
+                    "prof": "LBS4",
+                    "location": "C110 "
+                }
+            ]
+        },
+        "SSS": {
+            "token": "SSS",
+            "name": "Systeme sozialer Sicherung",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "WIA",
+                    "location": "C110 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "WIA",
+                    "location": "C110 "
                 }
             ]
         },
@@ -40,7 +62,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "BWF"
+                    "prof": "BWF",
+                    "location": "C212 "
                 }
             ]
         }

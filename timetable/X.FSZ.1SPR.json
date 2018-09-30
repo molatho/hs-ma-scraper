@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "HCL"
+                    "prof": "HCL",
+                    "location": "H1009 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "HCL"
+                    "prof": "HCL",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -22,14 +24,16 @@
             "name": "Englisch f�r Design",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "MNE"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "MNE"
+                    "prof": "MNE",
+                    "location": "Z105 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "MNE",
+                    "location": "L013 "
                 }
             ]
         },
@@ -40,7 +44,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "BAN"
+                    "prof": "BAN",
+                    "location": "L011 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "BAN",
+                    "location": "L011 "
+                }
+            ]
+        },
+        "SPA1sp": {
+            "token": "SPA1sp",
+            "name": "Spanisch A1 - Seminarpr�senzkurs",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "LAK",
+                    "location": "L207 "
                 }
             ]
         },
@@ -51,12 +74,134 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "CLE"
+                    "prof": "CLE",
+                    "location": "H0909 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "CLE"
+                    "prof": "CLE",
+                    "location": "H0909 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "MEY",
+                    "location": "L207 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "MEY",
+                    "location": "L207 "
+                }
+            ]
+        },
+        "FRA1": {
+            "token": "FRA1",
+            "name": "Franz�sisch 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "MNE",
+                    "location": "L215 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "MNE",
+                    "location": "L215 "
+                }
+            ]
+        },
+        "ENB1": {
+            "token": "ENB1",
+            "name": "Englisch B1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "CLE",
+                    "location": "H0909 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "CLE",
+                    "location": "H0909 "
+                }
+            ]
+        },
+        "POA1": {
+            "token": "POA1",
+            "name": "Portugiesisch A1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "ROT",
+                    "location": "H1009 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "ROT",
+                    "location": "H1009 "
+                }
+            ]
+        },
+        "RUA1": {
+            "token": "RUA1",
+            "name": "Russisch A1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "TRB",
+                    "location": "L206 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "TRB",
+                    "location": "L206 "
+                }
+            ]
+        },
+        "SPA1": {
+            "token": "SPA1",
+            "name": "Spanisch 1",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "LAK",
+                    "location": "L111 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "LAK",
+                    "location": "L111 "
+                }
+            ]
+        },
+        "SPA2": {
+            "token": "SPA2",
+            "name": "Spanisch 2",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "PUE",
+                    "location": "L012 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "PUE",
+                    "location": "L012 "
                 }
             ]
         },
@@ -67,7 +212,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "BAN"
+                    "prof": "BAN",
+                    "location": "L208 "
                 }
             ]
         },
@@ -78,12 +224,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "FUN"
+                    "prof": "FUN",
+                    "location": "L206 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "FUN"
+                    "prof": "FUN",
+                    "location": "L206 "
                 }
             ]
         },
@@ -94,18 +242,32 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "BAN"
-                }
-            ]
-        },
-        "ENB1": {
-            "token": "ENB1",
-            "name": "Englisch B1",
-            "dates": [
+                    "prof": "BAN",
+                    "location": "L011 "
+                },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "CLE"
+                    "prof": "BAN",
+                    "location": "L011 "
+                }
+            ]
+        },
+        "SPB2": {
+            "token": "SPB2",
+            "name": "Spanisch B2",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "RMO",
+                    "location": "L206 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "RMO",
+                    "location": "L206 "
                 }
             ]
         },
@@ -116,23 +278,32 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "TRU"
+                    "prof": "TRU",
+                    "location": "L114 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "TRU"
+                    "prof": "TRU",
+                    "location": "L114 "
                 }
             ]
         },
-        "SPB2": {
-            "token": "SPB2",
-            "name": "Spanisch B2",
+        "ENC1": {
+            "token": "ENC1",
+            "name": "Englisch C1 - Business Communication",
             "dates": [
                 {
-                    "dayOfWeek": 0,
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "SHE",
+                    "location": "L110 "
+                },
+                {
+                    "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "RMO"
+                    "prof": "SHE",
+                    "location": "L110 "
                 }
             ]
         }

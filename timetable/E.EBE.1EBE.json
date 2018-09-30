@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "ISE"
+                    "prof": "ISE",
+                    "location": "H1010 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "ISE"
+                    "prof": "ISE",
+                    "location": "H1007 "
                 }
             ]
         },
@@ -22,14 +24,16 @@
             "name": "Elektrische und magnetische Felder",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "ISE"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "ISE"
+                    "prof": "ISE",
+                    "location": "H1008 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "ISE",
+                    "location": "H1008 "
                 }
             ]
         },
@@ -40,12 +44,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "POL"
+                    "prof": "POL",
+                    "location": "B203 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "POL"
+                    "prof": "POL",
+                    "location": "B203 "
                 }
             ]
         },
@@ -56,7 +62,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "KSU"
+                    "prof": "KSU",
+                    "location": "H0909 "
                 }
             ]
         },
@@ -67,17 +74,20 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "KSU"
+                    "prof": "KSU",
+                    "location": "H1008 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "KSU"
+                    "prof": "KSU",
+                    "location": "H1008 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "KSU"
+                    "prof": "KSU",
+                    "location": "H1008 "
                 }
             ]
         },
@@ -86,14 +96,16 @@
             "name": "Mechanics and Vibrations",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "HAR"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "HAR"
+                    "prof": "HAR",
+                    "location": "A309 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "HAR",
+                    "location": "A309 "
                 }
             ]
         },
@@ -104,7 +116,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "POL"
+                    "prof": "POL",
+                    "location": "B203 "
                 }
             ]
         },
@@ -115,22 +128,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "�ZE"
-                },
-                {
-                    "dayOfWeek": 2,
-                    "timeSlot": 4,
-                    "prof": "SDA"
-                },
-                {
-                    "dayOfWeek": 3,
-                    "timeSlot": 4,
-                    "prof": "SDA"
+                    "prof": "�ZE",
+                    "location": "L208 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "�ZE"
+                    "prof": "�ZE",
+                    "location": "L208 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SDA",
+                    "location": "B002 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "SDA",
+                    "location": "L208 "
                 }
             ]
         },
@@ -139,24 +156,28 @@
             "name": "Deutsch als Fremdsprache 1 - Gruppe B",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 3,
-                    "prof": "SDA"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "�ZE"
+                    "prof": "�ZE",
+                    "location": "L208 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "�ZE"
+                    "prof": "�ZE",
+                    "location": "L208 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SDA",
+                    "location": "B002 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "SDA"
+                    "prof": "SDA",
+                    "location": "L208 "
                 }
             ]
         }

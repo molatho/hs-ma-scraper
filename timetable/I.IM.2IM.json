@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "PLS"
+                    "prof": "PLS",
+                    "location": "PSD2 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "PLS"
+                    "prof": "PLS",
+                    "location": "PSD2 "
                 }
             ]
         },
@@ -24,12 +26,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "SMS"
+                    "prof": "SMS",
+                    "location": "A210 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "SMS"
+                    "prof": "SMS",
+                    "location": "A107 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "SMS",
+                    "location": "A212 "
                 }
             ]
         },
@@ -38,14 +48,16 @@
             "name": "Kryptographie",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 1,
-                    "prof": "FIM"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "FIM"
+                    "prof": "FIM",
+                    "location": "G054 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "FIM",
+                    "location": "G054 "
                 }
             ]
         },
@@ -54,14 +66,16 @@
             "name": "Mensch-Maschine-Interaktion",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "KOK"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "KOK"
+                    "prof": "KOK",
+                    "location": "A012 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "KOK",
+                    "location": "A012 "
                 }
             ]
         },
@@ -72,12 +86,20 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "SCA"
+                    "prof": "SCA",
+                    "location": "A211 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "SCA"
+                    "prof": "SCA",
+                    "location": "A012 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "SCA",
+                    "location": "A210 "
                 }
             ]
         },
@@ -86,14 +108,16 @@
             "name": "Entscheidbarkeit, Berechenbarkeit und Komplexit�t",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "STL"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "STL"
+                    "prof": "STL",
+                    "location": "H1007 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "STL",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -104,12 +128,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "LET"
+                    "prof": "LET",
+                    "location": "A107 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "LET"
+                    "prof": "LET",
+                    "location": "A107 "
                 }
             ]
         },
@@ -120,12 +146,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "WOI"
+                    "prof": "WOI",
+                    "location": "A107 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "WOI"
+                    "prof": "WOI",
+                    "location": "A008 "
                 }
             ]
         },
@@ -136,12 +164,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "DOP"
+                    "prof": "DOP",
+                    "location": "A212 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "DOP"
+                    "prof": "DOP",
+                    "location": "A212 "
                 }
             ]
         },
@@ -152,12 +182,26 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "KAE"
+                    "prof": "KAE",
+                    "location": "PSD1 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "KOK",
+                    "location": "PSD1 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "KAE"
+                    "prof": "KAE",
+                    "location": "PSD1 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "KOK",
+                    "location": "PSD1 "
                 }
             ]
         },
@@ -168,12 +212,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "IME"
+                    "prof": "IME",
+                    "location": "A211 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "IME"
+                    "prof": "IME",
+                    "location": "A111 "
                 }
             ]
         }

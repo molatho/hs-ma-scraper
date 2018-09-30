@@ -6,14 +6,16 @@
             "name": "Ultraschalltechnik in der Medizin",
             "dates": [
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 0,
-                    "prof": "HES"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "HES"
+                    "prof": "HES",
+                    "location": "S322 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "HES",
+                    "location": "S322 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "WIR"
+                    "prof": "WIR",
+                    "location": "S322 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "WIR"
+                    "prof": "WIR",
+                    "location": "S322 "
                 }
             ]
         },
@@ -38,14 +42,16 @@
             "name": "Projektlabor Embedded Security",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "BJM"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "BJM"
+                    "prof": "BJM",
+                    "location": "S117 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "BJM",
+                    "location": "S117 "
                 }
             ]
         },
@@ -56,12 +62,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "NGU"
+                    "prof": "NGU",
+                    "location": "S213 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "NGU"
+                    "prof": "NGU",
+                    "location": "S213 "
                 }
             ]
         },
@@ -72,12 +80,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "LBN2"
+                    "prof": "LBN2",
+                    "location": "S113 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "LBN2"
+                    "prof": "LBN2",
+                    "location": "S113 "
                 }
             ]
         },
@@ -88,12 +98,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "FES"
+                    "prof": "FES",
+                    "location": "L112 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "FES"
+                    "prof": "FES",
+                    "location": "L013 "
                 }
             ]
         },
@@ -104,12 +116,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "VOI"
+                    "prof": "VOI",
+                    "location": "S212 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "VOI"
+                    "prof": "VOI",
+                    "location": "S212 "
                 }
             ]
         }

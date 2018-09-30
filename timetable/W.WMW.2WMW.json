@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "HAT"
+                    "prof": "HAT",
+                    "location": "L112 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "HAT"
+                    "prof": "HAT",
+                    "location": "L208 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "HAT"
+                    "prof": "HAT",
+                    "location": "L305 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "HAT"
+                    "prof": "HAT",
+                    "location": "L305 "
                 }
             ]
         },
@@ -40,12 +44,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "HAT"
+                    "prof": "HAT",
+                    "location": "L305 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "HAT"
+                    "prof": "HAT",
+                    "location": "L305 "
                 }
             ]
         },
@@ -56,12 +62,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "BAN"
+                    "prof": "BAN",
+                    "location": "L112 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "BAN"
+                    "prof": "BAN",
+                    "location": "L112 "
                 }
             ]
         },
@@ -72,12 +80,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "GAF"
+                    "prof": "GAF",
+                    "location": "H1114 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "GAF"
+                    "prof": "GAF",
+                    "location": "H1114 "
                 }
             ]
         },
@@ -88,12 +98,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "BRI"
+                    "prof": "BRI",
+                    "location": "L112 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "BRI"
+                    "prof": "BRI",
+                    "location": "L306 "
                 }
             ]
         },
@@ -102,14 +114,16 @@
             "name": "International Competences",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 2,
-                    "prof": "ALS"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "ALS"
+                    "prof": "ALS",
+                    "location": "L114 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "ALS",
+                    "location": "L112 "
                 }
             ]
         },
@@ -120,12 +134,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "BIR"
+                    "prof": "BIR",
+                    "location": "L305 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "BIR"
+                    "prof": "BIR",
+                    "location": "L305 "
                 }
             ]
         },
@@ -136,12 +152,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "KLI"
+                    "prof": "KLI",
+                    "location": "L111 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "KLI"
+                    "prof": "KLI",
+                    "location": "L111 "
                 }
             ]
         }

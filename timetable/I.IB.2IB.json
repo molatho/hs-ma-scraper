@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "KLS"
+                    "prof": "KLS",
+                    "location": "A211 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "KLS"
+                    "prof": "KLS",
+                    "location": "A210 "
                 }
             ]
         },
@@ -22,19 +24,28 @@
             "name": "Technische Informatik 2",
             "dates": [
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 1,
-                    "prof": "WOI"
-                },
-                {
-                    "dayOfWeek": 2,
-                    "timeSlot": 1,
-                    "prof": "FIJ"
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "FIJ",
+                    "location": "A210 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "FIJ"
+                    "prof": "WOI",
+                    "location": "A210 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "WOI",
+                    "location": "A008 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "FIJ",
+                    "location": "A111 "
                 }
             ]
         },
@@ -45,7 +56,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "SMS"
+                    "prof": "SMS",
+                    "location": "A206 "
                 }
             ]
         },
@@ -54,14 +66,16 @@
             "name": "Theoretische Informatik �bungen",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 2,
-                    "prof": "SMS"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "SMS"
+                    "prof": "SMS",
+                    "location": "A210 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SMS",
+                    "location": "A206 "
                 }
             ]
         },
@@ -70,14 +84,16 @@
             "name": "Programmierung 2",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 2,
-                    "prof": "LET"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "LET"
+                    "prof": "LET",
+                    "location": "A211 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "LET",
+                    "location": "H0808 "
                 }
             ]
         },
@@ -88,12 +104,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "LET"
+                    "prof": "HAY",
+                    "location": "H0507 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "LET",
+                    "location": "H0506 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "LET"
+                    "prof": "HAY",
+                    "location": "H0507 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "LET",
+                    "location": "H0506 "
                 }
             ]
         },
@@ -102,14 +132,16 @@
             "name": "Mathematik 2",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 3,
-                    "prof": "TOY"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "TOY"
+                    "prof": "TOY",
+                    "location": "A210 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "TOY",
+                    "location": "A206 "
                 }
             ]
         }

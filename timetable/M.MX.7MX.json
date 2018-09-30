@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "PET"
+                    "prof": "PET",
+                    "location": "H0806 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "PET"
+                    "prof": "PET",
+                    "location": "G045 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "SAD"
+                    "prof": "SAD",
+                    "location": "L110 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "SAD"
+                    "prof": "SAD",
+                    "location": "L110 "
                 }
             ]
         },
@@ -40,12 +44,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "HLF"
+                    "prof": "HLF",
+                    "location": "L113 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "HLF"
+                    "prof": "HLF",
+                    "location": "L208 "
                 }
             ]
         },
@@ -54,14 +60,16 @@
             "name": "Fluidmechanik 1",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 1,
-                    "prof": "SSO"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "SSO"
+                    "prof": "SSO",
+                    "location": "L210 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "SSO",
+                    "location": "H0808 "
                 }
             ]
         },
@@ -72,12 +80,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "WEI"
+                    "prof": "WEI",
+                    "location": "H1006 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "WEI"
+                    "prof": "WEI",
+                    "location": "H0806 "
                 }
             ]
         },
@@ -88,7 +98,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "GRW"
+                    "prof": "GRW",
+                    "location": "B201 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "GRW",
+                    "location": "B201 "
                 }
             ]
         },
@@ -99,12 +116,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "FOT"
+                    "prof": "FOT",
+                    "location": "L112 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "ENC"
+                    "prof": "ENC",
+                    "location": "L112 "
                 }
             ]
         },
@@ -115,12 +134,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "FOT"
+                    "prof": "FOT",
+                    "location": "L112 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
-                    "prof": "ENC"
+                    "prof": "ENC",
+                    "location": "L112 "
                 }
             ]
         }

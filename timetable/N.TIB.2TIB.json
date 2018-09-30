@@ -8,17 +8,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "BJM"
+                    "prof": "BJM",
+                    "location": "L111 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "BJM"
+                    "prof": "BJM",
+                    "location": "L110 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "BJM"
+                    "prof": "BJM",
+                    "location": "H0406 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "BJM",
+                    "location": "H0406A "
                 }
             ]
         },
@@ -29,12 +38,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "VEB"
+                    "prof": "VEB",
+                    "location": "S211 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "VEB"
+                    "prof": "VEB",
+                    "location": "S220 "
                 }
             ]
         },
@@ -43,19 +54,28 @@
             "name": "Wechselstromtechnik",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "SKH"
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "SKH",
+                    "location": "G013 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "SKH"
+                    "prof": "SKH",
+                    "location": "R108 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "SKH"
+                    "prof": "SKH",
+                    "location": "A305 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "SKH",
+                    "location": "A305 "
                 }
             ]
         },
@@ -66,12 +86,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "MGL"
+                    "prof": "MGL",
+                    "location": "L206 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "MGL"
+                    "prof": "MGL",
+                    "location": "L206 "
                 }
             ]
         },
@@ -80,19 +102,22 @@
             "name": "Physik 2",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "SUR"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "SUR"
+                    "prof": "SUR",
+                    "location": "A309 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "SUR"
+                    "prof": "SUR",
+                    "location": "A309 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "SUR",
+                    "location": "A311 "
                 }
             ]
         },
@@ -101,14 +126,16 @@
             "name": "Elektronische Schaltungen",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "K�Z"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "K�Z"
+                    "prof": "K�Z",
+                    "location": "H0806 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "K�Z",
+                    "location": "H0906 "
                 }
             ]
         },
@@ -119,7 +146,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "SUR"
+                    "prof": "SUR",
+                    "location": "S221 "
                 }
             ]
         },
@@ -130,7 +158,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "K�Z"
+                    "prof": "K�Z",
+                    "location": "R108 "
                 }
             ]
         },
@@ -141,7 +170,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "MGL"
+                    "prof": "MGL",
+                    "location": "H0908 "
                 }
             ]
         }

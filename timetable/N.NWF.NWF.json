@@ -8,12 +8,86 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "VET"
+                    "prof": "VET",
+                    "location": "L112 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "VET"
+                    "prof": "VET",
+                    "location": "K106 "
+                }
+            ]
+        },
+        "JAV": {
+            "token": "JAV",
+            "name": "Java-Programmierung",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "BTH",
+                    "location": "S220 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "BTH",
+                    "location": "S220 "
+                }
+            ]
+        },
+        "MP": {
+            "token": "MP",
+            "name": "Medical Photonics",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "NIE",
+                    "location": "S212 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "NIE",
+                    "location": "S212 "
+                }
+            ]
+        },
+        "SPV": {
+            "token": "SPV",
+            "name": "Sprachverarbeitung",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "FES",
+                    "location": "S213 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "FES",
+                    "location": "S213 "
+                }
+            ]
+        },
+        "ZMP": {
+            "token": "ZMP",
+            "name": "Zulassung von Medizinprodukten",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "LBN2",
+                    "location": "S211 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "LBN2",
+                    "location": "S211 "
                 }
             ]
         },
@@ -24,12 +98,68 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "KNA"
+                    "prof": "KNA",
+                    "location": "S213 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "KNA"
+                    "prof": "KNA",
+                    "location": "S213 "
+                }
+            ]
+        },
+        "MRI": {
+            "token": "MRI",
+            "name": "Magnetic Resonance Imaging",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "LBN3",
+                    "location": "L012 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "LBN3",
+                    "location": "L012 "
+                }
+            ]
+        },
+        "SPLM": {
+            "token": "SPLM",
+            "name": "Software-Projektleitung und -Management",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "SEW",
+                    "location": "S221 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "SEW",
+                    "location": "S221 "
+                }
+            ]
+        },
+        "SRN": {
+            "token": "SRN",
+            "name": "Sicherheitsprotokolle in Rechnernetzen",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "DAM",
+                    "location": "S212 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "DAM",
+                    "location": "S212 "
                 }
             ]
         },
@@ -40,12 +170,86 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "WIB"
+                    "prof": "WIB",
+                    "location": "S221 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "WIB"
+                    "prof": "WIB",
+                    "location": "R010 "
+                }
+            ]
+        },
+        "MLD": {
+            "token": "MLD",
+            "name": "Medical Launch Development",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "CED",
+                    "location": "L014 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "CED",
+                    "location": "L014 "
+                }
+            ]
+        },
+        "MS": {
+            "token": "MS",
+            "name": "Modellierung und Simulation",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "VOI",
+                    "location": "S213 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "VOI",
+                    "location": "S213 "
+                }
+            ]
+        },
+        "PMA": {
+            "token": "PMA",
+            "name": "Praxisseminar Mobile Anwendungen",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "BTH",
+                    "location": "S211 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "BTH",
+                    "location": "S211 "
+                }
+            ]
+        },
+        "SEL1": {
+            "token": "SEL1",
+            "name": "Sondergebiete der Elektronik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "ZWI",
+                    "location": "S220 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "ZWI",
+                    "location": "S220 "
                 }
             ]
         },
@@ -56,12 +260,68 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "MGL"
+                    "prof": "MGL",
+                    "location": "S221 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "MGL"
+                    "prof": "MGL",
+                    "location": "S221 "
+                }
+            ]
+        },
+        "EIS2": {
+            "token": "EIS2",
+            "name": "Entwurf integrierter Schaltungen 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "GIE",
+                    "location": "S220 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "GIE",
+                    "location": "S218 "
+                }
+            ]
+        },
+        "MOB": {
+            "token": "MOB",
+            "name": "Mobilfunksysteme",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "MAR",
+                    "location": "S213 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "MAR",
+                    "location": "S213 "
+                }
+            ]
+        },
+        "SES": {
+            "token": "SES",
+            "name": "Sicherheit in Eingebetteten Systemen",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "BJM",
+                    "location": "S212 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "BJM",
+                    "location": "S212 "
                 }
             ]
         },
@@ -72,12 +332,32 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "VOI"
+                    "prof": "VOI",
+                    "location": "S212 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "VOI"
+                    "prof": "VOI",
+                    "location": "S212 "
+                }
+            ]
+        },
+        "VT": {
+            "token": "VT",
+            "name": "Verteilte Systeme",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "KOE",
+                    "location": "S213 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "KOE",
+                    "location": "S213 "
                 }
             ]
         },
@@ -88,7 +368,20 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "LBN2"
+                    "prof": "LBN2",
+                    "location": "S211 "
+                }
+            ]
+        },
+        "SNT": {
+            "token": "SNT",
+            "name": "Seminar Nachrichtentechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "HES",
+                    "location": "S211 "
                 }
             ]
         }

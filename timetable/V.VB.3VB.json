@@ -8,17 +8,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "EIW"
+                    "prof": "EIW",
+                    "location": "H0808 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "EIW"
+                    "prof": "EIW",
+                    "location": "H0408 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "EIW"
+                    "prof": "EIW",
+                    "location": "H0808 "
                 }
             ]
         },
@@ -27,14 +30,16 @@
             "name": "Thermodynamik",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "SUB"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "SUB"
+                    "prof": "SUB",
+                    "location": "L110 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "SUB",
+                    "location": "L110 "
                 }
             ]
         },
@@ -45,17 +50,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "SUB"
+                    "prof": "SUB",
+                    "location": "G032 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "SUB"
+                    "prof": "SUB",
+                    "location": "G032 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "SUB"
+                    "prof": "SUB",
+                    "location": "G032 "
                 }
             ]
         },
@@ -66,12 +74,26 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "EIW"
+                    "prof": "EIW",
+                    "location": "H0806 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "RAD",
+                    "location": "H0806 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "RAD"
+                    "prof": "EIW",
+                    "location": "H0806 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "RAD",
+                    "location": "H0806 "
                 }
             ]
         },
@@ -82,12 +104,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "FRN"
+                    "prof": "FRN",
+                    "location": "G045 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "FRN"
+                    "prof": "FRN",
+                    "location": "G045 "
                 }
             ]
         },
@@ -98,12 +122,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "BEL"
+                    "prof": "BEL",
+                    "location": "L210 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "BEL"
+                    "prof": "BEL",
+                    "location": "H1010 "
                 }
             ]
         },
@@ -114,7 +140,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "HRA"
+                    "prof": "HRA",
+                    "location": "H0407 "
                 }
             ]
         },
@@ -125,7 +152,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "SEH"
+                    "prof": "SEH",
+                    "location": "H0407 "
                 }
             ]
         }

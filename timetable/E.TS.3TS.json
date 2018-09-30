@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 0,
-                    "prof": "HAU"
+                    "prof": "HAU",
+                    "location": "B203 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "HAU"
+                    "prof": "HAU",
+                    "location": "B203 "
                 }
             ]
         },
@@ -24,17 +26,20 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "GRT"
+                    "prof": "GRT",
+                    "location": "A012 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "GRT"
+                    "prof": "GRT",
+                    "location": "A012 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "GRT"
+                    "prof": "GRT",
+                    "location": "A012 "
                 }
             ]
         }

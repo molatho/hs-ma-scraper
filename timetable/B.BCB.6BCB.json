@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "STN"
+                    "prof": "STN",
+                    "location": "H0908 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "STN"
+                    "prof": "STN",
+                    "location": "H0908 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "HOP"
+                    "prof": "HOP",
+                    "location": "H1007 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "SRO"
+                    "prof": "SRO",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -38,14 +42,16 @@
             "name": "Bioanorganische Chemie und Nanotechnologie",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "ARR"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "ARR"
+                    "prof": "ARR",
+                    "location": "H1009 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "ARR",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -56,12 +62,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "WPH"
+                    "prof": "WPH",
+                    "location": "H0909 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "WPH"
+                    "prof": "WPH",
+                    "location": "H0909 "
                 }
             ]
         },
@@ -72,12 +80,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "SCD"
+                    "prof": "SCD",
+                    "location": "G137 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "SCD"
+                    "prof": "SCD",
+                    "location": "G137 "
                 }
             ]
         },
@@ -88,7 +98,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "WIP"
+                    "prof": "WIP",
+                    "location": "G045 "
                 }
             ]
         },
@@ -99,12 +110,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "BEU"
+                    "prof": "BEU",
+                    "location": "L114 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "BEU"
+                    "prof": "BEU",
+                    "location": "L114 "
                 }
             ]
         },
@@ -115,7 +128,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "PRE"
+                    "prof": "PRE",
+                    "location": "H0406 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "PRE",
+                    "location": "H0406A "
                 }
             ]
         },
@@ -126,12 +146,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "PUC"
+                    "prof": "PUC",
+                    "location": "H0910 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
-                    "prof": "PUC"
+                    "prof": "PUC",
+                    "location": "H0910 "
                 }
             ]
         }

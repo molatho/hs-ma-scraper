@@ -6,14 +6,16 @@
             "name": "Grundlagen der Elektrotechnik 1",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "HAU"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "HAU"
+                    "prof": "HAU",
+                    "location": "H0809 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "HAU",
+                    "location": "H0809 "
                 }
             ]
         },
@@ -24,7 +26,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "ELS"
+                    "prof": "ELS",
+                    "location": "H0407 "
                 }
             ]
         },
@@ -33,19 +36,22 @@
             "name": "Mathematik 1",
             "dates": [
                 {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "ELS",
+                    "location": "H0809 "
+                },
+                {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "ELS"
+                    "prof": "ELS",
+                    "location": "H0807 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "ELS"
-                },
-                {
-                    "dayOfWeek": 1,
-                    "timeSlot": 3,
-                    "prof": "ELS"
+                    "prof": "ELS",
+                    "location": "H0807 "
                 }
             ]
         },
@@ -56,17 +62,20 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "HIL"
+                    "prof": "HIL",
+                    "location": "H0806 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "HIL"
+                    "prof": "HIL",
+                    "location": "H1006 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "HIL"
+                    "prof": "HIL",
+                    "location": "H1006 "
                 }
             ]
         },
@@ -75,14 +84,16 @@
             "name": "Physik",
             "dates": [
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 2,
-                    "prof": "MGL"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "MGL"
+                    "prof": "MGL",
+                    "location": "A309 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "MGL",
+                    "location": "A305 "
                 }
             ]
         },
@@ -93,17 +104,26 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "IME"
+                    "prof": "IME",
+                    "location": "H0910 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "FIJ"
+                    "prof": "FIJ",
+                    "location": "H0506 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "IME",
+                    "location": "H0507 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "IME"
+                    "prof": "IME",
+                    "location": "H0807 "
                 }
             ]
         },
@@ -114,12 +134,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "STF"
+                    "prof": "STF",
+                    "location": "G137 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "STF"
+                    "prof": "STF",
+                    "location": "G137 "
                 }
             ]
         },
@@ -130,7 +152,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "STF"
+                    "prof": "STF",
+                    "location": "H0809 "
                 }
             ]
         }

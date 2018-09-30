@@ -8,12 +8,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "HBN"
+                    "prof": "HBN",
+                    "location": "A206 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "HBN",
+                    "location": "B303 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "HBN"
+                    "prof": "HBN",
+                    "location": "A206 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "HBN",
+                    "location": "B303 "
                 }
             ]
         },
@@ -24,7 +38,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "DIT"
+                    "prof": "DIT",
+                    "location": "B105 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "DIT",
+                    "location": "B203 "
                 }
             ]
         },
@@ -35,17 +56,20 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "KIT"
-                },
-                {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "KIT"
+                    "prof": "KIT",
+                    "location": "B105 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "KIT"
+                    "prof": "KIT",
+                    "location": "B105 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "KIT",
+                    "location": "G013 "
                 }
             ]
         },
@@ -56,17 +80,20 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "ISE"
+                    "prof": "ISE",
+                    "location": "H0906 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "ISE"
+                    "prof": "ISE",
+                    "location": "H0906 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "ISE"
+                    "prof": "ISE",
+                    "location": "H0806 "
                 }
             ]
         },
@@ -75,14 +102,16 @@
             "name": "Mechanik und Schwingungen",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "BCK"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "BCK"
+                    "prof": "BCK",
+                    "location": "A305 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "BCK",
+                    "location": "A305 "
                 }
             ]
         },
@@ -93,12 +122,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "DIT"
+                    "prof": "DIT",
+                    "location": "B105 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 5,
-                    "prof": "DIT"
+                    "prof": "DIT",
+                    "location": "B203 "
                 }
             ]
         },
@@ -107,19 +138,28 @@
             "name": "Mathematik Grundlagen",
             "dates": [
                 {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "KSU",
+                    "location": "B203 "
+                },
+                {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "KSU"
+                    "prof": "KSU",
+                    "location": "B105 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "KSU"
+                    "prof": "KSU",
+                    "location": "B002 "
                 },
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 3,
-                    "prof": "KSU"
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "KSU",
+                    "location": "B203 "
                 }
             ]
         },
@@ -130,7 +170,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "BCK"
+                    "prof": "BCK",
+                    "location": "B002 "
                 }
             ]
         },
@@ -141,7 +182,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "JUN"
+                    "prof": "JUN",
+                    "location": "B105 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "JUN",
+                    "location": "B105 "
                 }
             ]
         },
@@ -152,12 +200,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "MTA"
+                    "prof": "MTA",
+                    "location": "H1107 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "MTA"
+                    "prof": "MTA",
+                    "location": "H1107 "
                 }
             ]
         },
@@ -168,12 +218,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "HBN"
+                    "prof": "HBN",
+                    "location": "B303 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "HBN"
+                    "prof": "HBN",
+                    "location": "B303 "
                 }
             ]
         },
@@ -184,7 +236,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "BAN"
+                    "prof": "BAN",
+                    "location": "L011 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "BAN",
+                    "location": "L011 "
                 }
             ]
         }

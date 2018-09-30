@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "VIN"
+                    "prof": "VIN",
+                    "location": "A305 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "VIN"
+                    "prof": "VIN",
+                    "location": "A305 "
                 }
             ]
         },
@@ -22,14 +24,16 @@
             "name": "Mathematik 2",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "RAD"
-                },
-                {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "RAD"
+                    "prof": "RAD",
+                    "location": "H0908 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "RAD",
+                    "location": "H1010 "
                 }
             ]
         },
@@ -40,12 +44,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "RAS"
+                    "prof": "RAS",
+                    "location": "A208 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "RAS"
+                    "prof": "RAS",
+                    "location": "A208 "
                 }
             ]
         },
@@ -56,12 +62,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "BEL"
+                    "prof": "BEL",
+                    "location": "G133 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "BEL"
+                    "prof": "BEL",
+                    "location": "G133 "
                 }
             ]
         },
@@ -72,12 +80,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "SCV"
+                    "prof": "SCV",
+                    "location": "H0806 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "SCV"
+                    "prof": "SCV",
+                    "location": "L210 "
                 }
             ]
         },
@@ -86,14 +96,16 @@
             "name": "Technische Mechanik 2",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 2,
-                    "prof": "DIW"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "DIW"
+                    "prof": "DIW",
+                    "location": "H1009 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "DIW",
+                    "location": "L012 "
                 }
             ]
         },
@@ -104,17 +116,20 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "VIN"
+                    "prof": "VIN",
+                    "location": "G103 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "VIN"
+                    "prof": "VIN",
+                    "location": "G103 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
-                    "prof": "VIN"
+                    "prof": "VIN",
+                    "location": "G103 "
                 }
             ]
         },
@@ -125,12 +140,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "DIW"
+                    "prof": "DIW",
+                    "location": "G045 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "DIW"
+                    "prof": "DIW",
+                    "location": "G045 "
                 }
             ]
         }

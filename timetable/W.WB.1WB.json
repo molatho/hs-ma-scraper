@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "BIR"
+                    "prof": "BIR",
+                    "location": "L305 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "BIR"
+                    "prof": "BIR",
+                    "location": "L305 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "HGM"
+                    "prof": "HGM",
+                    "location": "L012 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 0,
-                    "prof": "HGM"
+                    "prof": "HGM",
+                    "location": "L206 "
                 }
             ]
         },
@@ -40,12 +44,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "FRM"
+                    "prof": "FRM",
+                    "location": "L305 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "FRM"
+                    "prof": "FRM",
+                    "location": "L305 "
                 }
             ]
         },
@@ -56,17 +62,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "HBD"
+                    "prof": "HBD",
+                    "location": "L110 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "HBD"
+                    "prof": "HBD",
+                    "location": "L111 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "HBD"
+                    "prof": "HBD",
+                    "location": "L111 "
                 }
             ]
         },
@@ -77,7 +86,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "KLI"
+                    "prof": "KLI",
+                    "location": "L114 "
                 }
             ]
         },
@@ -88,12 +98,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "N�R"
+                    "prof": "N�R",
+                    "location": "L014 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "N�R"
+                    "prof": "N�R",
+                    "location": "L015 "
                 }
             ]
         },
@@ -102,14 +114,16 @@
             "name": "Allgemeine Betriebswirtschaftslehre",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 2,
-                    "prof": "CHR"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "CHR"
+                    "prof": "CHR",
+                    "location": "L015 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "CHR",
+                    "location": "L111 "
                 }
             ]
         },
@@ -118,14 +132,16 @@
             "name": "Werkstoffkunde",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 2,
-                    "prof": "FRA"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "FRA"
+                    "prof": "FRA",
+                    "location": "L015 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "FRA",
+                    "location": "L111 "
                 }
             ]
         },
@@ -136,7 +152,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "KLS"
+                    "prof": "KLS",
+                    "location": "L305 "
                 }
             ]
         }

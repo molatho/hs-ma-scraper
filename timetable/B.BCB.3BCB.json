@@ -8,22 +8,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "SCD"
+                    "prof": "SCD",
+                    "location": "G118 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "SCD"
+                    "prof": "SCD",
+                    "location": "G118 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "SCD"
+                    "prof": "SCD",
+                    "location": "G118 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "SCD"
+                    "prof": "SCD",
+                    "location": "G118 "
                 }
             ]
         },
@@ -34,7 +38,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "SUB"
+                    "prof": "SUB",
+                    "location": "G045 "
                 }
             ]
         },
@@ -45,12 +50,44 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "WPH"
+                    "prof": "WPH",
+                    "location": "G021 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "WPH"
+                    "prof": "WPH",
+                    "location": "G021 "
+                }
+            ]
+        },
+        "PCP": {
+            "token": "PCP",
+            "name": "Physikalisch - Chemisches Praktikum",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "SUB",
+                    "location": "G026 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "SUB",
+                    "location": "G026 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SEH",
+                    "location": "G026 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SEH",
+                    "location": "G026 "
                 }
             ]
         },
@@ -61,12 +98,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "WPH"
+                    "prof": "WPH",
+                    "location": "H0909 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 0,
-                    "prof": "WPH"
+                    "prof": "WPH",
+                    "location": "H0910 "
                 }
             ]
         },
@@ -77,12 +116,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "STN"
+                    "prof": "STN",
+                    "location": "H1006 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "STN"
+                    "prof": "STN",
+                    "location": "L113 "
                 }
             ]
         },
@@ -93,28 +134,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "RUF"
+                    "prof": "RUF",
+                    "location": "H0807 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "RUF"
-                }
-            ]
-        },
-        "PCP": {
-            "token": "PCP",
-            "name": "Physikalisch - Chemisches Praktikum",
-            "dates": [
-                {
-                    "dayOfWeek": 2,
-                    "timeSlot": 2,
-                    "prof": "SEH"
-                },
-                {
-                    "dayOfWeek": 2,
-                    "timeSlot": 3,
-                    "prof": "SEH"
+                    "prof": "RUF",
+                    "location": "H0408 "
                 }
             ]
         },
@@ -123,14 +150,16 @@
             "name": "Organische Chemie",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 2,
-                    "prof": "SHA"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "SHA"
+                    "prof": "SHA",
+                    "location": "G013 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "SHA",
+                    "location": "G013 "
                 }
             ]
         }

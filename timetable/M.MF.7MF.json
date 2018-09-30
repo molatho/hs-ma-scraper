@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "OTO"
+                    "prof": "OTO",
+                    "location": "H0806 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "OTO"
+                    "prof": "OTO",
+                    "location": "H0806 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "SAD"
+                    "prof": "SAD",
+                    "location": "L110 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "SAD"
+                    "prof": "SAD",
+                    "location": "L110 "
                 }
             ]
         },
@@ -40,7 +44,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "MOH"
+                    "prof": "MOH",
+                    "location": "L210 "
                 }
             ]
         },
@@ -49,14 +54,16 @@
             "name": "Messtechnik",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 2,
-                    "prof": "HAP"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "HAP"
+                    "prof": "HAP",
+                    "location": "L110 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HAP",
+                    "location": "L110 "
                 }
             ]
         },
@@ -65,14 +72,16 @@
             "name": "Finite-Elemente-Methoden",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "NAE"
-                },
-                {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "NAE"
+                    "prof": "NAE",
+                    "location": "G133 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "NAE",
+                    "location": "L206 "
                 }
             ]
         },
@@ -83,12 +92,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "DJN"
+                    "prof": "DJN",
+                    "location": "H1010 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "DJN"
+                    "prof": "DJN",
+                    "location": "H1010 "
                 }
             ]
         },
@@ -99,12 +110,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "FOT"
+                    "prof": "FOT",
+                    "location": "L112 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "ENC"
+                    "prof": "ENC",
+                    "location": "L112 "
                 }
             ]
         },
@@ -115,12 +128,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "FOT"
+                    "prof": "FOT",
+                    "location": "L112 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
-                    "prof": "ENC"
+                    "prof": "ENC",
+                    "location": "L112 "
                 }
             ]
         }

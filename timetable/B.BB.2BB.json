@@ -6,24 +6,28 @@
             "name": "Analytische Chemie 2",
             "dates": [
                 {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "WEN",
+                    "location": "G137 "
+                },
+                {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "WEN"
+                    "prof": "WEN",
+                    "location": "G111 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "WEN"
+                    "prof": "WEN",
+                    "location": "G111 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "WEN"
-                },
-                {
-                    "dayOfWeek": 0,
-                    "timeSlot": 3,
-                    "prof": "WEN"
+                    "prof": "WEN",
+                    "location": "G111 "
                 }
             ]
         },
@@ -34,12 +38,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "ARR"
+                    "prof": "ARR",
+                    "location": "H1009 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "ARR"
+                    "prof": "ARR",
+                    "location": "B201 "
                 }
             ]
         },
@@ -50,12 +56,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "HAR"
+                    "prof": "HAR",
+                    "location": "A208 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "HAR"
+                    "prof": "HAR",
+                    "location": "A208 "
                 }
             ]
         },
@@ -64,19 +72,22 @@
             "name": "Physik 2",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "RUF"
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "RUF",
+                    "location": "A309 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "RUF"
+                    "prof": "RUF",
+                    "location": "A311 "
                 },
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 4,
-                    "prof": "RUF"
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "RUF",
+                    "location": "H0407 "
                 }
             ]
         },
@@ -87,12 +98,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "HAF"
+                    "prof": "HAF",
+                    "location": "G013 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "HAF"
+                    "prof": "HAF",
+                    "location": "G013 "
                 }
             ]
         },
@@ -103,12 +116,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "WEN"
+                    "prof": "WEN",
+                    "location": "G013 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "WEN"
+                    "prof": "WEN",
+                    "location": "H0307 "
                 }
             ]
         },
@@ -117,19 +132,22 @@
             "name": "Mathematik 2",
             "dates": [
                 {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "RUF",
+                    "location": "G045 "
+                },
+                {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "RUF"
+                    "prof": "RUF",
+                    "location": "G013 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "RUF"
-                },
-                {
-                    "dayOfWeek": 0,
-                    "timeSlot": 4,
-                    "prof": "RUF"
+                    "prof": "RUF",
+                    "location": "H0808 "
                 }
             ]
         }

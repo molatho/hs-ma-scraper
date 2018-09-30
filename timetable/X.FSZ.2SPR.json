@@ -8,22 +8,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "�ZE"
-                },
-                {
-                    "dayOfWeek": 2,
-                    "timeSlot": 4,
-                    "prof": "SDA"
-                },
-                {
-                    "dayOfWeek": 3,
-                    "timeSlot": 4,
-                    "prof": "SDA"
+                    "prof": "�ZE",
+                    "location": "L208 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "�ZE"
+                    "prof": "�ZE",
+                    "location": "L208 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SDA",
+                    "location": "B002 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "SDA",
+                    "location": "L208 "
                 }
             ]
         },
@@ -32,19 +36,28 @@
             "name": "Deutsch als Fremdsprache 1 - Gruppe B",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 3,
-                    "prof": "SDA"
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "�ZE",
+                    "location": "L208 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "�ZE"
+                    "prof": "�ZE",
+                    "location": "L208 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "SDA",
+                    "location": "B002 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "SDA"
+                    "prof": "SDA",
+                    "location": "L208 "
                 }
             ]
         },
@@ -55,12 +68,86 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "LBX1"
+                    "prof": "LBX1",
+                    "location": "L013 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "LBX1"
+                    "prof": "LBX1",
+                    "location": "L013 "
+                }
+            ]
+        },
+        "DEU2a": {
+            "token": "DEU2a",
+            "name": "Deutsch als Fremdsprache 2 - Gruppe A",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "FOT",
+                    "location": "L112 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "ENC",
+                    "location": "L112 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "HKA",
+                    "location": "L215 "
+                }
+            ]
+        },
+        "DEU3b": {
+            "token": "DEU3b",
+            "name": "Deutsch als Fremdsprache 3b",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "ANO",
+                    "location": "L013 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SLX",
+                    "location": "L013 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "ANO",
+                    "location": "L012 "
+                }
+            ]
+        },
+        "DEU3a": {
+            "token": "DEU3a",
+            "name": "Deutsch als Fremdsprache 3a",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "ANO",
+                    "location": "L013 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 5,
+                    "prof": "SLX",
+                    "location": "L013 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "ANO",
+                    "location": "L012 "
                 }
             ]
         },
@@ -69,9 +156,40 @@
             "name": "Deutsch als Fremdsprache 2 - Gruppe B",
             "dates": [
                 {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "FOT",
+                    "location": "L112 "
+                },
+                {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
-                    "prof": "ENC"
+                    "prof": "ENC",
+                    "location": "L112 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "HKA",
+                    "location": "L215 "
+                }
+            ]
+        },
+        "TUT1": {
+            "token": "TUT1",
+            "name": "Tutorium Deutsch 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "ZFE",
+                    "location": "L215 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "ZFE",
+                    "location": "L215 "
                 }
             ]
         }

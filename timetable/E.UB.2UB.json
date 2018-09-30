@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "EFS"
+                    "prof": "EFS",
+                    "location": "B305 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "EFS"
+                    "prof": "EFS",
+                    "location": "B305 "
                 }
             ]
         },
@@ -24,7 +26,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "DIT"
+                    "prof": "DIT",
+                    "location": "B105 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "DIT",
+                    "location": "B203 "
                 }
             ]
         },
@@ -35,7 +44,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "DIT"
+                    "prof": "DIT",
+                    "location": "B203 "
                 }
             ]
         },
@@ -44,14 +54,16 @@
             "name": "Mechanik und Schwingungen",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "BCK"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "BCK"
+                    "prof": "BCK",
+                    "location": "A305 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "BCK",
+                    "location": "A305 "
                 }
             ]
         },
@@ -62,12 +74,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "DIT"
+                    "prof": "DIT",
+                    "location": "B105 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 5,
-                    "prof": "DIT"
+                    "prof": "DIT",
+                    "location": "B203 "
                 }
             ]
         },
@@ -78,12 +92,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "DIT"
+                    "prof": "DIT",
+                    "location": "A210 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "DIT"
+                    "prof": "DIT",
+                    "location": "B202 "
                 }
             ]
         },
@@ -94,7 +110,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "DIT"
+                    "prof": "DIT",
+                    "location": "B202 "
                 }
             ]
         },
@@ -103,14 +120,16 @@
             "name": "Mehrdimensionale Analysis und Reihen",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "RAS"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "RAS"
+                    "prof": "RAS",
+                    "location": "B202 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "RAS",
+                    "location": "H0906 "
                 }
             ]
         },
@@ -121,7 +140,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "BCK"
+                    "prof": "BCK",
+                    "location": "B002 "
                 }
             ]
         },
@@ -132,12 +152,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "ELS"
+                    "prof": "ELS",
+                    "location": "A309 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "ELS"
+                    "prof": "ELS",
+                    "location": "A305 "
                 }
             ]
         },
@@ -148,12 +170,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "MEZ"
+                    "prof": "MEZ",
+                    "location": "B202 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "MEZ"
+                    "prof": "MEZ",
+                    "location": "B202 "
                 }
             ]
         },
@@ -164,12 +188,26 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "EFS"
+                    "prof": "EFS",
+                    "location": "B305 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "EFS",
+                    "location": "H0307 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "EFS"
+                    "prof": "EFS",
+                    "location": "B305 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "EFS",
+                    "location": "H0307 "
                 }
             ]
         }

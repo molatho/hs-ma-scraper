@@ -6,14 +6,16 @@
             "name": "H�here Thermodynamik",
             "dates": [
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 0,
-                    "prof": "MRK"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "MRK"
+                    "prof": "MRK",
+                    "location": "H1006 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "MRK",
+                    "location": "L011 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "MRK"
+                    "prof": "MRK",
+                    "location": "B002 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "MRK"
+                    "prof": "MRK",
+                    "location": "B002 "
                 }
             ]
         },
@@ -40,7 +44,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "STF"
+                    "prof": "STF",
+                    "location": "L012 "
                 }
             ]
         },
@@ -49,14 +54,16 @@
             "name": "Moderne Produktionsverfahren",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "HAP"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "HAP"
+                    "prof": "HAP",
+                    "location": "L013 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "HAP",
+                    "location": "L013 "
                 }
             ]
         },
@@ -67,12 +74,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "SGS"
+                    "prof": "SGS",
+                    "location": "B002 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "SGS"
+                    "prof": "SGS",
+                    "location": "B004 "
                 }
             ]
         },
@@ -83,12 +92,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "OTO"
+                    "prof": "OTO",
+                    "location": "H0806 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "OTO"
+                    "prof": "OTO",
+                    "location": "H0806 "
                 }
             ]
         },
@@ -99,12 +110,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "STF"
+                    "prof": "STF",
+                    "location": "L215 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "STF"
+                    "prof": "STF",
+                    "location": "L215 "
                 }
             ]
         },
@@ -115,12 +128,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "STF"
+                    "prof": "STF",
+                    "location": "L215 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "STF"
+                    "prof": "STF",
+                    "location": "L215 "
                 }
             ]
         },
@@ -131,17 +146,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "HAP"
+                    "prof": "HAP",
+                    "location": "L111 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "HAP"
+                    "prof": "HAP",
+                    "location": "L111 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "HAP"
+                    "prof": "HAP",
+                    "location": "L011 "
                 }
             ]
         },
@@ -150,14 +168,16 @@
             "name": "H�here Fluidmechanik",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 3,
-                    "prof": "WEI"
-                },
-                {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "WEI"
+                    "prof": "WEI",
+                    "location": "L014 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "WEI",
+                    "location": "L012 "
                 }
             ]
         }

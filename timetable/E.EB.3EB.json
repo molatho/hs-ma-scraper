@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "EFS"
+                    "prof": "EFS",
+                    "location": "B305 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "EFS"
+                    "prof": "EFS",
+                    "location": "B305 "
                 }
             ]
         },
@@ -24,12 +26,26 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 0,
-                    "prof": "EFS"
+                    "prof": "EFS",
+                    "location": "B105 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "EFS",
+                    "location": "B305 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "EFS"
+                    "prof": "EFS",
+                    "location": "B105 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "EFS",
+                    "location": "B305 "
                 }
             ]
         },
@@ -40,12 +56,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "G�T"
+                    "prof": "G�T",
+                    "location": "G013 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "G�T"
+                    "prof": "G�T",
+                    "location": "H0307 "
                 }
             ]
         },
@@ -56,22 +74,44 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "MEZ"
+                    "prof": "MEZ",
+                    "location": "B004 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "MEZ"
+                    "prof": "MEZ",
+                    "location": "B004 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "MEZ",
+                    "location": "B305 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "MEZ"
+                    "prof": "MEZ",
+                    "location": "B004 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "MEZ",
+                    "location": "B305 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "MEZ"
+                    "prof": "MEZ",
+                    "location": "B004 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "MEZ",
+                    "location": "B305 "
                 }
             ]
         },
@@ -82,12 +122,26 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "HMM"
+                    "prof": "HMM",
+                    "location": "B105 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "HMM",
+                    "location": "B211 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "HMM"
+                    "prof": "HMM",
+                    "location": "B211 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "HMM",
+                    "location": "H0307 "
                 }
             ]
         },
@@ -96,14 +150,16 @@
             "name": "Differenzialgleichungen, lineare Algebra und Numerik",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "BCK"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "BCK"
+                    "prof": "BCK",
+                    "location": "H0307 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "BCK",
+                    "location": "G013 "
                 }
             ]
         },
@@ -114,12 +170,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "HMM"
+                    "prof": "HMM",
+                    "location": "B211 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "HMM"
+                    "prof": "HMM",
+                    "location": "B211 "
                 }
             ]
         },
@@ -130,12 +188,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "EFS"
+                    "prof": "EFS",
+                    "location": "B203 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "EFS"
+                    "prof": "EFS",
+                    "location": "B203 "
                 }
             ]
         },
@@ -146,12 +206,44 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "SHE"
+                    "prof": "SHE",
+                    "location": "L110 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "SHE"
+                    "prof": "SHE",
+                    "location": "L110 "
+                }
+            ]
+        },
+        "SSTA": {
+            "token": "SSTA",
+            "name": "Seminar",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "G�T",
+                    "location": "B105 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "G�T",
+                    "location": "B202 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "G�T",
+                    "location": "B105 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "G�T",
+                    "location": "B202 "
                 }
             ]
         },
@@ -162,7 +254,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 5,
-                    "prof": "HAN"
+                    "prof": "HAN",
+                    "location": "B202 "
                 }
             ]
         }

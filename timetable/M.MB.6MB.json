@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "OTO"
+                    "prof": "OTO",
+                    "location": "H0806 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "OTO"
+                    "prof": "OTO",
+                    "location": "H0806 "
                 }
             ]
         },
@@ -22,14 +24,16 @@
             "name": "Fertigungsverfahren 2",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 0,
-                    "prof": "PET"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "PET"
+                    "prof": "PET",
+                    "location": "L013 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "PET",
+                    "location": "L206 "
                 }
             ]
         },
@@ -40,7 +44,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "MOH"
+                    "prof": "MOH",
+                    "location": "L210 "
                 }
             ]
         },
@@ -49,14 +54,16 @@
             "name": "Werkzeugmaschinen",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 1,
-                    "prof": "HAP"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "HAP"
+                    "prof": "HAP",
+                    "location": "H1008 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HAP",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -67,7 +74,20 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "PET"
+                    "prof": "HAP",
+                    "location": "H0910 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "PET",
+                    "location": "H0910 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "SGS",
+                    "location": "H0910 "
                 }
             ]
         },
@@ -78,12 +98,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "MTA"
+                    "prof": "MTA",
+                    "location": "H0408 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "MTA"
+                    "prof": "MTA",
+                    "location": "H0408 "
                 }
             ]
         },
@@ -92,14 +114,16 @@
             "name": "Messtechnik",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 2,
-                    "prof": "HAP"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "HAP"
+                    "prof": "HAP",
+                    "location": "L110 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HAP",
+                    "location": "L110 "
                 }
             ]
         },
@@ -108,14 +132,16 @@
             "name": "Fluidmechanik 2",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 2,
-                    "prof": "SSO"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "SSO"
+                    "prof": "SSO",
+                    "location": "H1006 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "SSO",
+                    "location": "H0909 "
                 }
             ]
         },
@@ -124,14 +150,16 @@
             "name": "Finite-Elemente-Methoden",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "NAE"
-                },
-                {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "NAE"
+                    "prof": "NAE",
+                    "location": "G133 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "NAE",
+                    "location": "L206 "
                 }
             ]
         },
@@ -142,7 +170,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "RUL"
+                    "prof": "RUL",
+                    "location": "L015 "
                 }
             ]
         }

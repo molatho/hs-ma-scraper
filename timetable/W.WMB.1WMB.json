@@ -8,7 +8,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "RIS"
+                    "prof": "RIS",
+                    "location": "L011 "
                 }
             ]
         },
@@ -17,14 +18,16 @@
             "name": "Ingenieurmathematik",
             "dates": [
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 0,
-                    "prof": "NEU"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "NEU"
+                    "prof": "NEU",
+                    "location": "L207 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "NEU",
+                    "location": "L207 "
                 }
             ]
         },
@@ -35,12 +38,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "HGM"
+                    "prof": "HGM",
+                    "location": "L012 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 0,
-                    "prof": "HGM"
+                    "prof": "HGM",
+                    "location": "L206 "
                 }
             ]
         },
@@ -51,12 +56,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "FRM"
+                    "prof": "FRM",
+                    "location": "L305 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "FRM"
+                    "prof": "FRM",
+                    "location": "L305 "
                 }
             ]
         },
@@ -65,14 +72,16 @@
             "name": "Werkstoffkunde",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 1,
-                    "prof": "FRA"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "FRA"
+                    "prof": "FRA",
+                    "location": "L209 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "FRA",
+                    "location": "L210 "
                 }
             ]
         },
@@ -81,24 +90,28 @@
             "name": "Physik",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "RIS"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "RIS"
-                },
-                {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "RIS"
+                    "prof": "RIS",
+                    "location": "A311 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "RIS"
+                    "prof": "RIS",
+                    "location": "A311 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "RIS",
+                    "location": "L206 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "RIS",
+                    "location": "A309 "
                 }
             ]
         },
@@ -109,12 +122,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "WKT"
+                    "prof": "WKT",
+                    "location": "H1006 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "WKT"
+                    "prof": "WKT",
+                    "location": "L013 "
                 }
             ]
         },
@@ -125,17 +140,20 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "LID"
+                    "prof": "LID",
+                    "location": "H0906 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "LID"
+                    "prof": "LID",
+                    "location": "L210 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "LID"
+                    "prof": "LID",
+                    "location": "L113 "
                 }
             ]
         },
@@ -146,7 +164,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "NEU"
+                    "prof": "NEU",
+                    "location": "L110 "
                 }
             ]
         },
@@ -157,7 +176,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "LID"
+                    "prof": "LID",
+                    "location": "L012 "
                 }
             ]
         },
@@ -168,7 +188,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "WKT"
+                    "prof": "WKT",
+                    "location": "L014 "
                 }
             ]
         }

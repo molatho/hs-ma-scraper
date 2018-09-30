@@ -8,7 +8,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "LNG"
+                    "prof": "LNG",
+                    "location": "C311/312 "
                 }
             ]
         },
@@ -19,7 +20,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "TOU"
+                    "prof": "TOU",
+                    "location": "C311/312 "
                 }
             ]
         },
@@ -30,7 +32,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "TOU"
+                    "prof": "TOU",
+                    "location": "C212 "
                 }
             ]
         },
@@ -41,7 +44,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "LNG"
+                    "prof": "LNG",
+                    "location": "C311/312 "
                 }
             ]
         },
@@ -52,7 +56,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "LNG"
+                    "prof": "LNG",
+                    "location": "C311/312 "
                 }
             ]
         }

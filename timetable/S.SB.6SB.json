@@ -8,7 +8,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "OSM"
+                    "prof": "OSM",
+                    "location": "H0906 "
                 }
             ]
         },
@@ -19,7 +20,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "OSM"
+                    "prof": "OSM",
+                    "location": "C311/312 "
                 }
             ]
         },
@@ -30,7 +32,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "WEJ"
+                    "prof": "WEJ",
+                    "location": "C211 "
+                }
+            ]
+        },
+        "SVRE1-A": {
+            "token": "SVRE1-A",
+            "name": "Sozialverwaltungsrecht (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "BAA",
+                    "location": "C110 "
                 }
             ]
         },
@@ -41,7 +56,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "WLF"
+                    "prof": "WLF",
+                    "location": "C212 "
                 }
             ]
         },
@@ -52,7 +68,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "WEJ"
+                    "prof": "WEJ",
+                    "location": "C211 "
+                }
+            ]
+        },
+        "SVRE1-B": {
+            "token": "SVRE1-B",
+            "name": "Sozialverwaltungsrecht (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "BAA",
+                    "location": "C110 "
                 }
             ]
         }

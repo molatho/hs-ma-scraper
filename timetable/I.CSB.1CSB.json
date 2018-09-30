@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "HUM"
+                    "prof": "HUM",
+                    "location": "H0409 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "HUM"
+                    "prof": "HUM",
+                    "location": "H0409 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "FOL"
+                    "prof": "FOL",
+                    "location": "A206 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "FOL"
+                    "prof": "FOL",
+                    "location": "A206 "
                 }
             ]
         },
@@ -40,12 +44,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "DCH"
+                    "prof": "DCH",
+                    "location": "A206 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "DCH"
+                    "prof": "DCH",
+                    "location": "A206 "
                 }
             ]
         },
@@ -56,12 +62,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "TOY"
+                    "prof": "TOY",
+                    "location": "A206 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "TOY"
+                    "prof": "TOY",
+                    "location": "B202 "
                 }
             ]
         },
@@ -72,12 +80,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "HUM"
+                    "prof": "HUM",
+                    "location": "H0906 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "HUM"
+                    "prof": "HUM",
+                    "location": "A206 "
                 }
             ]
         },
@@ -86,14 +96,28 @@
             "name": "Automatisierungstechnik",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 2,
-                    "prof": "HAU"
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "HAU",
+                    "location": "B002 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "HAU"
+                    "prof": "HAU",
+                    "location": "B103 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HAU",
+                    "location": "B103 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HAU",
+                    "location": "L011 "
                 }
             ]
         }

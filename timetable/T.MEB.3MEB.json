@@ -8,12 +8,26 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "HMM"
+                    "prof": "HMM",
+                    "location": "B201 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "HMM",
+                    "location": "B211 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "HMM"
+                    "prof": "HMM",
+                    "location": "B201 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "HMM",
+                    "location": "B211 "
                 }
             ]
         },
@@ -22,14 +36,16 @@
             "name": "Mathematik 3",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "LGU"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "LGU"
+                    "prof": "LGU",
+                    "location": "B004 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "LGU",
+                    "location": "B002 "
                 }
             ]
         },
@@ -40,12 +56,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "BGM"
+                    "prof": "BGM",
+                    "location": "L112 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "BGM"
+                    "prof": "BGM",
+                    "location": "L112 "
                 }
             ]
         },
@@ -54,14 +72,16 @@
             "name": "Messtechnik",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 1,
-                    "prof": "SKH"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "SKH"
+                    "prof": "SKH",
+                    "location": "L111 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "SKH",
+                    "location": "L111 "
                 }
             ]
         },
@@ -72,12 +92,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "HLF"
+                    "prof": "HLF",
+                    "location": "L011 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "HLF"
+                    "prof": "HLF",
+                    "location": "L012 "
                 }
             ]
         },
@@ -86,14 +108,16 @@
             "name": "Elektronische Schaltungen",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "K�Z"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "K�Z"
+                    "prof": "K�Z",
+                    "location": "H0806 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "K�Z",
+                    "location": "H0906 "
                 }
             ]
         },
@@ -104,7 +128,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "BAN"
+                    "prof": "BAN",
+                    "location": "L011 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "BAN",
+                    "location": "L011 "
                 }
             ]
         },
@@ -115,12 +146,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "MTA"
+                    "prof": "MTA",
+                    "location": "H1107 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "MTA"
+                    "prof": "MTA",
+                    "location": "H1107 "
                 }
             ]
         },
@@ -131,7 +164,32 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "BAN"
+                    "prof": "BAN",
+                    "location": "L011 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "BAN",
+                    "location": "L011 "
+                }
+            ]
+        },
+        "MWA": {
+            "token": "MWA",
+            "name": "Methoden des wissenschaftlichen Arbeitens",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "EFS",
+                    "location": "B203 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 5,
+                    "prof": "EFS",
+                    "location": "B203 "
                 }
             ]
         },
@@ -142,7 +200,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "K�Z"
+                    "prof": "K�Z",
+                    "location": "R108 "
                 }
             ]
         },
@@ -153,23 +212,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "SHE"
+                    "prof": "SHE",
+                    "location": "L110 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "SHE"
-                }
-            ]
-        },
-        "MWA": {
-            "token": "MWA",
-            "name": "Methoden des wissenschaftlichen Arbeitens",
-            "dates": [
-                {
-                    "dayOfWeek": 0,
-                    "timeSlot": 5,
-                    "prof": "EFS"
+                    "prof": "SHE",
+                    "location": "L110 "
                 }
             ]
         }

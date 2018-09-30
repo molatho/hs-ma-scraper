@@ -8,17 +8,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "POP"
-                },
-                {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "POP"
+                    "prof": "POP",
+                    "location": "L014 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "POP"
+                    "prof": "POP",
+                    "location": "L210 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "POP",
+                    "location": "L015 "
                 }
             ]
         },
@@ -29,12 +32,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "HAR"
+                    "prof": "HAR",
+                    "location": "A311 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "HAR"
+                    "prof": "HAR",
+                    "location": "A311 "
                 }
             ]
         },
@@ -43,19 +48,28 @@
             "name": "Praktische Informatik",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "HES"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "HES"
+                    "prof": "HES",
+                    "location": "L209 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "HES"
+                    "prof": "HES",
+                    "location": "H0406 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "HES",
+                    "location": "H0406A "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "HES",
+                    "location": "L210 "
                 }
             ]
         },
@@ -66,7 +80,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 0,
-                    "prof": "WIB"
+                    "prof": "WIB",
+                    "location": "L215 "
                 }
             ]
         },
@@ -77,12 +92,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "HES"
+                    "prof": "HES",
+                    "location": "L014 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "HES"
+                    "prof": "HES",
+                    "location": "L014 "
                 }
             ]
         },
@@ -93,12 +110,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "WIB"
+                    "prof": "WIB",
+                    "location": "L014 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "WIB"
+                    "prof": "WIB",
+                    "location": "L014 "
                 }
             ]
         },
@@ -109,7 +128,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "HES"
+                    "prof": "HES",
+                    "location": "S117 "
                 }
             ]
         },
@@ -120,12 +140,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "LBN1"
+                    "prof": "LBN1",
+                    "location": "MED-U "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "LBN1"
+                    "prof": "LBN1",
+                    "location": "MED-U "
                 }
             ]
         }

@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "KOE"
+                    "prof": "KOE",
+                    "location": "L014 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "KOE"
+                    "prof": "KOE",
+                    "location": "H0807 "
                 }
             ]
         },
@@ -22,19 +24,28 @@
             "name": "Digitale Regelungstechnik",
             "dates": [
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 0,
-                    "prof": "SKH"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "SKH"
+                    "prof": "SKH",
+                    "location": "L111 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "SKH"
+                    "prof": "SKH",
+                    "location": "K106 "
+                },
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "SKH",
+                    "location": "L110 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "SKH",
+                    "location": "L110 "
                 }
             ]
         },
@@ -45,17 +56,20 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "KBL"
-                },
-                {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "KBL"
+                    "prof": "KBL",
+                    "location": "S212 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "KBL"
+                    "prof": "KBL",
+                    "location": "S212 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "KBL",
+                    "location": "S220 "
                 }
             ]
         },
@@ -66,12 +80,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "WIR"
+                    "prof": "WIR",
+                    "location": "S322 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "WIR"
+                    "prof": "WIR",
+                    "location": "S212 "
                 }
             ]
         },
@@ -82,7 +98,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "KBL"
+                    "prof": "KBL",
+                    "location": "S012 "
                 }
             ]
         },
@@ -93,12 +110,14 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "BJM"
+                    "prof": "BJM",
+                    "location": "S213 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "BJM"
+                    "prof": "BJM",
+                    "location": "S117 "
                 }
             ]
         }

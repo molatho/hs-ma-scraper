@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "FIM"
+                    "prof": "FIM",
+                    "location": "B105 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "FIM"
+                    "prof": "FIM",
+                    "location": "H0307 "
                 }
             ]
         },
@@ -22,19 +24,22 @@
             "name": "Technische Informatik 1 - Labor",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 1,
-                    "prof": "IME"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "IME"
+                    "prof": "IME",
+                    "location": "A111 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "IME"
+                    "prof": "IME",
+                    "location": "A111 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "IME",
+                    "location": "A111 "
                 }
             ]
         },
@@ -45,12 +50,26 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "KNU"
+                    "prof": "KNU",
+                    "location": "H0506,H0409 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "PLU",
+                    "location": "H0507 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "KNU"
+                    "prof": "KNU",
+                    "location": "H0506,H0409 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "PLU",
+                    "location": "H0507 "
                 }
             ]
         },
@@ -59,14 +78,16 @@
             "name": "Einf�hrung in die Informatik",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "SCA"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "SCA"
+                    "prof": "SCA",
+                    "location": "A206 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "SCA",
+                    "location": "H0307 "
                 }
             ]
         },
@@ -77,7 +98,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "IME"
+                    "prof": "IME",
+                    "location": "A206 "
                 }
             ]
         },
@@ -88,12 +110,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "KNU"
+                    "prof": "KNU",
+                    "location": "A206 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "KNU"
+                    "prof": "KNU",
+                    "location": "A206 "
                 }
             ]
         },
@@ -104,12 +128,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "BOD"
+                    "prof": "BOD",
+                    "location": "B202 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
-                    "prof": "BOD"
+                    "prof": "BOD",
+                    "location": "B202 "
                 }
             ]
         }

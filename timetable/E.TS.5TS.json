@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "ZBO"
+                    "prof": "ZBO",
+                    "location": "A211 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "ZBO"
+                    "prof": "ZBO",
+                    "location": "A211 "
                 }
             ]
         },
@@ -24,17 +26,20 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "HAN"
+                    "prof": "HAN",
+                    "location": "B202 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "HAN"
+                    "prof": "HAN",
+                    "location": "B202 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "HAN"
+                    "prof": "HAN",
+                    "location": "B202 "
                 }
             ]
         }

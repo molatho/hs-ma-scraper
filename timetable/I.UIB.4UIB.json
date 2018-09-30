@@ -8,22 +8,38 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "SMI"
+                    "prof": "SMI",
+                    "location": "A108 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "GMI"
+                    "prof": "GMI",
+                    "location": "A108 "
                 },
                 {
-                    "dayOfWeek": 3,
+                    "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "GMI"
+                    "prof": "SMI",
+                    "location": "A108 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "GMI"
+                    "prof": "GMI",
+                    "location": "A108 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "SMI",
+                    "location": "A108 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "GMI",
+                    "location": "A108 "
                 }
             ]
         }

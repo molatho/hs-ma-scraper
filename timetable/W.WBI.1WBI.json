@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "FOL"
+                    "prof": "FOL",
+                    "location": "L305 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "FOL"
+                    "prof": "FOL",
+                    "location": "L305 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "MNE"
+                    "prof": "MNE",
+                    "location": "L011 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "MNE"
+                    "prof": "MNE",
+                    "location": "L011 "
                 }
             ]
         },
@@ -38,14 +42,16 @@
             "name": "Mathematik f�r Wirtschaftsingenieure 1",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "RIS"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "RIS"
+                    "prof": "RIS",
+                    "location": "L111 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "RIS",
+                    "location": "L210 "
                 }
             ]
         },
@@ -54,14 +60,16 @@
             "name": "Introduction to Business",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 1,
-                    "prof": "ALS"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "ALS"
+                    "prof": "ALS",
+                    "location": "L013 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "ALS",
+                    "location": "L011 "
                 }
             ]
         },
@@ -72,7 +80,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "KLI"
+                    "prof": "KLI",
+                    "location": "L114 "
                 }
             ]
         },
@@ -83,7 +92,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "KLS"
+                    "prof": "KLS",
+                    "location": "L305 "
                 }
             ]
         },
@@ -94,7 +104,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "HGM"
+                    "prof": "HGM",
+                    "location": "H0906 "
                 }
             ]
         },
@@ -105,7 +116,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "FRM"
+                    "prof": "FRM",
+                    "location": "L305 "
                 }
             ]
         },
@@ -116,17 +128,20 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "LID"
+                    "prof": "LID",
+                    "location": "H0906 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "LID"
+                    "prof": "LID",
+                    "location": "L210 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "LID"
+                    "prof": "LID",
+                    "location": "L113 "
                 }
             ]
         },
@@ -137,7 +152,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "LID"
+                    "prof": "LID",
+                    "location": "L011 "
                 }
             ]
         }

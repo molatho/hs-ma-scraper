@@ -8,7 +8,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "LAN"
+                    "prof": "LAN",
+                    "location": "G133 "
                 }
             ]
         },
@@ -19,7 +20,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "MUE"
+                    "prof": "MUE",
+                    "location": "H0809 "
                 }
             ]
         },
@@ -30,12 +32,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "SUB"
+                    "prof": "SUB",
+                    "location": "H0808 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "SUB"
+                    "prof": "SUB",
+                    "location": "H0809 "
                 }
             ]
         },
@@ -44,14 +48,16 @@
             "name": "Regenerative Energien",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 3,
-                    "prof": "EIW"
-                },
-                {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "EIW"
+                    "prof": "EIW",
+                    "location": "L209 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "EIW",
+                    "location": "L209 "
                 }
             ]
         },
@@ -62,7 +68,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "HRA"
+                    "prof": "HRA",
+                    "location": "H0807 "
                 }
             ]
         },
@@ -71,14 +78,16 @@
             "name": "Brennstoffzellen- und Baterietechnik",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 4,
-                    "prof": "SCV"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "SCV"
+                    "prof": "SCV",
+                    "location": "H0408 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "SCV",
+                    "location": "H0408 "
                 }
             ]
         },
@@ -89,7 +98,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "SHU"
+                    "prof": "SHU",
+                    "location": "H0407 "
                 }
             ]
         }

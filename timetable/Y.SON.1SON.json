@@ -8,62 +8,74 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "KOP"
+                    "prof": "KOP",
+                    "location": "X412 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "KOP",
+                    "location": "X412 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "KOP",
+                    "location": "X412 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "KOP",
+                    "location": "X412 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "KOP",
+                    "location": "X412 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "KOP",
+                    "location": "X412 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "KOP"
-                },
-                {
-                    "dayOfWeek": 1,
-                    "timeSlot": 1,
-                    "prof": "KOP"
+                    "prof": "KOP",
+                    "location": "X412 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "KOP"
-                },
-                {
-                    "dayOfWeek": 1,
-                    "timeSlot": 2,
-                    "prof": "KOP"
+                    "prof": "KOP",
+                    "location": "X412 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "KOP"
-                },
-                {
-                    "dayOfWeek": 1,
-                    "timeSlot": 3,
-                    "prof": "KOP"
+                    "prof": "KOP",
+                    "location": "X412 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "KOP"
-                },
-                {
-                    "dayOfWeek": 1,
-                    "timeSlot": 4,
-                    "prof": "KOP"
+                    "prof": "KOP",
+                    "location": "X412 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "KOP"
-                },
-                {
-                    "dayOfWeek": 1,
-                    "timeSlot": 5,
-                    "prof": "KOP"
+                    "prof": "KOP",
+                    "location": "X412 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "KOP"
+                    "prof": "KOP",
+                    "location": "X412 "
                 }
             ]
         },
@@ -74,17 +86,32 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "KKU"
+                    "prof": "KKU",
+                    "location": "W410 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "KKU",
+                    "location": "W410 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "KKU"
+                    "prof": "KKU",
+                    "location": "W410 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "KKU",
+                    "location": "W410 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "KKU"
+                    "prof": "KKU",
+                    "location": "W410 "
                 }
             ]
         },
@@ -95,12 +122,32 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "FAY"
+                    "prof": "FAY",
+                    "location": "X413 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "FAY"
+                    "prof": "FAY",
+                    "location": "X413 "
+                }
+            ]
+        },
+        "KLQ": {
+            "token": "KLQ",
+            "name": "Kolloquium",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 4,
+                    "prof": "MAI",
+                    "location": "A305 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "MAI",
+                    "location": "A305 "
                 }
             ]
         },
@@ -111,7 +158,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
-                    "prof": "SEE"
+                    "prof": "SEE",
+                    "location": "L206 "
                 }
             ]
         }

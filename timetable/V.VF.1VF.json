@@ -8,17 +8,20 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "EIW"
+                    "prof": "EIW",
+                    "location": "H0808 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "EIW"
+                    "prof": "EIW",
+                    "location": "H0408 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "EIW"
+                    "prof": "EIW",
+                    "location": "H0808 "
                 }
             ]
         },
@@ -27,14 +30,28 @@
             "name": "Angewandte nummerische Mathematik",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 0,
-                    "prof": "OTO"
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "OTO",
+                    "location": "G133 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "OTO"
+                    "prof": "OTO",
+                    "location": "H0908 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "OTO",
+                    "location": "G133 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "OTO",
+                    "location": "H0908 "
                 }
             ]
         },
@@ -45,12 +62,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "SCV"
+                    "prof": "SCV",
+                    "location": "H0408 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "SCV"
+                    "prof": "SCV",
+                    "location": "H0407 "
                 }
             ]
         },
@@ -59,14 +78,16 @@
             "name": "Anlagenplanung",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 1,
-                    "prof": "WET"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "WET"
+                    "prof": "WET",
+                    "location": "H0407 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 1,
+                    "prof": "WET",
+                    "location": "H0807 "
                 }
             ]
         },
@@ -77,12 +98,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "R�T"
+                    "prof": "R�T",
+                    "location": "L209 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "R�T"
+                    "prof": "R�T",
+                    "location": "H0910 "
                 }
             ]
         },
@@ -91,19 +114,22 @@
             "name": "Thermische Verfahrenstechnik",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 2,
-                    "prof": "ADR"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "ADR"
+                    "prof": "ADR",
+                    "location": "L111 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "ADR",
+                    "location": "H0908 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 4,
-                    "prof": "ADR"
+                    "prof": "ADR",
+                    "location": "H0910 "
                 }
             ]
         }

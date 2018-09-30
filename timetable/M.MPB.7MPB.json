@@ -6,14 +6,16 @@
             "name": "Werkzeugmaschinen",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 1,
-                    "prof": "HAP"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "HAP"
+                    "prof": "HAP",
+                    "location": "H1008 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HAP",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -22,14 +24,16 @@
             "name": "Str�mungsmaschinen",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "GRW"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "GRW"
+                    "prof": "GRW",
+                    "location": "B002 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "GRW",
+                    "location": "B004 "
                 }
             ]
         },
@@ -40,12 +44,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "GRW"
+                    "prof": "GRW",
+                    "location": "L113 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "GRW"
+                    "prof": "GRW",
+                    "location": "H0807 "
                 }
             ]
         },
@@ -56,12 +62,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "WFW"
+                    "prof": "WFW",
+                    "location": "B203 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "WFW"
+                    "prof": "WFW",
+                    "location": "B203 "
                 }
             ]
         },
@@ -72,12 +80,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "HLF"
+                    "prof": "HLF",
+                    "location": "K122 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "HLF"
+                    "prof": "HLF",
+                    "location": "K122 "
                 }
             ]
         },
@@ -88,12 +98,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "SAD"
+                    "prof": "SAD",
+                    "location": "B105 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "SAD"
+                    "prof": "SAD",
+                    "location": "B105 "
                 }
             ]
         },
@@ -104,12 +116,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "NAR"
+                    "prof": "NAR",
+                    "location": "L013 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "NAR"
+                    "prof": "NAR",
+                    "location": "L013 "
                 }
             ]
         }

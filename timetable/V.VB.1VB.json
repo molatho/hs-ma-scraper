@@ -6,19 +6,22 @@
             "name": "Konstruktionslehre 1",
             "dates": [
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 0,
-                    "prof": "SIN"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "SIN"
+                    "prof": "SIN",
+                    "location": "L114 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "SIN",
+                    "location": "A211 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "SIN"
+                    "prof": "SIN",
+                    "location": "H0808 "
                 }
             ]
         },
@@ -29,12 +32,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "CAN"
+                    "prof": "CAN",
+                    "location": "A309 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "CAN"
+                    "prof": "CAN",
+                    "location": "A305 "
                 }
             ]
         },
@@ -43,19 +48,22 @@
             "name": "Mathematik 1",
             "dates": [
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 2,
-                    "prof": "SIN"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "SIN"
+                    "prof": "SIN",
+                    "location": "L114 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "SIN",
+                    "location": "H0407 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "SIN"
+                    "prof": "SIN",
+                    "location": "H0807 "
                 }
             ]
         },
@@ -66,12 +74,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "HOF"
+                    "prof": "HOF",
+                    "location": "L209 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "HOF"
+                    "prof": "HOF",
+                    "location": "L209 "
                 }
             ]
         },
@@ -82,12 +92,14 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "SIN"
+                    "prof": "SIN",
+                    "location": "G054 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "SIN"
+                    "prof": "SIN",
+                    "location": "G054 "
                 }
             ]
         },
@@ -98,12 +110,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "KUN"
+                    "prof": "KUN",
+                    "location": "H0808 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "KUN"
+                    "prof": "KUN",
+                    "location": "H0808 "
                 }
             ]
         },
@@ -114,12 +128,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "BEL"
+                    "prof": "BEL",
+                    "location": "H0808 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "BEL"
+                    "prof": "BEL",
+                    "location": "H0408 "
                 }
             ]
         }

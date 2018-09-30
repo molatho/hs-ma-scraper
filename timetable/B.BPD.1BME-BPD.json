@@ -8,7 +8,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "GRE"
+                    "prof": "GRE",
+                    "location": "H1008 "
                 }
             ]
         },
@@ -19,7 +20,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "MCK"
+                    "prof": "MCK",
+                    "location": "H0909 "
                 }
             ]
         },
@@ -30,7 +32,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "KIO"
+                    "prof": "KIO",
+                    "location": "H1008 "
                 }
             ]
         },
@@ -41,12 +44,26 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "PRE"
+                    "prof": "PRE",
+                    "location": "H0406A "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 1,
+                    "prof": "PRE",
+                    "location": "H0908 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "PRE"
+                    "prof": "PRE",
+                    "location": "H0406A "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 2,
+                    "prof": "PRE",
+                    "location": "H0908 "
                 }
             ]
         },
@@ -57,7 +74,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "WIP"
+                    "prof": "WIP",
+                    "location": "G045 "
                 }
             ]
         },
@@ -66,19 +84,22 @@
             "name": "Biostatistics",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 1,
-                    "prof": "RUF"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "RUF"
+                    "prof": "RUF",
+                    "location": "H1007 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "RUF"
+                    "prof": "RUF",
+                    "location": "H1007 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "RUF",
+                    "location": "H1007 "
                 }
             ]
         },
@@ -89,7 +110,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "STN"
+                    "prof": "STN",
+                    "location": "H0407 "
                 }
             ]
         },
@@ -100,7 +122,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "ARR"
+                    "prof": "ARR",
+                    "location": "G054 "
                 }
             ]
         },
@@ -111,7 +134,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "KUZ"
+                    "prof": "KUZ",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -122,7 +146,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "GRE"
+                    "prof": "GRE",
+                    "location": "G045 "
                 }
             ]
         },
@@ -133,7 +158,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
-                    "prof": "SWZ"
+                    "prof": "SWZ",
+                    "location": "H0908 "
                 }
             ]
         }

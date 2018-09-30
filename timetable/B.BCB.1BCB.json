@@ -8,22 +8,26 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
-                    "prof": "SHA"
+                    "prof": "SHA",
+                    "location": "G103 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "SHA"
+                    "prof": "SHA",
+                    "location": "G103 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "SHA"
+                    "prof": "SHA",
+                    "location": "G103 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "PAK"
+                    "prof": "PAK",
+                    "location": "G137 "
                 }
             ]
         },
@@ -32,19 +36,22 @@
             "name": "Physik 1",
             "dates": [
                 {
-                    "dayOfWeek": 1,
-                    "timeSlot": 0,
-                    "prof": "LBB1"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "LBB1"
+                    "prof": "LBB1",
+                    "location": "A311 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "LBB1",
+                    "location": "A311 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "LBB1"
+                    "prof": "LBB1",
+                    "location": "A311 "
                 }
             ]
         },
@@ -53,19 +60,22 @@
             "name": "Allgemeine und Physikalische Chemie 1",
             "dates": [
                 {
-                    "dayOfWeek": 2,
-                    "timeSlot": 0,
-                    "prof": "SHA"
-                },
-                {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "SHA"
+                    "prof": "SHA",
+                    "location": "G137 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "SHA",
+                    "location": "G013 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "SHA"
+                    "prof": "SHA",
+                    "location": "G013 "
                 }
             ]
         },
@@ -76,7 +86,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "KIO"
+                    "prof": "KIO",
+                    "location": "G137 "
                 }
             ]
         },
@@ -87,12 +98,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "HCL"
+                    "prof": "HCL",
+                    "location": "H1009 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "HCL"
+                    "prof": "HCL",
+                    "location": "H1009 "
                 }
             ]
         },
@@ -101,19 +114,22 @@
             "name": "Mathematik 1",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 1,
-                    "prof": "BEU"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "BEU"
+                    "prof": "BEU",
+                    "location": "H1006 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "BEU"
+                    "prof": "BEU",
+                    "location": "G013 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "BEU",
+                    "location": "H1006 "
                 }
             ]
         },
@@ -124,7 +140,8 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "PRE"
+                    "prof": "PRE",
+                    "location": "G045 "
                 }
             ]
         }

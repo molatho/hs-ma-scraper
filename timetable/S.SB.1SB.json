@@ -8,7 +8,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "OSM"
+                    "prof": "OSM",
+                    "location": "H0307 "
                 }
             ]
         },
@@ -19,7 +20,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "SSC"
+                    "prof": "SSC",
+                    "location": "A206 "
                 }
             ]
         },
@@ -30,7 +32,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "BAL"
+                    "prof": "BAL",
+                    "location": "oR "
                 }
             ]
         },
@@ -41,7 +44,20 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "TOU"
+                    "prof": "TOU",
+                    "location": "C212 "
+                }
+            ]
+        },
+        "SOZ-A": {
+            "token": "SOZ-A",
+            "name": "Sozialbeziehungen (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "UTZ",
+                    "location": "C211 "
                 }
             ]
         },
@@ -52,7 +68,20 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "MAZ"
+                    "prof": "MAZ",
+                    "location": "C211 "
+                }
+            ]
+        },
+        "RAW-A": {
+            "token": "RAW-A",
+            "name": "Rechtsanwendung (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 1,
+                    "prof": "LBS1",
+                    "location": "C310 "
                 }
             ]
         },
@@ -63,7 +92,20 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "VAR"
+                    "prof": "VAR",
+                    "location": "C212 "
+                }
+            ]
+        },
+        "P�D-A": {
+            "token": "P�D-A",
+            "name": "Einf�hrung in die P�dagogik (Gruppe A)",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "BAL",
+                    "location": "C211 "
                 }
             ]
         },
@@ -74,7 +116,8 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "SSC"
+                    "prof": "SSC",
+                    "location": "C002 "
                 }
             ]
         },
@@ -85,7 +128,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "BWF"
+                    "prof": "BWF",
+                    "location": "oR "
                 }
             ]
         },
@@ -96,7 +140,20 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "TOU"
+                    "prof": "TOU",
+                    "location": "C212 "
+                }
+            ]
+        },
+        "SOZ-B": {
+            "token": "SOZ-B",
+            "name": "Sozialbeziehungen (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "UTZ",
+                    "location": "C211 "
                 }
             ]
         },
@@ -107,7 +164,20 @@
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "MAZ"
+                    "prof": "MAZ",
+                    "location": "C211 "
+                }
+            ]
+        },
+        "RAW-B": {
+            "token": "RAW-B",
+            "name": "Rechtsanwendung (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "LBS1",
+                    "location": "C310 "
                 }
             ]
         },
@@ -118,7 +188,20 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "BWF"
+                    "prof": "BWF",
+                    "location": "C212 "
+                }
+            ]
+        },
+        "P�D-B": {
+            "token": "P�D-B",
+            "name": "Einf�hrung in die P�dagogik (Gruppe B)",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "BAL",
+                    "location": "C211 "
                 }
             ]
         },
@@ -129,7 +212,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "NOY"
+                    "prof": "NOY",
+                    "location": "C212 "
                 }
             ]
         },
@@ -140,7 +224,8 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "BWF"
+                    "prof": "BWF",
+                    "location": "C212 "
                 }
             ]
         },
@@ -151,7 +236,8 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "NOY"
+                    "prof": "NOY",
+                    "location": "C212 "
                 }
             ]
         }

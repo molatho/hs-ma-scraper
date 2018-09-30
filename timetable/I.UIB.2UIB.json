@@ -8,12 +8,14 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "DOP"
+                    "prof": "DOP",
+                    "location": "H0407 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "DOP"
+                    "prof": "DOP",
+                    "location": "H0407 "
                 }
             ]
         },
@@ -24,12 +26,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
-                    "prof": "STL"
+                    "prof": "STL",
+                    "location": "H0910 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "STL"
+                    "prof": "STL",
+                    "location": "H0809 "
                 }
             ]
         },
@@ -38,14 +42,16 @@
             "name": "Software Engineering 1",
             "dates": [
                 {
-                    "dayOfWeek": 3,
-                    "timeSlot": 1,
-                    "prof": "SPE"
-                },
-                {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "SPE"
+                    "prof": "SPE",
+                    "location": "H0809 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "SPE",
+                    "location": "H0408 "
                 }
             ]
         },
@@ -56,12 +62,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "GMI"
+                    "prof": "GMI",
+                    "location": "H0409 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "GMI"
+                    "prof": "GMI",
+                    "location": "H0409 "
                 }
             ]
         },
@@ -72,12 +80,14 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "DCH"
+                    "prof": "DCH",
+                    "location": "L011 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "DCH"
+                    "prof": "DCH",
+                    "location": "L011 "
                 }
             ]
         },
@@ -86,19 +96,22 @@
             "name": "Tutorium - Programmierung 2",
             "dates": [
                 {
-                    "dayOfWeek": 4,
-                    "timeSlot": 2,
-                    "prof": "DOP"
-                },
-                {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "DOP"
+                    "prof": "DOP",
+                    "location": "H1114 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
-                    "prof": "DOP"
+                    "prof": "DOP",
+                    "location": "H1008 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "DOP",
+                    "location": "H1114 "
                 }
             ]
         },
@@ -109,7 +122,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "GMI"
+                    "prof": "GMI",
+                    "location": "H0409 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 2,
+                    "prof": "GMI",
+                    "location": "H0409 "
                 }
             ]
         },
@@ -120,12 +140,26 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "DOP"
+                    "prof": "DOP",
+                    "location": "H0506 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "KML",
+                    "location": "H0507 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "DOP"
+                    "prof": "DOP",
+                    "location": "H0506 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "KML",
+                    "location": "H0507 "
                 }
             ]
         }
