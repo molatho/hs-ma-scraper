@@ -5,7 +5,7 @@ class Date {
         this.dayOfWeek = dayOfWeek;
         this.timeSlot = timeSlot;
         this.prof = prof;
-        this.location;
+        this.location = location;
     }
 }
 

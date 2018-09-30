@@ -28,6 +28,15 @@ class Scraper {
         });
     }
 
+    /**
+     * Populates Faculty.name by traversing the list of professors
+     * (The names of faculties is nowhere to be found on the timetable page)
+     *
+     * @static
+     * @param {*} faculties
+     * @param {*} professors
+     * @memberof Scraper
+     */
     static resolveFacultyNames(faculties, professors) {
         for (var f in faculties) {
             var faculty = faculties[f];
@@ -77,18 +86,18 @@ class Scraper {
         var assoc = null;
         if (facs.length > 0) {
             var faculty = {
-                "token":$(facs[0].children[0]).text().trim(),
-                "name":facs[0].attribs.title,
-                "link":facs[0].attribs.href
-             };
+                "token": $(facs[0].children[0]).text().trim(),
+                "name": facs[0].attribs.title,
+                "link": facs[0].attribs.href
+            };
             var institutes = null;
             if (facs.length > 1) {
                 institutes = [];
                 for (var i = 1; i < facs.length; i++) {
                     institutes.push({
-                        "token":$(facs[i].children[0]).text().trim(),
-                        "name":facs[i].attribs.title,
-                        "link":facs[i].attribs.href
+                        "token": $(facs[i].children[0]).text().trim(),
+                        "name": facs[i].attribs.title,
+                        "link": facs[i].attribs.href
                     });
                 }
             }
@@ -139,6 +148,9 @@ class Scraper {
             Scraper.aquireSemesters(major, row.semesters, cb);
         }, err => {
             if (err) console.error("Failed to process rows:", err);
+            else {
+                for (var f in faculties) faculties[f].sort();
+            }
             callback(err, faculties);
         });
     }
@@ -172,32 +184,37 @@ class Scraper {
                 var row = _rows[r];
                 var cells = row.children.filter(_child => _child.type == "tag" && _child.name == "td");
                 for (var c = 0; c < cells.length; c++) {
-                    var entry = Scraper.entryFromCell(cells[c]);
-                    if (entry == null) continue;
-                    semester.addCourseEntry(entry.name, entry.location, entry.prof, c - 1, r);
+                    var entries = Scraper.entriesFromCell(cells[c]);
+                    if (entries == null || entries.length == 0) continue;
+                    for (var e in entries){
+                        semester.addCourseEntry(entries[e].name, entries[e].location, entries[e].prof, c - 1, r);
+                    }
                 }
             }
             callback();
         }.bind(Scraper));
     }
 
-    static entryFromCell(cell) {
+    static entriesFromCell(cell) {
         var children = cell.children.filter(_child => _child.type == "tag" && _child.name == "span");
-        if (children.length == 0) return null;
-        return {
-            "name": {
-                "text": children[0].attribs.title,
-                "token": children[0].children[0].data
-            },
-            "location": {
-                "text": children[1].attribs.title,
-                "token": children[1].children[0].data
-            },
-            "prof": {
-                "text": children[2].attribs.title,
-                "token": children[2].children[0].data
-            }
-        };
+        var entries = [];
+        for (var i = 0; i < children.length; i+=3) {
+            entries.push({
+                "name": {
+                    "text": children[i + 0].attribs.title,
+                    "token": children[i + 0].children[0].data
+                },
+                "location": {
+                    "text": children[i + 1].attribs.title,
+                    "token": children[i + 1].children[0].data
+                },
+                "prof": {
+                    "text": children[i + 2].attribs.title,
+                    "token": children[i + 2].children[0].data
+                }
+            });
+        }
+        return entries;
     }
 
     /**

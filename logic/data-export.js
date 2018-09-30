@@ -17,7 +17,7 @@ class DataExport {
         for (var f in faculties) {
             for (var m in faculties[f].majors) {
                 for (var s in faculties[f].majors[m].semesters) {
-                    this.exportObject("timetable", `${f}.${faculties[f].majors[m].token}.${faculties[f].majors[m].semesters[s].token}`, faculties[f].majors[m].semesters[s]);
+                    this.exportObject("timetable", `${f}.${faculties[f].majors[m].token}.${faculties[f].majors[m].semesters[s].token}`, faculties[f].majors[m].semesters[s], true);
                 }
             }
         }
@@ -25,15 +25,19 @@ class DataExport {
     exportProfessors(professors) {
         var folder = this.exportObject("professors", "_all", professors);
         for (var p in professors) {
-            this.exportObject("professors", `${p}`, professors[p]);
+            this.exportObject("professors", `${p}`, professors[p], true);
         }
     }
 
-    exportObject(folderName, objectName, object) {
+    exportObject(folderName, objectName, object, formatted) {
         var baseFolder = path.join(this.directory, folderName);
         this.createDirectory(baseFolder);
 
-        fs.writeFileSync(path.join(baseFolder, `${objectName}.json`), JSON.stringify(object, null, 4));
+        if (formatted) {
+            fs.writeFileSync(path.join(baseFolder, `${objectName}.json`), JSON.stringify(object, null, 4));
+        } else {
+            fs.writeFileSync(path.join(baseFolder, `${objectName}.json`), JSON.stringify(object));
+        }
         return baseFolder;
     }
 
