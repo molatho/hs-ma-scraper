@@ -1,6 +1,18 @@
 {
     "token": "3WB",
     "courses": {
+        "T-ET1": {
+            "token": "T-ET1",
+            "name": "Tutorium - Grundlagen der Elektrotechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "WKT",
+                    "location": "L011 "
+                }
+            ]
+        },
         "STK": {
             "token": "STK",
             "name": "Statistik",

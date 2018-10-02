@@ -49,6 +49,18 @@
                 }
             ]
         },
+        "T-MA3": {
+            "token": "T-MA3",
+            "name": "Tutorium - Differenzialgleichungen, lineare Algebra und Numerik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 0,
+                    "prof": "BCK",
+                    "location": "H0808 "
+                }
+            ]
+        },
         "PMT": {
             "token": "PMT",
             "name": "Prozessmesstechnik, alt",

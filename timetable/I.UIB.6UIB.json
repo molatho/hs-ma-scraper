@@ -127,6 +127,24 @@
                 }
             ]
         },
+        "IPS4": {
+            "token": "IPS4",
+            "name": "Integrierte Gesch�ftsprozesse in SAP S/4HANA",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "ROD",
+                    "location": "H0807 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "ROD",
+                    "location": "A212 "
+                }
+            ]
+        },
         "VS": {
             "token": "VS",
             "name": "Verteilte Systeme",
@@ -142,24 +160,6 @@
                     "timeSlot": 4,
                     "prof": "SPE",
                     "location": "A211 "
-                }
-            ]
-        },
-        "IPS4": {
-            "token": "IPS4",
-            "name": "Integrierte Gesch�ftsprozesse in SAP S/4HANA",
-            "dates": [
-                {
-                    "dayOfWeek": 2,
-                    "timeSlot": 3,
-                    "prof": "ROD",
-                    "location": "A212 "
-                },
-                {
-                    "dayOfWeek": 4,
-                    "timeSlot": 3,
-                    "prof": "ROD",
-                    "location": "H0807 "
                 }
             ]
         },

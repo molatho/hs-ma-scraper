@@ -19,6 +19,18 @@
                 }
             ]
         },
+        "T-TM1": {
+            "token": "T-TM1",
+            "name": "Tutorium - Technische Mechanik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 0,
+                    "prof": "HBD",
+                    "location": "L013 "
+                }
+            ]
+        },
         "TZ": {
             "token": "TZ",
             "name": "Technisches Zeichnen",
@@ -88,6 +100,18 @@
                     "timeSlot": 1,
                     "prof": "KLI",
                     "location": "L114 "
+                }
+            ]
+        },
+        "T-MA1W": {
+            "token": "T-MA1W",
+            "name": "Tutorium - Mathematik f�r Wirtschaftsingenieure 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 2,
+                    "prof": "N�R",
+                    "location": "L015 "
                 }
             ]
         },

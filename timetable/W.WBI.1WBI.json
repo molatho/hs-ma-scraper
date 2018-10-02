@@ -156,6 +156,18 @@
                     "location": "L011 "
                 }
             ]
+        },
+        "T-MA1W": {
+            "token": "T-MA1W",
+            "name": "Tutorium - Mathematik f�r Wirtschaftsingenieure 1",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 5,
+                    "prof": "RIS",
+                    "location": "L011 "
+                }
+            ]
         }
     }
 }

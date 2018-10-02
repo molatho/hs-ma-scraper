@@ -144,6 +144,18 @@
                     "location": "L112 "
                 }
             ]
+        },
+        "T-TPM1": {
+            "token": "T-TPM1",
+            "name": "Tutorium - Innovations- und Technologiemanagement",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 5,
+                    "prof": "ALS",
+                    "location": "L112 "
+                }
+            ]
         }
     }
 }
