@@ -13,9 +13,18 @@ const REGEX_TOKEN_MAJOR = /xstdg=(.*)/g;
 const REGEX_TOKEN_SEMESTER = /xsem=(.*)/g;
 const REGEX_PROF_NAME = /([^,]*)?,\s*([^\(]*)?\(([^\)]*)\)?\s*E-Mail:\s*([^\s]*)?/;
 
+var numRequests = 0;
+
 class Scraper {
     constructor() {
 
+    }
+
+    static getNumberOfRequests() { return numRequests; }
+
+    static makeRequest(url, callback) {
+        numRequests++;
+        request(url, callback);
     }
 
     static fetch(callback) {
@@ -51,7 +60,7 @@ class Scraper {
     }
 
     static fetchProfessors(callback) {
-        request(PROF_LIST_URL, function (error, response, body) {
+        Scraper.makeRequest(PROF_LIST_URL, function (error, response, body) {
             if (error) {
                 return callback(error);
             }
@@ -123,7 +132,7 @@ class Scraper {
     }
 
     static fetchOverview(callback) {
-        request(SCHEDULE_BASE_URL, function (error, response, body) {
+        Scraper.makeRequest(SCHEDULE_BASE_URL, function (error, response, body) {
             if (error) {
                 return callback(error);
             }
@@ -170,7 +179,7 @@ class Scraper {
     }
 
     static fetchSemester(semester, token, callback) {
-        request(SCHEDULE_SEMESTER_URL + token, function (error, response, body) {
+        Scraper.makeRequest(SCHEDULE_SEMESTER_URL + token, function (error, response, body) {
             if (error) return callback(error);
             var $ = cheerio.load(body);
             var _rows = [null, null, null, null, null, null];

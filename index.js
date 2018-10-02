@@ -22,12 +22,13 @@ Scraper.fetch((err, res) => {
     Scraper.resolveFacultyNames(faculties, professors);
 
     for (var f in faculties){
-        console.log(`> "${faculties[f].name}" (` +
-        `${faculties[f].getMajorCount()} majors, ` +
-        `${faculties[f].getTotalSemesterCount()} semesters, ` +
-        `${faculties[f].getTotalCourseCount()} courses, ` +
+        console.log(`> "${faculties[f].token}" \t(` +
+        `${faculties[f].getMajorCount()} majors, \t` +
+        `${faculties[f].getTotalSemesterCount()} semesters, \t` +
+        `${faculties[f].getTotalCourseCount()} courses, \t` +
         `${faculties[f].getTotalCourseDateCount()} dates)`);
     }
+    console.log("Number of requests made:", Scraper.getNumberOfRequests());
 
     console.log("Exporting...");
     var dataExport = new DataExport("./data");
