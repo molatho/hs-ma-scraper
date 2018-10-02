@@ -67,6 +67,18 @@
                 }
             ]
         },
+        "T-PH2": {
+            "token": "T-PH2",
+            "name": "Tutorium - Thermodynamik und Wellen",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "ELS",
+                    "location": "A210 "
+                }
+            ]
+        },
         "DV1": {
             "token": "DV1",
             "name": "Software-Engineering mit Einf�hrung in die C-Programmierung",

@@ -79,6 +79,18 @@
                 }
             ]
         },
+        "T-AL1": {
+            "token": "T-AL1",
+            "name": "Tutorium - Analytische Chemie 1",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 0,
+                    "prof": "PAK",
+                    "location": "H0808 "
+                }
+            ]
+        },
         "GMB": {
             "token": "GMB",
             "name": "Grundlagen der Molekularbiologie",

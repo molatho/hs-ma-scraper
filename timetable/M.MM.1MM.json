@@ -15,7 +15,7 @@
                     "dayOfWeek": 1,
                     "timeSlot": 0,
                     "prof": "MRK",
-                    "location": "L011 "
+                    "location": "H0408 "
                 }
             ]
         },
@@ -75,13 +75,13 @@
                     "dayOfWeek": 0,
                     "timeSlot": 1,
                     "prof": "SGS",
-                    "location": "B002 "
+                    "location": "L114 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
                     "prof": "SGS",
-                    "location": "B004 "
+                    "location": "H0910 "
                 }
             ]
         },
@@ -111,13 +111,13 @@
                     "dayOfWeek": 4,
                     "timeSlot": 1,
                     "prof": "STF",
-                    "location": "L215 "
+                    "location": "L012 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
                     "prof": "STF",
-                    "location": "L215 "
+                    "location": "L012 "
                 }
             ]
         },
@@ -129,13 +129,13 @@
                     "dayOfWeek": 2,
                     "timeSlot": 2,
                     "prof": "STF",
-                    "location": "L215 "
+                    "location": "H0909 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
                     "prof": "STF",
-                    "location": "L215 "
+                    "location": "H0910 "
                 }
             ]
         },
