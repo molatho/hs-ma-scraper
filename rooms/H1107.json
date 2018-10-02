@@ -1,0 +1,96 @@
+{
+    "token": "H1107",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "ENTW",
+                    "semester": "2SB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "DMC",
+                    "semester": "3TIB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "DMC",
+                    "semester": "3TIB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "TH1",
+                    "semester": "3MB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "BL1",
+                    "semester": "3MEB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "BL1",
+                    "semester": "3MEB"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "EKL",
+                    "semester": "1WMI"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "EKL",
+                    "semester": "1WMI"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "TME1",
+                    "semester": "1MBa"
+                },
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

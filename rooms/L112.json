@@ -1,0 +1,152 @@
+{
+    "token": "L112",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "WR",
+                    "semester": "3MEB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "GM",
+                    "semester": "1WMI"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "DLM",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "DEU2a",
+                    "semester": "2SPR"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "DEU2b",
+                    "semester": "2SPR"
+                }
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "OC",
+                    "semester": "2WMW"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "GM",
+                    "semester": "1WMI"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "CAV",
+                    "semester": "2NM"
+                },
+                "3": null,
+                "4": {
+                    "number": 4,
+                    "course": "T-MA2",
+                    "semester": "2MTB"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "T-TPM1",
+                    "semester": "1WMW"
+                }
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "ET2",
+                    "semester": "2WMB"
+                },
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "PR3",
+                    "semester": "2WMW"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "SWK",
+                    "semester": "1WMW"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "DEU2a",
+                    "semester": "2SPR"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "DEU2b",
+                    "semester": "2SPR"
+                }
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "EE",
+                    "semester": "2WMW"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "IC",
+                    "semester": "2WMW"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "TPM1",
+                    "semester": "1WMW"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "TPM1",
+                    "semester": "1WMW"
+                },
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "EMB",
+                    "semester": "4MTB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "WR",
+                    "semester": "3MEB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "STA",
+                    "semester": "6WB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "EE",
+                    "semester": "2WMW"
+                },
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

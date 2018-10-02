@@ -1,0 +1,120 @@
+{
+    "token": "H0809",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "MA3",
+                    "semester": "3IB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "BWL3",
+                    "semester": "3UIB"
+                },
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "DM",
+                    "semester": "3IB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MA1",
+                    "semester": "1MEB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "VTS",
+                    "semester": "6CB"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "GE1",
+                    "semester": "1MEB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "SE1",
+                    "semester": "2UIB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "BPE",
+                    "semester": "7VB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "T-WK",
+                    "semester": "1MEB"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "GE1",
+                    "semester": "1MEB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "RT2",
+                    "semester": "7VB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MA3",
+                    "semester": "3IB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "BWL3",
+                    "semester": "3UIB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "MA2",
+                    "semester": "2UIB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "TH",
+                    "semester": "3CB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

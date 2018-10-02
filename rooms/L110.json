@@ -1,0 +1,148 @@
+{
+    "token": "L110",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PM",
+                    "semester": "6WB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "PM",
+                    "semester": "6WB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "DR",
+                    "semester": "4TIB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MT",
+                    "semester": "7MF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "TH",
+                    "semester": "3VB"
+                },
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "DR",
+                    "semester": "4TIB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "TM",
+                    "semester": "1WB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "AS",
+                    "semester": "6VB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MA3",
+                    "semester": "3TIB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "FO",
+                    "semester": "7MX"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "FO",
+                    "semester": "7MX"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MT",
+                    "semester": "7MF"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "OOP",
+                    "semester": "2TIB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "T-IM",
+                    "semester": "1WMB"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "INT",
+                    "semester": "1WMW"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "INT",
+                    "semester": "1WMW"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "WR1",
+                    "semester": "2WB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "ENC1",
+                    "semester": "1SPR"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "ENC1",
+                    "semester": "1SPR"
+                }
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "TH",
+                    "semester": "3VB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "SS",
+                    "semester": "3TIB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MA3",
+                    "semester": "3TIB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

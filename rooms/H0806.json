@@ -1,0 +1,136 @@
+{
+    "token": "H0806",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "FVF1",
+                    "semester": "7MX"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "MAT3",
+                    "semester": "3MB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "TM1",
+                    "semester": "1MEB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "KON1",
+                    "semester": "1MBa"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "RW2",
+                    "semester": "3WBI"
+                },
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "ANM",
+                    "semester": "7MF"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "TMA",
+                    "semester": "1MM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "PC1",
+                    "semester": "2VB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "ES",
+                    "semester": "3MEB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "KON1",
+                    "semester": "1MBa"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "MR",
+                    "semester": "3VB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "STK",
+                    "semester": "3WB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "TB",
+                    "semester": "1CB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "TB",
+                    "semester": "1CB"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "ANM",
+                    "semester": "7MF"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "TMA",
+                    "semester": "1MM"
+                },
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "KON3",
+                    "semester": "7MX"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "MR",
+                    "semester": "3VB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "GE1",
+                    "semester": "1UB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

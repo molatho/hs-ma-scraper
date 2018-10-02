@@ -1,0 +1,104 @@
+{
+    "token": "A212",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "APV",
+                    "semester": "7UIB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "HS",
+                    "semester": "6EB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "BIM",
+                    "semester": "6IMB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "KDM",
+                    "semester": "2IM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "AGI",
+                    "semester": "7UIB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "IPS4",
+                    "semester": "6UIB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "MH2",
+                    "semester": "SWM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "EAN",
+                    "semester": "6EB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "SM1",
+                    "semester": "6UB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "GAE",
+                    "semester": "7UIB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "GAE",
+                    "semester": "7UIB"
+                },
+                "5": null
+            }
+        }
+    }
+}

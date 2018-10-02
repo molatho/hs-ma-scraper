@@ -1,0 +1,132 @@
+{
+    "token": "S213",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "HF1",
+                    "semester": "4MTB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "EMB",
+                    "semester": "4MTB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "EMB",
+                    "semester": "4MTB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "SPV",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "SPV",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "DSV",
+                    "semester": "4MTB"
+                },
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "BMO",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "BMO",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "OOP",
+                    "semester": "2MTB"
+                },
+                "1": null,
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "MS",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "MS",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "ME2",
+                    "semester": "2NM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "ME2",
+                    "semester": "2NM"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MOB",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "MOB",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "BS",
+                    "semester": "4TIB"
+                },
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "VT",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "VT",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        }
+    }
+}

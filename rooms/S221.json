@@ -1,0 +1,112 @@
+{
+    "token": "S221",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "PLB",
+                    "semester": "6TIB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "ZMP",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "ZMP",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "SPLM",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "SPLM",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "HF2",
+                    "semester": "6NEB"
+                },
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "ESR",
+                    "semester": "NWF"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "NEP",
+                    "semester": "6MTB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "BM",
+                    "semester": "6MTB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "DT2",
+                    "semester": "2IEB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "EFT",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "EFT",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "PLB",
+                    "semester": "6TIB"
+                },
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

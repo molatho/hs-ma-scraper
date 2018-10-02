@@ -1,0 +1,120 @@
+{
+    "token": "G133",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "PSC",
+                    "semester": "6CB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "PSC",
+                    "semester": "6CB"
+                },
+                "3": null,
+                "4": {
+                    "number": 4,
+                    "course": "CAD",
+                    "semester": "2MB"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "CAD",
+                    "semester": "2MB"
+                }
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "CAD",
+                    "semester": "2VB"
+                },
+                "2": null,
+                "3": null,
+                "4": {
+                    "number": 4,
+                    "course": "ANM",
+                    "semester": "1VF"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "CAC",
+                    "semester": "7CB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "CAD",
+                    "semester": "2VB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PVB",
+                    "semester": "7VB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "PSV",
+                    "semester": "6VB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "PSV",
+                    "semester": "6VB"
+                },
+                "3": null,
+                "4": {
+                    "number": 4,
+                    "course": "FEM",
+                    "semester": "7MF"
+                },
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "ANM",
+                    "semester": "1VF"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "MS",
+                    "semester": "2CM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MS",
+                    "semester": "2CM"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "token": "H0406A",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "VP1",
+                    "semester": "4VB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "VP1",
+                    "semester": "4VB"
+                },
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PI",
+                    "semester": "1TIB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "BRDE",
+                    "semester": "2BME-BPD"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "BRDE",
+                    "semester": "2BME-BPD"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "ABEE",
+                    "semester": "2BME-BPD"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "VP1",
+                    "semester": "4CB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "VP1",
+                    "semester": "4CB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "PI",
+                    "semester": "1MTB"
+                },
+                "3": null,
+                "4": {
+                    "number": 4,
+                    "course": "OOP",
+                    "semester": "2TIB"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "WEB",
+                    "semester": "3IB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "OOP",
+                    "semester": "2MTB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MBS",
+                    "semester": "6BCB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

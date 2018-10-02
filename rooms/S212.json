@@ -1,0 +1,136 @@
+{
+    "token": "S212",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "KOM1",
+                    "semester": "6NEB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "MA2",
+                    "semester": "2MTB"
+                },
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "MP",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "MP",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "SE2",
+                    "semester": "1NM"
+                },
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "DSV",
+                    "semester": "4TIB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "SRN",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "SRN",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "EMB",
+                    "semester": "4TIB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "EMB",
+                    "semester": "4TIB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "EIS1",
+                    "semester": "6NEB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "SS",
+                    "semester": "3TIB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "CN1",
+                    "semester": "3TIB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "MA3",
+                    "semester": "3TIB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "KIS",
+                    "semester": "1NM"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "SES",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "SES",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "PSM1",
+                    "semester": "NWF"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "PSM1",
+                    "semester": "NWF"
+                },
+                "5": null
+            }
+        }
+    }
+}

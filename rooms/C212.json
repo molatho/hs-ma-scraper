@@ -1,0 +1,128 @@
+{
+    "token": "C212",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "WT",
+                    "semester": "1SM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "LFI1-B",
+                    "semester": "1SB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "DIV-A",
+                    "semester": "1SB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "DIV-B",
+                    "semester": "1SB"
+                },
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "JUH-A",
+                    "semester": "2SB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "JUH-B",
+                    "semester": "2SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "FAFA",
+                    "semester": "7SB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "SP",
+                    "semester": "3SM"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "SOS",
+                    "semester": "2SB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "WIS",
+                    "semester": "2SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "GSA",
+                    "semester": "6SB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "HT10",
+                    "semester": "SWM"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "RECH-A",
+                    "semester": "1SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "RECH-B",
+                    "semester": "1SB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "WIS",
+                    "semester": "1SB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "EMP",
+                    "semester": "1SB"
+                },
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "PSST",
+                    "semester": "5SB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

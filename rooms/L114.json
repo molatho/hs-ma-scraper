@@ -1,0 +1,128 @@
+{
+    "token": "L114",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "PEP",
+                    "semester": "1MM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "KO1",
+                    "semester": "1VB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MA1",
+                    "semester": "1VB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "ET1",
+                    "semester": "3WB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "ET1",
+                    "semester": "3WB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "PHW",
+                    "semester": "2WB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "ORG",
+                    "semester": "2WBI"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "IC",
+                    "semester": "2WMW"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "KA",
+                    "semester": "2WMB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "ET1",
+                    "semester": "3WBI"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "QM",
+                    "semester": "6WB"
+                },
+                "3": null,
+                "4": {
+                    "number": 4,
+                    "course": "CHA1-2",
+                    "semester": "1SPR"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "CHA1-2",
+                    "semester": "1SPR"
+                }
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "ORG",
+                    "semester": "2WBI"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "LAT",
+                    "semester": "1WBI"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "OMT",
+                    "semester": "6BCB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "OMT",
+                    "semester": "6BCB"
+                },
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

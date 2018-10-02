@@ -1,0 +1,104 @@
+{
+    "token": "H0507",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PR1-L",
+                    "semester": "1UIB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "PR1-L",
+                    "semester": "1UIB"
+                },
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "PR2-L",
+                    "semester": "2IB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "PR2-L",
+                    "semester": "2IB"
+                },
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "PR1-L",
+                    "semester": "1IMB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "PR1-L",
+                    "semester": "1IMB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "PR2-L",
+                    "semester": "2UIB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "PR2-L",
+                    "semester": "2UIB"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "INF1",
+                    "semester": "1MEB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "PR1-L",
+                    "semester": "1IB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "PR1-L",
+                    "semester": "1IB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

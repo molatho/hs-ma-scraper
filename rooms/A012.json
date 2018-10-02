@@ -1,0 +1,88 @@
+{
+    "token": "A012",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "MMI",
+                    "semester": "2IM"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "APV",
+                    "semester": "7UIB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "COM",
+                    "semester": "2IM"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "PMS",
+                    "semester": "3TS"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "PMS",
+                    "semester": "3TS"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "PMS",
+                    "semester": "3TS"
+                }
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "MMI",
+                    "semester": "2IM"
+                },
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

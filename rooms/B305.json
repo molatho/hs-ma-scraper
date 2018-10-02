@@ -1,0 +1,128 @@
+{
+    "token": "B305",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "GSE1L",
+                    "semester": "2UB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "GSE1L",
+                    "semester": "2UB"
+                },
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "GSE2L",
+                    "semester": "3UBE"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "GSE2L",
+                    "semester": "3UBE"
+                },
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "GSE1",
+                    "semester": "2UB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "GSE1",
+                    "semester": "2UB"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "PMT",
+                    "semester": "3UBE"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "PMT",
+                    "semester": "3UBE"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "PMT",
+                    "semester": "3UBE"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "LE1",
+                    "semester": "4UB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "LE1",
+                    "semester": "4UB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "LE1L",
+                    "semester": "4UB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "LE1L",
+                    "semester": "4UB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "GSE2",
+                    "semester": "3UBE"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "GSE2",
+                    "semester": "3UBE"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "LE2",
+                    "semester": "6EB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "LE2",
+                    "semester": "6EB"
+                },
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

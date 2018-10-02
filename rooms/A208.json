@@ -1,0 +1,92 @@
+{
+    "token": "A208",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "PHP",
+                    "semester": "2VB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "PHP",
+                    "semester": "2VB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "PHL",
+                    "semester": "2BCB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "PHL",
+                    "semester": "2BCB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "PHL",
+                    "semester": "2BB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "PHL",
+                    "semester": "2BB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "PHP",
+                    "semester": "2CB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "PHP",
+                    "semester": "2CB"
+                },
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

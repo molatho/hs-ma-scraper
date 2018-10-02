@@ -1,0 +1,152 @@
+{
+    "token": "H0908",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "ICH",
+                    "semester": "6BCB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "ICH",
+                    "semester": "6BCB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MRT",
+                    "semester": "4BB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "BVT",
+                    "semester": "4BB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "BRS",
+                    "semester": "4BB"
+                },
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "BCP",
+                    "semester": "4BCB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "BRDE",
+                    "semester": "2BME-BPD"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "BRDE",
+                    "semester": "2BME-BPD"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "AP",
+                    "semester": "6CB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "ANM",
+                    "semester": "1VF"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PC2",
+                    "semester": "3CB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "PDPE",
+                    "semester": "2BME-BPD"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "TV",
+                    "semester": "1VF"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MV1",
+                    "semester": "4VB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "AB1",
+                    "semester": "4VB"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "EBTE",
+                    "semester": "2BME-BST"
+                }
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PC2",
+                    "semester": "3CB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "MA2",
+                    "semester": "2VB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "ST",
+                    "semester": "2CB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MV",
+                    "semester": "6CB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "T-MA2",
+                    "semester": "2TIB"
+                },
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "ANM",
+                    "semester": "1VF"
+                },
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "AP",
+                    "semester": "6CB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

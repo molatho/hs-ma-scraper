@@ -1,0 +1,104 @@
+{
+    "token": "G032",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PCP",
+                    "semester": "3CB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "PCP",
+                    "semester": "3CB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "PCP",
+                    "semester": "3CB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "PCP",
+                    "semester": "3CB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "PCP",
+                    "semester": "3VB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "PCP",
+                    "semester": "3VB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "PCP",
+                    "semester": "3VB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "ADBE",
+                    "semester": "2BME-BST"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "ADBE",
+                    "semester": "2BME-BST"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "ADBE",
+                    "semester": "2BME-BST"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "ADBE",
+                    "semester": "2BME-BST"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

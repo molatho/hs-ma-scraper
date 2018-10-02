@@ -1,0 +1,116 @@
+{
+    "token": "C211",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "P�D-A",
+                    "semester": "1SB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "P�D-B",
+                    "semester": "1SB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "HT2",
+                    "semester": "SWM"
+                },
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "MAN-B",
+                    "semester": "2SB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "MAN-A",
+                    "semester": "2SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "ETH-A",
+                    "semester": "6SB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "ETH-B",
+                    "semester": "6SB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "HT8",
+                    "semester": "SWM"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "MET",
+                    "semester": "1SM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MW4",
+                    "semester": "SWM"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "SOZ-A",
+                    "semester": "1SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "SOZ-B",
+                    "semester": "1SB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "MAT-A",
+                    "semester": "1SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MAT-B",
+                    "semester": "1SB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

@@ -31,27 +31,15 @@
                 }
             ]
         },
-        "PH1": {
-            "token": "PH1",
-            "name": "Physik 1",
+        "GMB": {
+            "token": "GMB",
+            "name": "Grundlagen der Molekularbiologie",
             "dates": [
-                {
-                    "dayOfWeek": 0,
-                    "timeSlot": 3,
-                    "prof": "LBB1",
-                    "location": "A311 "
-                },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "LBB1",
-                    "location": "A311 "
-                },
-                {
-                    "dayOfWeek": 4,
-                    "timeSlot": 3,
-                    "prof": "LBB1",
-                    "location": "A311 "
+                    "prof": "KIO",
+                    "location": "G013 "
                 }
             ]
         },
@@ -88,18 +76,6 @@
                     "timeSlot": 0,
                     "prof": "PAK",
                     "location": "H0808 "
-                }
-            ]
-        },
-        "GMB": {
-            "token": "GMB",
-            "name": "Grundlagen der Molekularbiologie",
-            "dates": [
-                {
-                    "dayOfWeek": 1,
-                    "timeSlot": 1,
-                    "prof": "KIO",
-                    "location": "G137 "
                 }
             ]
         },
@@ -154,6 +130,24 @@
                     "timeSlot": 2,
                     "prof": "PRE",
                     "location": "G045 "
+                }
+            ]
+        },
+        "PH1": {
+            "token": "PH1",
+            "name": "Physik 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 3,
+                    "prof": "LBB1",
+                    "location": "A311 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "LBB1",
+                    "location": "A311 "
                 }
             ]
         }

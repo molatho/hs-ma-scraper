@@ -1,0 +1,128 @@
+{
+    "token": "L210",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "T-MA2W",
+                    "semester": "2WBI"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "KO2",
+                    "semester": "3VB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "ET1",
+                    "semester": "1TIB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "FB",
+                    "semester": "7MF"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MA2",
+                    "semester": "2MTB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "TM",
+                    "semester": "1WMB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "WK",
+                    "semester": "1WMB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "FM1",
+                    "semester": "7MX"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "RW1",
+                    "semester": "2WBI"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "RW1",
+                    "semester": "2WBI"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PI",
+                    "semester": "1MTB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "PI",
+                    "semester": "1TIB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MA1",
+                    "semester": "1MTB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "OOP",
+                    "semester": "2MTB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "PC1",
+                    "semester": "2VB"
+                },
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "MA1W",
+                    "semester": "1WBI"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "TRI",
+                    "semester": "3MB"
+                },
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

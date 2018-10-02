@@ -1,0 +1,140 @@
+{
+    "token": "H1009",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "OCG",
+                    "semester": "2BB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "TEN",
+                    "semester": "1BB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "BAC",
+                    "semester": "6BCB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "TM2",
+                    "semester": "2VB"
+                },
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "CBAE",
+                    "semester": "1BME-BST"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "ABEE",
+                    "semester": "2BME-BPD"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "IEAE",
+                    "semester": "2BME-BST"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "T-MV1",
+                    "semester": "4VB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "TEN",
+                    "semester": "1SPR"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "TEN",
+                    "semester": "1SPR"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "POA1",
+                    "semester": "1SPR"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "POA1",
+                    "semester": "1SPR"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "BAL",
+                    "semester": "6BCB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "WZM",
+                    "semester": "7MPB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "IA",
+                    "semester": "4CB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "GVR",
+                    "semester": "2EMLM"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "BAC",
+                    "semester": "6BCB"
+                },
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "EBK",
+                    "semester": "2IM"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "GVT",
+                    "semester": "3BB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "IBDE",
+                    "semester": "2BME-BPD"
+                },
+                "5": null
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "token": "H0409",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PR1-L",
+                    "semester": "1UIB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "PR1-L",
+                    "semester": "1UIB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "WI2",
+                    "semester": "2UIB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "T-WI2",
+                    "semester": "2UIB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "PR1-L",
+                    "semester": "1IB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "PR1-L",
+                    "semester": "1IB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "T-WI2",
+                    "semester": "2UIB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "WI2",
+                    "semester": "2UIB"
+                },
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

@@ -44,26 +44,8 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "LBS6",
+                    "prof": "HNG",
                     "location": "C110 "
-                }
-            ]
-        },
-        "HF5": {
-            "token": "HF5",
-            "name": "Erziehungshilfe nach Plan - Hilfen zur Erziehung",
-            "dates": [
-                {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "LBS2",
-                    "location": "C002 "
-                },
-                {
-                    "dayOfWeek": 3,
-                    "timeSlot": 0,
-                    "prof": "LBS2",
-                    "location": "C003 "
                 }
             ]
         },
@@ -104,7 +86,7 @@
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "LBS6",
+                    "prof": "HNG",
                     "location": "C110 "
                 }
             ]
@@ -284,7 +266,7 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "LBS5",
+                    "prof": "WTS",
                     "location": "C212 "
                 }
             ]

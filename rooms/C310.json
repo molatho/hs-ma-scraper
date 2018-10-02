@@ -1,0 +1,128 @@
+{
+    "token": "C310",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "QL1",
+                    "semester": "1SM"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "HT6",
+                    "semester": "SWM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "HER",
+                    "semester": "1SM"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "QL2",
+                    "semester": "1SM"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "P�PR-A",
+                    "semester": "5SB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "P�PR-B",
+                    "semester": "5SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "HT4",
+                    "semester": "SWM"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "HT4",
+                    "semester": "SWM"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "TSA",
+                    "semester": "1SM"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "STADT",
+                    "semester": "5SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "SOPR",
+                    "semester": "5SB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MW11",
+                    "semester": "1SM"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "MW11",
+                    "semester": "1SM"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "HT1",
+                    "semester": "SWM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "LFI2-B",
+                    "semester": "2SB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "RAW-A",
+                    "semester": "1SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "RAW-B",
+                    "semester": "1SB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

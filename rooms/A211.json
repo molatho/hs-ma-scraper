@@ -1,0 +1,128 @@
+{
+    "token": "A211",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "SE1",
+                    "semester": "2IB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MA3",
+                    "semester": "3IMB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MA1",
+                    "semester": "1IMB"
+                },
+                "4": null,
+                "5": {
+                    "number": 5,
+                    "course": "AMR",
+                    "semester": "2IM"
+                }
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "KO1",
+                    "semester": "1VB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "IGT",
+                    "semester": "6UIB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "WEB",
+                    "semester": "3UIB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "VS",
+                    "semester": "7UIB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "VS",
+                    "semester": "7UIB"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "WEB",
+                    "semester": "3UIB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "MA3",
+                    "semester": "3IMB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "COM",
+                    "semester": "2IM"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "PR2",
+                    "semester": "2IB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "ERD",
+                    "semester": "6UIB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "ERD",
+                    "semester": "6UIB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "TRA",
+                    "semester": "7UIB"
+                },
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "MA1",
+                    "semester": "1IMB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

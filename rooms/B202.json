@@ -1,0 +1,156 @@
+{
+    "token": "B202",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "DK",
+                    "semester": "1ELB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "DK",
+                    "semester": "1ELB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "RG1",
+                    "semester": "4UB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "GE2",
+                    "semester": "2UB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "GE2",
+                    "semester": "2UB"
+                },
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "RG1",
+                    "semester": "4UB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "MC1",
+                    "semester": "4UB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MC1",
+                    "semester": "4UB"
+                },
+                "3": null,
+                "4": {
+                    "number": 4,
+                    "course": "GT",
+                    "semester": "6UB"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "GT",
+                    "semester": "6UB"
+                }
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "WGA",
+                    "semester": "2EMLM"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "WGA",
+                    "semester": "2EMLM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MA2",
+                    "semester": "2UB"
+                },
+                "3": null,
+                "4": {
+                    "number": 4,
+                    "course": "NF",
+                    "semester": "1IB"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "NF",
+                    "semester": "1IB"
+                }
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "DV2",
+                    "semester": "2UB"
+                },
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "EMF",
+                    "semester": "2UB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "SSTA",
+                    "semester": "7UBE"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "SSTA",
+                    "semester": "7UBE"
+                }
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "ELA",
+                    "semester": "4UB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "KOM3",
+                    "semester": "5TS"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "KOM3",
+                    "semester": "5TS"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "KOM3",
+                    "semester": "5TS"
+                },
+                "4": null,
+                "5": {
+                    "number": 5,
+                    "course": "IWU",
+                    "semester": "3UB"
+                }
+            }
+        }
+    }
+}

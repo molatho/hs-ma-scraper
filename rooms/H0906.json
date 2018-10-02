@@ -1,0 +1,116 @@
+{
+    "token": "H0906",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "TM",
+                    "semester": "1WMB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "SOME1",
+                    "semester": "6SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "PR1",
+                    "semester": "1UIB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "IUF",
+                    "semester": "3WBI"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "IUF",
+                    "semester": "3WBI"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "TZ",
+                    "semester": "1WBI"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "TME3",
+                    "semester": "3MB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "GE1",
+                    "semester": "1UB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "GE1",
+                    "semester": "1UB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "TME3",
+                    "semester": "3MB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "RW2",
+                    "semester": "3WBI"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PH1",
+                    "semester": "1CB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "MA2",
+                    "semester": "2UB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "ES",
+                    "semester": "3MEB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

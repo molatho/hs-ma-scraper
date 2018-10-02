@@ -1,0 +1,96 @@
+{
+    "token": "A111",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "TEI1-L",
+                    "semester": "1IB"
+                },
+                "3": null,
+                "4": {
+                    "number": 4,
+                    "course": "PML",
+                    "semester": "7UIB"
+                },
+                "5": {
+                    "number": 5,
+                    "course": "PML",
+                    "semester": "7UIB"
+                }
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "MLE",
+                    "semester": "7MEBa"
+                },
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "TEI1-L",
+                    "semester": "1IB"
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "number": 5,
+                    "course": "AMR",
+                    "semester": "2IM"
+                }
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "TEI2",
+                    "semester": "2IB"
+                },
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "TEI1-L",
+                    "semester": "1IB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MLE",
+                    "semester": "7MEBa"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "token": "B103",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "RG1",
+                    "semester": "4UB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "RG1",
+                    "semester": "4UB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "ET3",
+                    "semester": "3WMB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "ET3",
+                    "semester": "3WMB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MS",
+                    "semester": "1EM"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MS",
+                    "semester": "1EM"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "GAT",
+                    "semester": "1CSB"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "GAT",
+                    "semester": "1CSB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "SP2L",
+                    "semester": "6UB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "SP2L",
+                    "semester": "6UB"
+                },
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "GVR",
+                    "semester": "2EMLM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "GVR",
+                    "semester": "2EMLM"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "GVR",
+                    "semester": "2EMLM"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "SP1",
+                    "semester": "4UB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "SP1",
+                    "semester": "4UB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "ET3",
+                    "semester": "3WMB"
+                },
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}

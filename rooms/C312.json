@@ -1,0 +1,132 @@
+{
+    "token": "C312",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "SOP",
+                    "semester": "2SB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "SOP",
+                    "semester": "2SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "FAMR",
+                    "semester": "7SB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "MEDA",
+                    "semester": "7SB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "KAS-A",
+                    "semester": "5SB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "KAS-B",
+                    "semester": "5SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "HF9",
+                    "semester": "SWM"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "SORA",
+                    "semester": "3SB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "BER",
+                    "semester": "3SB"
+                },
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PSYIA",
+                    "semester": "5SB"
+                },
+                "1": {
+                    "number": 1,
+                    "course": "SOME2",
+                    "semester": "6SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "LEB",
+                    "semester": "2SB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "MEDU-A",
+                    "semester": "7SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "MEDU-B",
+                    "semester": "7SB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "RBEZ-A",
+                    "semester": "2SB"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "RBEZ-A",
+                    "semester": "2SB"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "RBEZ-B",
+                    "semester": "2SB"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "RBEZ-B",
+                    "semester": "2SB"
+                },
+                "5": null
+            }
+        }
+    }
+}

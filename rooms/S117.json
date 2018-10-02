@@ -1,0 +1,88 @@
+{
+    "token": "S117",
+    "days": {
+        "0": {
+            "dayOfWeek": 0,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "PES",
+                    "semester": "2NM"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "SET",
+                    "semester": "3TIB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "1": {
+            "dayOfWeek": 1,
+            "blocks": {
+                "0": null,
+                "1": {
+                    "number": 1,
+                    "course": "BM",
+                    "semester": "6MTB"
+                },
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "2": {
+            "dayOfWeek": 2,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "WAI",
+                    "semester": "7TIB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        },
+        "3": {
+            "dayOfWeek": 3,
+            "blocks": {
+                "0": {
+                    "number": 0,
+                    "course": "PES",
+                    "semester": "2NM"
+                },
+                "1": null,
+                "2": null,
+                "3": {
+                    "number": 3,
+                    "course": "T-PI",
+                    "semester": "1MTB"
+                },
+                "4": null,
+                "5": null
+            }
+        },
+        "4": {
+            "dayOfWeek": 4,
+            "blocks": {
+                "0": null,
+                "1": null,
+                "2": {
+                    "number": 2,
+                    "course": "BS",
+                    "semester": "4TIB"
+                },
+                "3": null,
+                "4": null,
+                "5": null
+            }
+        }
+    }
+}
