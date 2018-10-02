@@ -10,6 +10,9 @@
 const cheerio = require('cheerio');
 const Scraper = require("./logic/scraper")
 const DataExport = require("./logic/data-export");
+const GitHandler = require("./logic/git-handler");
+const path = require("path");
+const DATA_DIR = path.join(__dirname, "data");
 
 console.log("Scraping...");
 Scraper.fetch((err, res) => {
@@ -31,8 +34,22 @@ Scraper.fetch((err, res) => {
     console.log("Number of requests made:", Scraper.getNumberOfRequests());
 
     console.log("Exporting...");
-    var dataExport = new DataExport("./data");
+    var dataExport = new DataExport(DATA_DIR);
     dataExport.export(faculties, professors);
 
-    console.log("Done");
+    console.log("Synchronizing with remote repository...");
+    var handler = new GitHandler(DATA_DIR, "origin", "data");
+
+    handler.run((err, res)=>{
+        if (err) {
+            if (err.message == "Nothing to commit") {
+                console.log("> Nothing to commit");
+            } else {
+                console.error("> Failed to commit:");
+                console.error(err);
+            }
+        } else {
+            console.log("> Successfully committed to remote repository");
+        }
+    }, true);
 });
