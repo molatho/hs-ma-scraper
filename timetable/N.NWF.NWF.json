@@ -80,14 +80,14 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "LBN2",
-                    "location": "S211 "
+                    "prof": "HTM",
+                    "location": "S221 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "LBN2",
-                    "location": "S211 "
+                    "prof": "HTM",
+                    "location": "S221 "
                 }
             ]
         },
@@ -368,7 +368,7 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "LBN2",
+                    "prof": "HTM",
                     "location": "S211 "
                 }
             ]
@@ -380,7 +380,7 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
-                    "prof": "HES",
+                    "prof": "HTM",
                     "location": "S211 "
                 }
             ]

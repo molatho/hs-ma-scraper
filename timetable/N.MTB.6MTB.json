@@ -98,13 +98,13 @@
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "LBN2",
+                    "prof": "HTM",
                     "location": "S220 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "LBN2",
+                    "prof": "HTM",
                     "location": "S220 "
                 }
             ]
