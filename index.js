@@ -16,41 +16,41 @@ const path = require("path");
 const DATA_DIR = path.join(__dirname, "data");
 
 console.log("Scraping...");
-Scraper.fetch((err, res) => {
+var scraper = new Scraper();
+scraper.fetch((err, res) => {
     if (err) {
         return console.error(err);
     }
-    var faculties = res[0];
-    var professors = res[1];
-    console.log("Resolving names...");
-    Scraper.resolveFacultyNames(faculties, professors);
+    var hsma = scraper.hsma;
+    //console.log("Resolving names...");
+    //scraper.resolveFacultyNames(hsma.faculties, hsma.professors);
 
-    for (var f in faculties){
-        console.log(`> "${faculties[f].token}" \t(` +
-        `${faculties[f].getMajorCount()} majors, \t` +
-        `${faculties[f].getTotalSemesterCount()} semesters, \t` +
-        `${faculties[f].getTotalCourseCount()} courses, \t` +
-        `${faculties[f].getTotalCourseDateCount()} dates)`);
+    for (var f in hsma.faculties){
+        console.log(`> "${hsma.faculties[f].token}" \t(` +
+        `${hsma.faculties[f].getMajorCount()} majors, \t` +
+        `${hsma.faculties[f].getTotalSemesterCount()} semesters, \t` +
+        `${hsma.faculties[f].getTotalCourseCount()} courses, \t` +
+        `${hsma.faculties[f].getTotalCourseDateCount()} dates)`);
     }
-    console.log("Number of requests made:", Scraper.getNumberOfRequests());
+    console.log("Number of requests made:", scraper.getNumberOfRequests());
 
     console.log("Exporting...");
     var dataExport = new DataExport(DATA_DIR);
-    var rooms = RoomProcessor.getRooms(faculties);
-    dataExport.export(faculties, professors, rooms);
+    RoomProcessor.populateRooms(hsma);
+    dataExport.export(hsma);
 
-    console.log("Synchronizing with remote repository...");
-    var handler = new GitHandler(DATA_DIR, "origin", "data");
-    handler.run((err, res)=>{
-        if (err) {
-            if (err.message == "Nothing to commit") {
-                console.log("> Nothing to commit");
-            } else {
-                console.error("> Failed to commit:");
-                console.error(err);
-            }
-        } else {
-            console.log("> Successfully committed to remote repository");
-        }
-    }, true);
+    // console.log("Synchronizing with remote repository...");
+    // var handler = new GitHandler(DATA_DIR, "origin", "data");
+    // handler.run((err, res)=>{
+    //     if (err) {
+    //         if (err.message == "Nothing to commit") {
+    //             console.log("> Nothing to commit");
+    //         } else {
+    //             console.error("> Failed to commit:");
+    //             console.error(err);
+    //         }
+    //     } else {
+    //         console.log("> Successfully committed to remote repository");
+    //     }
+    // }, true);
 });

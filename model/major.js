@@ -7,6 +7,13 @@ class Major {
         this.semesters = [];
     }
 
+    getSemester(token) {
+        for (var s in this.semesters) {
+            if (this.semester[s].token == token) return this.semesters[s];
+        }
+        return null;
+    }
+
     sort() {
         this.semesters.sort(
             firstBy("token")

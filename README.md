@@ -13,10 +13,13 @@ Dumps the gathered data to disk. It will create a minimized "_all.json" file for
 ### GitHandler
 If any changes were made by Scraper and DataExport to the current dataset, GitHandler will create a commit and issue a push to the `data`-branch.
 
+### RoomProcessor
+When supplied with timetable-date, RoomProcessor extracts information about room occupancy per individual room.
+
 ## Todo
 * ~~~Consume timetable~~~
 * ~~~Consume professors~~~
 * Consume faculties'/institues' info pages
 * Consume university's/faculties' newsfeed
-* Dump occupancy information (using timetable data)
+* ~~~Dump occupancy information (using timetable data)~~~
 * ~~~Implement pushing to git~~~

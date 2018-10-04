@@ -1,10 +1,12 @@
 const cheerio = require('cheerio');
 var async = require("async");
 const request = require("request");
+const iconv = require("iconv-lite");
 
 const Faculty = require("../model/faculty");
 const Major = require("../model/major");
 const Semester = require("../model/semester");
+const HSMA = require("../model/hs-ma");
 
 const SCHEDULE_SEMESTER_URL = "https://services.informatik.hs-mannheim.de/stundenplan/stundenplan.php?xsem=";
 const SCHEDULE_BASE_URL = "https://services.informatik.hs-mannheim.de/stundenplan/index.php";
@@ -13,24 +15,32 @@ const REGEX_TOKEN_MAJOR = /xstdg=(.*)/g;
 const REGEX_TOKEN_SEMESTER = /xsem=(.*)/g;
 const REGEX_PROF_NAME = /([^,]*)?,\s*([^\(]*)?\(([^\)]*)\)?\s*E-Mail:\s*([^\s]*)?/;
 
-var numRequests = 0;
-
 class Scraper {
     constructor() {
-
+        this.hsma = new HSMA();
+        this.numRequests = 0;
     }
 
-    static getNumberOfRequests() { return numRequests; }
+    getNumberOfRequests() { return this.numRequests; }
 
-    static makeRequest(url, callback) {
-        numRequests++;
-        request(url, callback);
+    makeRequest(url, callback, encoding) {
+        this.numRequests++;
+        request.get({
+            uri: url,
+            encoding: null
+        }, function(error, response, body) {
+            if (error) return callback(error, request, null);
+
+            var _body = iconv.decode(body, encoding ? encoding : "iso-8859-1");
+            callback(error, response, _body);
+        }.bind(this));
     }
 
-    static fetch(callback) {
+    fetch(callback) {
         async.series([
-            Scraper.fetchOverview,
-            Scraper.fetchProfessors
+            this.fetchOverview.bind(this),
+            this.fetchProfessors.bind(this),
+            function(cb) { this.resolveFacultyNames(this.hsma.faculties, this.hsma.professors); cb(); }.bind(this)
         ], (err, res) => {
             if (err) console.error("Failed to fetch data:", err);
             callback(err, res);
@@ -46,7 +56,7 @@ class Scraper {
      * @param {*} professors
      * @memberof Scraper
      */
-    static resolveFacultyNames(faculties, professors) {
+    resolveFacultyNames(faculties, professors) {
         for (var f in faculties) {
             var faculty = faculties[f];
             for (var p in professors) {
@@ -59,8 +69,8 @@ class Scraper {
         }
     }
 
-    static fetchProfessors(callback) {
-        Scraper.makeRequest(PROF_LIST_URL, function (error, response, body) {
+    fetchProfessors(callback) {
+        this.makeRequest(PROF_LIST_URL, function (error, response, body) {
             if (error) {
                 return callback(error);
             }
@@ -71,16 +81,16 @@ class Scraper {
             var profs = {};
 
             for (var i = 0; i < odd.length; i++) {
-                Scraper.processProf(profs, odd.get(i), $);
+                this.processProf(odd.get(i), $);
             }
             for (var i = 0; i < even.length; i++) {
-                Scraper.processProf(profs, even.get(i), $);
+                this.processProf(even.get(i), $);
             }
-            callback(null, profs);
-        }.bind(Scraper));
+            callback();
+        }.bind(this), "utf-8");
     }
 
-    static processProf(profs, row, $) {
+    processProf(row, $) {
         var name = $($($(row).find("td")).get(0)).text().trim();
         var data = REGEX_PROF_NAME.exec(name);
         if (data == null) {
@@ -119,20 +129,28 @@ class Scraper {
         var location = $($($(row).find("td")).get(3)).text().trim();
         var phone = $($($(row).find("td")).get(4)).text().trim();
         var appointments = $($($(row).find("td")).get(5)).text().trim();
-        profs[data[3]] = {
-            "name": data[2].trim() + " " + data[1],
-            "email": data[4] !== undefined ? data[4] : null,
-            "website": website,
-            "associations": assoc,
-            "extra": extra,
-            "location": location.length > 0 ? location : null,
-            "phone": phone.length > 0 ? "(0621)-" + phone : null,
-            "appointments": appointments
-        };
+        var token = data[3];
+
+        var prof = this.hsma.getProfessor(token);
+        if (prof != null) {
+            console.error(`Duplicate prof token "${token}"`);
+        } else {
+            this.hsma.professors.push({
+                "token": token,
+                "name": data[2].trim() + " " + data[1],
+                "email": data[4] !== undefined ? data[4] : null,
+                "website": website,
+                "associations": assoc,
+                "extra": extra,
+                "location": location.length > 0 ? location : null,
+                "phone": phone.length > 0 ? "(0621)-" + phone : null,
+                "appointments": appointments
+            });
+        }
     }
 
-    static fetchOverview(callback) {
-        Scraper.makeRequest(SCHEDULE_BASE_URL, function (error, response, body) {
+    fetchOverview(callback) {
+        this.makeRequest(SCHEDULE_BASE_URL, function (error, response, body) {
             if (error) {
                 return callback(error);
             }
@@ -144,42 +162,46 @@ class Scraper {
             $('tr[class=row-even]').each((i, elem) => {
                 _rows.push(Scraper.extractRowInfoOverview(elem));
             });
-            Scraper.reduceMajorsToFaculties(_rows, callback);
-        }.bind(Scraper));
+            this.reduceMajorsToFaculties(_rows, callback);
+        }.bind(this));
     }
 
-    static reduceMajorsToFaculties(rows, callback) {
-        var faculties = {};
+    reduceMajorsToFaculties(rows, callback) {
         async.forEach(rows, (row, cb) => {
-            var faculty = faculties[row.faculty] !== undefined ? faculties[row.faculty] : faculties[row.faculty] = new Faculty(row.faculty);
+            var faculty = this.hsma.getFaculty(row.faculty);
+            if (faculty === null)
+            {
+                faculty = new Faculty(row.faculty);
+                this.hsma.faculties.push(faculty);
+            }
             var major = new Major(row.major.text, row.major.token);
             faculty.majors.push(major);
-            Scraper.aquireSemesters(major, row.semesters, cb);
+            this.aquireSemesters(major, row.semesters, cb);
         }, err => {
             if (err) console.error("Failed to process rows:", err);
             else {
-                for (var f in faculties) faculties[f].sort();
+                for (var f in this.hsma.faculties) this.hsma.faculties[f].sort();
             }
-            callback(err, faculties);
+            callback(err);
         });
     }
 
-    static aquireSemesters(major, semesters, callback) {
-        async.forEach(semesters, (semester, cb) => {
+    aquireSemesters(major, semesters, callback) {
+        async.forEach(semesters, function(semester, cb) {
             if (semester.text.length == 0) {
                 return cb();
             }
             var _semester = new Semester(semester.text);
             major.semesters.push(_semester);
-            Scraper.fetchSemester(_semester, semester.token, cb);
-        }, err => {
+            this.fetchSemester(_semester, semester.token, cb);
+        }.bind(this), err => {
             if (err) console.error("Failed to process major's semesters:", err);
             callback(err, major);
         });
     }
 
-    static fetchSemester(semester, token, callback) {
-        Scraper.makeRequest(SCHEDULE_SEMESTER_URL + token, function (error, response, body) {
+    fetchSemester(semester, token, callback) {
+        this.makeRequest(SCHEDULE_SEMESTER_URL + token, function (error, response, body) {
             if (error) return callback(error);
             var $ = cheerio.load(body);
             var _rows = [null, null, null, null, null, null];
@@ -201,7 +223,7 @@ class Scraper {
                 }
             }
             callback();
-        }.bind(Scraper));
+        }.bind(this));
     }
 
     static entriesFromCell(cell) {

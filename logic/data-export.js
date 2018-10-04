@@ -7,16 +7,17 @@ class DataExport {
         this.createDirectory(directory);
     }
 
-    export(faculties, professors, rooms) {
-        this.exportFaculties(faculties);
-        this.exportProfessors(professors);
-        this.exportRooms(rooms);
+    export(hsma) {
+        this.exportObject(".", "hsma", hsma);
+        this.exportFaculties(hsma.faculties);
+        this.exportProfessors(hsma.professors);
+        this.exportRooms(hsma.rooms);
     }
 
     exportRooms(rooms) {
         var folder = this.exportObject("rooms", "_all", rooms);
         for (var r in rooms) {
-            this.exportObject("rooms", `${r}`, rooms[r], true);
+            this.exportObject("rooms", `${rooms[r].token}`, rooms[r], true);
         }
     }
     exportFaculties(faculties) {
@@ -24,7 +25,7 @@ class DataExport {
         for (var f in faculties) {
             for (var m in faculties[f].majors) {
                 for (var s in faculties[f].majors[m].semesters) {
-                    this.exportObject("timetable", `${f}.${faculties[f].majors[m].token}.${faculties[f].majors[m].semesters[s].token}`, faculties[f].majors[m].semesters[s], true);
+                    this.exportObject("timetable", `${faculties[f].token}.${faculties[f].majors[m].token}.${faculties[f].majors[m].semesters[s].token}`, faculties[f].majors[m].semesters[s], true);
                 }
             }
         }
@@ -32,7 +33,7 @@ class DataExport {
     exportProfessors(professors) {
         var folder = this.exportObject("professors", "_all", professors);
         for (var p in professors) {
-            this.exportObject("professors", `${p}`, professors[p], true);
+            this.exportObject("professors", `${professors[p].token}`, professors[p], true);
         }
     }
 

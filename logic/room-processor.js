@@ -1,17 +1,48 @@
+var firstBy = require('thenby');
+
 class Room {
     constructor(token) {
         this.token = token;
-        this.days = {};
-        for (var i = 0; i < 5; i++) this.days[i.toString()] = new Day(i);
+        this.days = [];
+    }
+
+    sort() {
+        this.days.sort(
+            firstBy("dayOfWeek")
+        );
+        for (var d in this.days) {
+            this.days[d].sort();
+        }
+    }
+
+    getDay(dayOfWeek) {
+        for (var d in this.days) {
+            if (this.days[d].dayOfWeek == dayOfWeek) return this.days[d];
+        }
+        return null;
     }
 }
-
 
 class Day {
     constructor(dayOfWeek) {
         this.dayOfWeek = dayOfWeek;
-        this.blocks = {};
-        for (var i = 0; i < 6; i++) this.blocks[i.toString()] = null;
+        this.blocks = [];
+    }
+
+    sort() {
+        this.blocks.sort(
+            firstBy("number")
+            .thenBy("course")
+            .thenBy("professor")
+            .thenBy("semester")
+        );
+    }
+
+    getBlock(number) {
+        for (var b in this.blocks) {
+            if (this.blocks[b].number == number) return this.blocks[b];
+        }
+        return null;
     }
 }
 
@@ -50,12 +81,11 @@ function splitRoomNames(name) {
 }
 
 class RoomProcessor {
-    static getRooms(faculties) {
-        var rooms = {};
-        for (var f in faculties) {
-            for (var m in faculties[f].majors) {
-                for (var s in faculties[f].majors[m].semesters) {
-                    var semester = faculties[f].majors[m].semesters[s]; 
+    static populateRooms(hsma) {
+        for (var f in hsma.faculties) {
+            for (var m in hsma.faculties[f].majors) {
+                for (var s in hsma.faculties[f].majors[m].semesters) {
+                    var semester = hsma.faculties[f].majors[m].semesters[s]; 
                     for (var c in semester.courses) {
                         var course = semester.courses[c];
                         for (var d in course.dates) {
@@ -63,15 +93,30 @@ class RoomProcessor {
                             var roomNames = splitRoomNames(date.location);
                             for (var r in roomNames) {
                                 var roomName = roomNames[r];
-                                var room = rooms[roomName] !== undefined ? rooms[roomName] : rooms[roomName] = new Room(roomName);
-                                room.days[date.dayOfWeek].blocks[date.timeSlot] = new Block(date.timeSlot, date.professor, course.token, semester.token);
+                                var room = hsma.getRoom(roomName);
+                                if (room == null) {
+                                    room = new Room(roomName);
+                                    hsma.rooms.push(room);
+                                }
+                                var day = room.getDay(date.dayOfWeek);
+                                if (day == null) {
+                                    day = new Day(date.dayOfWeek);
+                                    room.days.push(day);
+                                }
+                                day.blocks.push(new Block(date.timeSlot, date.prof, course.token, semester.token));
                             }
                         }
                     }
                 }
             }
         }
-        return rooms;
+        
+        hsma.rooms.sort(
+            firstBy("token")
+        );
+        for (var r in hsma.rooms) {
+            hsma.rooms[r].sort();
+        }
     }
 }
 

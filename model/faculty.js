@@ -7,6 +7,13 @@ class Faculty {
         this.majors = [];
     }
 
+    getMajor(token) {
+        for (var m in this.majors) {
+            if (this.majors[m].token == token) return this.majors[m];
+        }
+        return null;
+    }
+
     sort() {
         this.majors.sort(
             firstBy("token")
