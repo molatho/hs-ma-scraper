@@ -1,9 +1,9 @@
 {
     "token": "1RRD",
-    "courses": {
-        "EFD": {
+    "courses": [
+        {
             "token": "EFD",
-            "name": "Englisch f�r Design",
+            "name": "Englisch für Design",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -19,5 +19,5 @@
                 }
             ]
         }
-    }
+    ]
 }

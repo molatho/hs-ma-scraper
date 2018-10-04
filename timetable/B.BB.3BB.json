@@ -1,7 +1,7 @@
 {
     "token": "3BB",
-    "courses": {
-        "PCH": {
+    "courses": [
+        {
             "token": "PCH",
             "name": "Physikalische Chemie",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "MBP": {
+        {
             "token": "MBP",
             "name": "Mikrobiologisches Praktikum",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "PCP": {
+        {
             "token": "PCP",
             "name": "Physikalisch - Chemisches Praktikum",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "OCP": {
+        {
             "token": "OCP",
             "name": "Organisch-chemisches Praktikum",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "MIB": {
+        {
             "token": "MIB",
             "name": "Mikrobiologie",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "BC1": {
+        {
             "token": "BC1",
             "name": "Biochemie 1",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "GVT": {
+        {
             "token": "GVT",
             "name": "Grundlagen der Verfahrenstechnik",
             "dates": [
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "STK": {
+        {
             "token": "STK",
             "name": "Statistik - Biostatistik Grundlagen",
             "dates": [
@@ -175,5 +175,5 @@
                 }
             ]
         }
-    }
+    ]
 }

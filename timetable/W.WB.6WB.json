@@ -1,7 +1,7 @@
 {
     "token": "6WB",
-    "courses": {
-        "PM": {
+    "courses": [
+        {
             "token": "PM",
             "name": "Projektmanagement",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "ET3": {
+        {
             "token": "ET3",
             "name": "Automatisierungstechnik",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "WR2": {
+        {
             "token": "WR2",
             "name": "Wirtschaftsrecht 2",
             "dates": [
@@ -73,9 +73,9 @@
                 }
             ]
         },
-        "QM": {
+        {
             "token": "QM",
-            "name": "Qualit�tsmanagement",
+            "name": "Qualitätsmanagement",
             "dates": [
                 {
                     "dayOfWeek": 3,
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "IT2": {
+        {
             "token": "IT2",
             "name": "Informationstechnologie 2",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "STA": {
+        {
             "token": "STA",
             "name": "Studienarbeit",
             "dates": [
@@ -127,5 +127,5 @@
                 }
             ]
         }
-    }
+    ]
 }

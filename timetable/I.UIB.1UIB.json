@@ -1,7 +1,7 @@
 {
     "token": "1UIB",
-    "courses": {
-        "PR1-L": {
+    "courses": [
+        {
             "token": "PR1-L",
             "name": "Programmierung 1 - Labor",
             "dates": [
@@ -31,9 +31,9 @@
                 }
             ]
         },
-        "EI": {
+        {
             "token": "EI",
-            "name": "Einf�hrung in die Informatik",
+            "name": "Einführung in die Informatik",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "BWL1": {
+        {
             "token": "BWL1",
             "name": "Betriebswirtschaftslehre 1",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "MA1": {
+        {
             "token": "MA1",
             "name": "Mathematik 1",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "PR1": {
+        {
             "token": "PR1",
             "name": "Programmierung 1",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "WI1": {
+        {
             "token": "WI1",
             "name": "Wirtschaftsinformatik 1",
             "dates": [
@@ -121,5 +121,5 @@
                 }
             ]
         }
-    }
+    ]
 }

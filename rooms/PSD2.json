@@ -1,68 +1,70 @@
 {
     "token": "PSD2",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "PLS",
+                    "course": "SMA",
+                    "semester": "1IM"
+                },
+                {
+                    "number": 1,
+                    "professor": "PLS",
+                    "course": "SMA",
+                    "semester": "2IM"
+                },
+                {
+                    "number": 1,
+                    "professor": "PLS",
+                    "course": "SMA",
+                    "semester": "6IB"
+                },
+                {
+                    "number": 1,
+                    "professor": "PLS",
+                    "course": "SMA",
+                    "semester": "6IMB"
+                },
+                {
+                    "number": 1,
+                    "professor": "PLS",
                     "course": "SMA",
                     "semester": "6UIB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "PLS",
+                    "course": "SMA",
+                    "semester": "1IM"
+                },
+                {
+                    "number": 2,
+                    "professor": "PLS",
+                    "course": "SMA",
+                    "semester": "2IM"
+                },
+                {
+                    "number": 2,
+                    "professor": "PLS",
+                    "course": "SMA",
+                    "semester": "6IB"
+                },
+                {
+                    "number": 2,
+                    "professor": "PLS",
+                    "course": "SMA",
+                    "semester": "6IMB"
+                },
+                {
+                    "number": 2,
+                    "professor": "PLS",
                     "course": "SMA",
                     "semester": "6UIB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "1": {
-            "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "2": {
-            "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "3": {
-            "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "4": {
-            "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

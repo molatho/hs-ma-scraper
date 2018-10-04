@@ -1,7 +1,7 @@
 {
     "token": "1MEB",
-    "courses": {
-        "GE1": {
+    "courses": [
+        {
             "token": "GE1",
             "name": "Grundlagen der Elektrotechnik 1",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "T-MA1": {
+        {
             "token": "T-MA1",
             "name": "Tutorium  - Mathematik 1",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "MA1": {
+        {
             "token": "MA1",
             "name": "Mathematik 1",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "TM1": {
+        {
             "token": "TM1",
             "name": "Technische Mechanik 1",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "PH": {
+        {
             "token": "PH",
             "name": "Physik",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "INF1": {
+        {
             "token": "INF1",
             "name": "Informatik 1",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "WK": {
+        {
             "token": "WK",
             "name": "Werkstoffkunde",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "T-WK": {
+        {
             "token": "T-WK",
             "name": "Tutorium - Werkstoffkunde",
             "dates": [
@@ -157,5 +157,5 @@
                 }
             ]
         }
-    }
+    ]
 }

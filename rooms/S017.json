@@ -1,100 +1,116 @@
 {
     "token": "S017",
-    "days": {
-        "0": {
-            "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "1": {
+    "days": [
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "EIW",
                     "course": "MRP",
                     "semester": "4CB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "EIW",
                     "course": "MRP",
                     "semester": "4CB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "EIW",
                     "course": "MRP",
                     "semester": "4CB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "BEU",
                     "course": "MRP",
                     "semester": "4BB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "BEU",
+                    "course": "MRP",
+                    "semester": "4BB"
+                },
+                {
+                    "number": 2,
+                    "professor": "JUN",
+                    "course": "PMT",
+                    "semester": "3UB"
+                },
+                {
+                    "number": 2,
+                    "professor": "JUN",
                     "course": "PMT",
                     "semester": "3UBE"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "BEU",
+                    "course": "MRP",
+                    "semester": "4BB"
+                },
+                {
+                    "number": 3,
+                    "professor": "JUN",
+                    "course": "PMT",
+                    "semester": "3UB"
+                },
+                {
+                    "number": 3,
+                    "professor": "JUN",
                     "course": "PMT",
                     "semester": "3UBE"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "BEU",
+                    "course": "MRP",
+                    "semester": "4BB"
+                },
+                {
+                    "number": 4,
+                    "professor": "JUN",
+                    "course": "PMT",
+                    "semester": "3UB"
+                },
+                {
+                    "number": 4,
+                    "professor": "JUN",
                     "course": "PMT",
                     "semester": "3UBE"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "RAD",
                     "course": "MRP",
                     "semester": "4VB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "RAD",
                     "course": "MRP",
                     "semester": "4VB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "RAD",
                     "course": "MRP",
                     "semester": "4VB"
-                },
-                "5": null
-            }
-        },
-        "4": {
-            "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

@@ -1,116 +1,216 @@
 {
     "token": "H0307",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "CAN",
                     "course": "MA1",
                     "semester": "1CB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "FIM",
                     "course": "MA3",
                     "semester": "3UIB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "BCK",
+                    "course": "MA3",
+                    "semester": "3EB"
+                },
+                {
+                    "number": 3,
+                    "professor": "BCK",
+                    "course": "MA3",
+                    "semester": "3EBE"
+                },
+                {
+                    "number": 3,
+                    "professor": "BCK",
+                    "course": "MA3",
+                    "semester": "3ELB"
+                },
+                {
+                    "number": 3,
+                    "professor": "BCK",
+                    "course": "MA3",
+                    "semester": "3UB"
+                },
+                {
+                    "number": 3,
+                    "professor": "BCK",
                     "course": "MA3",
                     "semester": "3UBE"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "OSM",
                     "course": "NEUR",
                     "semester": "1SB"
                 },
-                "1": null,
-                "2": null,
-                "3": {
+                {
                     "number": 3,
+                    "professor": "EFS",
+                    "course": "GSE1",
+                    "semester": "2EB"
+                },
+                {
+                    "number": 3,
+                    "professor": "EFS",
                     "course": "GSE1",
                     "semester": "2UB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "EFS",
+                    "course": "GSE1",
+                    "semester": "2EB"
+                },
+                {
+                    "number": 4,
+                    "professor": "EFS",
                     "course": "GSE1",
                     "semester": "2UB"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "FIM",
                     "course": "MA1",
                     "semester": "1IB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "WEN",
+                    "course": "CH2",
+                    "semester": "2BB"
+                },
+                {
+                    "number": 3,
+                    "professor": "WEN",
                     "course": "CH2",
                     "semester": "2BCB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "GÖT",
+                    "course": "SYT",
+                    "semester": "3EB"
+                },
+                {
+                    "number": 1,
+                    "professor": "GÖT",
+                    "course": "SYT",
+                    "semester": "3EBE"
+                },
+                {
+                    "number": 1,
+                    "professor": "GÖT",
+                    "course": "SYT",
+                    "semester": "3ELB"
+                },
+                {
+                    "number": 1,
+                    "professor": "GÖT",
+                    "course": "SYT",
+                    "semester": "3UB"
+                },
+                {
+                    "number": 1,
+                    "professor": "GÖT",
                     "course": "SYT",
                     "semester": "3UBE"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "HMM",
+                    "course": "EM1",
+                    "semester": "3EB"
+                },
+                {
+                    "number": 2,
+                    "professor": "HMM",
+                    "course": "EM1",
+                    "semester": "3EBE"
+                },
+                {
+                    "number": 2,
+                    "professor": "HMM",
+                    "course": "EM1",
+                    "semester": "3ELB"
+                },
+                {
+                    "number": 2,
+                    "professor": "HMM",
+                    "course": "EM1",
+                    "semester": "3UB"
+                },
+                {
+                    "number": 2,
+                    "professor": "HMM",
                     "course": "EM1",
                     "semester": "3UBE"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "UTZ",
                     "course": "SYS",
                     "semester": "2SB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "SGS",
+                    "course": "LAT",
+                    "semester": "1MBa"
+                },
+                {
+                    "number": 4,
+                    "professor": "SGS",
                     "course": "LAT",
                     "semester": "1MBb"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "WIB",
+                    "course": "DT1",
+                    "semester": "1IEB"
+                },
+                {
+                    "number": 1,
+                    "professor": "WIB",
                     "course": "DT1",
                     "semester": "1TIB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SCA",
                     "course": "EI",
                     "semester": "1IB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "6MB",
-    "courses": {
-        "ANM": {
+    "courses": [
+        {
             "token": "ANM",
             "name": "Angewandte Numerik im Maschinenbau",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "FVF2": {
+        {
             "token": "FVF2",
             "name": "Fertigungsverfahren 2",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "FB": {
+        {
             "token": "FB",
             "name": "Fahrzeugbau",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "WZM": {
+        {
             "token": "WZM",
             "name": "Werkzeugmaschinen",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "MP": {
+        {
             "token": "MP",
             "name": "Maschinenbauprojekt",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "BL1": {
+        {
             "token": "BL1",
             "name": "Betriebswirtschaftslehre 1",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "MT": {
+        {
             "token": "MT",
             "name": "Messtechnik",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "FM2": {
+        {
             "token": "FM2",
             "name": "Fluidmechanik 2",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "FEM": {
+        {
             "token": "FEM",
             "name": "Finite-Elemente-Methoden",
             "dates": [
@@ -163,7 +163,7 @@
                 }
             ]
         },
-        "PCS": {
+        {
             "token": "PCS",
             "name": "Physikalisch-chemische Aspekte der Schmierstoffe",
             "dates": [
@@ -175,5 +175,5 @@
                 }
             ]
         }
-    }
+    ]
 }

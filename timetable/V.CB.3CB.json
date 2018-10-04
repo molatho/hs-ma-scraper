@@ -1,7 +1,7 @@
 {
     "token": "3CB",
-    "courses": {
-        "PCP": {
+    "courses": [
+        {
             "token": "PCP",
             "name": "Physikalisch - Chemisches Praktikum",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "OCP": {
+        {
             "token": "OCP",
             "name": "Organisch-chemisches Praktikum",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "PC2": {
+        {
             "token": "PC2",
             "name": "Physikalische Chemie 2",
             "dates": [
@@ -79,9 +79,9 @@
                 }
             ]
         },
-        "WSU": {
+        {
             "token": "WSU",
-            "name": "W�rme- und Stoff�bertragung",
+            "name": "Wärme- und Stoffübertragung",
             "dates": [
                 {
                     "dayOfWeek": 3,
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "MR": {
+        {
             "token": "MR",
             "name": "Mess- und Regelungstechnik",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "OC2": {
+        {
             "token": "OC2",
             "name": "Organische Chemie 2",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "TH": {
+        {
             "token": "TH",
             "name": "Thermodynamik",
             "dates": [
@@ -157,5 +157,5 @@
                 }
             ]
         }
-    }
+    ]
 }

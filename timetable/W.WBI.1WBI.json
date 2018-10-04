@@ -1,7 +1,7 @@
 {
     "token": "1WBI",
-    "courses": {
-        "RP": {
+    "courses": [
+        {
             "token": "RP",
             "name": "Rechnernetze und Programmierung",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "ABE": {
+        {
             "token": "ABE",
             "name": "Advanced Business English",
             "dates": [
@@ -37,9 +37,9 @@
                 }
             ]
         },
-        "MA1W": {
+        {
             "token": "MA1W",
-            "name": "Mathematik f�r Wirtschaftsingenieure 1",
+            "name": "Mathematik für Wirtschaftsingenieure 1",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -55,7 +55,19 @@
                 }
             ]
         },
-        "IB": {
+        {
+            "token": "T-MA1W",
+            "name": "Tutorium - Mathematik für Wirtschaftsingenieure 1",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 1,
+                    "prof": "RIS",
+                    "location": "L215 "
+                }
+            ]
+        },
+        {
             "token": "IB",
             "name": "Introduction to Business",
             "dates": [
@@ -73,7 +85,7 @@
                 }
             ]
         },
-        "LAT": {
+        {
             "token": "LAT",
             "name": "Lern- und Arbeitstechniken",
             "dates": [
@@ -85,7 +97,7 @@
                 }
             ]
         },
-        "DB": {
+        {
             "token": "DB",
             "name": "Datenbanken",
             "dates": [
@@ -97,7 +109,7 @@
                 }
             ]
         },
-        "TZ": {
+        {
             "token": "TZ",
             "name": "Technisches Zeichnen",
             "dates": [
@@ -109,7 +121,7 @@
                 }
             ]
         },
-        "CAD": {
+        {
             "token": "CAD",
             "name": "Computer Aided Design",
             "dates": [
@@ -121,7 +133,7 @@
                 }
             ]
         },
-        "TM": {
+        {
             "token": "TM",
             "name": "Technische Mechanik",
             "dates": [
@@ -145,7 +157,7 @@
                 }
             ]
         },
-        "T-TM": {
+        {
             "token": "T-TM",
             "name": "Tutorium - Technische Mechanik",
             "dates": [
@@ -156,18 +168,6 @@
                     "location": "L011 "
                 }
             ]
-        },
-        "T-MA1W": {
-            "token": "T-MA1W",
-            "name": "Tutorium - Mathematik f�r Wirtschaftsingenieure 1",
-            "dates": [
-                {
-                    "dayOfWeek": 3,
-                    "timeSlot": 5,
-                    "prof": "RIS",
-                    "location": "L011 "
-                }
-            ]
         }
-    }
+    ]
 }

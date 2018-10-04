@@ -1,7 +1,7 @@
 {
     "token": "6UIB",
-    "courses": {
-        "GDV": {
+    "courses": [
+        {
             "token": "GDV",
             "name": "Grundlagen der Datenvisualisierung",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "WAF": {
+        {
             "token": "WAF",
             "name": "Webarchitekturen und Frameworks",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "IGT": {
+        {
             "token": "IGT",
             "name": "Integrationstechnologien",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "SMA": {
+        {
             "token": "SMA",
             "name": "Security Management ",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "ERD": {
+        {
             "token": "ERD",
             "name": "Recht und Datenschutz",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "WIA": {
+        {
             "token": "WIA",
             "name": "Wissenschaftliches Arbeiten",
             "dates": [
@@ -109,9 +109,9 @@
                 }
             ]
         },
-        "UNF": {
+        {
             "token": "UNF",
-            "name": "Business Intelligence und Unternehmensf�hrung",
+            "name": "Business Intelligence und Unternehmensführung",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -127,9 +127,9 @@
                 }
             ]
         },
-        "IPS4": {
+        {
             "token": "IPS4",
-            "name": "Integrierte Gesch�ftsprozesse in SAP S/4HANA",
+            "name": "Integrierte Geschäftsprozesse in SAP S/4HANA",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "VS": {
+        {
             "token": "VS",
             "name": "Verteilte Systeme",
             "dates": [
@@ -163,7 +163,7 @@
                 }
             ]
         },
-        "ABPM": {
+        {
             "token": "ABPM",
             "name": "Advanced Business Process Management",
             "dates": [
@@ -181,7 +181,7 @@
                 }
             ]
         },
-        "SQUAD": {
+        {
             "token": "SQUAD",
             "name": "SQUAD",
             "dates": [
@@ -211,5 +211,5 @@
                 }
             ]
         }
-    }
+    ]
 }

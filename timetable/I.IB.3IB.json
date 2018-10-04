@@ -1,7 +1,7 @@
 {
     "token": "3IB",
-    "courses": {
-        "SE2": {
+    "courses": [
+        {
             "token": "SE2",
             "name": "Software Engineering 2",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "WEB": {
+        {
             "token": "WEB",
             "name": "Webtechnologien",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "PR3": {
+        {
             "token": "PR3",
             "name": "Programmierung 3",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "DM": {
+        {
             "token": "DM",
             "name": "Datenmanagement",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "MA3": {
+        {
             "token": "MA3",
             "name": "Mathematik 3",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "PP": {
+        {
             "token": "PP",
             "name": "Parallele Programmierung",
             "dates": [
@@ -127,5 +127,5 @@
                 }
             ]
         }
-    }
+    ]
 }

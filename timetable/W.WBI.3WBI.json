@@ -1,25 +1,25 @@
 {
     "token": "3WBI",
-    "courses": {
-        "STK": {
+    "courses": [
+        {
             "token": "STK",
             "name": "Statistik - Biostatistik Grundlagen",
             "dates": [
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "N�R",
+                    "prof": "NÜR",
                     "location": "L011 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
-                    "prof": "N�R",
+                    "prof": "NÜR",
                     "location": "L013 "
                 }
             ]
         },
-        "KA": {
+        {
             "token": "KA",
             "name": "Kraft- und Arbeitsmaschinen",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "FT": {
+        {
             "token": "FT",
             "name": "Fertigungstechnik",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "ET1": {
+        {
             "token": "ET1",
             "name": "Grundlagen der Elektrotechnik",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "IUF": {
+        {
             "token": "IUF",
             "name": "Investition und Finanzen",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "AEE": {
+        {
             "token": "AEE",
             "name": "Advanced English for Engineers",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "RW2": {
+        {
             "token": "RW2",
             "name": "Rechnungswesen 2",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "IC": {
+        {
             "token": "IC",
             "name": "International Competences",
             "dates": [
@@ -133,5 +133,5 @@
                 }
             ]
         }
-    }
+    ]
 }

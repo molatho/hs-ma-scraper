@@ -1,7 +1,7 @@
 {
     "token": "1IB",
-    "courses": {
-        "MA1": {
+    "courses": [
+        {
             "token": "MA1",
             "name": "Mathematik 1",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "TEI1-L": {
+        {
             "token": "TEI1-L",
             "name": "Technische Informatik 1 - Labor",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "PR1-L": {
+        {
             "token": "PR1-L",
             "name": "Programmierung 1 - Labor",
             "dates": [
@@ -73,9 +73,9 @@
                 }
             ]
         },
-        "EI": {
+        {
             "token": "EI",
-            "name": "Einf�hrung in die Informatik",
+            "name": "Einführung in die Informatik",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "TEI1": {
+        {
             "token": "TEI1",
             "name": "Technische Informatik 1",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "PR1": {
+        {
             "token": "PR1",
             "name": "Programmierung 1",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "NF": {
+        {
             "token": "NF",
             "name": "Nebenfach",
             "dates": [
@@ -139,5 +139,5 @@
                 }
             ]
         }
-    }
+    ]
 }

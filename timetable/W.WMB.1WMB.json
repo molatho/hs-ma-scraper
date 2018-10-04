@@ -1,7 +1,7 @@
 {
     "token": "1WMB",
-    "courses": {
-        "T-PH": {
+    "courses": [
+        {
             "token": "T-PH",
             "name": "Tutorium - Physik",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "IM": {
+        {
             "token": "IM",
             "name": "Ingenieurmathematik",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "TZ": {
+        {
             "token": "TZ",
             "name": "Technisches Zeichnen",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "CAD": {
+        {
             "token": "CAD",
             "name": "Computer Aided Design",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "WK": {
+        {
             "token": "WK",
             "name": "Werkstoffkunde",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "PH": {
+        {
             "token": "PH",
             "name": "Physik",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "ET1": {
+        {
             "token": "ET1",
             "name": "Grundlagen der Elektrotechnik",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "TM": {
+        {
             "token": "TM",
             "name": "Technische Mechanik",
             "dates": [
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "T-IM": {
+        {
             "token": "T-IM",
             "name": "Tutorium - Ingenieurmathematik",
             "dates": [
@@ -169,7 +169,7 @@
                 }
             ]
         },
-        "T-TM": {
+        {
             "token": "T-TM",
             "name": "Tutorium - Technische Mechanik",
             "dates": [
@@ -181,7 +181,7 @@
                 }
             ]
         },
-        "T-ET1": {
+        {
             "token": "T-ET1",
             "name": "Tutorium - Grundlagen der Elektrotechnik",
             "dates": [
@@ -193,5 +193,5 @@
                 }
             ]
         }
-    }
+    ]
 }

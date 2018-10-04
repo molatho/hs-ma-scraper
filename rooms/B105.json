@@ -1,148 +1,540 @@
 {
     "token": "B105",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "LIP",
+                    "course": "ELA",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 0,
+                    "professor": "LIP",
                     "course": "ELA",
                     "semester": "4UB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "FIM",
                     "course": "MA1",
                     "semester": "1IB"
                 },
-                "2": null,
-                "3": {
+                {
                     "number": 3,
+                    "professor": "JUN",
+                    "course": "MWA",
+                    "semester": "1EB"
+                },
+                {
+                    "number": 3,
+                    "professor": "JUN",
                     "course": "MWA",
                     "semester": "1UB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "JUN",
+                    "course": "MWA",
+                    "semester": "1EB"
+                },
+                {
+                    "number": 4,
+                    "professor": "JUN",
                     "course": "MWA",
                     "semester": "1UB"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "DIT",
+                    "course": "DV1L",
+                    "semester": "1EB"
+                },
+                {
+                    "number": 0,
+                    "professor": "DIT",
+                    "course": "DV1L",
+                    "semester": "1ELB"
+                },
+                {
+                    "number": 0,
+                    "professor": "DIT",
+                    "course": "DV1L",
+                    "semester": "1UB"
+                },
+                {
+                    "number": 0,
+                    "professor": "DIT",
+                    "course": "DV1L",
+                    "semester": "2EB"
+                },
+                {
+                    "number": 0,
+                    "professor": "DIT",
                     "course": "DV1L",
                     "semester": "2UB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "DIT",
+                    "course": "DV1",
+                    "semester": "1EB"
+                },
+                {
+                    "number": 1,
+                    "professor": "DIT",
+                    "course": "DV1",
+                    "semester": "1ELB"
+                },
+                {
+                    "number": 1,
+                    "professor": "DIT",
+                    "course": "DV1",
+                    "semester": "1UB"
+                },
+                {
+                    "number": 1,
+                    "professor": "DIT",
+                    "course": "DV1",
+                    "semester": "2EB"
+                },
+                {
+                    "number": 1,
+                    "professor": "DIT",
                     "course": "DV1",
                     "semester": "2UB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "HMM",
+                    "course": "EM1",
+                    "semester": "3EB"
+                },
+                {
+                    "number": 2,
+                    "professor": "HMM",
+                    "course": "EM1",
+                    "semester": "3EBE"
+                },
+                {
+                    "number": 2,
+                    "professor": "HMM",
+                    "course": "EM1",
+                    "semester": "3ELB"
+                },
+                {
+                    "number": 2,
+                    "professor": "HMM",
+                    "course": "EM1",
+                    "semester": "3UB"
+                },
+                {
+                    "number": 2,
+                    "professor": "HMM",
                     "course": "EM1",
                     "semester": "3UBE"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "HUT",
+                    "course": "REN1",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 3,
+                    "professor": "HUT",
                     "course": "REN1",
                     "semester": "4UB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "KIT",
+                    "course": "MA1",
+                    "semester": "1EB"
+                },
+                {
+                    "number": 0,
+                    "professor": "KIT",
+                    "course": "MA1",
+                    "semester": "1ELB"
+                },
+                {
+                    "number": 0,
+                    "professor": "KIT",
                     "course": "MA1",
                     "semester": "1UB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "KSU",
+                    "course": "MAG",
+                    "semester": "1EB"
+                },
+                {
+                    "number": 1,
+                    "professor": "KSU",
+                    "course": "MAG",
+                    "semester": "1ELB"
+                },
+                {
+                    "number": 1,
+                    "professor": "KSU",
                     "course": "MAG",
                     "semester": "1UB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SET",
+                    "course": "SP1",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 2,
+                    "professor": "SET",
                     "course": "SP1",
                     "semester": "4UB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "SAD",
+                    "course": "MM",
+                    "semester": "7MKB"
+                },
+                {
+                    "number": 3,
+                    "professor": "SAD",
                     "course": "MM",
                     "semester": "7MPB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "SAD",
+                    "course": "MM",
+                    "semester": "7MKB"
+                },
+                {
+                    "number": 4,
+                    "professor": "SAD",
                     "course": "MM",
                     "semester": "7MPB"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "LIP",
+                    "course": "LE1",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 0,
+                    "professor": "LIP",
                     "course": "LE1",
                     "semester": "4UB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "LIP",
+                    "course": "LE1",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 1,
+                    "professor": "LIP",
                     "course": "LE1",
                     "semester": "4UB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "KIT",
+                    "course": "MA1",
+                    "semester": "1EB"
+                },
+                {
+                    "number": 2,
+                    "professor": "KIT",
+                    "course": "MA1",
+                    "semester": "1ELB"
+                },
+                {
+                    "number": 2,
+                    "professor": "KIT",
                     "course": "MA1",
                     "semester": "1UB"
                 },
-                "3": null,
-                "4": {
+                {
                     "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "3EB"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "3EBE"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "3ELB"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "3UB"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "3UBE"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "4UB"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "6EB"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "6UB"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "7EB"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "7EBE"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "7ELB"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "7UB"
+                },
+                {
+                    "number": 4,
+                    "professor": "GÖT",
                     "course": "SSTA",
                     "semester": "7UBE"
                 },
-                "5": {
+                {
                     "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "3EB"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "3EBE"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "3ELB"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "3UB"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "3UBE"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "4UB"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "6EB"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "6UB"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "7EB"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "7EBE"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "7ELB"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
+                    "course": "SSTA",
+                    "semester": "7UB"
+                },
+                {
+                    "number": 5,
+                    "professor": "GÖT",
                     "course": "SSTA",
                     "semester": "7UBE"
                 }
-            }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "EFS",
+                    "course": "GSE2",
+                    "semester": "3EB"
+                },
+                {
+                    "number": 0,
+                    "professor": "EFS",
+                    "course": "GSE2",
+                    "semester": "3EBE"
+                },
+                {
+                    "number": 0,
+                    "professor": "EFS",
+                    "course": "GSE2",
+                    "semester": "3ELB"
+                },
+                {
+                    "number": 0,
+                    "professor": "EFS",
+                    "course": "GSE2",
+                    "semester": "3UB"
+                },
+                {
+                    "number": 0,
+                    "professor": "EFS",
                     "course": "GSE2",
                     "semester": "3UBE"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "EFS",
+                    "course": "GSE2",
+                    "semester": "3EB"
+                },
+                {
+                    "number": 1,
+                    "professor": "EFS",
+                    "course": "GSE2",
+                    "semester": "3EBE"
+                },
+                {
+                    "number": 1,
+                    "professor": "EFS",
+                    "course": "GSE2",
+                    "semester": "3ELB"
+                },
+                {
+                    "number": 1,
+                    "professor": "EFS",
+                    "course": "GSE2",
+                    "semester": "3UB"
+                },
+                {
+                    "number": 1,
+                    "professor": "EFS",
                     "course": "GSE2",
                     "semester": "3UBE"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "DIT",
+                    "course": "NLT",
+                    "semester": "7EB"
+                },
+                {
+                    "number": 2,
+                    "professor": "DIT",
                     "course": "NLT",
                     "semester": "7EBE"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "DIT",
+                    "course": "NLT",
+                    "semester": "7EB"
+                },
+                {
+                    "number": 3,
+                    "professor": "DIT",
                     "course": "NLT",
                     "semester": "7EBE"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

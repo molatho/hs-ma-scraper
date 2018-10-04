@@ -1,7 +1,7 @@
 {
     "token": "7VB",
-    "courses": {
-        "PVB": {
+    "courses": [
+        {
             "token": "PVB",
             "name": "Programmieren mit Visual Basic",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "RT2": {
+        {
             "token": "RT2",
             "name": "Reaktionstechnik 2",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "BPE": {
+        {
             "token": "BPE",
             "name": "Bioreaktoren und periphere Einrichtungen",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "REE": {
+        {
             "token": "REE",
             "name": "Regenerative Energien",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "LVT": {
+        {
             "token": "LVT",
             "name": "Lebensmittelverfahrenstechnik",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "BBT": {
+        {
             "token": "BBT",
             "name": "Brennstoffzellen- und Baterietechnik",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "FIT": {
+        {
             "token": "FIT",
             "name": "Filtertechnik",
             "dates": [
@@ -103,5 +103,5 @@
                 }
             ]
         }
-    }
+    ]
 }

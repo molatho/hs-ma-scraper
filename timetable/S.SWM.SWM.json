@@ -1,7 +1,7 @@
 {
     "token": "SWM",
-    "courses": {
-        "MP2": {
+    "courses": [
+        {
             "token": "MP2",
             "name": "Theorie und Praxis der neuen Medien",
             "dates": [
@@ -19,9 +19,9 @@
                 }
             ]
         },
-        "MP9": {
+        {
             "token": "MP9",
-            "name": "Tanzp�dagogik und Tanzprojekte in der Kinder- und Jugendarbeit",
+            "name": "Tanzpädagogik und Tanzprojekte in der Kinder- und Jugendarbeit",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -37,9 +37,9 @@
                 }
             ]
         },
-        "MH5": {
+        {
             "token": "MH5",
-            "name": "Suchterkrankungen - Entstehung und Unterst�tzung",
+            "name": "Suchterkrankungen - Entstehung und Unterstützung",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "HT6": {
+        {
             "token": "HT6",
             "name": "Diversityorientierte Kinder- und Jugendbildung",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "HT9": {
+        {
             "token": "HT9",
             "name": "Deeskalation im Spannungsfeld der Sozialen Arbeit",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "MH7": {
+        {
             "token": "MH7",
             "name": "Risk factors for mental disorders and ways of prevention",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "HF10": {
+        {
             "token": "HF10",
             "name": "Grundlagen der Schuldnerberatung",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "HT1": {
+        {
             "token": "HT1",
             "name": "Die neuen Kinderkrankheiten (!) - Entstehung aus der Perspektive aktualisierter psychodynamischer Erkenntnisse",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "MH2": {
+        {
             "token": "MH2",
             "name": "Kommunalpolitik",
             "dates": [
@@ -139,9 +139,9 @@
                 }
             ]
         },
-        "HF6": {
+        {
             "token": "HF6",
-            "name": "Straff�lligenhilfe f�r junge Erwachsene",
+            "name": "Straffälligenhilfe für junge Erwachsene",
             "dates": [
                 {
                     "dayOfWeek": 4,
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "HF8": {
+        {
             "token": "HF8",
             "name": "Schulsozialarbeit im Spannungsfeld ",
             "dates": [
@@ -175,7 +175,7 @@
                 }
             ]
         },
-        "HF9": {
+        {
             "token": "HF9",
             "name": "Ringvorlesung ",
             "dates": [
@@ -187,7 +187,7 @@
                 }
             ]
         },
-        "HT4": {
+        {
             "token": "HT4",
             "name": "Kreatives Lesen",
             "dates": [
@@ -205,9 +205,9 @@
                 }
             ]
         },
-        "MW4": {
+        {
             "token": "MW4",
-            "name": "Konfliktmanagement/Gewaltpr�vention",
+            "name": "Konfliktmanagement/Gewaltprävention",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -217,9 +217,9 @@
                 }
             ]
         },
-        "HF2": {
+        {
             "token": "HF2",
-            "name": "B�rgerschaftliches Engagement",
+            "name": "Bürgerschaftliches Engagement",
             "dates": [
                 {
                     "dayOfWeek": 3,
@@ -235,7 +235,7 @@
                 }
             ]
         },
-        "MP4": {
+        {
             "token": "MP4",
             "name": "Sozialdokumentarische Fotografie in der Sozialen Arbeit",
             "dates": [
@@ -247,9 +247,9 @@
                 }
             ]
         },
-        "MH6": {
+        {
             "token": "MH6",
-            "name": "Bilder. Macht. Wissen - Bildtheoretische und -analytische Zug�nge f�r den Einsatz dokumentarischer Methoden in der Sozialen Arbe",
+            "name": "Bilder. Macht. Wissen - Bildtheoretische und -analytische Zugänge für den Einsatz dokumentarischer Methoden in der Sozialen Arbe",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -259,9 +259,9 @@
                 }
             ]
         },
-        "HT10": {
+        {
             "token": "HT10",
-            "name": "Praxen der Migration: Bedeutung und Perspektiven f�r Soziale Arbeit in Gemeinwesen",
+            "name": "Praxen der Migration: Bedeutung und Perspektiven für Soziale Arbeit in Gemeinwesen",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -271,7 +271,7 @@
                 }
             ]
         },
-        "HF1": {
+        {
             "token": "HF1",
             "name": "ASD - mehr als Kindesschutz",
             "dates": [
@@ -301,7 +301,7 @@
                 }
             ]
         },
-        "HT2": {
+        {
             "token": "HT2",
             "name": "Politische Unordnung",
             "dates": [
@@ -313,9 +313,9 @@
                 }
             ]
         },
-        "MP8": {
+        {
             "token": "MP8",
-            "name": "(�ber-) Lebenskunst / Elemente eines gelingenden Lebens",
+            "name": "(Über-) Lebenskunst / Elemente eines gelingenden Lebens",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -343,7 +343,7 @@
                 }
             ]
         },
-        "HT8": {
+        {
             "token": "HT8",
             "name": "Soziale Arbeit nach Auschwitz",
             "dates": [
@@ -355,9 +355,9 @@
                 }
             ]
         },
-        "HF7": {
+        {
             "token": "HF7",
-            "name": "�bergang Schule und Beruf",
+            "name": "Übergang Schule und Beruf",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -367,7 +367,7 @@
                 }
             ]
         },
-        "HF3": {
+        {
             "token": "HF3",
             "name": "Soziale Arbeit mit Menschen mit Behinderung",
             "dates": [
@@ -379,7 +379,7 @@
                 }
             ]
         },
-        "MH3": {
+        {
             "token": "MH3",
             "name": "Studieren und Arbeiten in Deutschland",
             "dates": [
@@ -397,5 +397,5 @@
                 }
             ]
         }
-    }
+    ]
 }

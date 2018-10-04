@@ -1,124 +1,192 @@
 {
     "token": "S211",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "VOI",
+                    "course": "SE2",
+                    "semester": "1MTM"
+                },
+                {
+                    "number": 1,
+                    "professor": "VOI",
                     "course": "SE2",
                     "semester": "1NM"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "MAR",
+                    "course": "COM",
+                    "semester": "1MTM"
+                },
+                {
+                    "number": 2,
+                    "professor": "MAR",
                     "course": "COM",
                     "semester": "1NM"
                 },
-                "3": null,
-                "4": {
+                {
                     "number": 4,
+                    "professor": "SUR",
+                    "course": "T-PH2",
+                    "semester": "2IEB"
+                },
+                {
+                    "number": 4,
+                    "professor": "SUR",
                     "course": "T-PH2",
                     "semester": "2TIB"
                 },
-                "5": {
+                {
                     "number": 5,
+                    "professor": "HTM",
+                    "course": "SIT",
+                    "semester": "NWF"
+                },
+                {
+                    "number": 5,
+                    "professor": "HTM",
                     "course": "SNT",
                     "semester": "NWF"
                 }
-            }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "VEB",
                     "course": "RA",
                     "semester": "2TIB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "KÖZ",
+                    "course": "AGT2",
+                    "semester": "1MTM"
+                },
+                {
+                    "number": 1,
+                    "professor": "KÖZ",
                     "course": "AGT2",
                     "semester": "1NM"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "GIE",
                     "course": "EIS1",
                     "semester": "6NEB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "VET",
+                    "course": "EES",
+                    "semester": "1MTM"
+                },
+                {
+                    "number": 0,
+                    "professor": "VET",
                     "course": "EES",
                     "semester": "1NM"
                 },
-                "1": null,
-                "2": null,
-                "3": {
+                {
                     "number": 3,
+                    "professor": "BTH",
                     "course": "PMA",
                     "semester": "NWF"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "BTH",
                     "course": "PMA",
                     "semester": "NWF"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "VET",
+                    "course": "EES",
+                    "semester": "1MTM"
+                },
+                {
+                    "number": 0,
+                    "professor": "VET",
                     "course": "EES",
                     "semester": "1NM"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "KÖZ",
+                    "course": "AGT2",
+                    "semester": "1MTM"
+                },
+                {
+                    "number": 1,
+                    "professor": "KÖZ",
                     "course": "AGT2",
                     "semester": "1NM"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "MGL",
                     "course": "WB",
                     "semester": "4IEB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "WIR",
+                    "course": "SIP1",
+                    "semester": "1MTM"
+                },
+                {
+                    "number": 0,
+                    "professor": "WIR",
                     "course": "SIP1",
                     "semester": "1NM"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "KBL",
+                    "course": "KIS",
+                    "semester": "1MTM"
+                },
+                {
+                    "number": 1,
+                    "professor": "KBL",
                     "course": "KIS",
                     "semester": "1NM"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "MAR",
+                    "course": "COM",
+                    "semester": "1MTM"
+                },
+                {
+                    "number": 2,
+                    "professor": "MAR",
                     "course": "COM",
                     "semester": "1NM"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

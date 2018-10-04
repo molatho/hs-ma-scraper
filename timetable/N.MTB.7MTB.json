@@ -1,7 +1,7 @@
 {
     "token": "7MTB",
-    "courses": {
-        "BL": {
+    "courses": [
+        {
             "token": "BL",
             "name": "Betriebswirtschaftslehre",
             "dates": [
@@ -19,5 +19,5 @@
                 }
             ]
         }
-    }
+    ]
 }

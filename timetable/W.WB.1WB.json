@@ -1,7 +1,7 @@
 {
     "token": "1WB",
-    "courses": {
-        "RP": {
+    "courses": [
+        {
             "token": "RP",
             "name": "Rechnernetze und Programmierung",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "T-TM1": {
+        {
             "token": "T-TM1",
             "name": "Tutorium - Technische Mechanik 1",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "TZ": {
+        {
             "token": "TZ",
             "name": "Technisches Zeichnen",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "CAD": {
+        {
             "token": "CAD",
             "name": "Computer Aided Design",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "TM": {
+        {
             "token": "TM",
             "name": "Technische Mechanik",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "LAT": {
+        {
             "token": "LAT",
             "name": "Lern- und Arbeitstechniken",
             "dates": [
@@ -103,37 +103,37 @@
                 }
             ]
         },
-        "T-MA1W": {
+        {
             "token": "T-MA1W",
-            "name": "Tutorium - Mathematik f�r Wirtschaftsingenieure 1",
+            "name": "Tutorium - Mathematik für Wirtschaftsingenieure 1",
             "dates": [
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "N�R",
+                    "prof": "NÜR",
                     "location": "L015 "
                 }
             ]
         },
-        "MA1W": {
+        {
             "token": "MA1W",
-            "name": "Mathematik f�r Wirtschaftsingenieure 1",
+            "name": "Mathematik für Wirtschaftsingenieure 1",
             "dates": [
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "N�R",
+                    "prof": "NÜR",
                     "location": "L014 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "N�R",
+                    "prof": "NÜR",
                     "location": "L015 "
                 }
             ]
         },
-        "ABWL": {
+        {
             "token": "ABWL",
             "name": "Allgemeine Betriebswirtschaftslehre",
             "dates": [
@@ -151,7 +151,7 @@
                 }
             ]
         },
-        "WK": {
+        {
             "token": "WK",
             "name": "Werkstoffkunde",
             "dates": [
@@ -169,7 +169,7 @@
                 }
             ]
         },
-        "DB": {
+        {
             "token": "DB",
             "name": "Datenbanken",
             "dates": [
@@ -181,5 +181,5 @@
                 }
             ]
         }
-    }
+    ]
 }

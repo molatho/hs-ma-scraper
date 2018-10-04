@@ -1,104 +1,144 @@
 {
     "token": "L215",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
-                    "number": 2,
-                    "course": "TPM3",
-                    "semester": "2WMW"
-                },
-                "3": {
-                    "number": 3,
-                    "course": "TPM3",
-                    "semester": "2WMW"
-                },
-                "4": null,
-                "5": {
-                    "number": 5,
-                    "course": "TUT1",
-                    "semester": "2SPR"
-                }
-            }
-        },
-        "1": {
-            "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
-                    "number": 3,
-                    "course": "FRA1",
-                    "semester": "1SPR"
-                },
-                "4": {
-                    "number": 4,
-                    "course": "FRA1",
-                    "semester": "1SPR"
-                },
-                "5": {
-                    "number": 5,
-                    "course": "TUT1",
-                    "semester": "2SPR"
-                }
-            }
-        },
-        "2": {
-            "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "RIS",
+                    "course": "T-MA1W",
+                    "semester": "1WBI"
+                },
+                {
+                    "number": 2,
+                    "professor": "GAF",
+                    "course": "TPM3",
+                    "semester": "2WMI"
+                },
+                {
+                    "number": 2,
+                    "professor": "GAF",
+                    "course": "TPM3",
+                    "semester": "2WMW"
+                },
+                {
+                    "number": 2,
+                    "professor": "GAF",
+                    "course": "TPM3",
+                    "semester": "3WMB"
+                },
+                {
+                    "number": 3,
+                    "professor": "GAF",
+                    "course": "TPM3",
+                    "semester": "2WMI"
+                },
+                {
+                    "number": 3,
+                    "professor": "GAF",
+                    "course": "TPM3",
+                    "semester": "2WMW"
+                },
+                {
+                    "number": 3,
+                    "professor": "GAF",
+                    "course": "TPM3",
+                    "semester": "3WMB"
+                },
+                {
+                    "number": 5,
+                    "professor": "ZFE",
+                    "course": "TUT1",
+                    "semester": "2SPR"
+                }
+            ]
+        },
+        {
+            "dayOfWeek": 1,
+            "blocks": [
+                {
+                    "number": 3,
+                    "professor": "MNE",
+                    "course": "FRA1",
+                    "semester": "1SPR"
+                },
+                {
+                    "number": 4,
+                    "professor": "MNE",
+                    "course": "FRA1",
+                    "semester": "1SPR"
+                },
+                {
+                    "number": 5,
+                    "professor": "ZFE",
+                    "course": "TUT1",
+                    "semester": "2SPR"
+                }
+            ]
+        },
+        {
+            "dayOfWeek": 2,
+            "blocks": [
+                {
+                    "number": 1,
+                    "professor": "DAM",
                     "course": "WAI",
                     "semester": "7TIB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "HBN",
+                    "course": "AST",
+                    "semester": "6EB"
+                },
+                {
+                    "number": 2,
+                    "professor": "HBN",
                     "course": "AST",
                     "semester": "6UB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": {
+            "blocks": [
+                {
                     "number": 4,
+                    "professor": "HKA",
                     "course": "DEU2a",
                     "semester": "2SPR"
                 },
-                "5": {
+                {
                     "number": 5,
+                    "professor": "HKA",
                     "course": "DEU2b",
                     "semester": "2SPR"
                 }
-            }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "WIB",
+                    "course": "T-DT1",
+                    "semester": "1IEB"
+                },
+                {
+                    "number": 0,
+                    "professor": "WIB",
+                    "course": "T-DT1",
+                    "semester": "1MTB"
+                },
+                {
+                    "number": 0,
+                    "professor": "WIB",
                     "course": "T-DT1",
                     "semester": "1TIB"
-                },
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

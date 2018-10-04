@@ -1,7 +1,7 @@
 {
     "token": "7TIB",
-    "courses": {
-        "WAI": {
+    "courses": [
+        {
             "token": "WAI",
             "name": "Webarchitekturen im Internet",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "DB": {
+        {
             "token": "DB",
             "name": "Datenbanken",
             "dates": [
@@ -37,5 +37,5 @@
                 }
             ]
         }
-    }
+    ]
 }

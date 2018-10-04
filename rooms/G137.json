@@ -1,112 +1,150 @@
 {
     "token": "G137",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "FRC",
+                    "course": "BC2",
+                    "semester": "4BB"
+                },
+                {
+                    "number": 0,
+                    "professor": "FRC",
                     "course": "BC2",
                     "semester": "4BCB"
                 },
-                "1": null,
-                "2": {
+                {
                     "number": 2,
+                    "professor": "CLA",
                     "course": "TME",
                     "semester": "6BB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "WEN",
+                    "course": "AL2",
+                    "semester": "2BB"
+                },
+                {
+                    "number": 3,
+                    "professor": "WEN",
                     "course": "AL2",
                     "semester": "2BCB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
+            "blocks": [
+                {
                     "number": 3,
+                    "professor": "SHA",
+                    "course": "CH1",
+                    "semester": "1BB"
+                },
+                {
+                    "number": 3,
+                    "professor": "SHA",
                     "course": "CH1",
                     "semester": "1BCB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "STF",
                     "course": "WK",
                     "semester": "1MEB"
                 },
-                "5": {
+                {
                     "number": 5,
+                    "professor": "STF",
                     "course": "WK",
                     "semester": "1MEB"
                 }
-            }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "PET",
                     "course": "FVF1",
                     "semester": "1MBb"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "CLA",
                     "course": "TME",
                     "semester": "6BB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "GÖT",
+                    "course": "RG1",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 3,
+                    "professor": "GÖT",
                     "course": "RG1",
                     "semester": "4UB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "SCD",
+                    "course": "TOX",
+                    "semester": "6BB"
+                },
+                {
+                    "number": 1,
+                    "professor": "SCD",
                     "course": "TOX",
                     "semester": "6BCB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SCD",
+                    "course": "TOX",
+                    "semester": "6BB"
+                },
+                {
+                    "number": 2,
+                    "professor": "SCD",
                     "course": "TOX",
                     "semester": "6BCB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "KIO",
+                    "course": "MOB",
+                    "semester": "4BB"
+                },
+                {
+                    "number": 1,
+                    "professor": "KIO",
                     "course": "MOB",
                     "semester": "4BCB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "HUT",
                     "course": "EAT",
                     "semester": "3MB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

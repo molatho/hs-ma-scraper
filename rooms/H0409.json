@@ -1,92 +1,80 @@
 {
     "token": "H0409",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "HUM",
+                    "course": "PR1-L",
+                    "semester": "1CSB"
+                },
+                {
+                    "number": 0,
+                    "professor": "HUM",
                     "course": "PR1-L",
                     "semester": "1UIB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "HUM",
+                    "course": "PR1-L",
+                    "semester": "1CSB"
+                },
+                {
+                    "number": 1,
+                    "professor": "HUM",
                     "course": "PR1-L",
                     "semester": "1UIB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "GMI",
                     "course": "WI2",
                     "semester": "2UIB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "GMI",
                     "course": "T-WI2",
                     "semester": "2UIB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
-            "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "2": {
-            "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "KNU",
                     "course": "PR1-L",
                     "semester": "1IB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "KNU",
                     "course": "PR1-L",
                     "semester": "1IB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "GMI",
                     "course": "T-WI2",
                     "semester": "2UIB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "GMI",
                     "course": "WI2",
                     "semester": "2UIB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

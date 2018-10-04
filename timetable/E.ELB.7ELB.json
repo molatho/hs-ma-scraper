@@ -1,7 +1,7 @@
 {
     "token": "7ELB",
-    "courses": {
-        "TSHD": {
+    "courses": [
+        {
             "token": "TSHD",
             "name": "Technik in sozialer und humaner Dimension",
             "dates": [
@@ -19,37 +19,37 @@
                 }
             ]
         },
-        "SSTA": {
+        {
             "token": "SSTA",
             "name": "Seminar",
             "dates": [
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B105 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B105 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 }
             ]
         },
-        "IWU": {
+        {
             "token": "IWU",
             "name": "Ingenieur wird Unternehmer",
             "dates": [
@@ -61,5 +61,5 @@
                 }
             ]
         }
-    }
+    ]
 }

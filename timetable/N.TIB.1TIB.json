@@ -1,7 +1,7 @@
 {
     "token": "1TIB",
-    "courses": {
-        "PI": {
+    "courses": [
+        {
             "token": "PI",
             "name": "Praktische Informatik",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "MA1": {
+        {
             "token": "MA1",
             "name": "Mathematik 1",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "T-DT1": {
+        {
             "token": "T-DT1",
             "name": "Tutorium - Digitaltechnik 1",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "PH1": {
+        {
             "token": "PH1",
             "name": "Physik 1",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "DT1": {
+        {
             "token": "DT1",
             "name": "Digitaltechnik 1",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "ET1": {
+        {
             "token": "ET1",
             "name": "Elektrotechnik 1",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "T-MA1": {
+        {
             "token": "T-MA1",
             "name": "Tutorium  - Mathematik 1",
             "dates": [
@@ -133,5 +133,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "7MKB",
-    "courses": {
-        "WZM": {
+    "courses": [
+        {
             "token": "WZM",
             "name": "Werkzeugmaschinen",
             "dates": [
@@ -19,9 +19,9 @@
                 }
             ]
         },
-        "SM": {
+        {
             "token": "SM",
-            "name": "Str�mungsmaschinen",
+            "name": "Strömungsmaschinen",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "KMA": {
+        {
             "token": "KMA",
             "name": "Kobenmaschinen",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "ST": {
+        {
             "token": "ST",
             "name": "Statistik",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "MMO": {
+        {
             "token": "MMO",
             "name": "Mechatronische Modellbildung",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "MM": {
+        {
             "token": "MM",
             "name": "Managementmethoden",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "NIM": {
+        {
             "token": "NIM",
             "name": "Normung im Maschinenbau",
             "dates": [
@@ -127,5 +127,5 @@
                 }
             ]
         }
-    }
+    ]
 }

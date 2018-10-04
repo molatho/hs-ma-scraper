@@ -1,7 +1,7 @@
 {
     "token": "6SB",
-    "courses": {
-        "SOME1": {
+    "courses": [
+        {
             "token": "SOME1",
             "name": "Grundlagen der Sozialmedizin",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "SOME2": {
+        {
             "token": "SOME2",
             "name": "Anwendungsgebiete der Sozialmedizin",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "ETH-A": {
+        {
             "token": "ETH-A",
             "name": "Ethik und Soziale Arbeit (Gruppe A)",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "SVRE1-A": {
+        {
             "token": "SVRE1-A",
             "name": "Sozialverwaltungsrecht (Gruppe A)",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "GSA": {
+        {
             "token": "GSA",
             "name": "Geschichte der Sozialen Arbeit",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "ETH-B": {
+        {
             "token": "ETH-B",
             "name": "Ethik und Soziale Arbeit (Gruppe B)",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "SVRE1-B": {
+        {
             "token": "SVRE1-B",
             "name": "Sozialverwaltungsrecht (Gruppe B)",
             "dates": [
@@ -85,5 +85,5 @@
                 }
             ]
         }
-    }
+    ]
 }

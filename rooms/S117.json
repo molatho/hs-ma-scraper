@@ -1,88 +1,96 @@
 {
     "token": "S117",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "BJM",
+                    "course": "PES",
+                    "semester": "2MTM"
+                },
+                {
+                    "number": 1,
+                    "professor": "BJM",
                     "course": "PES",
                     "semester": "2NM"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "VET",
+                    "course": "SET",
+                    "semester": "3MTB"
+                },
+                {
+                    "number": 2,
+                    "professor": "VET",
                     "course": "SET",
                     "semester": "3TIB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "VET",
                     "course": "BM",
                     "semester": "6MTB"
-                },
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "DAM",
                     "course": "WAI",
                     "semester": "7TIB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "BJM",
+                    "course": "PES",
+                    "semester": "2MTM"
+                },
+                {
+                    "number": 0,
+                    "professor": "BJM",
                     "course": "PES",
                     "semester": "2NM"
                 },
-                "1": null,
-                "2": null,
-                "3": {
+                {
                     "number": 3,
+                    "professor": "HES",
                     "course": "T-PI",
                     "semester": "1MTB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "BJM",
+                    "course": "BS",
+                    "semester": "4MTB"
+                },
+                {
+                    "number": 2,
+                    "professor": "BJM",
                     "course": "BS",
                     "semester": "4TIB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

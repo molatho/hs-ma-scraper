@@ -1,9 +1,9 @@
 {
     "token": "2EMLM",
-    "courses": {
-        "WGA": {
+    "courses": [
+        {
             "token": "WGA",
-            "name": "Webtechnologien f�r die Geb�udeautomation",
+            "name": "Webtechnologien für die Gebäudeautomation",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "MSE": {
+        {
             "token": "MSE",
             "name": "Moderne Systemkomponenten in der Energietechnik",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "GVR": {
+        {
             "token": "GVR",
             "name": "Gehobene Verfahren der Regelungstechnik",
             "dates": [
@@ -116,20 +116,20 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B103 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "H1009 "
                 }
             ]
         },
-        "BP": {
+        {
             "token": "BP",
-            "name": "Berufsp�dagogik",
+            "name": "Berufspädagogik",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -145,9 +145,9 @@
                 }
             ]
         },
-        "PDIL": {
+        {
             "token": "PDIL",
-            "name": "P�dagogisch-psychologische Diagnostik und Intervention bei Lernauff�lligkeiten",
+            "name": "Pädagogisch-psychologische Diagnostik und Intervention bei Lernauffälligkeiten",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -163,5 +163,5 @@
                 }
             ]
         }
-    }
+    ]
 }

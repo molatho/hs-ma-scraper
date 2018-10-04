@@ -1,7 +1,7 @@
 {
     "token": "4TIB",
-    "courses": {
-        "CN2": {
+    "courses": [
+        {
             "token": "CN2",
             "name": "Computer Netzwerke 2",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "DR": {
+        {
             "token": "DR",
             "name": "Digitale Regelungstechnik",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "EMB": {
+        {
             "token": "EMB",
             "name": "Embedded Systems 1",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "DSV": {
+        {
             "token": "DSV",
             "name": "Digitale Signalverarbeitung",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "EMBL": {
+        {
             "token": "EMBL",
             "name": "Embedded Systems Labor",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "BS": {
+        {
             "token": "BS",
             "name": "Betriebssysteme",
             "dates": [
@@ -121,5 +121,5 @@
                 }
             ]
         }
-    }
+    ]
 }

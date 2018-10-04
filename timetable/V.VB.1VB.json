@@ -1,7 +1,7 @@
 {
     "token": "1VB",
-    "courses": {
-        "KO1": {
+    "courses": [
+        {
             "token": "KO1",
             "name": "Konstruktionslehre 1",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "PH1": {
+        {
             "token": "PH1",
             "name": "Physik 1",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "MA1": {
+        {
             "token": "MA1",
             "name": "Mathematik 1",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "AC": {
+        {
             "token": "AC",
             "name": "Allgemeine und anorganische Chemie",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "KOMP": {
+        {
             "token": "KOMP",
             "name": "Kompass",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "TB": {
+        {
             "token": "TB",
             "name": "Technische Biologie",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "TM1": {
+        {
             "token": "TM1",
             "name": "Technische Mechanik 1",
             "dates": [
@@ -139,5 +139,5 @@
                 }
             ]
         }
-    }
+    ]
 }

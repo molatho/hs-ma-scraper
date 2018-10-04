@@ -1,7 +1,7 @@
 {
     "token": "1CB",
-    "courses": {
-        "PH1": {
+    "courses": [
+        {
             "token": "PH1",
             "name": "Physik 1",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "MA1": {
+        {
             "token": "MA1",
             "name": "Mathematik 1",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "TG": {
+        {
             "token": "TG",
             "name": "Technische Grundlagen",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "AC1": {
+        {
             "token": "AC1",
             "name": "Allgemeine und anorganische Chemie 1",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "TB": {
+        {
             "token": "TB",
             "name": "Technische Biologie",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "ANS": {
+        {
             "token": "ANS",
             "name": "Analysentechnik Seminar",
             "dates": [
@@ -115,5 +115,5 @@
                 }
             ]
         }
-    }
+    ]
 }

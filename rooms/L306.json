@@ -1,72 +1,57 @@
 {
     "token": "L306",
-    "days": {
-        "0": {
-            "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "1": {
+    "days": [
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
+            "blocks": [
+                {
                     "number": 3,
+                    "professor": "HBD",
                     "course": "CAE",
                     "semester": "1WMW"
                 },
-                "4": {
+                {
+                    "number": 3,
+                    "professor": "HBD",
+                    "course": "CAE",
+                    "semester": "3WMB"
+                },
+                {
                     "number": 4,
+                    "professor": "HBD",
                     "course": "CAE",
                     "semester": "1WMW"
                 },
-                "5": null
-            }
+                {
+                    "number": 4,
+                    "professor": "HBD",
+                    "course": "CAE",
+                    "semester": "3WMB"
+                }
+            ]
         },
-        "2": {
-            "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "3": {
-            "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "BRI",
+                    "course": "PR3",
+                    "semester": "2WMI"
+                },
+                {
+                    "number": 2,
+                    "professor": "BRI",
                     "course": "PR3",
                     "semester": "2WMW"
                 },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                {
+                    "number": 2,
+                    "professor": "BRI",
+                    "course": "PR3",
+                    "semester": "3WMB"
+                }
+            ]
         }
-    }
+    ]
 }

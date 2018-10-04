@@ -1,7 +1,7 @@
 {
     "token": "6EB",
-    "courses": {
-        "EM2L": {
+    "courses": [
+        {
             "token": "EM2L",
             "name": "Transformatoren und Synchronmaschinen - Labor",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "EM2": {
+        {
             "token": "EM2",
             "name": "Transformatoren und Synchronmaschinen",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "HS": {
+        {
             "token": "HS",
             "name": "Hochspannungstechnik",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "REN2": {
+        {
             "token": "REN2",
             "name": "Regenerative Energien - Systeme",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "IK": {
+        {
             "token": "IK",
             "name": "Industrielle Kommunikatiostechnik",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "AST": {
+        {
             "token": "AST",
             "name": "Angewandte Schaltungstechnik",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "EAN": {
+        {
             "token": "EAN",
             "name": "Elektrische Anlagen und Netze",
             "dates": [
@@ -163,7 +163,7 @@
                 }
             ]
         },
-        "LE2": {
+        {
             "token": "LE2",
             "name": "Leistungselektronik in der Energieversorgung",
             "dates": [
@@ -193,35 +193,35 @@
                 }
             ]
         },
-        "SSTA": {
+        {
             "token": "SSTA",
             "name": "Seminar",
             "dates": [
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B105 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B105 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 }
             ]
         }
-    }
+    ]
 }

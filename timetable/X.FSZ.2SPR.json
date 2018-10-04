@@ -1,20 +1,20 @@
 {
     "token": "2SPR",
-    "courses": {
-        "DEU1a": {
+    "courses": [
+        {
             "token": "DEU1a",
             "name": "Deutsch als Fremdsprache 1 - Gruppe A",
             "dates": [
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "�ZE",
+                    "prof": "ÖZE",
                     "location": "L208 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "�ZE",
+                    "prof": "ÖZE",
                     "location": "L208 "
                 },
                 {
@@ -31,20 +31,20 @@
                 }
             ]
         },
-        "DEU1b": {
+        {
             "token": "DEU1b",
             "name": "Deutsch als Fremdsprache 1 - Gruppe B",
             "dates": [
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "�ZE",
+                    "prof": "ÖZE",
                     "location": "L208 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "�ZE",
+                    "prof": "ÖZE",
                     "location": "L208 "
                 },
                 {
@@ -61,9 +61,9 @@
                 }
             ]
         },
-        "DAZ": {
+        {
             "token": "DAZ",
-            "name": "Deutsch f�r akadimische Zwecke",
+            "name": "Deutsch für akadimische Zwecke",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "DEU2a": {
+        {
             "token": "DEU2a",
             "name": "Deutsch als Fremdsprache 2 - Gruppe A",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "DEU3b": {
+        {
             "token": "DEU3b",
             "name": "Deutsch als Fremdsprache 3b",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "DEU3a": {
+        {
             "token": "DEU3a",
             "name": "Deutsch als Fremdsprache 3a",
             "dates": [
@@ -151,7 +151,7 @@
                 }
             ]
         },
-        "DEU2b": {
+        {
             "token": "DEU2b",
             "name": "Deutsch als Fremdsprache 2 - Gruppe B",
             "dates": [
@@ -175,7 +175,7 @@
                 }
             ]
         },
-        "TUT1": {
+        {
             "token": "TUT1",
             "name": "Tutorium Deutsch 1",
             "dates": [
@@ -193,5 +193,5 @@
                 }
             ]
         }
-    }
+    ]
 }

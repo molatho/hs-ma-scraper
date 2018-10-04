@@ -1,7 +1,7 @@
 {
     "token": "1EBE",
-    "courses": {
-        "EE1": {
+    "courses": [
+        {
             "token": "EE1",
             "name": "Analysis of Electric DC- and AC-Circuits",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "EMF": {
+        {
             "token": "EMF",
             "name": "Elektrische und magnetische Felder",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "DP1": {
+        {
             "token": "DP1",
             "name": "Programming in C",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "T-MA1": {
+        {
             "token": "T-MA1",
             "name": "Tutorium - Calculus",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "MA1": {
+        {
             "token": "MA1",
             "name": "Calculus",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "PH1": {
+        {
             "token": "PH1",
             "name": "Mechanics and Vibrations",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "T-DP1": {
+        {
             "token": "T-DP1",
             "name": "Tutorium - Software Engineering an Introduction to Programming in C",
             "dates": [
@@ -121,20 +121,20 @@
                 }
             ]
         },
-        "DEU1a": {
+        {
             "token": "DEU1a",
             "name": "Deutsch als Fremdsprache 1 - Gruppe A",
             "dates": [
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "�ZE",
+                    "prof": "ÖZE",
                     "location": "L208 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
-                    "prof": "�ZE",
+                    "prof": "ÖZE",
                     "location": "L208 "
                 },
                 {
@@ -151,20 +151,20 @@
                 }
             ]
         },
-        "DEU1b": {
+        {
             "token": "DEU1b",
             "name": "Deutsch als Fremdsprache 1 - Gruppe B",
             "dates": [
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 4,
-                    "prof": "�ZE",
+                    "prof": "ÖZE",
                     "location": "L208 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "�ZE",
+                    "prof": "ÖZE",
                     "location": "L208 "
                 },
                 {
@@ -181,5 +181,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,9 +1,9 @@
 {
     "token": "1VF",
-    "courses": {
-        "WSU": {
+    "courses": [
+        {
             "token": "WSU",
-            "name": "W�rme- und Stoff�bertragung",
+            "name": "Wärme- und Stoffübertragung",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "ANM": {
+        {
             "token": "ANM",
             "name": "Angewandte nummerische Mathematik",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "ICH": {
+        {
             "token": "ICH",
             "name": "Industrielle Chemie",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "AP": {
+        {
             "token": "AP",
             "name": "Anlagenplanung",
             "dates": [
@@ -91,25 +91,25 @@
                 }
             ]
         },
-        "RT1": {
+        {
             "token": "RT1",
             "name": "Reaktionstechnik 1",
             "dates": [
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "L209 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "H0910 "
                 }
             ]
         },
-        "TV": {
+        {
             "token": "TV",
             "name": "Thermische Verfahrenstechnik",
             "dates": [
@@ -133,5 +133,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "2CB",
-    "courses": {
-        "MA2": {
+    "courses": [
+        {
             "token": "MA2",
             "name": "Mathematik 2",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "PH2": {
+        {
             "token": "PH2",
             "name": "Physik 2",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "AN1": {
+        {
             "token": "AN1",
             "name": "Analytische Chemie 1",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "OC1": {
+        {
             "token": "OC1",
             "name": "Organische Chemie 1",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "AC2": {
+        {
             "token": "AC2",
             "name": "Allgemeine und anorganische Chemie 2",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "PC1": {
+        {
             "token": "PC1",
             "name": "Physikalische Chemie 1",
             "dates": [
@@ -115,9 +115,9 @@
                 }
             ]
         },
-        "ST": {
+        {
             "token": "ST",
-            "name": "Str�mungstechnik",
+            "name": "Strömungstechnik",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "PHP": {
+        {
             "token": "PHP",
             "name": "Pysikalisches Praktikum",
             "dates": [
@@ -151,5 +151,5 @@
                 }
             ]
         }
-    }
+    ]
 }

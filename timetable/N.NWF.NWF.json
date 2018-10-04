@@ -1,7 +1,7 @@
 {
     "token": "NWF",
-    "courses": {
-        "DLM": {
+    "courses": [
+        {
             "token": "DLM",
             "name": "Deep Learning Methoden",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "JAV": {
+        {
             "token": "JAV",
             "name": "Java-Programmierung",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "MP": {
+        {
             "token": "MP",
             "name": "Medical Photonics",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "SPV": {
+        {
             "token": "SPV",
             "name": "Sprachverarbeitung",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "ZMP": {
+        {
             "token": "ZMP",
             "name": "Zulassung von Medizinprodukten",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "BMO": {
+        {
             "token": "BMO",
             "name": "Biomedizinische Optik",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "MRI": {
+        {
             "token": "MRI",
             "name": "Magnetic Resonance Imaging",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "SPLM": {
+        {
             "token": "SPLM",
             "name": "Software-Projektleitung und -Management",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "SRN": {
+        {
             "token": "SRN",
             "name": "Sicherheitsprotokolle in Rechnernetzen",
             "dates": [
@@ -163,7 +163,7 @@
                 }
             ]
         },
-        "ESR": {
+        {
             "token": "ESR",
             "name": "Embedded Systems in rekonfigurierbarer Hardware",
             "dates": [
@@ -181,7 +181,7 @@
                 }
             ]
         },
-        "MLD": {
+        {
             "token": "MLD",
             "name": "Medical Launch Development",
             "dates": [
@@ -199,7 +199,7 @@
                 }
             ]
         },
-        "MS": {
+        {
             "token": "MS",
             "name": "Modellierung und Simulation",
             "dates": [
@@ -217,7 +217,7 @@
                 }
             ]
         },
-        "PMA": {
+        {
             "token": "PMA",
             "name": "Praxisseminar Mobile Anwendungen",
             "dates": [
@@ -235,7 +235,7 @@
                 }
             ]
         },
-        "SEL1": {
+        {
             "token": "SEL1",
             "name": "Sondergebiete der Elektronik",
             "dates": [
@@ -253,7 +253,7 @@
                 }
             ]
         },
-        "EFT": {
+        {
             "token": "EFT",
             "name": "Elektronikfertigungstechnogien",
             "dates": [
@@ -271,7 +271,7 @@
                 }
             ]
         },
-        "EIS2": {
+        {
             "token": "EIS2",
             "name": "Entwurf integrierter Schaltungen 2",
             "dates": [
@@ -289,7 +289,7 @@
                 }
             ]
         },
-        "MOB": {
+        {
             "token": "MOB",
             "name": "Mobilfunksysteme",
             "dates": [
@@ -307,7 +307,7 @@
                 }
             ]
         },
-        "SES": {
+        {
             "token": "SES",
             "name": "Sicherheit in Eingebetteten Systemen",
             "dates": [
@@ -325,7 +325,7 @@
                 }
             ]
         },
-        "PSM1": {
+        {
             "token": "PSM1",
             "name": "Projektlabor Sensorik und Mechatronik 1",
             "dates": [
@@ -343,7 +343,7 @@
                 }
             ]
         },
-        "VT": {
+        {
             "token": "VT",
             "name": "Verteilte Systeme",
             "dates": [
@@ -361,7 +361,7 @@
                 }
             ]
         },
-        "SIT": {
+        {
             "token": "SIT",
             "name": "Sicherheit in IT-Systemen",
             "dates": [
@@ -373,7 +373,7 @@
                 }
             ]
         },
-        "SNT": {
+        {
             "token": "SNT",
             "name": "Seminar Nachrichtentechnik",
             "dates": [
@@ -385,5 +385,5 @@
                 }
             ]
         }
-    }
+    ]
 }

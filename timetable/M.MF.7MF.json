@@ -1,7 +1,7 @@
 {
     "token": "7MF",
-    "courses": {
-        "ANM": {
+    "courses": [
+        {
             "token": "ANM",
             "name": "Angewandte Numerik im Maschinenbau",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "FO": {
+        {
             "token": "FO",
             "name": "Fertigungsorganisation",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "FB": {
+        {
             "token": "FB",
             "name": "Fahrzeugbau",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "MT": {
+        {
             "token": "MT",
             "name": "Messtechnik",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "FEM": {
+        {
             "token": "FEM",
             "name": "Finite-Elemente-Methoden",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "MDY": {
+        {
             "token": "MDY",
             "name": "Maschinendynamik",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "DEU2a": {
+        {
             "token": "DEU2a",
             "name": "Deutsch als Fremdsprache 2 - Gruppe A",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "DEU2b": {
+        {
             "token": "DEU2b",
             "name": "Deutsch als Fremdsprache 2 - Gruppe B",
             "dates": [
@@ -139,5 +139,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "1WMI",
-    "courses": {
-        "TPM1": {
+    "courses": [
+        {
             "token": "TPM1",
             "name": "Innovations- und Technologiemanagement",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "PR1": {
+        {
             "token": "PR1",
             "name": "Moderne Produktionssysteme",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "GM": {
+        {
             "token": "GM",
             "name": "General Management",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "MK": {
+        {
             "token": "MK",
             "name": "Marketing",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "EKL": {
+        {
             "token": "EKL",
             "name": "Einkauf und Logistik",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "PPS": {
+        {
             "token": "PPS",
             "name": "Produktionsplanung und -steuerung",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "T-TPM1": {
+        {
             "token": "T-TPM1",
             "name": "Tutorium - Innovations- und Technologiemanagement",
             "dates": [
@@ -139,5 +139,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,88 +1,104 @@
 {
     "token": "PH-HD",
-    "days": {
-        "0": {
-            "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "1": {
+    "days": [
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
+            "blocks": [
+                {
                     "number": 3,
+                    "professor": "VOT",
                     "course": "ATD",
                     "semester": "2ELM"
                 },
-                "4": {
+                {
+                    "number": 3,
+                    "professor": "VOT",
+                    "course": "ATD",
+                    "semester": "3ELB"
+                },
+                {
                     "number": 4,
+                    "professor": "VOT",
+                    "course": "ATD",
+                    "semester": "2ELM"
+                },
+                {
+                    "number": 4,
+                    "professor": "VOT",
+                    "course": "ATD",
+                    "semester": "3ELB"
+                },
+                {
+                    "number": 4,
+                    "professor": "JAE",
+                    "course": "PDIL",
+                    "semester": "2ELM"
+                },
+                {
+                    "number": 4,
+                    "professor": "JAE",
                     "course": "PDIL",
                     "semester": "2EMLM"
                 },
-                "5": {
+                {
                     "number": 5,
+                    "professor": "JAE",
+                    "course": "PDIL",
+                    "semester": "2ELM"
+                },
+                {
+                    "number": 5,
+                    "professor": "JAE",
                     "course": "PDIL",
                     "semester": "2EMLM"
                 }
-            }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
+            "blocks": [
+                {
                     "number": 3,
+                    "professor": "VOT",
+                    "course": "BP",
+                    "semester": "2ELM"
+                },
+                {
+                    "number": 3,
+                    "professor": "VOT",
                     "course": "BP",
                     "semester": "2EMLM"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "VOT",
+                    "course": "BP",
+                    "semester": "2ELM"
+                },
+                {
+                    "number": 4,
+                    "professor": "VOT",
                     "course": "BP",
                     "semester": "2EMLM"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "VOT",
                     "course": "TSHD",
                     "semester": "7ELB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "VOT",
                     "course": "TSHD",
                     "semester": "7ELB"
-                },
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "4": {
-            "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "1NM",
-    "courses": {
-        "SE2": {
+    "courses": [
+        {
             "token": "SE2",
             "name": "Sensorik 2",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "EES": {
+        {
             "token": "EES",
             "name": "Eingebettete und Echtzeitsysteme",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "SIP1": {
+        {
             "token": "SIP1",
             "name": "Signalprozessoren- Projektlabor 1",
             "dates": [
@@ -49,27 +49,27 @@
                 }
             ]
         },
-        "AGT2": {
+        {
             "token": "AGT2",
             "name": "Analogtechnik 2",
             "dates": [
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "K�Z",
+                    "prof": "KÖZ",
                     "location": "S211 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "K�Z",
+                    "prof": "KÖZ",
                     "location": "S211 "
                 }
             ]
         },
-        "KIS": {
+        {
             "token": "KIS",
-            "name": "Kommunikationssysteme in Stra�enfahrzeugen",
+            "name": "Kommunikationssysteme in Straßenfahrzeugen",
             "dates": [
                 {
                     "dayOfWeek": 3,
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "COM": {
+        {
             "token": "COM",
             "name": "Codierung und Modulation",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "BMS": {
+        {
             "token": "BMS",
             "name": "Biomedizinische Sensorik",
             "dates": [
@@ -121,5 +121,5 @@
                 }
             ]
         }
-    }
+    ]
 }

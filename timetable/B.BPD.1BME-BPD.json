@@ -1,7 +1,7 @@
 {
     "token": "1BME-BPD",
-    "courses": {
-        "ENTE": {
+    "courses": [
+        {
             "token": "ENTE",
             "name": "Enzyme Technology and Biocatalysis",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "MBEE": {
+        {
             "token": "MBEE",
             "name": "Metabolic Engineering",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "EXSE": {
+        {
             "token": "EXSE",
             "name": "Expression Systems",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "BRDE": {
+        {
             "token": "BRDE",
             "name": "Bioreaction Design",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "CPDE": {
+        {
             "token": "CPDE",
             "name": "Cell Culture Process Development",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "BSTE": {
+        {
             "token": "BSTE",
             "name": "Biostatistics",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "IMUE": {
+        {
             "token": "IMUE",
             "name": "Immunology",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "DDTE": {
+        {
             "token": "DDTE",
             "name": "Drug Development",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "IEAE": {
+        {
             "token": "IEAE",
             "name": "Industrial Environmental Analytics",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "HPYE": {
+        {
             "token": "HPYE",
             "name": "Human Physiology",
             "dates": [
@@ -151,7 +151,7 @@
                 }
             ]
         },
-        "EBTE": {
+        {
             "token": "EBTE",
             "name": "Environmental Biotechnology",
             "dates": [
@@ -163,5 +163,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,116 +1,114 @@
 {
     "token": "C211",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
-                    "course": "P�D-A",
+                    "professor": "BAL",
+                    "course": "PÄD-A",
                     "semester": "1SB"
                 },
-                "3": {
+                {
                     "number": 3,
-                    "course": "P�D-B",
+                    "professor": "BAL",
+                    "course": "PÄD-B",
                     "semester": "1SB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "VAR",
                     "course": "HT2",
                     "semester": "SWM"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "WEW",
                     "course": "MAN-B",
                     "semester": "2SB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "WEW",
                     "course": "MAN-A",
                     "semester": "2SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "WEJ",
                     "course": "ETH-A",
                     "semester": "6SB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "WEJ",
                     "course": "ETH-B",
                     "semester": "6SB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "WEJ",
                     "course": "HT8",
                     "semester": "SWM"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "KIL",
                     "course": "MET",
                     "semester": "1SM"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "KIL",
                     "course": "MW4",
                     "semester": "SWM"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "UTZ",
                     "course": "SOZ-A",
                     "semester": "1SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "UTZ",
                     "course": "SOZ-B",
                     "semester": "1SB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "MAZ",
                     "course": "MAT-A",
                     "semester": "1SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "MAZ",
                     "course": "MAT-B",
                     "semester": "1SB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

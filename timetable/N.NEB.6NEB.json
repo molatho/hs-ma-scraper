@@ -1,7 +1,7 @@
 {
     "token": "6NEB",
-    "courses": {
-        "KOM1": {
+    "courses": [
+        {
             "token": "KOM1",
             "name": "Kommunikationstechnik 1",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "SE1": {
+        {
             "token": "SE1",
             "name": "Sensorik 1",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "BL": {
+        {
             "token": "BL",
             "name": "Betriebswirtschaftslehre",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "HF2": {
+        {
             "token": "HF2",
             "name": "Hochfrequenztechnik 2",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "PLB": {
+        {
             "token": "PLB",
             "name": "Programierbare Logikbausteine",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "EIS1": {
+        {
             "token": "EIS1",
             "name": "Entwurf Integrierter Schaltungen 1",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "PLBL": {
+        {
             "token": "PLBL",
             "name": "Programmierbare Logikbausteine - Labor",
             "dates": [
@@ -121,5 +121,5 @@
                 }
             ]
         }
-    }
+    ]
 }

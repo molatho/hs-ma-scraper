@@ -1,7 +1,7 @@
 {
     "token": "2IB",
-    "courses": {
-        "SE1": {
+    "courses": [
+        {
             "token": "SE1",
             "name": "Software Engineering 1",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "TEI2": {
+        {
             "token": "TEI2",
             "name": "Technische Informatik 2",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "THI": {
+        {
             "token": "THI",
             "name": "Theoretische Informatik",
             "dates": [
@@ -61,9 +61,9 @@
                 }
             ]
         },
-        "THI-�": {
-            "token": "THI-�",
-            "name": "Theoretische Informatik �bungen",
+        {
+            "token": "THI-Ü",
+            "name": "Theoretische Informatik Übungen",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "PR2": {
+        {
             "token": "PR2",
             "name": "Programmierung 2",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "PR2-L": {
+        {
             "token": "PR2-L",
             "name": "Programmierung 2 - Labor",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "MA2": {
+        {
             "token": "MA2",
             "name": "Mathematik 2",
             "dates": [
@@ -145,5 +145,5 @@
                 }
             ]
         }
-    }
+    ]
 }

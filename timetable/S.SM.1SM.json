@@ -1,7 +1,7 @@
 {
     "token": "1SM",
-    "courses": {
-        "QL1": {
+    "courses": [
+        {
             "token": "QL1",
             "name": "Qualitative Methoden der Sozialen Arbeit",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "TSA": {
+        {
             "token": "TSA",
             "name": "Theorie Sozialer Arbeit",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "WT": {
+        {
             "token": "WT",
             "name": "Wissenschaftstheorie",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "MET": {
+        {
             "token": "MET",
             "name": "Methoden der Sozialen Arbeit",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "HER": {
+        {
             "token": "HER",
             "name": "Hermeneutik",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "QL2": {
+        {
             "token": "QL2",
             "name": "Quantiative Methoden der Sozialforschung",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "MW11": {
+        {
             "token": "MW11",
             "name": "Profilierung der fachlichen Kompetenz",
             "dates": [
@@ -91,5 +91,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "2TIB",
-    "courses": {
-        "OOP": {
+    "courses": [
+        {
             "token": "OOP",
             "name": "Objektorientierte Programmierung",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "RA": {
+        {
             "token": "RA",
             "name": "Rechner Architektur",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "WST": {
+        {
             "token": "WST",
             "name": "Wechselstromtechnik",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "MA2": {
+        {
             "token": "MA2",
             "name": "Mathematik 2",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "PH2": {
+        {
             "token": "PH2",
             "name": "Physik 2",
             "dates": [
@@ -121,25 +121,25 @@
                 }
             ]
         },
-        "ES": {
+        {
             "token": "ES",
             "name": "Elektronische Schaltungen",
             "dates": [
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "K�Z",
+                    "prof": "KÖZ",
                     "location": "H0806 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
-                    "prof": "K�Z",
+                    "prof": "KÖZ",
                     "location": "H0906 "
                 }
             ]
         },
-        "T-PH2": {
+        {
             "token": "T-PH2",
             "name": "Tutorium - Physik 2",
             "dates": [
@@ -151,19 +151,19 @@
                 }
             ]
         },
-        "ESL": {
+        {
             "token": "ESL",
             "name": "Elektronische Schaltungen Labor",
             "dates": [
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
-                    "prof": "K�Z",
+                    "prof": "KÖZ",
                     "location": "R108 "
                 }
             ]
         },
-        "T-MA2": {
+        {
             "token": "T-MA2",
             "name": "Tutorium - Mathematik 2",
             "dates": [
@@ -175,5 +175,5 @@
                 }
             ]
         }
-    }
+    ]
 }

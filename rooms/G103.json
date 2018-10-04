@@ -1,108 +1,92 @@
 {
     "token": "G103",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "SHA",
                     "course": "AL1",
                     "semester": "1BCB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "SHA",
                     "course": "AL1",
                     "semester": "1BCB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SHA",
                     "course": "AL1",
                     "semester": "1BCB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
-            "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "STZ",
                     "course": "AN1",
                     "semester": "2CB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "STZ",
                     "course": "AN1",
                     "semester": "2CB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "STZ",
                     "course": "AN1",
                     "semester": "2CB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "VIN",
                     "course": "CHP",
                     "semester": "2VB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "VIN",
                     "course": "CHP",
                     "semester": "2VB"
                 },
-                "5": {
+                {
                     "number": 5,
+                    "professor": "VIN",
                     "course": "CHP",
                     "semester": "2VB"
                 }
-            }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "WEN",
                     "course": "AL1",
                     "semester": "1BB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "WEN",
                     "course": "AL1",
                     "semester": "1BB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "WEN",
                     "course": "AL1",
                     "semester": "1BB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "4": {
-            "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "4WB",
-    "courses": {
-        "ET2": {
+    "courses": [
+        {
             "token": "ET2",
             "name": "Elektrische Antriebstechnik",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "KA": {
+        {
             "token": "KA",
             "name": "Kraft- und Arbeitsmaschinen",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "CO": {
+        {
             "token": "CO",
             "name": "Controlling",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "MK": {
+        {
             "token": "MK",
             "name": "Marketing",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "EKL": {
+        {
             "token": "EKL",
             "name": "Einkauf und Logistik",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "IUF": {
+        {
             "token": "IUF",
             "name": "Investition und Finanzen",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "RW2": {
+        {
             "token": "RW2",
             "name": "Rechnungswesen 2",
             "dates": [
@@ -133,5 +133,5 @@
                 }
             ]
         }
-    }
+    ]
 }

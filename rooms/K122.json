@@ -1,76 +1,68 @@
 {
     "token": "K122",
-    "days": {
-        "0": {
-            "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "1": {
+    "days": [
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
+            "blocks": [
+                {
                     "number": 3,
+                    "professor": "HLF",
                     "course": "MMO",
                     "semester": "7MEBd"
                 },
-                "4": {
+                {
+                    "number": 3,
+                    "professor": "HLF",
+                    "course": "MMO",
+                    "semester": "7MKB"
+                },
+                {
+                    "number": 3,
+                    "professor": "HLF",
+                    "course": "MMO",
+                    "semester": "7MPB"
+                },
+                {
                     "number": 4,
+                    "professor": "HLF",
                     "course": "MMO",
                     "semester": "7MEBd"
                 },
-                "5": null
-            }
+                {
+                    "number": 4,
+                    "professor": "HLF",
+                    "course": "MMO",
+                    "semester": "7MKB"
+                },
+                {
+                    "number": 4,
+                    "professor": "HLF",
+                    "course": "MMO",
+                    "semester": "7MPB"
+                }
+            ]
         },
-        "2": {
-            "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "BLS",
                     "course": "WTL",
                     "semester": "1MBb"
-                },
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
+            "blocks": [
+                {
                     "number": 3,
+                    "professor": "BLS",
                     "course": "WTL",
                     "semester": "1MBa"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

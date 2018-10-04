@@ -1,7 +1,7 @@
 {
     "token": "1SON",
-    "courses": {
-        "BGM": {
+    "courses": [
+        {
             "token": "BGM",
             "name": "Betriebliches Gesundheitsmanagement",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "KPZ": {
+        {
             "token": "KPZ",
             "name": "Kompetenzzentrum ",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "SD": {
+        {
             "token": "SD",
             "name": "StartDurch",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "KLQ": {
+        {
             "token": "KLQ",
             "name": "Kolloquium",
             "dates": [
@@ -151,7 +151,7 @@
                 }
             ]
         },
-        "TUT": {
+        {
             "token": "TUT",
             "name": "Tutorium",
             "dates": [
@@ -163,5 +163,5 @@
                 }
             ]
         }
-    }
+    ]
 }

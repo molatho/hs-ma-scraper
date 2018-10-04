@@ -1,7 +1,7 @@
 {
     "token": "7UIB",
-    "courses": {
-        "MLE": {
+    "courses": [
+        {
             "token": "MLE",
             "name": "Maschinelles Lernen",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "UNS": {
+        {
             "token": "UNS",
             "name": "Unternehmenssimulation",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "TRA": {
+        {
             "token": "TRA",
             "name": "Technisches Trading",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "APV": {
+        {
             "token": "APV",
             "name": "Angewandte Projektarbeit:Visualisierung",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "WIA": {
+        {
             "token": "WIA",
             "name": "Wissenschaftliches Arbeiten",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "LSD": {
+        {
             "token": "LSD",
             "name": "Large Scale (Software-) Development",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "AGI": {
+        {
             "token": "AGI",
             "name": "Agile SW-Entwicklung",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "VS": {
+        {
             "token": "VS",
             "name": "Verteilte Systeme",
             "dates": [
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "GAE": {
+        {
             "token": "GAE",
             "name": "Game Engineering",
             "dates": [
@@ -175,7 +175,7 @@
                 }
             ]
         },
-        "SSE": {
+        {
             "token": "SSE",
             "name": "Secure Software Engineering",
             "dates": [
@@ -193,7 +193,7 @@
                 }
             ]
         },
-        "PML": {
+        {
             "token": "PML",
             "name": "Python und Maschinelles Lernen",
             "dates": [
@@ -211,5 +211,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "4SB",
-    "courses": {
-        "PRA-D": {
+    "courses": [
+        {
             "token": "PRA-D",
             "name": "Praxisreflexion (Gruppe D)",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "PRA-C": {
+        {
             "token": "PRA-C",
             "name": "Praxisreflexion (Gruppe C)",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "PRA-B": {
+        {
             "token": "PRA-B",
             "name": "Praxisreflexion (Gruppe B)",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "PRA-A": {
+        {
             "token": "PRA-A",
             "name": "Praxisreflexion (Gruppe A)",
             "dates": [
@@ -73,5 +73,5 @@
                 }
             ]
         }
-    }
+    ]
 }

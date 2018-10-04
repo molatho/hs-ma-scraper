@@ -1,88 +1,62 @@
 {
     "token": "H1114",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": {
+            "blocks": [
+                {
                     "number": 4,
+                    "professor": "DOP",
                     "course": "T-PR2",
                     "semester": "2UIB"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
-            "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "WFW",
                     "course": "T-MAT1",
                     "semester": "1MBb"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "SEW",
                     "course": "SOE",
                     "semester": "6TIB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SEW",
                     "course": "SOE",
                     "semester": "6TIB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "LUH",
                     "course": "T-MAT2",
                     "semester": "2MB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "LUH",
                     "course": "T-MAT3",
                     "semester": "3MB"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
-            "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "DOP",
                     "course": "T-PR2",
                     "semester": "2UIB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

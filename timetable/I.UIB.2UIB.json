@@ -1,7 +1,7 @@
 {
     "token": "2UIB",
-    "courses": {
-        "PR2": {
+    "courses": [
+        {
             "token": "PR2",
             "name": "Programmierung 2",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "MA2": {
+        {
             "token": "MA2",
             "name": "Mathematik 2",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "SE1": {
+        {
             "token": "SE1",
             "name": "Software Engineering 1",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "WI2": {
+        {
             "token": "WI2",
             "name": "Wirtschaftsinformatik 2",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "BWL2": {
+        {
             "token": "BWL2",
             "name": "Betriebswirtschaftslehre 2",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "T-PR2": {
+        {
             "token": "T-PR2",
             "name": "Tutorium - Programmierung 2",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "T-WI2": {
+        {
             "token": "T-WI2",
             "name": "Tutorium - Wirtschaftsinformatik 2",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "PR2-L": {
+        {
             "token": "PR2-L",
             "name": "Programmierung 2 - Labor",
             "dates": [
@@ -163,5 +163,5 @@
                 }
             ]
         }
-    }
+    ]
 }

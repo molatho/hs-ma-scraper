@@ -1,7 +1,7 @@
 {
     "token": "1BB",
-    "courses": {
-        "GMB": {
+    "courses": [
+        {
             "token": "GMB",
             "name": "Grundlagen der Molekularbiologie",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "CH1": {
+        {
             "token": "CH1",
             "name": "Allgemeine und Physikalische Chemie 1",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "AL1": {
+        {
             "token": "AL1",
             "name": "Analytische Chemie 1",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "T-AL1": {
+        {
             "token": "T-AL1",
             "name": "Tutorium - Analytische Chemie 1",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "MH1": {
+        {
             "token": "MH1",
             "name": "Mathematik 1",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "TEN": {
+        {
             "token": "TEN",
             "name": "Technisches Englisch",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "PBW": {
+        {
             "token": "PBW",
             "name": "Praxis der Biowissenschaften",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "PH1": {
+        {
             "token": "PH1",
             "name": "Physik 1",
             "dates": [
@@ -151,5 +151,5 @@
                 }
             ]
         }
-    }
+    ]
 }

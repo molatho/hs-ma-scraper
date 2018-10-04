@@ -1,120 +1,115 @@
 {
     "token": "G118",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "SCD",
                     "course": "OCA",
                     "semester": "3BCB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "SCD",
                     "course": "OCA",
                     "semester": "3BCB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SCD",
                     "course": "OCA",
                     "semester": "3BCB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "SCD",
                     "course": "OCA",
                     "semester": "3BCB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "SHA",
                     "course": "OCP",
                     "semester": "3CB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "SHA",
                     "course": "OCP",
                     "semester": "3CB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SHA",
                     "course": "OCP",
                     "semester": "3CB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "SHA",
                     "course": "OCP",
                     "semester": "3CB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "SCD",
                     "course": "BOP",
                     "semester": "4BCB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "SCD",
                     "course": "BOP",
                     "semester": "4BCB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SCD",
                     "course": "BOP",
                     "semester": "4BCB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "ARR",
                     "course": "OCP",
                     "semester": "3BB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "ARR",
                     "course": "OCP",
                     "semester": "3BB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "ARR",
                     "course": "OCP",
                     "semester": "3BB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "ARR",
                     "course": "OCP",
                     "semester": "3BB"
-                },
-                "4": null,
-                "5": null
-            }
-        },
-        "4": {
-            "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

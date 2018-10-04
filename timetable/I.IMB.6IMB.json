@@ -1,7 +1,7 @@
 {
     "token": "6IMB",
-    "courses": {
-        "GDV": {
+    "courses": [
+        {
             "token": "GDV",
             "name": "Grundlagen der Datenvisualisierung",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "BIM": {
+        {
             "token": "BIM",
             "name": "Bioinformatik",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "WAF": {
+        {
             "token": "WAF",
             "name": "Webarchitekturen und Frameworks",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "IGT": {
+        {
             "token": "IGT",
             "name": "Integrationstechnologien",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "SMA": {
+        {
             "token": "SMA",
             "name": "Security Management ",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "ERD": {
+        {
             "token": "ERD",
             "name": "Recht und Datenschutz",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "WIA": {
+        {
             "token": "WIA",
             "name": "Wissenschaftliches Arbeiten",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "MBI": {
+        {
             "token": "MBI",
             "name": "Mathematische Biologie",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "VS": {
+        {
             "token": "VS",
             "name": "Verteilte Systeme",
             "dates": [
@@ -163,7 +163,7 @@
                 }
             ]
         },
-        "SQUAD": {
+        {
             "token": "SQUAD",
             "name": "SQUAD",
             "dates": [
@@ -193,5 +193,5 @@
                 }
             ]
         }
-    }
+    ]
 }

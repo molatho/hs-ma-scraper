@@ -1,128 +1,150 @@
 {
     "token": "C310",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "LNG",
                     "course": "QL1",
                     "semester": "1SM"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "LNG",
                     "course": "HT6",
                     "semester": "SWM"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "UTZ",
                     "course": "HER",
                     "semester": "1SM"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "SHM",
                     "course": "QL2",
                     "semester": "1SM"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
-                    "course": "P�PR-A",
+                    "professor": "BAL",
+                    "course": "PÄPR-A",
                     "semester": "5SB"
                 },
-                "1": {
+                {
                     "number": 1,
-                    "course": "P�PR-B",
+                    "professor": "BAL",
+                    "course": "PÄPR-B",
                     "semester": "5SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "UTZ",
                     "course": "HT4",
                     "semester": "SWM"
                 },
-                "3": {
+                {
+                    "number": 2,
+                    "professor": "SOU",
+                    "course": "THEO",
+                    "semester": "5SB"
+                },
+                {
                     "number": 3,
+                    "professor": "UTZ",
                     "course": "HT4",
                     "semester": "SWM"
                 },
-                "4": null,
-                "5": null
-            }
+                {
+                    "number": 3,
+                    "professor": "SOU",
+                    "course": "THEO",
+                    "semester": "5SB"
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "WEJ",
                     "course": "TSA",
                     "semester": "1SM"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "VAR",
                     "course": "STADT",
                     "semester": "5SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "UTZ",
                     "course": "SOPR",
                     "semester": "5SB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "BAL",
                     "course": "MW11",
                     "semester": "1SM"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "BAL",
                     "course": "MW11",
                     "semester": "1SM"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "NOC",
                     "course": "HT1",
                     "semester": "SWM"
                 },
-                "2": {
+                {
+                    "number": 1,
+                    "professor": "RSE",
+                    "course": "HT1",
+                    "semester": "SWM"
+                },
+                {
                     "number": 2,
+                    "professor": "NOY",
                     "course": "LFI2-B",
                     "semester": "2SB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "LBS1",
                     "course": "RAW-A",
                     "semester": "1SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "LBS1",
                     "course": "RAW-B",
                     "semester": "1SB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

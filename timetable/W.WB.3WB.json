@@ -1,7 +1,7 @@
 {
     "token": "3WB",
-    "courses": {
-        "T-ET1": {
+    "courses": [
+        {
             "token": "T-ET1",
             "name": "Tutorium - Grundlagen der Elektrotechnik",
             "dates": [
@@ -13,25 +13,25 @@
                 }
             ]
         },
-        "STK": {
+        {
             "token": "STK",
             "name": "Statistik",
             "dates": [
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
-                    "prof": "N�R",
+                    "prof": "NÜR",
                     "location": "H0806 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 0,
-                    "prof": "N�R",
+                    "prof": "NÜR",
                     "location": "L111 "
                 }
             ]
         },
-        "ET1": {
+        {
             "token": "ET1",
             "name": "Grundlagen der Elektrotechnik",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "FT": {
+        {
             "token": "FT",
             "name": "Fertigungstechnik",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "PRM": {
+        {
             "token": "PRM",
             "name": "Produktionsmanagement",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "IUF": {
+        {
             "token": "IUF",
             "name": "Investition und Finanzen",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "ENB2": {
+        {
             "token": "ENB2",
             "name": "Englisch B2",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "POA1": {
+        {
             "token": "POA1",
             "name": "Portugiesisch A1",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "RUA1": {
+        {
             "token": "RUA1",
             "name": "Russisch A1",
             "dates": [
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "SPA1": {
+        {
             "token": "SPA1",
             "name": "Spanisch 1",
             "dates": [
@@ -175,7 +175,7 @@
                 }
             ]
         },
-        "SPA2": {
+        {
             "token": "SPA2",
             "name": "Spanisch 2",
             "dates": [
@@ -193,7 +193,7 @@
                 }
             ]
         },
-        "RW2": {
+        {
             "token": "RW2",
             "name": "Rechnungswesen 2",
             "dates": [
@@ -211,5 +211,5 @@
                 }
             ]
         }
-    }
+    ]
 }

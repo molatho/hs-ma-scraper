@@ -1,7 +1,7 @@
 {
     "token": "2SB",
-    "courses": {
-        "SOP": {
+    "courses": [
+        {
             "token": "SOP",
             "name": "Sozialpolitik",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "JUH-A": {
+        {
             "token": "JUH-A",
             "name": "Jugendhilfe im Jugendstrafverfahren - Gruppe A",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "MAN-B": {
+        {
             "token": "MAN-B",
             "name": "Management-Grundlagen (Gruppe B)",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "SOS": {
+        {
             "token": "SOS",
             "name": "System moderner Gesellschaften",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "ENTW": {
+        {
             "token": "ENTW",
             "name": "Entwicklungspsychologie",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "JUH-B": {
+        {
             "token": "JUH-B",
             "name": "Jugendhilfe im Jugendstrafverfahren - Gruppe B",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "MAN-A": {
+        {
             "token": "MAN-A",
             "name": "Management-Grundlagen (Gruppe A)",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "WIS": {
+        {
             "token": "WIS",
             "name": "Wissenschaftliches Arbeiten und wissenschaftliches Schreiben",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "LFI2-A": {
+        {
             "token": "LFI2-A",
             "name": "Lern- und Forschungswerkstatt Soziale Arbeit - Vertiefung (Gruppe A)",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "RBEZ-A": {
+        {
             "token": "RBEZ-A",
             "name": "Rechtsbeziehungen zw. Eltern und Kindern (Gruppe A)",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "BWL": {
+        {
             "token": "BWL",
             "name": "Betriebswirtschaft Grundlagen",
             "dates": [
@@ -151,7 +151,7 @@
                 }
             ]
         },
-        "LEB": {
+        {
             "token": "LEB",
             "name": "Sozialpolit. Herausforderungen und Lebenslagen in Deutschlan",
             "dates": [
@@ -163,7 +163,7 @@
                 }
             ]
         },
-        "LFI2-B": {
+        {
             "token": "LFI2-B",
             "name": "Lern- und Forschungswerkstatt Soziale Arbeit - Vertiefung (Gruppe B)",
             "dates": [
@@ -175,7 +175,7 @@
                 }
             ]
         },
-        "SYS": {
+        {
             "token": "SYS",
             "name": "System moderner Gesellschaften",
             "dates": [
@@ -187,7 +187,7 @@
                 }
             ]
         },
-        "RBEZ-B": {
+        {
             "token": "RBEZ-B",
             "name": "Rechtsbeziehungen zw. Eltern und Kindern (Gruppe B)",
             "dates": [
@@ -205,5 +205,5 @@
                 }
             ]
         }
-    }
+    ]
 }

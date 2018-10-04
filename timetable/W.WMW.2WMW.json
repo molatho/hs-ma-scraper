@@ -1,7 +1,7 @@
 {
     "token": "2WMW",
-    "courses": {
-        "OC": {
+    "courses": [
+        {
             "token": "OC",
             "name": "Operation Competences",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "PR2": {
+        {
             "token": "PR2",
             "name": "Robuste Produktionsprozesse",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "IT": {
+        {
             "token": "IT",
             "name": "Informationsmanagement",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "EE": {
+        {
             "token": "EE",
             "name": "English for Engineers",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "TPM3": {
+        {
             "token": "TPM3",
             "name": "Controlling im Produktmanagement",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "PR3": {
+        {
             "token": "PR3",
             "name": "Produktionsgestaltung: Fallstudien",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "IC": {
+        {
             "token": "IC",
             "name": "International Competences",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "PPS": {
+        {
             "token": "PPS",
             "name": "Produktionsplanung und -steuerung",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "TPM2": {
+        {
             "token": "TPM2",
             "name": "Produktplanung und - betreuung",
             "dates": [
@@ -163,5 +163,5 @@
                 }
             ]
         }
-    }
+    ]
 }

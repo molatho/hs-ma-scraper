@@ -1,9 +1,9 @@
 {
     "token": "1MM",
-    "courses": {
-        "HTH": {
+    "courses": [
+        {
             "token": "HTH",
-            "name": "H�here Thermodynamik",
+            "name": "Höhere Thermodynamik",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "MD": {
+        {
             "token": "MD",
             "name": "Material Design",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "WW": {
+        {
             "token": "WW",
             "name": "Werkstoffwissenschaft",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "MPV": {
+        {
             "token": "MPV",
             "name": "Moderne Produktionsverfahren",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "PEP": {
+        {
             "token": "PEP",
             "name": "Produktentwicklungsprozesse",
             "dates": [
@@ -85,9 +85,9 @@
                 }
             ]
         },
-        "TMA": {
+        {
             "token": "TMA",
-            "name": "H�here Technische Mathematik",
+            "name": "Höhere Technische Mathematik",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "MUM": {
+        {
             "token": "MUM",
             "name": "Multifunktionelle Materialien",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "MMT": {
+        {
             "token": "MMT",
             "name": "Mikromechatronik",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "MPS": {
+        {
             "token": "MPS",
             "name": "Moderne Produktionssysteme",
             "dates": [
@@ -163,9 +163,9 @@
                 }
             ]
         },
-        "HFM": {
+        {
             "token": "HFM",
-            "name": "H�here Fluidmechanik",
+            "name": "Höhere Fluidmechanik",
             "dates": [
                 {
                     "dayOfWeek": 3,
@@ -181,5 +181,5 @@
                 }
             ]
         }
-    }
+    ]
 }

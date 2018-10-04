@@ -1,104 +1,109 @@
 {
     "token": "C306",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "BLR",
                     "course": "HT9",
                     "semester": "SWM"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "BLR",
+                    "course": "GF-D",
+                    "semester": "3SB"
+                },
+                {
+                    "number": 2,
+                    "professor": "BLR",
                     "course": "HT9",
                     "semester": "SWM"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "UCH",
                     "course": "GRU-D",
                     "semester": "3SB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "ANH",
+                    "course": "GF-C",
+                    "semester": "3SB"
+                },
+                {
+                    "number": 1,
+                    "professor": "ANH",
                     "course": "GRU-C",
                     "semester": "3SB"
                 },
-                "2": {
+                {
                     "number": 2,
-                    "course": "GRU-C",
+                    "professor": "ANH",
+                    "course": "GF-C",
                     "semester": "3SB"
                 },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                {
+                    "number": 2,
+                    "professor": "ANH",
+                    "course": "GRU-C",
+                    "semester": "3SB"
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "SHM",
                     "course": "PRA-B",
                     "semester": "4SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SHM",
                     "course": "PRA-B",
                     "semester": "4SB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "BAL",
                     "course": "PRA-D",
                     "semester": "4SB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "BAL",
                     "course": "PRA-D",
                     "semester": "4SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SSC",
                     "course": "PRA-A",
                     "semester": "4SB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "SSC",
                     "course": "PRA-A",
                     "semester": "4SB"
-                },
-                "4": null,
-                "5": null
-            }
-        },
-        "4": {
-            "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "6MTB",
-    "courses": {
-        "CN2": {
+    "courses": [
+        {
             "token": "CN2",
             "name": "Computer Netzwerke 2",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "KOM1": {
+        {
             "token": "KOM1",
             "name": "Kommunikationstechnik 1",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "SE1": {
+        {
             "token": "SE1",
             "name": "Sensorik 1",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "NEP": {
+        {
             "token": "NEP",
             "name": "Neuro-Prothetik",
             "dates": [
@@ -73,9 +73,9 @@
                 }
             ]
         },
-        "BM": {
+        {
             "token": "BM",
-            "name": "Bildgest�tzte Medizin und Navigation",
+            "name": "Bildgestützte Medizin und Navigation",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "SOE": {
+        {
             "token": "SOE",
             "name": "Software Engineering",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "BMT": {
+        {
             "token": "BMT",
             "name": "Biomechatronik",
             "dates": [
@@ -127,5 +127,5 @@
                 }
             ]
         }
-    }
+    ]
 }

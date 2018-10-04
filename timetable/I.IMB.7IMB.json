@@ -1,7 +1,7 @@
 {
     "token": "7IMB",
-    "courses": {
-        "MLE": {
+    "courses": [
+        {
             "token": "MLE",
             "name": "Maschinelles Lernen",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "APV": {
+        {
             "token": "APV",
             "name": "Angewandte Projektarbeit:Visualisierung",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "WIA": {
+        {
             "token": "WIA",
             "name": "Wissenschaftliches Arbeiten",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "LSD": {
+        {
             "token": "LSD",
             "name": "Large Scale (Software-) Development",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "AGI": {
+        {
             "token": "AGI",
             "name": "Agile SW-Entwicklung",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "VS": {
+        {
             "token": "VS",
             "name": "Verteilte Systeme",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "SSE": {
+        {
             "token": "SSE",
             "name": "Secure Software Engineering",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "CVIS": {
+        {
             "token": "CVIS",
             "name": "Computer Vision",
             "dates": [
@@ -157,5 +157,5 @@
                 }
             ]
         }
-    }
+    ]
 }

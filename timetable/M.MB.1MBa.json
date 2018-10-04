@@ -1,7 +1,7 @@
 {
     "token": "1MBa",
-    "courses": {
-        "FVF1": {
+    "courses": [
+        {
             "token": "FVF1",
             "name": "Fertigungsverfahren 1",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "T-PHY1": {
+        {
             "token": "T-PHY1",
             "name": "Tutorium - Physik1",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "TME1": {
+        {
             "token": "TME1",
             "name": "Technische Mechanik 1",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "PHY1": {
+        {
             "token": "PHY1",
             "name": "Physik 1",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "MAT1": {
+        {
             "token": "MAT1",
             "name": "Mathematik 1",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "WTK1": {
+        {
             "token": "WTK1",
             "name": "Werkstofftechnik 1",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "KON1": {
+        {
             "token": "KON1",
             "name": "Konstruktion 1",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "WTL": {
+        {
             "token": "WTL",
             "name": "Werkstofftechnik - Labor",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "T-MAT1": {
+        {
             "token": "T-MAT1",
             "name": "Tutorium - Mathematik 1",
             "dates": [
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "LAT": {
+        {
             "token": "LAT",
             "name": "Lern- und Arbeitstechniken",
             "dates": [
@@ -169,5 +169,5 @@
                 }
             ]
         }
-    }
+    ]
 }

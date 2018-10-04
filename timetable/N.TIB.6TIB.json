@@ -1,7 +1,7 @@
 {
     "token": "6TIB",
-    "courses": {
-        "CN2": {
+    "courses": [
+        {
             "token": "CN2",
             "name": "Computer Netzwerke 2",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "BMU": {
+        {
             "token": "BMU",
             "name": "Bildverarbeitung und Mustererkennung",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "BL": {
+        {
             "token": "BL",
             "name": "Betriebswirtschaftslehre",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "SOE": {
+        {
             "token": "SOE",
             "name": "Software Engineering",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "PLB": {
+        {
             "token": "PLB",
             "name": "Programierbare Logikbausteine",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "PLBL": {
+        {
             "token": "PLBL",
             "name": "Programmierbare Logikbausteine - Labor",
             "dates": [
@@ -103,5 +103,5 @@
                 }
             ]
         }
-    }
+    ]
 }

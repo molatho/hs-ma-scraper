@@ -1,7 +1,7 @@
 {
     "token": "1BME-BST",
-    "courses": {
-        "PHDE": {
+    "courses": [
+        {
             "token": "PHDE",
             "name": "Pharmakodynamics",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "PHKE": {
+        {
             "token": "PHKE",
             "name": "Pharmakokinetics",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "MOME": {
+        {
             "token": "MOME",
             "name": "Molecular Medicine",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "EXSE": {
+        {
             "token": "EXSE",
             "name": "Expression Systems",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "BSTE": {
+        {
             "token": "BSTE",
             "name": "Biostatistics",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "CBAE": {
+        {
             "token": "CBAE",
             "name": "Cell Based Assays Lab",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "IMUE": {
+        {
             "token": "IMUE",
             "name": "Immunology",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "DDTE": {
+        {
             "token": "DDTE",
             "name": "Drug Development",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "CPHE": {
+        {
             "token": "CPHE",
             "name": "Cell Physiology",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "IEAE": {
+        {
             "token": "IEAE",
             "name": "Industrial Environmental Analytics",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "HPYE": {
+        {
             "token": "HPYE",
             "name": "Human Physiology",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "EBTE": {
+        {
             "token": "EBTE",
             "name": "Environmental Biotechnology",
             "dates": [
@@ -157,5 +157,5 @@
                 }
             ]
         }
-    }
+    ]
 }

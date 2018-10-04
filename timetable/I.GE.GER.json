@@ -1,7 +1,7 @@
 {
     "token": "GER",
-    "courses": {
-        "GDB": {
+    "courses": [
+        {
             "token": "GDB",
             "name": "Grundlagen Datenbanken",
             "dates": [
@@ -19,5 +19,5 @@
                 }
             ]
         }
-    }
+    ]
 }

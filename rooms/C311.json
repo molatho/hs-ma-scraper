@@ -1,132 +1,138 @@
 {
     "token": "C311",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "MLL",
                     "course": "SOP",
                     "semester": "2SB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "MLL",
                     "course": "SOP",
                     "semester": "2SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "TOU",
                     "course": "FAMR",
                     "semester": "7SB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "LNG",
                     "course": "MEDA",
                     "semester": "7SB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "GAD",
                     "course": "KAS-A",
                     "semester": "5SB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "GAD",
                     "course": "KAS-B",
                     "semester": "5SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "BWF",
                     "course": "HF9",
                     "semester": "SWM"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "KIL",
                     "course": "SORA",
                     "semester": "3SB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "SHM",
                     "course": "BER",
                     "semester": "3SB"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "OSM",
                     "course": "PSYIA",
                     "semester": "5SB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "OSM",
                     "course": "SOME2",
                     "semester": "6SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "MLL",
                     "course": "LEB",
                     "semester": "2SB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "LNG",
                     "course": "MEDU-A",
                     "semester": "7SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "LNG",
                     "course": "MEDU-B",
                     "semester": "7SB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "HMB",
                     "course": "RBEZ-A",
                     "semester": "2SB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "HMB",
                     "course": "RBEZ-A",
                     "semester": "2SB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "HMB",
                     "course": "RBEZ-B",
                     "semester": "2SB"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "HMB",
                     "course": "RBEZ-B",
                     "semester": "2SB"
-                },
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

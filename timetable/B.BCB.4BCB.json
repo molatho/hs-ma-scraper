@@ -1,7 +1,7 @@
 {
     "token": "4BCB",
-    "courses": {
-        "BC2": {
+    "courses": [
+        {
             "token": "BC2",
             "name": "Biochemie 2",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "BCP": {
+        {
             "token": "BCP",
             "name": "Biochemie - Praktikum",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "BOP": {
+        {
             "token": "BOP",
             "name": "Bioorganisches Praktikum",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "MBP": {
+        {
             "token": "MBP",
             "name": "Mikrobiologisches Praktikum",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "MIB": {
+        {
             "token": "MIB",
             "name": "Mikrobiologie",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "MOB": {
+        {
             "token": "MOB",
             "name": "Molekularbiologie",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "BOC": {
+        {
             "token": "BOC",
             "name": "Bioorganische Chemie",
             "dates": [
@@ -151,5 +151,5 @@
                 }
             ]
         }
-    }
+    ]
 }

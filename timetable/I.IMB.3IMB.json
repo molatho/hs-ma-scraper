@@ -1,7 +1,7 @@
 {
     "token": "3IMB",
-    "courses": {
-        "WEB": {
+    "courses": [
+        {
             "token": "WEB",
             "name": "Webtechnologien",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "MA3": {
+        {
             "token": "MA3",
             "name": "Mathematik 3",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "MI4": {
+        {
             "token": "MI4",
             "name": "Medizinische Informatik 4",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "DM": {
+        {
             "token": "DM",
             "name": "Datenmanagement",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "MI3": {
+        {
             "token": "MI3",
             "name": "Medizinische Informatik 3",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "SE2": {
+        {
             "token": "SE2",
             "name": "Software Engineering 2",
             "dates": [
@@ -121,5 +121,5 @@
                 }
             ]
         }
-    }
+    ]
 }

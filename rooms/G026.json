@@ -1,84 +1,87 @@
 {
     "token": "G026",
-    "days": {
-        "0": {
-            "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "1": {
-            "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "2": {
+    "days": [
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "SUB",
+                    "course": "PCP",
+                    "semester": "3BB"
+                },
+                {
+                    "number": 0,
+                    "professor": "SUB",
                     "course": "PCP",
                     "semester": "3BCB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "SUB",
+                    "course": "PCP",
+                    "semester": "3BB"
+                },
+                {
+                    "number": 1,
+                    "professor": "SUB",
                     "course": "PCP",
                     "semester": "3BCB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SEH",
+                    "course": "PCP",
+                    "semester": "3BB"
+                },
+                {
+                    "number": 2,
+                    "professor": "SEH",
                     "course": "PCP",
                     "semester": "3BCB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "SEH",
+                    "course": "PCP",
+                    "semester": "3BB"
+                },
+                {
+                    "number": 3,
+                    "professor": "SEH",
                     "course": "PCP",
                     "semester": "3BCB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "SEH",
+                    "course": "PRC",
+                    "semester": "1CM"
+                },
+                {
+                    "number": 1,
+                    "professor": "SEH",
                     "course": "PRC",
                     "semester": "2CM"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "SEH",
+                    "course": "PRC",
+                    "semester": "1CM"
+                },
+                {
+                    "number": 2,
+                    "professor": "SEH",
                     "course": "PRC",
                     "semester": "2CM"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "4": {
-            "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

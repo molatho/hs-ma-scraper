@@ -1,7 +1,7 @@
 {
     "token": "4UIB",
-    "courses": {
-        "USP": {
+    "courses": [
+        {
             "token": "USP",
             "name": "Unternehmens-Software-Projekt",
             "dates": [
@@ -43,5 +43,5 @@
                 }
             ]
         }
-    }
+    ]
 }

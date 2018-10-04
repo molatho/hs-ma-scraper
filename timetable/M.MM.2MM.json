@@ -1,7 +1,7 @@
 {
     "token": "2MM",
-    "courses": {
-        "TUS": {
+    "courses": [
+        {
             "token": "TUS",
             "name": "Tribologie und Schmierungstechnik",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "FDY": {
+        {
             "token": "FDY",
             "name": "Fahrdynamik",
             "dates": [
@@ -37,5 +37,5 @@
                 }
             ]
         }
-    }
+    ]
 }

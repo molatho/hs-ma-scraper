@@ -1,7 +1,7 @@
 {
     "token": "1CM",
-    "courses": {
-        "MN": {
+    "courses": [
+        {
             "token": "MN",
             "name": "Mikro- und Nanotechnolgie",
             "dates": [
@@ -14,7 +14,7 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "H1010 "
                 },
                 {
@@ -26,12 +26,12 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 0,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "H1010 "
                 }
             ]
         },
-        "ANM": {
+        {
             "token": "ANM",
             "name": "Angewandte nummerische Mathematik",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "VE": {
+        {
             "token": "VE",
             "name": "Verfahrensentwicklung",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "ICH": {
+        {
             "token": "ICH",
             "name": "Industrielle Chemie",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "TDG": {
+        {
             "token": "TDG",
             "name": "Thermodynamik",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "PRC": {
+        {
             "token": "PRC",
             "name": "Radiochemie - Praktikum",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "MS": {
+        {
             "token": "MS",
             "name": "Modellierung und Simulation",
             "dates": [
@@ -151,7 +151,7 @@
                 }
             ]
         },
-        "MCI": {
+        {
             "token": "MCI",
             "name": "Medieneinsatz im Chemieingenieurwesen",
             "dates": [
@@ -169,9 +169,9 @@
                 }
             ]
         },
-        "CFM": {
+        {
             "token": "CFM",
-            "name": "Str�mungssimulation",
+            "name": "Strömungssimulation",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -182,7 +182,7 @@
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "G130 "
                 },
                 {
@@ -194,12 +194,12 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "G130 "
                 }
             ]
         },
-        "NUE": {
+        {
             "token": "NUE",
             "name": "Nukleare Entsorgung",
             "dates": [
@@ -211,7 +211,7 @@
                 }
             ]
         },
-        "KSS": {
+        {
             "token": "KSS",
             "name": "Korrosionsschutz",
             "dates": [
@@ -229,7 +229,7 @@
                 }
             ]
         },
-        "KOR": {
+        {
             "token": "KOR",
             "name": "Korrosion",
             "dates": [
@@ -241,5 +241,5 @@
                 }
             ]
         }
-    }
+    ]
 }

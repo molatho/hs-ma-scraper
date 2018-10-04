@@ -1,7 +1,7 @@
 {
     "token": "1IM",
-    "courses": {
-        "SMA": {
+    "courses": [
+        {
             "token": "SMA",
             "name": "Security Management ",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "KDM": {
+        {
             "token": "KDM",
             "name": "Knowledge Discovery and Management",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "KRY": {
+        {
             "token": "KRY",
             "name": "Kryptographie",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "MMI": {
+        {
             "token": "MMI",
             "name": "Mensch-Maschine-Interaktion",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "COM": {
+        {
             "token": "COM",
             "name": "Compilerbau",
             "dates": [
@@ -103,9 +103,9 @@
                 }
             ]
         },
-        "EBK": {
+        {
             "token": "EBK",
-            "name": "Entscheidbarkeit, Berechenbarkeit und Komplexit�t",
+            "name": "Entscheidbarkeit, Berechenbarkeit und Komplexität",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "PPR": {
+        {
             "token": "PPR",
             "name": "Parallele Prozesse",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "NNW": {
+        {
             "token": "NNW",
             "name": "Neuronale Netzwerke",
             "dates": [
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "GAE": {
+        {
             "token": "GAE",
             "name": "Game Engineering",
             "dates": [
@@ -175,7 +175,7 @@
                 }
             ]
         },
-        "DTP": {
+        {
             "token": "DTP",
             "name": "Design Thinking Project",
             "dates": [
@@ -205,7 +205,7 @@
                 }
             ]
         },
-        "AMR": {
+        {
             "token": "AMR",
             "name": "Autonome mobile Roboter",
             "dates": [
@@ -223,5 +223,5 @@
                 }
             ]
         }
-    }
+    ]
 }

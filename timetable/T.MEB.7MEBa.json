@@ -1,7 +1,7 @@
 {
     "token": "7MEBa",
-    "courses": {
-        "MLE": {
+    "courses": [
+        {
             "token": "MLE",
             "name": "Maschinelles Lernen",
             "dates": [
@@ -19,5 +19,5 @@
                 }
             ]
         }
-    }
+    ]
 }

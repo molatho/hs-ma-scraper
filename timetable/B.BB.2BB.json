@@ -1,7 +1,7 @@
 {
     "token": "2BB",
-    "courses": {
-        "AL2": {
+    "courses": [
+        {
             "token": "AL2",
             "name": "Analytische Chemie 2",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "OCG": {
+        {
             "token": "OCG",
             "name": "Organische Chemische Grundlagen",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "PHL": {
+        {
             "token": "PHL",
             "name": "Physik Labor",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "PH2": {
+        {
             "token": "PH2",
             "name": "Physik 2",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "MZB": {
+        {
             "token": "MZB",
             "name": "Molekulare Zellbiologie",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "CH2": {
+        {
             "token": "CH2",
             "name": "Allgemeine und Physikalische Chemie 2",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "MH2": {
+        {
             "token": "MH2",
             "name": "Mathematik 2",
             "dates": [
@@ -151,5 +151,5 @@
                 }
             ]
         }
-    }
+    ]
 }

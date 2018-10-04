@@ -1,7 +1,7 @@
 {
     "token": "2BME-BST",
-    "courses": {
-        "MBEE": {
+    "courses": [
+        {
             "token": "MBEE",
             "name": "Metabolic Engineering",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "BINE": {
+        {
             "token": "BINE",
             "name": "Bioinformatics",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "ADBE": {
+        {
             "token": "ADBE",
             "name": "Advanced Bioanalytics Lab",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "PROE": {
+        {
             "token": "PROE",
             "name": "Proteomics",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "TSAE": {
+        {
             "token": "TSAE",
             "name": "Tissue Analytics",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "IMUE": {
+        {
             "token": "IMUE",
             "name": "Immunology",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "MAME": {
+        {
             "token": "MAME",
             "name": "Modern Analytical Methods",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "IEAE": {
+        {
             "token": "IEAE",
             "name": "Industrial Environmental Analytics",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "HPYE": {
+        {
             "token": "HPYE",
             "name": "Human Physiology",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "EBTE": {
+        {
             "token": "EBTE",
             "name": "Environmental Biotechnology",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "BISE": {
+        {
             "token": "BISE",
             "name": "Biosensors",
             "dates": [
@@ -151,5 +151,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "7EB",
-    "courses": {
-        "NLT": {
+    "courses": [
+        {
             "token": "NLT",
             "name": "Netzleittechnik",
             "dates": [
@@ -19,35 +19,35 @@
                 }
             ]
         },
-        "SSTA": {
+        {
             "token": "SSTA",
             "name": "Seminar",
             "dates": [
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B105 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B105 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 }
             ]
         }
-    }
+    ]
 }

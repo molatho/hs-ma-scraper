@@ -1,7 +1,7 @@
 {
     "token": "6VB",
-    "courses": {
-        "VP2": {
+    "courses": [
+        {
             "token": "VP2",
             "name": "Verfahrenstechnisches Praktikum 2",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "PVB": {
+        {
             "token": "PVB",
             "name": "Programmieren mit Visual Basic",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "TV2": {
+        {
             "token": "TV2",
             "name": "Thermische Verfahrenstechnik 2",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "AP": {
+        {
             "token": "AP",
             "name": "Anlagenplanung",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "PSV": {
+        {
             "token": "PSV",
             "name": "Prozess Simulation Verfahrenstechnik",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "AS": {
+        {
             "token": "AS",
             "name": "Anlagensicherheit",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "MV2": {
+        {
             "token": "MV2",
             "name": "Mechanische Verfahrenstechnik 2",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "BPE": {
+        {
             "token": "BPE",
             "name": "Bioreaktoren und periphere Einrichtungen",
             "dates": [
@@ -151,7 +151,7 @@
                 }
             ]
         },
-        "REE": {
+        {
             "token": "REE",
             "name": "Regenerative Energien",
             "dates": [
@@ -169,7 +169,7 @@
                 }
             ]
         },
-        "LVT": {
+        {
             "token": "LVT",
             "name": "Lebensmittelverfahrenstechnik",
             "dates": [
@@ -181,7 +181,7 @@
                 }
             ]
         },
-        "VTS": {
+        {
             "token": "VTS",
             "name": "Verfahrenstechnisches Seminar",
             "dates": [
@@ -193,7 +193,7 @@
                 }
             ]
         },
-        "BBT": {
+        {
             "token": "BBT",
             "name": "Brennstoffzellen- und Baterietechnik",
             "dates": [
@@ -211,7 +211,7 @@
                 }
             ]
         },
-        "FIT": {
+        {
             "token": "FIT",
             "name": "Filtertechnik",
             "dates": [
@@ -223,5 +223,5 @@
                 }
             ]
         }
-    }
+    ]
 }

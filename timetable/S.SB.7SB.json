@@ -1,7 +1,7 @@
 {
     "token": "7SB",
-    "courses": {
-        "MEDU-A": {
+    "courses": [
+        {
             "token": "MEDU-A",
             "name": "Medienpraxis und Kulturanalyse in versch. Arbeitsfeldern der Sozialen Arbeit (Gruppe A)",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "FAMR": {
+        {
             "token": "FAMR",
             "name": "Familienrecht und Betreuungsrecht",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "FAFA": {
+        {
             "token": "FAFA",
             "name": "Fallseminar",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "MEDU-B": {
+        {
             "token": "MEDU-B",
             "name": "Medienpraxis und Kulturanalyse in versch. Arbeitsfeldern der Sozialen Arbeit (Gruppe B)",
             "dates": [
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "MEDA": {
+        {
             "token": "MEDA",
             "name": "Medien- und Kulturanalyse",
             "dates": [
@@ -61,5 +61,5 @@
                 }
             ]
         }
-    }
+    ]
 }

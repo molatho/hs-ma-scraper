@@ -1,7 +1,7 @@
 {
     "token": "7MEBd",
-    "courses": {
-        "WZM": {
+    "courses": [
+        {
             "token": "WZM",
             "name": "Werkzeugmaschinen",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "MST": {
+        {
             "token": "MST",
             "name": "Mikrosystemtechnik",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "MMO": {
+        {
             "token": "MMO",
             "name": "Mechatronische Modellbildung",
             "dates": [
@@ -55,5 +55,5 @@
                 }
             ]
         }
-    }
+    ]
 }

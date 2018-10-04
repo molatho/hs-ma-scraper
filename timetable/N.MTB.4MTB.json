@@ -1,7 +1,7 @@
 {
     "token": "4MTB",
-    "courses": {
-        "HF1": {
+    "courses": [
+        {
             "token": "HF1",
             "name": "Hochfrequenztechnik 1",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "MED3": {
+        {
             "token": "MED3",
             "name": "Medizin 3 - Klinische Medizin",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "DSV": {
+        {
             "token": "DSV",
             "name": "Digitale Signalverarbeitung",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "EMB": {
+        {
             "token": "EMB",
             "name": "Embedded Systems 1",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "BVM": {
+        {
             "token": "BVM",
             "name": "Bildgebende Verfahren in der Medizintechnik",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "BS": {
+        {
             "token": "BS",
             "name": "Betriebssysteme",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "EMBL": {
+        {
             "token": "EMBL",
             "name": "Embedded Systems Labor",
             "dates": [
@@ -127,5 +127,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "3BCB",
-    "courses": {
-        "OCA": {
+    "courses": [
+        {
             "token": "OCA",
             "name": "Organische Chemie Parktikum A",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "PCH": {
+        {
             "token": "PCH",
             "name": "Physikalische Chemie",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "IAP": {
+        {
             "token": "IAP",
             "name": "Praktikum zur Instrumentellen Analytik",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "PCP": {
+        {
             "token": "PCP",
             "name": "Physikalisch - Chemisches Praktikum",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "IA": {
+        {
             "token": "IA",
             "name": "Instrumentelle Analytik",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "BC1": {
+        {
             "token": "BC1",
             "name": "Biochemie 1",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "STK": {
+        {
             "token": "STK",
             "name": "Statistik - Biostatistik Grundlagen",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "OCH": {
+        {
             "token": "OCH",
             "name": "Organische Chemie",
             "dates": [
@@ -163,5 +163,5 @@
                 }
             ]
         }
-    }
+    ]
 }

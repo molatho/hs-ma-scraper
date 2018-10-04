@@ -1,7 +1,7 @@
 {
     "token": "3WMB",
-    "courses": {
-        "ET3": {
+    "courses": [
+        {
             "token": "ET3",
             "name": "Automatisierungstechnik",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "PR2": {
+        {
             "token": "PR2",
             "name": "Robuste Produktionsprozesse",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "INT": {
+        {
             "token": "INT",
             "name": "Innovative Technologien",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "TPM3": {
+        {
             "token": "TPM3",
             "name": "Controlling im Produktmanagement",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "TWP": {
+        {
             "token": "TWP",
             "name": "Technisch-wirtschaftliches Projekt",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "PR3": {
+        {
             "token": "PR3",
             "name": "Produktionsgestaltung: Fallstudien",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "CAE": {
+        {
             "token": "CAE",
             "name": "Computer Aided Engineering",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "SWK": {
+        {
             "token": "SWK",
             "name": "Spezielle Werkstoffe",
             "dates": [
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "TPM2": {
+        {
             "token": "TPM2",
             "name": "Produktplanung und - betreuung",
             "dates": [
@@ -175,5 +175,5 @@
                 }
             ]
         }
-    }
+    ]
 }

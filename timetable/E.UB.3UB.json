@@ -1,7 +1,7 @@
 {
     "token": "3UB",
-    "courses": {
-        "GSE2L": {
+    "courses": [
+        {
             "token": "GSE2L",
             "name": "Mikroelektronik - Labor",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "T-MA3": {
+        {
             "token": "T-MA3",
             "name": "Tutorium - Differenzialgleichungen, lineare Algebra und Numerik",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "PMT": {
+        {
             "token": "PMT",
             "name": "Prozessmesstechnik, alt",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "GSE2": {
+        {
             "token": "GSE2",
             "name": "Mikroelektronik",
             "dates": [
@@ -127,25 +127,25 @@
                 }
             ]
         },
-        "SYT": {
+        {
             "token": "SYT",
             "name": "Systemtheorie",
             "dates": [
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "G013 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "H0307 "
                 }
             ]
         },
-        "EM1": {
+        {
             "token": "EM1",
             "name": "Gleich- und Drehstrommaschinen",
             "dates": [
@@ -175,7 +175,7 @@
                 }
             ]
         },
-        "MA3": {
+        {
             "token": "MA3",
             "name": "Differenzialgleichungen, lineare Algebra und Numerik",
             "dates": [
@@ -193,7 +193,7 @@
                 }
             ]
         },
-        "EM1L": {
+        {
             "token": "EM1L",
             "name": "Gleich- und Drehstrommaschinen - Labor",
             "dates": [
@@ -211,7 +211,7 @@
                 }
             ]
         },
-        "MWA": {
+        {
             "token": "MWA",
             "name": "Methoden des wissenschaftlichen Arbeitens",
             "dates": [
@@ -229,7 +229,7 @@
                 }
             ]
         },
-        "ENC1": {
+        {
             "token": "ENC1",
             "name": "Englisch C1 - Business Communication",
             "dates": [
@@ -247,37 +247,37 @@
                 }
             ]
         },
-        "SSTA": {
+        {
             "token": "SSTA",
             "name": "Seminar",
             "dates": [
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B105 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B105 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 }
             ]
         },
-        "IWU": {
+        {
             "token": "IWU",
             "name": "Ingenieur wird Unternehmer",
             "dates": [
@@ -289,5 +289,5 @@
                 }
             ]
         }
-    }
+    ]
 }

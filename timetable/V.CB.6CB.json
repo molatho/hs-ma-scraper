@@ -1,43 +1,43 @@
 {
     "token": "6CB",
-    "courses": {
-        "RTP": {
+    "courses": [
+        {
             "token": "RTP",
             "name": "Reaktionstechnik Praktikum",
             "dates": [
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "G127 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "L012 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "G127 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "L012 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "G127 "
                 }
             ]
         },
-        "VP2": {
+        {
             "token": "VP2",
             "name": "Verfahrenstechnisches Praktikum 2",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "PVB": {
+        {
             "token": "PVB",
             "name": "Programmieren mit Visual Basic",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "PSC": {
+        {
             "token": "PSC",
             "name": "Prozess-Simulation Chemische Technik",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "RT2": {
+        {
             "token": "RT2",
             "name": "Reaktionstechnik 2",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "MV": {
+        {
             "token": "MV",
             "name": "Mechanische Verfahrenstechnik",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "AP": {
+        {
             "token": "AP",
             "name": "Anlagenplanung",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "BPE": {
+        {
             "token": "BPE",
             "name": "Bioreaktoren und periphere Einrichtungen",
             "dates": [
@@ -163,7 +163,7 @@
                 }
             ]
         },
-        "REE": {
+        {
             "token": "REE",
             "name": "Regenerative Energien",
             "dates": [
@@ -181,7 +181,7 @@
                 }
             ]
         },
-        "LVT": {
+        {
             "token": "LVT",
             "name": "Lebensmittelverfahrenstechnik",
             "dates": [
@@ -193,7 +193,7 @@
                 }
             ]
         },
-        "VTS": {
+        {
             "token": "VTS",
             "name": "Verfahrenstechnisches Seminar",
             "dates": [
@@ -205,7 +205,7 @@
                 }
             ]
         },
-        "BBT": {
+        {
             "token": "BBT",
             "name": "Brennstoffzellen- und Baterietechnik",
             "dates": [
@@ -223,7 +223,7 @@
                 }
             ]
         },
-        "FIT": {
+        {
             "token": "FIT",
             "name": "Filtertechnik",
             "dates": [
@@ -235,5 +235,5 @@
                 }
             ]
         }
-    }
+    ]
 }

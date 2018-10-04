@@ -1,7 +1,7 @@
 {
     "token": "2BME-BPD",
-    "courses": {
-        "PHDE": {
+    "courses": [
+        {
             "token": "PHDE",
             "name": "Pharmakodynamics",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "PHKE": {
+        {
             "token": "PHKE",
             "name": "Pharmakokinetics",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "BINE": {
+        {
             "token": "BINE",
             "name": "Bioinformatics",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "BRDE": {
+        {
             "token": "BRDE",
             "name": "Bioreaction Design",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "PDPE": {
+        {
             "token": "PDPE",
             "name": "Protein Downstream Processing",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "PROE": {
+        {
             "token": "PROE",
             "name": "Proteomics",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "ABEE": {
+        {
             "token": "ABEE",
             "name": "Advanced Bioreaction Engineering",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "DPLE": {
+        {
             "token": "DPLE",
             "name": "Downstream Processing Lab",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "IMUE": {
+        {
             "token": "IMUE",
             "name": "Immunology",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "PRME": {
+        {
             "token": "PRME",
             "name": "Process Monitoring",
             "dates": [
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "MAME": {
+        {
             "token": "MAME",
             "name": "Modern Analytical Methods",
             "dates": [
@@ -169,7 +169,7 @@
                 }
             ]
         },
-        "IBDE": {
+        {
             "token": "IBDE",
             "name": "Industrial Bioprocess Development",
             "dates": [
@@ -187,7 +187,7 @@
                 }
             ]
         },
-        "IEAE": {
+        {
             "token": "IEAE",
             "name": "Industrial Environmental Analytics",
             "dates": [
@@ -199,7 +199,7 @@
                 }
             ]
         },
-        "HPYE": {
+        {
             "token": "HPYE",
             "name": "Human Physiology",
             "dates": [
@@ -211,7 +211,7 @@
                 }
             ]
         },
-        "EBTE": {
+        {
             "token": "EBTE",
             "name": "Environmental Biotechnology",
             "dates": [
@@ -223,7 +223,7 @@
                 }
             ]
         },
-        "BISE": {
+        {
             "token": "BISE",
             "name": "Biosensors",
             "dates": [
@@ -235,5 +235,5 @@
                 }
             ]
         }
-    }
+    ]
 }

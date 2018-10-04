@@ -1,9 +1,9 @@
 {
     "token": "2WB",
-    "courses": {
-        "PHW": {
+    "courses": [
+        {
             "token": "PHW",
-            "name": "Physik f�r Wirtschaftsingenieure",
+            "name": "Physik für Wirtschaftsingenieure",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -31,7 +31,19 @@
                 }
             ]
         },
-        "ORG": {
+        {
+            "token": "T-RW1",
+            "name": "Tutorium - Finanzbuchhaltung und Bilanzierung",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 0,
+                    "prof": "CHR",
+                    "location": "L015 "
+                }
+            ]
+        },
+        {
             "token": "ORG",
             "name": "Organisation",
             "dates": [
@@ -49,7 +61,7 @@
                 }
             ]
         },
-        "RW1": {
+        {
             "token": "RW1",
             "name": "Finanzbuchhaltung und Bilanzierung",
             "dates": [
@@ -67,7 +79,7 @@
                 }
             ]
         },
-        "IVWL": {
+        {
             "token": "IVWL",
             "name": "Internationale Wirtschaft und Volkswirtschaftslehre",
             "dates": [
@@ -85,31 +97,31 @@
                 }
             ]
         },
-        "MA2W": {
+        {
             "token": "MA2W",
-            "name": "Mathematik f�r Wirtschaftsingenieure 2",
+            "name": "Mathematik für Wirtschaftsingenieure 2",
             "dates": [
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
-                    "prof": "N�R",
+                    "prof": "NÜR",
                     "location": "L113 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "N�R",
+                    "prof": "NÜR",
                     "location": "H0808 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
-                    "prof": "N�R",
+                    "prof": "NÜR",
                     "location": "L111 "
                 }
             ]
         },
-        "WR1": {
+        {
             "token": "WR1",
             "name": "Wirtschaftsrecht 1",
             "dates": [
@@ -127,9 +139,9 @@
                 }
             ]
         },
-        "T-PHW": {
+        {
             "token": "T-PHW",
-            "name": "Tutorium - Pysik f�r Wirtschaftsingenieure",
+            "name": "Tutorium - Pysik für Wirtschaftsingenieure",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -139,5 +151,5 @@
                 }
             ]
         }
-    }
+    ]
 }

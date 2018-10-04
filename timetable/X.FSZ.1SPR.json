@@ -1,7 +1,7 @@
 {
     "token": "1SPR",
-    "courses": {
-        "TEN": {
+    "courses": [
+        {
             "token": "TEN",
             "name": "Technisches Englisch",
             "dates": [
@@ -19,9 +19,9 @@
                 }
             ]
         },
-        "EFD": {
+        {
             "token": "EFD",
-            "name": "Englisch f�r Design",
+            "name": "Englisch für Design",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "ENB2a": {
+        {
             "token": "ENB2a",
             "name": "Englisch B2 Gruppe a",
             "dates": [
@@ -55,9 +55,9 @@
                 }
             ]
         },
-        "SPA1sp": {
+        {
             "token": "SPA1sp",
-            "name": "Spanisch A1 - Seminarpr�senzkurs",
+            "name": "Spanisch A1 - Seminarpräsenzkurs",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "ENB2": {
+        {
             "token": "ENB2",
             "name": "Englisch B2",
             "dates": [
@@ -97,9 +97,9 @@
                 }
             ]
         },
-        "FRA1": {
+        {
             "token": "FRA1",
-            "name": "Franz�sisch 1",
+            "name": "Französisch 1",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "ENB1": {
+        {
             "token": "ENB1",
             "name": "Englisch B1",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "POA1": {
+        {
             "token": "POA1",
             "name": "Portugiesisch A1",
             "dates": [
@@ -151,7 +151,7 @@
                 }
             ]
         },
-        "RUA1": {
+        {
             "token": "RUA1",
             "name": "Russisch A1",
             "dates": [
@@ -169,7 +169,7 @@
                 }
             ]
         },
-        "SPA1": {
+        {
             "token": "SPA1",
             "name": "Spanisch 1",
             "dates": [
@@ -187,7 +187,7 @@
                 }
             ]
         },
-        "SPA2": {
+        {
             "token": "SPA2",
             "name": "Spanisch 2",
             "dates": [
@@ -205,7 +205,7 @@
                 }
             ]
         },
-        "ENC": {
+        {
             "token": "ENC",
             "name": "Englisch C1 Business Communication",
             "dates": [
@@ -217,7 +217,7 @@
                 }
             ]
         },
-        "JAA1": {
+        {
             "token": "JAA1",
             "name": "Japanisch A1",
             "dates": [
@@ -235,7 +235,7 @@
                 }
             ]
         },
-        "ENB2b": {
+        {
             "token": "ENB2b",
             "name": "Englisch B2 Gruppe b",
             "dates": [
@@ -253,7 +253,7 @@
                 }
             ]
         },
-        "SPB2": {
+        {
             "token": "SPB2",
             "name": "Spanisch B2",
             "dates": [
@@ -271,7 +271,7 @@
                 }
             ]
         },
-        "CHA1-2": {
+        {
             "token": "CHA1-2",
             "name": "Chinesisch A1-A2",
             "dates": [
@@ -289,7 +289,7 @@
                 }
             ]
         },
-        "ENC1": {
+        {
             "token": "ENC1",
             "name": "Englisch C1 - Business Communication",
             "dates": [
@@ -307,5 +307,5 @@
                 }
             ]
         }
-    }
+    ]
 }

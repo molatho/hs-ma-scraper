@@ -1,7 +1,7 @@
 {
     "token": "7MX",
-    "courses": {
-        "FVF1": {
+    "courses": [
+        {
             "token": "FVF1",
             "name": "Fertigungsverfahren 1",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "FO": {
+        {
             "token": "FO",
             "name": "Fertigungsorganisation",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "RG": {
+        {
             "token": "RG",
             "name": "Regelungstechnik",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "FM1": {
+        {
             "token": "FM1",
             "name": "Fluidmechanik 1",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "KON3": {
+        {
             "token": "KON3",
             "name": "Konstruktion 3",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "TH2": {
+        {
             "token": "TH2",
             "name": "Thermodynamik 2",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "DEU2a": {
+        {
             "token": "DEU2a",
             "name": "Deutsch als Fremdsprache 2 - Gruppe A",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "DEU2b": {
+        {
             "token": "DEU2b",
             "name": "Deutsch als Fremdsprache 2 - Gruppe B",
             "dates": [
@@ -145,5 +145,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "2MB",
-    "courses": {
-        "TME2": {
+    "courses": [
+        {
             "token": "TME2",
             "name": "Technische Mechanik 2",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "PHYL": {
+        {
             "token": "PHYL",
             "name": "Physik Labor",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "MAT2": {
+        {
             "token": "MAT2",
             "name": "Mathematik 2",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "WTK2": {
+        {
             "token": "WTK2",
             "name": "Werkstofftechnik 2",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "KON2": {
+        {
             "token": "KON2",
             "name": "Konstruktion 2",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "PHY2": {
+        {
             "token": "PHY2",
             "name": "Physik 2",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "T-MAT2": {
+        {
             "token": "T-MAT2",
             "name": "Tutorium - Mathematik 2",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "T-WTK2": {
+        {
             "token": "T-WTK2",
             "name": "Tutorium - Werkstofftechnik 2",
             "dates": [
@@ -151,7 +151,7 @@
                 }
             ]
         },
-        "CAD": {
+        {
             "token": "CAD",
             "name": "CAD",
             "dates": [
@@ -169,5 +169,5 @@
                 }
             ]
         }
-    }
+    ]
 }

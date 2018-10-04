@@ -1,7 +1,19 @@
 {
     "token": "3TIB",
-    "courses": {
-        "DMCL": {
+    "courses": [
+        {
+            "token": "T-MA3",
+            "name": "Tutorium - Mathematik 3",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "SUR",
+                    "location": "S221 "
+                }
+            ]
+        },
+        {
             "token": "DMCL",
             "name": "Digital und Microcomputertechnik Labor",
             "dates": [
@@ -31,7 +43,7 @@
                 }
             ]
         },
-        "CN1": {
+        {
             "token": "CN1",
             "name": "Computer Netzwerke 1",
             "dates": [
@@ -49,7 +61,7 @@
                 }
             ]
         },
-        "SET": {
+        {
             "token": "SET",
             "name": "Softwareentwicklungsmethoden und Tools",
             "dates": [
@@ -73,7 +85,7 @@
                 }
             ]
         },
-        "MA3": {
+        {
             "token": "MA3",
             "name": "Mathematik 3",
             "dates": [
@@ -97,7 +109,7 @@
                 }
             ]
         },
-        "SS": {
+        {
             "token": "SS",
             "name": "Signale und Systeme",
             "dates": [
@@ -115,7 +127,7 @@
                 }
             ]
         },
-        "DMC": {
+        {
             "token": "DMC",
             "name": "Digital und Microcomputertechnik",
             "dates": [
@@ -133,7 +145,7 @@
                 }
             ]
         },
-        "T-DMC": {
+        {
             "token": "T-DMC",
             "name": "Tutorium - Digital und Microcomputertechnik",
             "dates": [
@@ -145,5 +157,5 @@
                 }
             ]
         }
-    }
+    ]
 }

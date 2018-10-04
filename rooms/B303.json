@@ -1,108 +1,210 @@
 {
     "token": "B303",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "HBN",
+                    "course": "DK",
+                    "semester": "1UB"
+                },
+                {
+                    "number": 0,
+                    "professor": "HBN",
                     "course": "DK",
                     "semester": "3UBE"
                 },
-                "1": {
+                {
+                    "number": 0,
+                    "professor": "TRE",
+                    "course": "DK",
+                    "semester": "1EB"
+                },
+                {
+                    "number": 0,
+                    "professor": "TRE",
+                    "course": "DK",
+                    "semester": "1ELB"
+                },
+                {
+                    "number": 0,
+                    "professor": "TRE",
+                    "course": "DK",
+                    "semester": "3EBE"
+                },
+                {
                     "number": 1,
+                    "professor": "HBN",
+                    "course": "DK",
+                    "semester": "1UB"
+                },
+                {
+                    "number": 1,
+                    "professor": "HBN",
                     "course": "DK",
                     "semester": "3UBE"
                 },
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "1": {
-            "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": {
+                {
                     "number": 1,
-                    "course": "MC1",
-                    "semester": "4UB"
+                    "professor": "TRE",
+                    "course": "DK",
+                    "semester": "1EB"
                 },
-                "2": {
-                    "number": 2,
-                    "course": "MC1",
-                    "semester": "4UB"
-                },
-                "3": null,
-                "4": {
-                    "number": 4,
-                    "course": "DKL",
+                {
+                    "number": 1,
+                    "professor": "TRE",
+                    "course": "DK",
                     "semester": "1ELB"
                 },
-                "5": {
-                    "number": 5,
-                    "course": "DKL",
-                    "semester": "1ELB"
+                {
+                    "number": 1,
+                    "professor": "TRE",
+                    "course": "DK",
+                    "semester": "3EBE"
                 }
-            }
+            ]
         },
-        "2": {
-            "dayOfWeek": 2,
-            "blocks": {
-                "0": {
-                    "number": 0,
-                    "course": "MC1L",
+        {
+            "dayOfWeek": 1,
+            "blocks": [
+                {
+                    "number": 1,
+                    "professor": "TRE",
+                    "course": "MC1",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 1,
+                    "professor": "TRE",
+                    "course": "MC1",
                     "semester": "4UB"
                 },
-                "1": {
-                    "number": 1,
-                    "course": "MC1L",
-                    "semester": "4UB"
-                },
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "3": {
-            "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": {
-                    "number": 1,
-                    "course": "MC2",
-                    "semester": "6UB"
-                },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "TRE",
+                    "course": "MC1",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 2,
+                    "professor": "TRE",
+                    "course": "MC1",
+                    "semester": "4UB"
+                },
+                {
+                    "number": 4,
+                    "professor": "TRE",
+                    "course": "DKL",
+                    "semester": "1EB"
+                },
+                {
+                    "number": 4,
+                    "professor": "TRE",
+                    "course": "DKL",
+                    "semester": "1ELB"
+                },
+                {
+                    "number": 4,
+                    "professor": "TRE",
+                    "course": "DKL",
+                    "semester": "3EBE"
+                },
+                {
+                    "number": 5,
+                    "professor": "TRE",
+                    "course": "DKL",
+                    "semester": "1EB"
+                },
+                {
+                    "number": 5,
+                    "professor": "TRE",
+                    "course": "DKL",
+                    "semester": "1ELB"
+                },
+                {
+                    "number": 5,
+                    "professor": "TRE",
+                    "course": "DKL",
+                    "semester": "3EBE"
+                }
+            ]
+        },
+        {
+            "dayOfWeek": 2,
+            "blocks": [
+                {
+                    "number": 0,
+                    "professor": "TRE",
+                    "course": "MC1L",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 0,
+                    "professor": "TRE",
+                    "course": "MC1L",
+                    "semester": "4UB"
+                },
+                {
+                    "number": 1,
+                    "professor": "TRE",
+                    "course": "MC1L",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 1,
+                    "professor": "TRE",
+                    "course": "MC1L",
+                    "semester": "4UB"
+                }
+            ]
+        },
+        {
+            "dayOfWeek": 3,
+            "blocks": [
+                {
+                    "number": 1,
+                    "professor": "JUN",
                     "course": "MC2",
                     "semester": "6UB"
                 },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                {
+                    "number": 2,
+                    "professor": "JUN",
+                    "course": "MC2",
+                    "semester": "6UB"
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
+            "blocks": [
+                {
                     "number": 3,
+                    "professor": "HBN",
+                    "course": "DKL",
+                    "semester": "1UB"
+                },
+                {
+                    "number": 3,
+                    "professor": "HBN",
                     "course": "DKL",
                     "semester": "3UBE"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "HBN",
+                    "course": "DKL",
+                    "semester": "1UB"
+                },
+                {
+                    "number": 4,
+                    "professor": "HBN",
                     "course": "DKL",
                     "semester": "3UBE"
-                },
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

@@ -1,108 +1,120 @@
 {
     "token": "H0406",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "LAN",
                     "course": "VP2",
                     "semester": "6VB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "LAN",
                     "course": "VP2",
                     "semester": "6VB"
                 },
-                "2": null,
-                "3": null,
-                "4": {
+                {
                     "number": 4,
+                    "professor": "PRE",
                     "course": "CPO",
                     "semester": "6BB"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "DAM",
+                    "course": "PI",
+                    "semester": "1IEB"
+                },
+                {
+                    "number": 0,
+                    "professor": "DAM",
                     "course": "PI",
                     "semester": "1TIB"
-                },
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "TRG",
                     "course": "VP2",
                     "semester": "6CB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "TRG",
                     "course": "VP2",
                     "semester": "6CB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "HES",
                     "course": "PI",
                     "semester": "1MTB"
                 },
-                "3": null,
-                "4": {
+                {
                     "number": 4,
+                    "professor": "BJM",
+                    "course": "OOP",
+                    "semester": "2IEB"
+                },
+                {
+                    "number": 4,
+                    "professor": "BJM",
                     "course": "OOP",
                     "semester": "2TIB"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "DOP",
                     "course": "WEB",
                     "semester": "3IB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "BTH",
                     "course": "OOP",
                     "semester": "2MTB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "PRE",
+                    "course": "MBS",
+                    "semester": "6BB"
+                },
+                {
+                    "number": 3,
+                    "professor": "PRE",
                     "course": "MBS",
                     "semester": "6BCB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "BTH",
                     "course": "DB",
                     "semester": "7TIB"
-                },
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

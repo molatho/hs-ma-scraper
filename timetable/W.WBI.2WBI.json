@@ -1,9 +1,9 @@
 {
     "token": "2WBI",
-    "courses": {
-        "T-PHW": {
+    "courses": [
+        {
             "token": "T-PHW",
-            "name": "Tutorium - Pysik f�r Wirtschaftsingenieure",
+            "name": "Tutorium - Pysik für Wirtschaftsingenieure",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "ORG": {
+        {
             "token": "ORG",
             "name": "Organisation",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "T-MA2W": {
+        {
             "token": "T-MA2W",
             "name": "Tutorium - Mehrdimensionale Analysis und Differenzialgleichung",
             "dates": [
@@ -43,9 +43,9 @@
                 }
             ]
         },
-        "MA2W": {
+        {
             "token": "MA2W",
-            "name": "Mathematik f�r Wirtschaftsingenieure 2",
+            "name": "Mathematik für Wirtschaftsingenieure 2",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "WK": {
+        {
             "token": "WK",
             "name": "Werkstoffkunde",
             "dates": [
@@ -85,9 +85,9 @@
                 }
             ]
         },
-        "PHW": {
+        {
             "token": "PHW",
-            "name": "Physik f�r Wirtschaftsingenieure",
+            "name": "Physik für Wirtschaftsingenieure",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "IVWL": {
+        {
             "token": "IVWL",
             "name": "Internationale Wirtschaft und Volkswirtschaftslehre",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "RW1": {
+        {
             "token": "RW1",
             "name": "Finanzbuchhaltung und Bilanzierung",
             "dates": [
@@ -151,5 +151,5 @@
                 }
             ]
         }
-    }
+    ]
 }

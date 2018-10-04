@@ -1,7 +1,7 @@
 {
     "token": "1ELB",
-    "courses": {
-        "DK": {
+    "courses": [
+        {
             "token": "DK",
             "name": "Digitaltechnik",
             "dates": [
@@ -31,9 +31,9 @@
                 }
             ]
         },
-        "DV1L": {
+        {
             "token": "DV1L",
-            "name": "Software-Engineering mit Einf�hrung in die C-Programmierung - Labor",
+            "name": "Software-Engineering mit Einführung in die C-Programmierung - Labor",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "MA1": {
+        {
             "token": "MA1",
             "name": "Grundlagen der Analysis",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "GE1": {
+        {
             "token": "GE1",
             "name": "Elektrische Netze bei Gleich- und Wechselstrom",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "PH1": {
+        {
             "token": "PH1",
             "name": "Mechanik und Schwingungen",
             "dates": [
@@ -115,9 +115,9 @@
                 }
             ]
         },
-        "DV1": {
+        {
             "token": "DV1",
-            "name": "Software-Engineering mit Einf�hrung in die C-Programmierung",
+            "name": "Software-Engineering mit Einführung in die C-Programmierung",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "MAG": {
+        {
             "token": "MAG",
             "name": "Mathematik Grundlagen",
             "dates": [
@@ -163,9 +163,9 @@
                 }
             ]
         },
-        "PH1�": {
-            "token": "PH1�",
-            "name": "Mechanik und Schwingungen - �bung",
+        {
+            "token": "PH1Ü",
+            "name": "Mechanik und Schwingungen - Übung",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -175,7 +175,7 @@
                 }
             ]
         },
-        "GP": {
+        {
             "token": "GP",
             "name": "Grundlagen der Psychologie",
             "dates": [
@@ -199,7 +199,7 @@
                 }
             ]
         },
-        "DKL": {
+        {
             "token": "DKL",
             "name": "Digitaltechnik - Labor",
             "dates": [
@@ -217,5 +217,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "4UB",
-    "courses": {
-        "ELA": {
+    "courses": [
+        {
             "token": "ELA",
             "name": "Elektrische Antriebstechnik",
             "dates": [
@@ -19,43 +19,43 @@
                 }
             ]
         },
-        "RG1": {
+        {
             "token": "RG1",
-            "name": "Einf�hrung in die Regelungstechnik",
+            "name": "Einführung in die Regelungstechnik",
             "dates": [
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B101,B103 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 3,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B103,B101 "
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "G137 "
                 }
             ]
         },
-        "MC1L": {
+        {
             "token": "MC1L",
             "name": "Hardwarenahe Programmierung von Mikrocomputern 1 - Labor",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "LE1": {
+        {
             "token": "LE1",
             "name": "Grundlagen der Leistungselektronik",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "EAK": {
+        {
             "token": "EAK",
             "name": "Energieanlagen und Kraftmaschinen",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "MC1": {
+        {
             "token": "MC1",
             "name": "Hardwarenahe Programmierung von Mikrocomputern",
             "dates": [
@@ -151,9 +151,9 @@
                 }
             ]
         },
-        "SP1": {
+        {
             "token": "SP1",
-            "name": "System- und Programmentwurf f�r speicherprogrammierbare Steuerungen",
+            "name": "System- und Programmentwurf für speicherprogrammierbare Steuerungen",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -181,7 +181,7 @@
                 }
             ]
         },
-        "LE1L": {
+        {
             "token": "LE1L",
             "name": "Grundlagen der Leistungselektronik - Labor",
             "dates": [
@@ -199,7 +199,7 @@
                 }
             ]
         },
-        "REN1": {
+        {
             "token": "REN1",
             "name": "Regenerative Energien - Grundlagen und Komponenten",
             "dates": [
@@ -217,35 +217,35 @@
                 }
             ]
         },
-        "SSTA": {
+        {
             "token": "SSTA",
             "name": "Seminar",
             "dates": [
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B105 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B105 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B202 "
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,92 +1,85 @@
 {
     "token": "B101",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "GÖT",
+                    "course": "RG1",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 2,
+                    "professor": "GÖT",
                     "course": "RG1",
                     "semester": "4UB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "GÖT",
+                    "course": "RG1",
+                    "semester": "4EB"
+                },
+                {
+                    "number": 3,
+                    "professor": "GÖT",
                     "course": "RG1",
                     "semester": "4UB"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "LGU",
                     "course": "MS",
                     "semester": "1EM"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "LGU",
                     "course": "MS",
                     "semester": "1EM"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
+            "blocks": [
+                {
                     "number": 3,
+                    "professor": "LGU",
                     "course": "EMS",
                     "semester": "7MEBb"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "LGU",
                     "course": "EMS",
                     "semester": "7MEBb"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
                     "number": 2,
+                    "professor": "LGU",
                     "course": "SM2",
                     "semester": "7MEBb"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "LGU",
                     "course": "SM2",
                     "semester": "7MEBb"
-                },
-                "4": null,
-                "5": null
-            }
-        },
-        "4": {
-            "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

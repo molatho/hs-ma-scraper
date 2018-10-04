@@ -1,7 +1,7 @@
 {
     "token": "4CB",
-    "courses": {
-        "AN2": {
+    "courses": [
+        {
             "token": "AN2",
             "name": "Analytische Chemie 2",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "VP1": {
+        {
             "token": "VP1",
             "name": "Verfahrenstechnisches Praktikum 1",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "MRP": {
+        {
             "token": "MRP",
             "name": "Mess- und Regelungstechnisches Praktikum",
             "dates": [
@@ -79,25 +79,25 @@
                 }
             ]
         },
-        "RT1": {
+        {
             "token": "RT1",
             "name": "Reaktionstechnik 1",
             "dates": [
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "L209 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "R�T",
+                    "prof": "RÖT",
                     "location": "H0910 "
                 }
             ]
         },
-        "TC": {
+        {
             "token": "TC",
             "name": "Technische Chemie",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "TV": {
+        {
             "token": "TV",
             "name": "Thermische Verfahrenstechnik",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "IA": {
+        {
             "token": "IA",
             "name": "Instrumentelle Analytik",
             "dates": [
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "KAT": {
+        {
             "token": "KAT",
             "name": "Technische Katalyse",
             "dates": [
@@ -175,5 +175,5 @@
                 }
             ]
         }
-    }
+    ]
 }

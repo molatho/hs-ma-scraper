@@ -1,7 +1,7 @@
 {
     "token": "5SB",
-    "courses": {
-        "KAS-A": {
+    "courses": [
+        {
             "token": "KAS-A",
             "name": "Kasuistik (Gruppe A)",
             "dates": [
@@ -13,9 +13,9 @@
                 }
             ]
         },
-        "P�PR-A": {
-            "token": "P�PR-A",
-            "name": "P�dagogische Praxisfelder, Methoden und Konzepte (Gruppe A)",
+        {
+            "token": "PÄPR-A",
+            "name": "Pädagogische Praxisfelder, Methoden und Konzepte (Gruppe A)",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "PSYIA": {
+        {
             "token": "PSYIA",
             "name": "Sozialpsychiatrie",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "KAS-B": {
+        {
             "token": "KAS-B",
             "name": "Kasuistik (Gruppe B)",
             "dates": [
@@ -49,9 +49,9 @@
                 }
             ]
         },
-        "P�PR-B": {
-            "token": "P�PR-B",
-            "name": "P�dagogische Praxisfelder, Methoden und Konzepte (Gruppe B)",
+        {
+            "token": "PÄPR-B",
+            "name": "Pädagogische Praxisfelder, Methoden und Konzepte (Gruppe B)",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "STADT": {
+        {
             "token": "STADT",
             "name": "Stadt, Gemeinde und soziale Arbeit",
             "dates": [
@@ -73,9 +73,9 @@
                 }
             ]
         },
-        "THEO": {
+        {
             "token": "THEO",
-            "name": "Einf�hrung i. d. Theorien der Sozialen Arbeit",
+            "name": "Einführung i. d. Theorien der Sozialen Arbeit",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "SOPR": {
+        {
             "token": "SOPR",
             "name": "Soziale Problemlagen",
             "dates": [
@@ -103,9 +103,9 @@
                 }
             ]
         },
-        "PSST": {
+        {
             "token": "PSST",
-            "name": "Psychische St�rungen",
+            "name": "Psychische Störungen",
             "dates": [
                 {
                     "dayOfWeek": 4,
@@ -115,5 +115,5 @@
                 }
             ]
         }
-    }
+    ]
 }

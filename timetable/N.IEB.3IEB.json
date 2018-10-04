@@ -1,7 +1,19 @@
 {
     "token": "3IEB",
-    "courses": {
-        "DMCL": {
+    "courses": [
+        {
+            "token": "T-MA3",
+            "name": "Tutorium - Mathematik 3",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 0,
+                    "prof": "SUR",
+                    "location": "S221 "
+                }
+            ]
+        },
+        {
             "token": "DMCL",
             "name": "Digital und Microcomputertechnik Labor",
             "dates": [
@@ -31,7 +43,7 @@
                 }
             ]
         },
-        "MA3": {
+        {
             "token": "MA3",
             "name": "Mathematik 3",
             "dates": [
@@ -55,7 +67,7 @@
                 }
             ]
         },
-        "SS": {
+        {
             "token": "SS",
             "name": "Signale und Systeme",
             "dates": [
@@ -73,7 +85,7 @@
                 }
             ]
         },
-        "DMC": {
+        {
             "token": "DMC",
             "name": "Digital und Microcomputertechnik",
             "dates": [
@@ -91,7 +103,7 @@
                 }
             ]
         },
-        "FEL": {
+        {
             "token": "FEL",
             "name": "Felder",
             "dates": [
@@ -109,25 +121,25 @@
                 }
             ]
         },
-        "AGT1": {
+        {
             "token": "AGT1",
             "name": "Analogtechnik 1",
             "dates": [
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
-                    "prof": "K�Z",
+                    "prof": "KÖZ",
                     "location": "L014 "
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
-                    "prof": "K�Z",
+                    "prof": "KÖZ",
                     "location": "L014 "
                 }
             ]
         },
-        "T-DMC": {
+        {
             "token": "T-DMC",
             "name": "Tutorium - Digital und Microcomputertechnik",
             "dates": [
@@ -139,5 +151,5 @@
                 }
             ]
         }
-    }
+    ]
 }

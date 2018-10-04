@@ -1,7 +1,7 @@
 {
     "token": "4BB",
-    "courses": {
-        "BC2": {
+    "courses": [
+        {
             "token": "BC2",
             "name": "Biochemie 2",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "BCP": {
+        {
             "token": "BCP",
             "name": "Biochemie - Praktikum",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "MRT": {
+        {
             "token": "MRT",
             "name": "Mess- und Regeltechnik",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "MRP": {
+        {
             "token": "MRP",
             "name": "Mess- und Regelungstechnisches Praktikum",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "MOB": {
+        {
             "token": "MOB",
             "name": "Molekularbiologie",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "BVT": {
+        {
             "token": "BVT",
             "name": "Bioverfahrenstechnik",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "BRS": {
+        {
             "token": "BRS",
             "name": "Bioreaktionstechnik 1",
             "dates": [
@@ -139,5 +139,5 @@
                 }
             ]
         }
-    }
+    ]
 }

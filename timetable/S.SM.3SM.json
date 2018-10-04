@@ -1,8 +1,8 @@
 {
     "token": "3SM",
-    "courses": {
-        "F�": {
-            "token": "F�",
+    "courses": [
+        {
+            "token": "FÜ",
             "name": "Leitungspraxis in sozialen Organisationen",
             "dates": [
                 {
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "RE": {
+        {
             "token": "RE",
             "name": "Rechtliche Aspekte",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "SSS": {
+        {
             "token": "SSS",
             "name": "Systeme sozialer Sicherung",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "SP": {
+        {
             "token": "SP",
             "name": "Internationale Sozialpolitik",
             "dates": [
@@ -67,5 +67,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,9 +1,9 @@
 {
     "token": "2UB",
-    "courses": {
-        "GSE1L": {
+    "courses": [
+        {
             "token": "GSE1L",
-            "name": "Halbleitergrundschaltungen und Kleinsignalverst�rker - Labor",
+            "name": "Halbleitergrundschaltungen und Kleinsignalverstärker - Labor",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -19,9 +19,9 @@
                 }
             ]
         },
-        "DV1L": {
+        {
             "token": "DV1L",
-            "name": "Software-Engineering mit Einf�hrung in die C-Programmierung - Labor",
+            "name": "Software-Engineering mit Einführung in die C-Programmierung - Labor",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -37,9 +37,9 @@
                 }
             ]
         },
-        "DV2L": {
+        {
             "token": "DV2L",
-            "name": "C-Programmierung f�r Fortgeschrittene und Einf�hrung in die objektorientierte Programmierung - Labor",
+            "name": "C-Programmierung für Fortgeschrittene und Einführung in die objektorientierte Programmierung - Labor",
             "dates": [
                 {
                     "dayOfWeek": 3,
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "PH1": {
+        {
             "token": "PH1",
             "name": "Mechanik und Schwingungen",
             "dates": [
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "T-PH2": {
+        {
             "token": "T-PH2",
             "name": "Tutorium - Thermodynamik und Wellen",
             "dates": [
@@ -79,9 +79,9 @@
                 }
             ]
         },
-        "DV1": {
+        {
             "token": "DV1",
-            "name": "Software-Engineering mit Einf�hrung in die C-Programmierung",
+            "name": "Software-Engineering mit Einführung in die C-Programmierung",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "EMF": {
+        {
             "token": "EMF",
             "name": "Elektrische und magnetische Felder",
             "dates": [
@@ -115,9 +115,9 @@
                 }
             ]
         },
-        "DV2": {
+        {
             "token": "DV2",
-            "name": "C-Programmierung f�r Fortgeschrittene und Einf�hrung in die objektorientierte Programmierung",
+            "name": "C-Programmierung für Fortgeschrittene und Einführung in die objektorientierte Programmierung",
             "dates": [
                 {
                     "dayOfWeek": 3,
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "MA2": {
+        {
             "token": "MA2",
             "name": "Mehrdimensionale Analysis und Reihen",
             "dates": [
@@ -145,9 +145,9 @@
                 }
             ]
         },
-        "PH1�": {
-            "token": "PH1�",
-            "name": "Mechanik und Schwingungen - �bung",
+        {
+            "token": "PH1Ü",
+            "name": "Mechanik und Schwingungen - Übung",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "PH2": {
+        {
             "token": "PH2",
             "name": "Thermodynamik und Wellen",
             "dates": [
@@ -175,7 +175,7 @@
                 }
             ]
         },
-        "GE2": {
+        {
             "token": "GE2",
             "name": "Ein- und Mehrphasensysteme",
             "dates": [
@@ -193,9 +193,9 @@
                 }
             ]
         },
-        "GSE1": {
+        {
             "token": "GSE1",
-            "name": "Halbleitergrundschaltungen und Kleinsignalverst�rker",
+            "name": "Halbleitergrundschaltungen und Kleinsignalverstärker",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -223,5 +223,5 @@
                 }
             ]
         }
-    }
+    ]
 }

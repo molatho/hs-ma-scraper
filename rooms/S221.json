@@ -1,112 +1,132 @@
 {
     "token": "S221",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": {
+            "blocks": [
+                {
+                    "number": 0,
+                    "professor": "SUR",
+                    "course": "T-MA3",
+                    "semester": "3IEB"
+                },
+                {
+                    "number": 0,
+                    "professor": "SUR",
+                    "course": "T-MA3",
+                    "semester": "3TIB"
+                },
+                {
                     "number": 2,
+                    "professor": "ACK",
+                    "course": "PLB",
+                    "semester": "6NEB"
+                },
+                {
+                    "number": 2,
+                    "professor": "ACK",
                     "course": "PLB",
                     "semester": "6TIB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "HTM",
                     "course": "ZMP",
                     "semester": "NWF"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "HTM",
                     "course": "ZMP",
                     "semester": "NWF"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "1": {
+        {
             "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
+            "blocks": [
+                {
                     "number": 3,
+                    "professor": "SEW",
                     "course": "SPLM",
                     "semester": "NWF"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "SEW",
                     "course": "SPLM",
                     "semester": "NWF"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "2": {
+        {
             "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "SHK",
                     "course": "HF2",
                     "semester": "6NEB"
                 },
-                "2": null,
-                "3": {
+                {
                     "number": 3,
+                    "professor": "WIB",
                     "course": "ESR",
                     "semester": "NWF"
-                },
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": {
+            "blocks": [
+                {
                     "number": 0,
+                    "professor": "POP",
                     "course": "NEP",
                     "semester": "6MTB"
                 },
-                "1": {
+                {
                     "number": 1,
+                    "professor": "VET",
                     "course": "BM",
                     "semester": "6MTB"
                 },
-                "2": {
+                {
                     "number": 2,
+                    "professor": "WIB",
                     "course": "DT2",
                     "semester": "2IEB"
                 },
-                "3": {
+                {
                     "number": 3,
+                    "professor": "MGL",
                     "course": "EFT",
                     "semester": "NWF"
                 },
-                "4": {
+                {
                     "number": 4,
+                    "professor": "MGL",
                     "course": "EFT",
                     "semester": "NWF"
-                },
-                "5": null
-            }
+                }
+            ]
         },
-        "4": {
+        {
             "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": {
+            "blocks": [
+                {
                     "number": 1,
+                    "professor": "ACK",
+                    "course": "PLB",
+                    "semester": "6NEB"
+                },
+                {
+                    "number": 1,
+                    "professor": "ACK",
                     "course": "PLB",
                     "semester": "6TIB"
-                },
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                }
+            ]
         }
-    }
+    ]
 }

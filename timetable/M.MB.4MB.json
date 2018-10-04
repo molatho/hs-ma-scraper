@@ -1,7 +1,7 @@
 {
     "token": "4MB",
-    "courses": {
-        "FO": {
+    "courses": [
+        {
             "token": "FO",
             "name": "Fertigungsorganisation",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "RG": {
+        {
             "token": "RG",
             "name": "Regelungstechnik",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "FM1": {
+        {
             "token": "FM1",
             "name": "Fluidmechanik 1",
             "dates": [
@@ -55,9 +55,9 @@
                 }
             ]
         },
-        "QM": {
+        {
             "token": "QM",
-            "name": "Qualit�tsmanagement",
+            "name": "Qualitätsmanagement",
             "dates": [
                 {
                     "dayOfWeek": 3,
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "TH2": {
+        {
             "token": "TH2",
             "name": "Thermodynamik 2",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "MDY": {
+        {
             "token": "MDY",
             "name": "Maschinendynamik",
             "dates": [
@@ -109,5 +109,5 @@
                 }
             ]
         }
-    }
+    ]
 }

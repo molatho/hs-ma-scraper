@@ -1,7 +1,7 @@
 {
     "token": "1MTB",
-    "courses": {
-        "MA1": {
+    "courses": [
+        {
             "token": "MA1",
             "name": "Mathematik 1",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "PH1": {
+        {
             "token": "PH1",
             "name": "Physik 1",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "PI": {
+        {
             "token": "PI",
             "name": "Praktische Informatik",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "T-DT1": {
+        {
             "token": "T-DT1",
             "name": "Tutorium - Digitaltechnik 1",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "ET1": {
+        {
             "token": "ET1",
             "name": "Elektrotechnik 1",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "DT1": {
+        {
             "token": "DT1",
             "name": "Digitaltechnik 1",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "T-PI": {
+        {
             "token": "T-PI",
             "name": "Tutorium - Praktische Informatik",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "MED1": {
+        {
             "token": "MED1",
             "name": "Medizintechnik 1",
             "dates": [
@@ -151,5 +151,5 @@
                 }
             ]
         }
-    }
+    ]
 }

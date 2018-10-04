@@ -1,7 +1,7 @@
 {
     "token": "3MB",
-    "courses": {
-        "MAT3": {
+    "courses": [
+        {
             "token": "MAT3",
             "name": "Mathematik 3",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "TH1": {
+        {
             "token": "TH1",
             "name": "Thermodynamik 1",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "EAT": {
+        {
             "token": "EAT",
             "name": "Elektrischen Antriebstechnik",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "TRI": {
+        {
             "token": "TRI",
             "name": "Tribologie",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "KON3": {
+        {
             "token": "KON3",
             "name": "Konstruktion 3",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "TME3": {
+        {
             "token": "TME3",
             "name": "Technische Mechanik 3",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "PCS": {
+        {
             "token": "PCS",
             "name": "Physikalisch-chemische Aspekte der Schmierstoffe",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "T-MAT3": {
+        {
             "token": "T-MAT3",
             "name": "Tutorium - Mathematik 3",
             "dates": [
@@ -133,5 +133,5 @@
                 }
             ]
         }
-    }
+    ]
 }

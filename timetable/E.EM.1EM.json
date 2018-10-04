@@ -1,9 +1,9 @@
 {
     "token": "1EM",
-    "courses": {
-        "WGA": {
+    "courses": [
+        {
             "token": "WGA",
-            "name": "Webtechnologien f�r die Geb�udeautomation",
+            "name": "Webtechnologien für die Gebäudeautomation",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -67,7 +67,7 @@
                 }
             ]
         },
-        "MSE": {
+        {
             "token": "MSE",
             "name": "Moderne Systemkomponenten in der Energietechnik",
             "dates": [
@@ -85,7 +85,7 @@
                 }
             ]
         },
-        "WR": {
+        {
             "token": "WR",
             "name": "Wirtschaftsrecht",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "GM": {
+        {
             "token": "GM",
             "name": "General Management",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "GVR": {
+        {
             "token": "GVR",
             "name": "Gehobene Verfahren der Regelungstechnik",
             "dates": [
@@ -152,18 +152,18 @@
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "B103 "
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
-                    "prof": "G�T",
+                    "prof": "GÖT",
                     "location": "H1009 "
                 }
             ]
         },
-        "MS": {
+        {
             "token": "MS",
             "name": "Modellbildung und Simulation technischer Systeme",
             "dates": [
@@ -205,7 +205,7 @@
                 }
             ]
         },
-        "EW": {
+        {
             "token": "EW",
             "name": "Energiewirtschaft",
             "dates": [
@@ -223,7 +223,7 @@
                 }
             ]
         },
-        "IWU": {
+        {
             "token": "IWU",
             "name": "Ingenieur wird Unternehmer",
             "dates": [
@@ -235,5 +235,5 @@
                 }
             ]
         }
-    }
+    ]
 }

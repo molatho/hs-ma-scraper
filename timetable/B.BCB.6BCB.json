@@ -1,7 +1,7 @@
 {
     "token": "6BCB",
-    "courses": {
-        "ICH": {
+    "courses": [
+        {
             "token": "ICH",
             "name": "Industrielle Chemie",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "BAL": {
+        {
             "token": "BAL",
             "name": "Bioanalytik",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "BAC": {
+        {
             "token": "BAC",
             "name": "Bioanorganische Chemie und Nanotechnologie",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "SPE": {
+        {
             "token": "SPE",
             "name": "Spektroskopie",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "TOX": {
+        {
             "token": "TOX",
             "name": "Toxikologie",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "AZB": {
+        {
             "token": "AZB",
             "name": "Angewandte Zellbiologie",
             "dates": [
@@ -103,7 +103,7 @@
                 }
             ]
         },
-        "OMT": {
+        {
             "token": "OMT",
             "name": "Optische Messtechnik",
             "dates": [
@@ -121,7 +121,7 @@
                 }
             ]
         },
-        "MBS": {
+        {
             "token": "MBS",
             "name": "Mathematische Berechnungssoftware",
             "dates": [
@@ -139,7 +139,7 @@
                 }
             ]
         },
-        "BWL": {
+        {
             "token": "BWL",
             "name": "Betriebswirtschaftslehre",
             "dates": [
@@ -157,5 +157,5 @@
                 }
             ]
         }
-    }
+    ]
 }

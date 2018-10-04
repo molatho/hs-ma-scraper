@@ -1,7 +1,7 @@
 {
     "token": "1TS",
-    "courses": {
-        "INF1": {
+    "courses": [
+        {
             "token": "INF1",
             "name": "Informatik 1",
             "dates": [
@@ -25,7 +25,7 @@
                 }
             ]
         },
-        "TIM": {
+        {
             "token": "TIM",
             "name": "Theoretische Informatik und Mathematik",
             "dates": [
@@ -43,5 +43,5 @@
                 }
             ]
         }
-    }
+    ]
 }

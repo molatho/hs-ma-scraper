@@ -1,68 +1,63 @@
 {
     "token": "G130",
-    "days": {
-        "0": {
+    "days": [
+        {
             "dayOfWeek": 0,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
+            "blocks": [
+                {
                     "number": 3,
+                    "professor": "BEL",
+                    "course": "CFM",
+                    "semester": "1CM"
+                },
+                {
+                    "number": 3,
+                    "professor": "BEL",
                     "course": "CFM",
                     "semester": "2CM"
                 },
-                "4": null,
-                "5": null
-            }
+                {
+                    "number": 3,
+                    "professor": "RÖT",
+                    "course": "CFM",
+                    "semester": "1CM"
+                },
+                {
+                    "number": 3,
+                    "professor": "RÖT",
+                    "course": "CFM",
+                    "semester": "2CM"
+                }
+            ]
         },
-        "1": {
-            "dayOfWeek": 1,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "2": {
-            "dayOfWeek": 2,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
-        },
-        "3": {
+        {
             "dayOfWeek": 3,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": {
+            "blocks": [
+                {
                     "number": 3,
+                    "professor": "BEL",
+                    "course": "CFM",
+                    "semester": "1CM"
+                },
+                {
+                    "number": 3,
+                    "professor": "BEL",
                     "course": "CFM",
                     "semester": "2CM"
                 },
-                "4": null,
-                "5": null
-            }
-        },
-        "4": {
-            "dayOfWeek": 4,
-            "blocks": {
-                "0": null,
-                "1": null,
-                "2": null,
-                "3": null,
-                "4": null,
-                "5": null
-            }
+                {
+                    "number": 3,
+                    "professor": "RÖT",
+                    "course": "CFM",
+                    "semester": "1CM"
+                },
+                {
+                    "number": 3,
+                    "professor": "RÖT",
+                    "course": "CFM",
+                    "semester": "2CM"
+                }
+            ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "6BB",
-    "courses": {
-        "PRT": {
+    "courses": [
+        {
             "token": "PRT",
             "name": "Praktikum Reaktionstechnik",
             "dates": [
@@ -31,7 +31,7 @@
                 }
             ]
         },
-        "BAV": {
+        {
             "token": "BAV",
             "name": "Aufarbeitungsverfahren",
             "dates": [
@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "BAC": {
+        {
             "token": "BAC",
             "name": "Bioanorganische Chemie und Nanotechnologie",
             "dates": [
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "BRT": {
+        {
             "token": "BRT",
             "name": "Bioreaktionstechnik",
             "dates": [
@@ -79,7 +79,7 @@
                 }
             ]
         },
-        "TOX": {
+        {
             "token": "TOX",
             "name": "Toxikologie",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "AZB": {
+        {
             "token": "AZB",
             "name": "Angewandte Zellbiologie",
             "dates": [
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "TME": {
+        {
             "token": "TME",
             "name": "Technische Mikrobiologie und Technische Enzyme",
             "dates": [
@@ -127,7 +127,7 @@
                 }
             ]
         },
-        "MBS": {
+        {
             "token": "MBS",
             "name": "Mathematische Berechnungssoftware",
             "dates": [
@@ -145,7 +145,7 @@
                 }
             ]
         },
-        "CPO": {
+        {
             "token": "CPO",
             "name": "Computerbasierte Prozessoptimierung",
             "dates": [
@@ -157,7 +157,7 @@
                 }
             ]
         },
-        "BWL": {
+        {
             "token": "BWL",
             "name": "Betriebswirtschaftslehre",
             "dates": [
@@ -175,5 +175,5 @@
                 }
             ]
         }
-    }
+    ]
 }

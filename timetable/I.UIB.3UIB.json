@@ -1,7 +1,7 @@
 {
     "token": "3UIB",
-    "courses": {
-        "BWL3": {
+    "courses": [
+        {
             "token": "BWL3",
             "name": "Betriebswirtschaftslehre 3",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "WEB": {
+        {
             "token": "WEB",
             "name": "Webtechnologien",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "WI3": {
+        {
             "token": "WI3",
             "name": "Wirtschaftsinformatik 3",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "MA3": {
+        {
             "token": "MA3",
             "name": "Mathematik 3",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "DM": {
+        {
             "token": "DM",
             "name": "Datenmanagement",
             "dates": [
@@ -91,7 +91,7 @@
                 }
             ]
         },
-        "SE2": {
+        {
             "token": "SE2",
             "name": "Software Engineering 2",
             "dates": [
@@ -121,5 +121,5 @@
                 }
             ]
         }
-    }
+    ]
 }

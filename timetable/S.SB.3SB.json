@@ -1,7 +1,7 @@
 {
     "token": "3SB",
-    "courses": {
-        "MM2": {
+    "courses": [
+        {
             "token": "MM2",
             "name": "Social Entrepreneurship - Management",
             "dates": [
@@ -31,9 +31,9 @@
                 }
             ]
         },
-        "GF-B": {
+        {
             "token": "GF-B",
-            "name": "Gespr�chsf�hrung (Gruppe B)",
+            "name": "Gesprächsführung (Gruppe B)",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -61,7 +61,7 @@
                 }
             ]
         },
-        "GRU-A": {
+        {
             "token": "GRU-A",
             "name": "Gruppendynamik/Teamarbeit (Gruppe A)",
             "dates": [
@@ -91,9 +91,9 @@
                 }
             ]
         },
-        "GF-C": {
+        {
             "token": "GF-C",
-            "name": "Gespr�chsf�hrung (Gruppe C)",
+            "name": "Gesprächsführung (Gruppe C)",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -109,7 +109,7 @@
                 }
             ]
         },
-        "GRU-C": {
+        {
             "token": "GRU-C",
             "name": "Gruppendynamik/Teamarbeit (Gruppe C)",
             "dates": [
@@ -127,9 +127,9 @@
                 }
             ]
         },
-        "GF-A": {
+        {
             "token": "GF-A",
-            "name": "Gespr�chsf�hrung (Gruppe A)",
+            "name": "Gesprächsführung (Gruppe A)",
             "dates": [
                 {
                     "dayOfWeek": 2,
@@ -139,9 +139,9 @@
                 }
             ]
         },
-        "GF-D": {
+        {
             "token": "GF-D",
-            "name": "Gespr�chsf�hrung (Gruppe D)",
+            "name": "Gesprächsführung (Gruppe D)",
             "dates": [
                 {
                     "dayOfWeek": 0,
@@ -151,7 +151,7 @@
                 }
             ]
         },
-        "MM1": {
+        {
             "token": "MM1",
             "name": "Management von Non-Profit-Organisationen - Management",
             "dates": [
@@ -169,7 +169,7 @@
                 }
             ]
         },
-        "MR2": {
+        {
             "token": "MR2",
             "name": "Social Entrepreneurship - Rechtsgrundlagen",
             "dates": [
@@ -181,7 +181,7 @@
                 }
             ]
         },
-        "GRU-B": {
+        {
             "token": "GRU-B",
             "name": "Gruppendynamik/Teamarbeit (Gruppe B)",
             "dates": [
@@ -199,7 +199,7 @@
                 }
             ]
         },
-        "GRU-D": {
+        {
             "token": "GRU-D",
             "name": "Gruppendynamik/Teamarbeit (Gruppe D)",
             "dates": [
@@ -211,9 +211,9 @@
                 }
             ]
         },
-        "SORA": {
+        {
             "token": "SORA",
-            "name": "Sozialr�umliches Arbeiten",
+            "name": "Sozialräumliches Arbeiten",
             "dates": [
                 {
                     "dayOfWeek": 1,
@@ -223,7 +223,7 @@
                 }
             ]
         },
-        "MR1": {
+        {
             "token": "MR1",
             "name": "Management von Non-Profit-Organisationen - Rechtsgrundlagen",
             "dates": [
@@ -235,7 +235,7 @@
                 }
             ]
         },
-        "BER": {
+        {
             "token": "BER",
             "name": "Beratungs- und Therapiekonzepte",
             "dates": [
@@ -247,5 +247,5 @@
                 }
             ]
         }
-    }
+    ]
 }

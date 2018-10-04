@@ -1,7 +1,7 @@
 {
     "token": "5TS",
-    "courses": {
-        "RUD": {
+    "courses": [
+        {
             "token": "RUD",
             "name": "Recht und Datenschutz",
             "dates": [
@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "KOM3": {
+        {
             "token": "KOM3",
             "name": "Kommunikationstechnik 3",
             "dates": [
@@ -43,5 +43,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "token": "2WMB",
-    "courses": {
-        "T-ET2": {
+    "courses": [
+        {
             "token": "T-ET2",
             "name": "Tutorium - Elektrische Antriebstechnik",
             "dates": [
@@ -13,7 +13,7 @@
                 }
             ]
         },
-        "TPM1": {
+        {
             "token": "TPM1",
             "name": "Innovations- und Technologiemanagement",
             "dates": [
@@ -37,7 +37,7 @@
                 }
             ]
         },
-        "ET2": {
+        {
             "token": "ET2",
             "name": "Elektrische Antriebstechnik",
             "dates": [
@@ -55,7 +55,7 @@
                 }
             ]
         },
-        "KA": {
+        {
             "token": "KA",
             "name": "Kraft- und Arbeitsmaschinen",
             "dates": [
@@ -73,7 +73,7 @@
                 }
             ]
         },
-        "PR1": {
+        {
             "token": "PR1",
             "name": "Moderne Produktionssysteme",
             "dates": [
@@ -97,7 +97,7 @@
                 }
             ]
         },
-        "KE": {
+        {
             "token": "KE",
             "name": "Konstruktionselemente",
             "dates": [
@@ -115,7 +115,7 @@
                 }
             ]
         },
-        "FT": {
+        {
             "token": "FT",
             "name": "Fertigungstechnik",
             "dates": [
@@ -133,7 +133,7 @@
                 }
             ]
         },
-        "PPS": {
+        {
             "token": "PPS",
             "name": "Produktionsplanung und -steuerung",
             "dates": [
@@ -151,7 +151,7 @@
                 }
             ]
         },
-        "T-TPM1": {
+        {
             "token": "T-TPM1",
             "name": "Tutorium - Innovations- und Technologiemanagement",
             "dates": [
@@ -163,5 +163,5 @@
                 }
             ]
         }
-    }
+    ]
 }
