@@ -1,59 +1,7 @@
 var firstBy = require('thenby');
-
-class Room {
-    constructor(token) {
-        this.token = token;
-        this.days = [];
-    }
-
-    sort() {
-        this.days.sort(
-            firstBy("dayOfWeek")
-        );
-        for (var d in this.days) {
-            this.days[d].sort();
-        }
-    }
-
-    getDay(dayOfWeek) {
-        for (var d in this.days) {
-            if (this.days[d].dayOfWeek == dayOfWeek) return this.days[d];
-        }
-        return null;
-    }
-}
-
-class Day {
-    constructor(dayOfWeek) {
-        this.dayOfWeek = dayOfWeek;
-        this.blocks = [];
-    }
-
-    sort() {
-        this.blocks.sort(
-            firstBy("number")
-            .thenBy("course")
-            .thenBy("professor")
-            .thenBy("semester")
-        );
-    }
-
-    getBlock(number) {
-        for (var b in this.blocks) {
-            if (this.blocks[b].number == number) return this.blocks[b];
-        }
-        return null;
-    }
-}
-
-class Block {
-    constructor(number, professor, course, semester) {
-        this.number = number;
-        this.professor = professor;
-        this.course = course;
-        this.semester = semester;
-    }
-}
+const Room = require("../model/room");
+const Day = require("../model/day");
+const Block = require("../model/block");
 
 var ROOM_REGEX1 = /([A-Z])([0-9]+)\/([0-9]+)/;
 function splitRoomNames(name) {

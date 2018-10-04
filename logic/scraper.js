@@ -7,6 +7,9 @@ const Faculty = require("../model/faculty");
 const Major = require("../model/major");
 const Semester = require("../model/semester");
 const HSMA = require("../model/hs-ma");
+const Professor = require("../model/professor");
+const Association = require("../model/association");
+const AssociationEntry = require("../model/association-entry");
 
 const SCHEDULE_SEMESTER_URL = "https://services.informatik.hs-mannheim.de/stundenplan/stundenplan.php?xsem=";
 const SCHEDULE_BASE_URL = "https://services.informatik.hs-mannheim.de/stundenplan/index.php";
@@ -78,7 +81,6 @@ class Scraper {
             var _rows = [];
             var odd = $('tr[class=row-odd]');
             var even = $('tr[class=row-even]');
-            var profs = {};
 
             for (var i = 0; i < odd.length; i++) {
                 this.processProf(odd.get(i), $);
@@ -104,26 +106,23 @@ class Scraper {
         var facs = $($($(row).find("td")).get(1)).find("a");
         var assoc = null;
         if (facs.length > 0) {
-            var faculty = {
-                "token": $(facs[0].children[0]).text().trim(),
-                "name": facs[0].attribs.title,
-                "link": facs[0].attribs.href
-            };
+            var faculty = new AssociationEntry(
+                $(facs[0].children[0]).text().trim(), //token
+                facs[0].attribs.title, //name
+                facs[0].attribs.href //link
+            );
             var institutes = null;
             if (facs.length > 1) {
                 institutes = [];
                 for (var i = 1; i < facs.length; i++) {
-                    institutes.push({
-                        "token": $(facs[i].children[0]).text().trim(),
-                        "name": facs[i].attribs.title,
-                        "link": facs[i].attribs.href
-                    });
+                    institutes.push(new AssociationEntry(
+                        $(facs[i].children[0]).text().trim(), //token
+                        facs[i].attribs.title, //name
+                        facs[i].attribs.href //link
+                    ));
                 }
             }
-            assoc = {
-                "faculty": faculty,
-                "institutes": institutes
-            };
+            assoc = new Association(faculty, institutes);
         }
         var extra = $($($(row).find("td")).get(2)).text().trim();
         var location = $($($(row).find("td")).get(3)).text().trim();
@@ -135,17 +134,17 @@ class Scraper {
         if (prof != null) {
             console.error(`Duplicate prof token "${token}"`);
         } else {
-            this.hsma.professors.push({
-                "token": token,
-                "name": data[2].trim() + " " + data[1],
-                "email": data[4] !== undefined ? data[4] : null,
-                "website": website,
-                "associations": assoc,
-                "extra": extra,
-                "location": location.length > 0 ? location : null,
-                "phone": phone.length > 0 ? "(0621)-" + phone : null,
-                "appointments": appointments
-            });
+            var prof = new Professor(
+                token, //token
+                data[2].trim() + " " + data[1], //name
+                data[4] !== undefined ? data[4] : null, //email
+                website, //website
+                assoc, //association
+                extra, //extra
+                location.length > 0 ? location : null, //location
+                phone.length > 0 ? "(0621)-" + phone : null, //phone
+                appointments); //appointments
+            this.hsma.professors.push(prof);
         }
     }
 
