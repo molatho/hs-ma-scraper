@@ -151,7 +151,7 @@ class Scraper {
     static reduceMajorsToFaculties(rows, callback) {
         var faculties = {};
         async.forEach(rows, (row, cb) => {
-            var faculty = faculties[row.faculty.text] !== undefined ? faculties[row.faculty.text] : faculties[row.faculty.text] = new Faculty(row.faculty.text);
+            var faculty = faculties[row.faculty] !== undefined ? faculties[row.faculty] : faculties[row.faculty] = new Faculty(row.faculty);
             var major = new Major(row.major.text, row.major.token);
             faculty.majors.push(major);
             Scraper.aquireSemesters(major, row.semesters, cb);
@@ -235,18 +235,15 @@ class Scraper {
      */
     static extractRowInfoOverview(row) {
         var children = row.children.filter(_child => _child.type == "tag" && _child.name == "td");
+        var semesters = [];
+        for (var c = 0; c < 7; c++) { //7 semester columns
+            var _semesters = Scraper.getCellInfo(children[c + 2], REGEX_TOKEN_SEMESTER);
+            for (var s in _semesters) semesters.push(_semesters[s]);  
+        }
         return {
-            "faculty": Scraper.getCellInfo(children[0]),
-            "major": Scraper.getCellInfo(children[1], REGEX_TOKEN_MAJOR),
-            "semesters": [
-                Scraper.getCellInfo(children[2], REGEX_TOKEN_SEMESTER),
-                Scraper.getCellInfo(children[3], REGEX_TOKEN_SEMESTER),
-                Scraper.getCellInfo(children[4], REGEX_TOKEN_SEMESTER),
-                Scraper.getCellInfo(children[5], REGEX_TOKEN_SEMESTER),
-                Scraper.getCellInfo(children[6], REGEX_TOKEN_SEMESTER),
-                Scraper.getCellInfo(children[7], REGEX_TOKEN_SEMESTER),
-                Scraper.getCellInfo(children[8], REGEX_TOKEN_SEMESTER)
-            ]
+            "faculty": children[0].children[0].data.trim(),
+            "major": Scraper.getCellInfo(children[1], REGEX_TOKEN_MAJOR)[0],
+            "semesters": semesters
         }
     }
 
@@ -259,24 +256,20 @@ class Scraper {
      * @memberof Scraper
      */
     static getCellInfo(node, tokenRegex) {
-        if (node === null || node.children === null || node.children.length == 0) {
-            return null;
-        }
-        if (node.children[0].name == "a") {
-            var url = node.children[0].attribs.href;
+        var children = node.children.filter(_child => _child.type == "tag" && _child.name == "a");
+        var entries = [];
+        for (var i = 0; i < children.length; i++) {
+            var text = children[i].children[0].data;
+            var url = children[i].attribs.href;
             var token = tokenRegex ? tokenRegex.exec(url) : null;
-            if (token == null) {
-                //Hack: if the regex didn't work, perform a simple split
-                token = url.split("=");
-            }
-            return {
-                "text": node.children[0].children[0].data,
+            if (token == null) token = url.split("=");
+            entries.push({
+                "text" : text,
                 "url": url,
                 "token": token != null && token.length == 2 ? token[1] : null
-            };
-        } else {
-            return { "text": node.children[0].data.trim() };
+            });
         }
+        return entries;
     }
 }
 

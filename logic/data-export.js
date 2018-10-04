@@ -7,11 +7,18 @@ class DataExport {
         this.createDirectory(directory);
     }
 
-    export(faculties, professors) {
+    export(faculties, professors, rooms) {
         this.exportFaculties(faculties);
         this.exportProfessors(professors);
+        this.exportRooms(rooms);
     }
 
+    exportRooms(rooms) {
+        var folder = this.exportObject("rooms", "_all", rooms);
+        for (var r in rooms) {
+            this.exportObject("rooms", `${r}`, rooms[r], true);
+        }
+    }
     exportFaculties(faculties) {
         var folder = this.exportObject("timetable", "_all", faculties);
         for (var f in faculties) {

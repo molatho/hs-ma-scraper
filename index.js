@@ -11,6 +11,7 @@ const cheerio = require('cheerio');
 const Scraper = require("./logic/scraper")
 const DataExport = require("./logic/data-export");
 const GitHandler = require("./logic/git-handler");
+const RoomProcessor = require("./logic/room-processor");
 const path = require("path");
 const DATA_DIR = path.join(__dirname, "data");
 
@@ -35,11 +36,11 @@ Scraper.fetch((err, res) => {
 
     console.log("Exporting...");
     var dataExport = new DataExport(DATA_DIR);
-    dataExport.export(faculties, professors);
+    var rooms = RoomProcessor.getRooms(faculties);
+    dataExport.export(faculties, professors, rooms);
 
     console.log("Synchronizing with remote repository...");
     var handler = new GitHandler(DATA_DIR, "origin", "data");
-
     handler.run((err, res)=>{
         if (err) {
             if (err.message == "Nothing to commit") {
