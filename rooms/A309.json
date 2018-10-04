@@ -38,7 +38,11 @@
                     "course": "PH2",
                     "semester": "2TIB"
                 },
-                "3": null,
+                "3": {
+                    "number": 3,
+                    "course": "PHY1",
+                    "semester": "1MBb"
+                },
                 "4": {
                     "number": 4,
                     "course": "PH2",

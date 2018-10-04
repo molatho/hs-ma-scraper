@@ -1,0 +1,59 @@
+{
+    "token": "7MEBd",
+    "courses": {
+        "WZM": {
+            "token": "WZM",
+            "name": "Werkzeugmaschinen",
+            "dates": [
+                {
+                    "dayOfWeek": 0,
+                    "timeSlot": 4,
+                    "prof": "HAP",
+                    "location": "H1008 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 1,
+                    "prof": "HAP",
+                    "location": "H1009 "
+                }
+            ]
+        },
+        "MST": {
+            "token": "MST",
+            "name": "Mikrosystemtechnik",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 2,
+                    "prof": "STF",
+                    "location": "H0909 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "STF",
+                    "location": "H0910 "
+                }
+            ]
+        },
+        "MMO": {
+            "token": "MMO",
+            "name": "Mechatronische Modellbildung",
+            "dates": [
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 3,
+                    "prof": "HLF",
+                    "location": "K122 "
+                },
+                {
+                    "dayOfWeek": 1,
+                    "timeSlot": 4,
+                    "prof": "HLF",
+                    "location": "K122 "
+                }
+            ]
+        }
+    }
+}

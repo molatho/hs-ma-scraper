@@ -67,8 +67,16 @@
                     "course": "KRY",
                     "semester": "2IM"
                 },
-                "2": null,
-                "3": null,
+                "2": {
+                    "number": 2,
+                    "course": "SM2",
+                    "semester": "7MEBb"
+                },
+                "3": {
+                    "number": 3,
+                    "course": "SM2",
+                    "semester": "7MEBb"
+                },
                 "4": null,
                 "5": null
             }

@@ -169,6 +169,24 @@
                 }
             ]
         },
+        "IBDE": {
+            "token": "IBDE",
+            "name": "Industrial Bioprocess Development",
+            "dates": [
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 3,
+                    "prof": "KPF",
+                    "location": "H0408 "
+                },
+                {
+                    "dayOfWeek": 4,
+                    "timeSlot": 4,
+                    "prof": "KPF",
+                    "location": "H0408 "
+                }
+            ]
+        },
         "IEAE": {
             "token": "IEAE",
             "name": "Industrial Environmental Analytics",
@@ -177,18 +195,6 @@
                     "dayOfWeek": 1,
                     "timeSlot": 4,
                     "prof": "KUZ",
-                    "location": "H1009 "
-                }
-            ]
-        },
-        "IBDE": {
-            "token": "IBDE",
-            "name": "Industrial Bioprocess Development",
-            "dates": [
-                {
-                    "dayOfWeek": 4,
-                    "timeSlot": 4,
-                    "prof": "KPF",
                     "location": "H1009 "
                 }
             ]

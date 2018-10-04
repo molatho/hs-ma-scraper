@@ -139,8 +139,16 @@
                     "course": "STK",
                     "semester": "3BCB"
                 },
-                "3": null,
-                "4": null,
+                "3": {
+                    "number": 3,
+                    "course": "IBDE",
+                    "semester": "2BME-BPD"
+                },
+                "4": {
+                    "number": 4,
+                    "course": "IBDE",
+                    "semester": "2BME-BPD"
+                },
                 "5": null
             }
         }

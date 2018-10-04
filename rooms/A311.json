@@ -56,7 +56,11 @@
                     "course": "PHY1",
                     "semester": "1MBa"
                 },
-                "2": null,
+                "2": {
+                    "number": 2,
+                    "course": "PHY1",
+                    "semester": "1MBb"
+                },
                 "3": null,
                 "4": null,
                 "5": null

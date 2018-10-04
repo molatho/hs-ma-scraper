@@ -113,7 +113,11 @@
                     "course": "TRA",
                     "semester": "7UIB"
                 },
-                "1": null,
+                "1": {
+                    "number": 1,
+                    "course": "MAT1",
+                    "semester": "1MBb"
+                },
                 "2": {
                     "number": 2,
                     "course": "MA1",

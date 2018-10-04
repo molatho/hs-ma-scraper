@@ -77,7 +77,11 @@
         "3": {
             "dayOfWeek": 3,
             "blocks": {
-                "0": null,
+                "0": {
+                    "number": 0,
+                    "course": "FVF1",
+                    "semester": "1MBb"
+                },
                 "1": {
                     "number": 1,
                     "course": "OC",

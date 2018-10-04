@@ -32,8 +32,16 @@
                     "course": "TME2",
                     "semester": "2MB"
                 },
-                "1": null,
-                "2": null,
+                "1": {
+                    "number": 1,
+                    "course": "WTK1",
+                    "semester": "1MBb"
+                },
+                "2": {
+                    "number": 2,
+                    "course": "WTK1",
+                    "semester": "1MBb"
+                },
                 "3": {
                     "number": 3,
                     "course": "ABWL",
@@ -61,7 +69,11 @@
                     "course": "WTK1",
                     "semester": "1MBa"
                 },
-                "3": null,
+                "3": {
+                    "number": 3,
+                    "course": "MAT1",
+                    "semester": "1MBb"
+                },
                 "4": {
                     "number": 4,
                     "course": "T-PHW",

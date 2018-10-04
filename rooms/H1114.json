@@ -30,7 +30,11 @@
         "2": {
             "dayOfWeek": 2,
             "blocks": {
-                "0": null,
+                "0": {
+                    "number": 0,
+                    "course": "T-MAT1",
+                    "semester": "1MBb"
+                },
                 "1": {
                     "number": 1,
                     "course": "SOE",

@@ -1,0 +1,53 @@
+{
+    "token": "7MEBb",
+    "courses": {
+        "SM2": {
+            "token": "SM2",
+            "name": "Simulation und Modellbildung 2",
+            "dates": [
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "LGU",
+                    "location": "B101 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 2,
+                    "prof": "LGU",
+                    "location": "G054 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "LGU",
+                    "location": "B101 "
+                },
+                {
+                    "dayOfWeek": 3,
+                    "timeSlot": 3,
+                    "prof": "LGU",
+                    "location": "G054 "
+                }
+            ]
+        },
+        "EMS": {
+            "token": "EMS",
+            "name": "Entwicklung mechatronischer Systeme",
+            "dates": [
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 3,
+                    "prof": "LGU",
+                    "location": "B101 "
+                },
+                {
+                    "dayOfWeek": 2,
+                    "timeSlot": 4,
+                    "prof": "LGU",
+                    "location": "B101 "
+                }
+            ]
+        }
+    }
+}
