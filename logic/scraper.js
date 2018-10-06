@@ -10,6 +10,7 @@ const HSMA = require("../model/hs-ma");
 const Professor = require("../model/professor");
 const Association = require("../model/association");
 const AssociationEntry = require("../model/association-entry");
+const RoomProcessor = require("./room-processor");
 
 const SCHEDULE_SEMESTER_URL = "https://services.informatik.hs-mannheim.de/stundenplan/stundenplan.php?xsem=";
 const SCHEDULE_BASE_URL = "https://services.informatik.hs-mannheim.de/stundenplan/index.php";

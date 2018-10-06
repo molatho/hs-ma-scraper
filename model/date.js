@@ -1,11 +1,15 @@
 const cheerio = require('cheerio');
 
 class Date {
-    constructor(location, prof, dayOfWeek, timeSlot){
+    constructor(locations, prof, dayOfWeek, timeSlot){
         this.dayOfWeek = dayOfWeek;
         this.timeSlot = timeSlot;
         this.prof = prof;
-        this.location = location;
+        this.locations = locations;
+    }
+    
+    sort() {
+        this.locations.sort();
     }
 }
 

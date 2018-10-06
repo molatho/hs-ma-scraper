@@ -2,6 +2,7 @@ var firstBy = require('thenby');
 
 const Course = require("./course");
 const Date = require("./Date");
+const RoomProcessor = require("../logic/room-processor")
 
 class Semester {
     constructor(token){
@@ -22,7 +23,7 @@ class Semester {
             course = new Course(name.text, name.token);
             this.courses.push(course);
         }
-        course.dates.push(new Date(location.token, prof.token, dayOfWeek, timeSlot));
+        course.dates.push(new Date(RoomProcessor.splitRoomNames(location.token), prof.token, dayOfWeek, timeSlot));
     }
 
     sort() {

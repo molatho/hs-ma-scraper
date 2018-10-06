@@ -14,6 +14,9 @@ class Course {
             .thenBy("prof")
             .thenBy("location")
         );
+        for (var d in this.dates) {
+            this.dates[d].sort();
+        }
     }
 
     getDateCount(){

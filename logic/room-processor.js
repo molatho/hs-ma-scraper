@@ -3,32 +3,60 @@ const Room = require("../model/room");
 const Day = require("../model/day");
 const Block = require("../model/block");
 
-var ROOM_REGEX1 = /([A-Z])([0-9]+)\/([0-9]+)/;
-function splitRoomNames(name) {
-    var newNames = [];
-    name = name.trim();
-    if (name.indexOf(',') !== -1) {
-        var arr = name.split(',');
-        for (var i = 0; i < arr.length; i++) newNames.push(arr[i].trim());
-    } else if (name.indexOf('/') !== -1) {
-        var match = ROOM_REGEX1.exec(name);
-        var arr = [];
-        if (match != null) {
-            arr = [match[1] + match[2], match[1] + match[3]];
-        } else {
-            arr = name.split('/');
-        }
-        for (var i = 0; i < arr.length; i++) newNames.push(arr[i].trim());
-    } else if (name.indexOf('\\') !== -1) {
-        var arr = name.split('\\');
-        for (var i = 0; i < arr.length; i++) newNames.push(arr[i].trim());
-    } else {
-        newNames.push(name);
-    }
-    return newNames;
+var ROOM_REGEX1 = /([A-Z])([0-9]+)\/([0-9]+)/; //B101/102
+var ROOM_REGEX2 = /([A-Z])([0-9]+)\\([0-9]+)/; //B101\102
+var ROOM_REGEX3 = /([A-Z])([0-9]+),([0-9]+)/; //B101,102
+var ROOM_REGEX4 = /([A-Z])([0-9]+)\/([A-Z])([0-9]+)/; //B101/B102
+var ROOM_REGEX5 = /([A-Z])([0-9]+)\\([A-Z])([0-9]+)/; //B101\B102
+var ROOM_REGEX6 = /([A-Z])([0-9]+),([A-Z])([0-9]+)/; //B101,B102
+var ROOM_REGEX7 = /([A-Z])-([0-9]+)/; //B-101
+
+function splitRoomNamesByRegexes(name) {
+    var match = ROOM_REGEX1.exec(name);
+    if (match != null) return [match[1] + match[2], match[1] + match[3]];
+    match = ROOM_REGEX2.exec(name);
+    if (match != null) return [match[1] + match[2], match[1] + match[3]];
+    match = ROOM_REGEX3.exec(name)
+    if (match != null) return [match[1] + match[2], match[1] + match[3]];
+
+    match = ROOM_REGEX4.exec(name);
+    if (match != null) return [match[1] + match[2], match[3] + match[4]];
+    match = ROOM_REGEX5.exec(name);
+    if (match != null) return [match[1] + match[2], match[3] + match[4]];
+    match = ROOM_REGEX6.exec(name);
+    if (match != null) return [match[1] + match[2], match[3] + match[4]];
+
+    match = ROOM_REGEX7.exec(name);
+    if (match != null) return [match[1] + match[2]];
+
+    return null;
 }
 
+
 class RoomProcessor {
+    static splitRoomNames(name) {
+        var newNames = [];
+        name = name.trim();
+        var arr = splitRoomNamesByRegexes(name);
+        if (arr == null) {
+            if (name.indexOf(',') !== -1) {
+                arr = name.split(',');
+            } else if (name.indexOf('/') !== -1) {
+                arr = name.split('/');
+            } else if (name.indexOf('\\') !== -1) {
+                arr = name.split('\\');
+            } else {
+                newNames.push(name);
+            }
+        }
+        if (arr != null) {
+            for (var i = 0; i < arr.length; i++) newNames.push(arr[i].trim());
+        } else {
+            newNames = [name];
+        }
+        return newNames;
+    }
+
     static populateRooms(hsma) {
         for (var f in hsma.faculties) {
             for (var m in hsma.faculties[f].majors) {
@@ -38,9 +66,11 @@ class RoomProcessor {
                         var course = semester.courses[c];
                         for (var d in course.dates) {
                             var date = course.dates[d];
-                            var roomNames = splitRoomNames(date.location);
-                            for (var r in roomNames) {
-                                var roomName = roomNames[r];
+                            //var roomNames = RoomProcessor.splitRoomNames(date.location);
+                            //for (var r in roomNames) {
+                            //    var roomName = roomNames[r];
+                            for (var l in date.locations) {
+                                var roomName = date.locations[l];
                                 var room = hsma.getRoom(roomName);
                                 if (room == null) {
                                     room = new Room(roomName);
