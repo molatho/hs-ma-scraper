@@ -9,7 +9,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 1,
                     "prof": "OSM",
-                    "location": "H0906 "
+                    "locations": [
+                        "H0906"
+                    ]
                 }
             ]
         },
@@ -21,7 +23,10 @@
                     "dayOfWeek": 2,
                     "timeSlot": 1,
                     "prof": "OSM",
-                    "location": "C311/312 "
+                    "locations": [
+                        "C311",
+                        "C312"
+                    ]
                 }
             ]
         },
@@ -33,7 +38,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 2,
                     "prof": "WEJ",
-                    "location": "C211 "
+                    "locations": [
+                        "C211"
+                    ]
                 }
             ]
         },
@@ -45,7 +52,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 2,
                     "prof": "BAA",
-                    "location": "C110 "
+                    "locations": [
+                        "C110"
+                    ]
                 }
             ]
         },
@@ -57,7 +66,9 @@
                     "dayOfWeek": 2,
                     "timeSlot": 2,
                     "prof": "WLF",
-                    "location": "C212 "
+                    "locations": [
+                        "C212"
+                    ]
                 }
             ]
         },
@@ -69,7 +80,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 3,
                     "prof": "WEJ",
-                    "location": "C211 "
+                    "locations": [
+                        "C211"
+                    ]
                 }
             ]
         },
@@ -81,7 +94,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 3,
                     "prof": "BAA",
-                    "location": "C110 "
+                    "locations": [
+                        "C110"
+                    ]
                 }
             ]
         }

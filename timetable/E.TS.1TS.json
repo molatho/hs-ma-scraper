@@ -9,19 +9,25 @@
                     "dayOfWeek": 3,
                     "timeSlot": 0,
                     "prof": "MEH",
-                    "location": "A107 "
+                    "locations": [
+                        "A107"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
                     "prof": "MEH",
-                    "location": "A107 "
+                    "locations": [
+                        "A107"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
                     "prof": "MEH",
-                    "location": "A107 "
+                    "locations": [
+                        "A107"
+                    ]
                 }
             ]
         },
@@ -33,13 +39,17 @@
                     "dayOfWeek": 3,
                     "timeSlot": 3,
                     "prof": "SMS",
-                    "location": "A210 "
+                    "locations": [
+                        "A210"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
                     "prof": "SMS",
-                    "location": "A210 "
+                    "locations": [
+                        "A210"
+                    ]
                 }
             ]
         }

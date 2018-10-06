@@ -9,13 +9,17 @@
                     "dayOfWeek": 4,
                     "timeSlot": 2,
                     "prof": "DIT",
-                    "location": "B105 "
+                    "locations": [
+                        "B105"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
                     "prof": "DIT",
-                    "location": "B105 "
+                    "locations": [
+                        "B105"
+                    ]
                 }
             ]
         },
@@ -27,25 +31,33 @@
                     "dayOfWeek": 3,
                     "timeSlot": 4,
                     "prof": "GÖT",
-                    "location": "B105 "
+                    "locations": [
+                        "B105"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
                     "prof": "GÖT",
-                    "location": "B202 "
+                    "locations": [
+                        "B202"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
                     "prof": "GÖT",
-                    "location": "B105 "
+                    "locations": [
+                        "B105"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 5,
                     "prof": "GÖT",
-                    "location": "B202 "
+                    "locations": [
+                        "B202"
+                    ]
                 }
             ]
         }

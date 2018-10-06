@@ -126,6 +126,18 @@
                     "professor": "PRE",
                     "course": "MBS",
                     "semester": "6BCB"
+                },
+                {
+                    "number": 4,
+                    "professor": "DIT",
+                    "course": "T-DV2",
+                    "semester": "2EB"
+                },
+                {
+                    "number": 4,
+                    "professor": "DIT",
+                    "course": "T-DV2",
+                    "semester": "2UB"
                 }
             ]
         }

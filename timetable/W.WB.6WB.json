@@ -9,13 +9,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 0,
                     "prof": "SIP",
-                    "location": "L110 "
+                    "locations": [
+                        "L110"
+                    ]
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
                     "prof": "SIP",
-                    "location": "L110 "
+                    "locations": [
+                        "L110"
+                    ]
                 }
             ]
         },
@@ -27,31 +31,41 @@
                     "dayOfWeek": 1,
                     "timeSlot": 0,
                     "prof": "HAU",
-                    "location": "B103 "
+                    "locations": [
+                        "B103"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 0,
                     "prof": "HAU",
-                    "location": "L113 "
+                    "locations": [
+                        "L113"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
                     "prof": "HAU",
-                    "location": "B103 "
+                    "locations": [
+                        "B103"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
                     "prof": "HAU",
-                    "location": "L113 "
+                    "locations": [
+                        "L113"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
                     "prof": "HAU",
-                    "location": "B103 "
+                    "locations": [
+                        "B103"
+                    ]
                 }
             ]
         },
@@ -63,13 +77,17 @@
                     "dayOfWeek": 2,
                     "timeSlot": 1,
                     "prof": "BGM",
-                    "location": "L012 "
+                    "locations": [
+                        "L012"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
                     "prof": "BGM",
-                    "location": "L012 "
+                    "locations": [
+                        "L012"
+                    ]
                 }
             ]
         },
@@ -81,13 +99,17 @@
                     "dayOfWeek": 3,
                     "timeSlot": 2,
                     "prof": "HAP",
-                    "location": "L114 "
+                    "locations": [
+                        "L114"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
                     "prof": "HAP",
-                    "location": "L014 "
+                    "locations": [
+                        "L014"
+                    ]
                 }
             ]
         },
@@ -99,19 +121,25 @@
                     "dayOfWeek": 0,
                     "timeSlot": 3,
                     "prof": "BIR",
-                    "location": "L305 "
+                    "locations": [
+                        "L305"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
                     "prof": "BIR",
-                    "location": "L305 "
+                    "locations": [
+                        "L305"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
                     "prof": "BIR",
-                    "location": "L305 "
+                    "locations": [
+                        "L305"
+                    ]
                 }
             ]
         },
@@ -123,7 +151,9 @@
                     "dayOfWeek": 4,
                     "timeSlot": 2,
                     "prof": "BGM",
-                    "location": "L112 "
+                    "locations": [
+                        "L112"
+                    ]
                 }
             ]
         }

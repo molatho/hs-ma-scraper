@@ -9,13 +9,17 @@
                     "dayOfWeek": 1,
                     "timeSlot": 1,
                     "prof": "MOJ",
-                    "location": "B201 "
+                    "locations": [
+                        "B201"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
                     "prof": "MOJ",
-                    "location": "L011 "
+                    "locations": [
+                        "L011"
+                    ]
                 }
             ]
         },
@@ -27,13 +31,17 @@
                     "dayOfWeek": 1,
                     "timeSlot": 3,
                     "prof": "MOH",
-                    "location": "L207 "
+                    "locations": [
+                        "L207"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
                     "prof": "MOH",
-                    "location": "L207 "
+                    "locations": [
+                        "L207"
+                    ]
                 }
             ]
         }

@@ -9,7 +9,10 @@
                     "dayOfWeek": 1,
                     "timeSlot": 0,
                     "prof": "GAD",
-                    "location": "C311/312 "
+                    "locations": [
+                        "C311",
+                        "C312"
+                    ]
                 }
             ]
         },
@@ -21,7 +24,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 0,
                     "prof": "BAL",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 }
             ]
         },
@@ -33,7 +38,10 @@
                     "dayOfWeek": 2,
                     "timeSlot": 0,
                     "prof": "OSM",
-                    "location": "C311/312 "
+                    "locations": [
+                        "C311",
+                        "C312"
+                    ]
                 }
             ]
         },
@@ -45,7 +53,10 @@
                     "dayOfWeek": 1,
                     "timeSlot": 1,
                     "prof": "GAD",
-                    "location": "C311/312 "
+                    "locations": [
+                        "C311",
+                        "C312"
+                    ]
                 }
             ]
         },
@@ -57,7 +68,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 1,
                     "prof": "BAL",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 }
             ]
         },
@@ -69,7 +82,9 @@
                     "dayOfWeek": 2,
                     "timeSlot": 1,
                     "prof": "VAR",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 }
             ]
         },
@@ -81,13 +96,17 @@
                     "dayOfWeek": 1,
                     "timeSlot": 2,
                     "prof": "SOU",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
                     "prof": "SOU",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 }
             ]
         },
@@ -99,7 +118,9 @@
                     "dayOfWeek": 2,
                     "timeSlot": 2,
                     "prof": "UTZ",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 }
             ]
         },
@@ -111,7 +132,9 @@
                     "dayOfWeek": 4,
                     "timeSlot": 2,
                     "prof": "NOY",
-                    "location": "C212 "
+                    "locations": [
+                        "C212"
+                    ]
                 }
             ]
         }

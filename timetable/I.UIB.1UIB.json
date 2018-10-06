@@ -9,25 +9,35 @@
                     "dayOfWeek": 0,
                     "timeSlot": 0,
                     "prof": "HUM",
-                    "location": "H0409 "
+                    "locations": [
+                        "H0409"
+                    ]
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 0,
                     "prof": "KOJ",
-                    "location": "H0506,H0507 "
+                    "locations": [
+                        "H0506",
+                        "H0507"
+                    ]
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
                     "prof": "HUM",
-                    "location": "H0409 "
+                    "locations": [
+                        "H0409"
+                    ]
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 1,
                     "prof": "KOJ",
-                    "location": "H0506,H0507 "
+                    "locations": [
+                        "H0506",
+                        "H0507"
+                    ]
                 }
             ]
         },
@@ -39,13 +49,17 @@
                     "dayOfWeek": 2,
                     "timeSlot": 0,
                     "prof": "FOL",
-                    "location": "A206 "
+                    "locations": [
+                        "A206"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
                     "prof": "FOL",
-                    "location": "A206 "
+                    "locations": [
+                        "A206"
+                    ]
                 }
             ]
         },
@@ -57,13 +71,17 @@
                     "dayOfWeek": 3,
                     "timeSlot": 0,
                     "prof": "DCH",
-                    "location": "A206 "
+                    "locations": [
+                        "A206"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
                     "prof": "DCH",
-                    "location": "A206 "
+                    "locations": [
+                        "A206"
+                    ]
                 }
             ]
         },
@@ -75,13 +93,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 2,
                     "prof": "TOY",
-                    "location": "A206 "
+                    "locations": [
+                        "A206"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
                     "prof": "TOY",
-                    "location": "A305 "
+                    "locations": [
+                        "A305"
+                    ]
                 }
             ]
         },
@@ -93,13 +115,17 @@
                     "dayOfWeek": 1,
                     "timeSlot": 2,
                     "prof": "HUM",
-                    "location": "H0906 "
+                    "locations": [
+                        "H0906"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
                     "prof": "HUM",
-                    "location": "A206 "
+                    "locations": [
+                        "A206"
+                    ]
                 }
             ]
         },
@@ -111,13 +137,17 @@
                     "dayOfWeek": 1,
                     "timeSlot": 4,
                     "prof": "GRT",
-                    "location": "A206 "
+                    "locations": [
+                        "A206"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 5,
                     "prof": "GRT",
-                    "location": "A206 "
+                    "locations": [
+                        "A206"
+                    ]
                 }
             ]
         }

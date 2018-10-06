@@ -9,25 +9,33 @@
                     "dayOfWeek": 3,
                     "timeSlot": 2,
                     "prof": "LGU",
-                    "location": "B101 "
+                    "locations": [
+                        "B101"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
                     "prof": "LGU",
-                    "location": "G054 "
+                    "locations": [
+                        "G054"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
                     "prof": "LGU",
-                    "location": "B101 "
+                    "locations": [
+                        "B101"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
                     "prof": "LGU",
-                    "location": "G054 "
+                    "locations": [
+                        "G054"
+                    ]
                 }
             ]
         },
@@ -39,13 +47,17 @@
                     "dayOfWeek": 2,
                     "timeSlot": 3,
                     "prof": "LGU",
-                    "location": "B101 "
+                    "locations": [
+                        "B101"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
                     "prof": "LGU",
-                    "location": "B101 "
+                    "locations": [
+                        "B101"
+                    ]
                 }
             ]
         }

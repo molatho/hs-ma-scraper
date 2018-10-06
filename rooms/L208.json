@@ -182,6 +182,18 @@
                     "semester": "2WMB"
                 },
                 {
+                    "number": 2,
+                    "professor": "MUE",
+                    "course": "T-RT2",
+                    "semester": "6CB"
+                },
+                {
+                    "number": 2,
+                    "professor": "MUE",
+                    "course": "T-RT2",
+                    "semester": "7VB"
+                },
+                {
                     "number": 3,
                     "professor": "BAN",
                     "course": "ENC",

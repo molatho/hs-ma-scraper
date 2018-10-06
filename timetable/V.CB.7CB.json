@@ -9,7 +9,9 @@
                     "dayOfWeek": 3,
                     "timeSlot": 0,
                     "prof": "LAN",
-                    "location": "G133 "
+                    "locations": [
+                        "G133"
+                    ]
                 }
             ]
         },
@@ -21,13 +23,17 @@
                     "dayOfWeek": 2,
                     "timeSlot": 1,
                     "prof": "SIN",
-                    "location": "G133 "
+                    "locations": [
+                        "G133"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
                     "prof": "SIN",
-                    "location": "L012 "
+                    "locations": [
+                        "L012"
+                    ]
                 }
             ]
         },
@@ -39,13 +45,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 2,
                     "prof": "WET",
-                    "location": "L111 "
+                    "locations": [
+                        "L111"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
                     "prof": "WET",
-                    "location": "L110 "
+                    "locations": [
+                        "L110"
+                    ]
                 }
             ]
         },
@@ -57,7 +67,9 @@
                     "dayOfWeek": 2,
                     "timeSlot": 2,
                     "prof": "WET",
-                    "location": "H0807 "
+                    "locations": [
+                        "H0807"
+                    ]
                 }
             ]
         },
@@ -69,13 +81,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 3,
                     "prof": "SUB",
-                    "location": "H0808 "
+                    "locations": [
+                        "H0808"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
                     "prof": "SUB",
-                    "location": "H0809 "
+                    "locations": [
+                        "H0809"
+                    ]
                 }
             ]
         },
@@ -87,13 +103,17 @@
                     "dayOfWeek": 3,
                     "timeSlot": 4,
                     "prof": "EIW",
-                    "location": "L209 "
+                    "locations": [
+                        "L209"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
                     "prof": "EIW",
-                    "location": "L209 "
+                    "locations": [
+                        "L209"
+                    ]
                 }
             ]
         },
@@ -105,7 +125,9 @@
                     "dayOfWeek": 0,
                     "timeSlot": 4,
                     "prof": "HRA",
-                    "location": "H0807 "
+                    "locations": [
+                        "H0807"
+                    ]
                 }
             ]
         },
@@ -117,13 +139,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 5,
                     "prof": "SCV",
-                    "location": "H0408 "
+                    "locations": [
+                        "H0408"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
                     "prof": "SCV",
-                    "location": "H0408 "
+                    "locations": [
+                        "H0408"
+                    ]
                 }
             ]
         },
@@ -135,7 +161,9 @@
                     "dayOfWeek": 4,
                     "timeSlot": 4,
                     "prof": "SHU",
-                    "location": "H0407 "
+                    "locations": [
+                        "H0407"
+                    ]
                 }
             ]
         }

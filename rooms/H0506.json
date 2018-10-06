@@ -69,23 +69,6 @@
                     "semester": "1MEB"
                 }
             ]
-        },
-        {
-            "dayOfWeek": 3,
-            "blocks": [
-                {
-                    "number": 2,
-                    "professor": "KNU",
-                    "course": "PR1-L",
-                    "semester": "1IB"
-                },
-                {
-                    "number": 3,
-                    "professor": "KNU",
-                    "course": "PR1-L",
-                    "semester": "1IB"
-                }
-            ]
         }
     ]
 }

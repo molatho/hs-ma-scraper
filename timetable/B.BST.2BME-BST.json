@@ -9,7 +9,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 0,
                     "prof": "MCK",
-                    "location": "H0909 "
+                    "locations": [
+                        "H0909"
+                    ]
                 }
             ]
         },
@@ -21,7 +23,9 @@
                     "dayOfWeek": 4,
                     "timeSlot": 0,
                     "prof": "SRI",
-                    "location": "H1007 "
+                    "locations": [
+                        "H1007"
+                    ]
                 }
             ]
         },
@@ -33,25 +37,33 @@
                     "dayOfWeek": 2,
                     "timeSlot": 1,
                     "prof": "HOP",
-                    "location": "G032 "
+                    "locations": [
+                        "G032"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
                     "prof": "HOP",
-                    "location": "G032 "
+                    "locations": [
+                        "G032"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 3,
                     "prof": "WPH",
-                    "location": "G032 "
+                    "locations": [
+                        "G032"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
                     "prof": "WPH",
-                    "location": "G032 "
+                    "locations": [
+                        "G032"
+                    ]
                 }
             ]
         },
@@ -63,7 +75,9 @@
                     "dayOfWeek": 3,
                     "timeSlot": 1,
                     "prof": "HOP",
-                    "location": "H0909 "
+                    "locations": [
+                        "H0909"
+                    ]
                 }
             ]
         },
@@ -75,7 +89,9 @@
                     "dayOfWeek": 3,
                     "timeSlot": 2,
                     "prof": "HOP",
-                    "location": "H1007 "
+                    "locations": [
+                        "H1007"
+                    ]
                 }
             ]
         },
@@ -87,7 +103,9 @@
                     "dayOfWeek": 4,
                     "timeSlot": 2,
                     "prof": "STN",
-                    "location": "H0407 "
+                    "locations": [
+                        "H0407"
+                    ]
                 }
             ]
         },
@@ -99,7 +117,9 @@
                     "dayOfWeek": 3,
                     "timeSlot": 3,
                     "prof": "WPH",
-                    "location": "H1008 "
+                    "locations": [
+                        "H1008"
+                    ]
                 }
             ]
         },
@@ -111,7 +131,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 4,
                     "prof": "KUZ",
-                    "location": "H1009 "
+                    "locations": [
+                        "H1009"
+                    ]
                 }
             ]
         },
@@ -123,7 +145,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 5,
                     "prof": "GRE",
-                    "location": "G045 "
+                    "locations": [
+                        "G045"
+                    ]
                 }
             ]
         },
@@ -135,7 +159,9 @@
                     "dayOfWeek": 2,
                     "timeSlot": 5,
                     "prof": "SWZ",
-                    "location": "H0908 "
+                    "locations": [
+                        "H0908"
+                    ]
                 }
             ]
         },
@@ -147,7 +173,9 @@
                     "dayOfWeek": 3,
                     "timeSlot": 5,
                     "prof": "RUO",
-                    "location": "H0808 "
+                    "locations": [
+                        "H0808"
+                    ]
                 }
             ]
         }

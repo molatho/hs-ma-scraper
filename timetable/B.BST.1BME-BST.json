@@ -9,7 +9,9 @@
                     "dayOfWeek": 0,
                     "timeSlot": 0,
                     "prof": "MUI",
-                    "location": "H1007 "
+                    "locations": [
+                        "H1007"
+                    ]
                 }
             ]
         },
@@ -21,7 +23,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 0,
                     "prof": "MEE",
-                    "location": "H1008 "
+                    "locations": [
+                        "H1008"
+                    ]
                 }
             ]
         },
@@ -33,7 +37,9 @@
                     "dayOfWeek": 3,
                     "timeSlot": 0,
                     "prof": "KIO",
-                    "location": "H1007 "
+                    "locations": [
+                        "H1007"
+                    ]
                 }
             ]
         },
@@ -45,7 +51,9 @@
                     "dayOfWeek": 0,
                     "timeSlot": 1,
                     "prof": "KIO",
-                    "location": "H1008 "
+                    "locations": [
+                        "H1008"
+                    ]
                 }
             ]
         },
@@ -57,19 +65,25 @@
                     "dayOfWeek": 0,
                     "timeSlot": 2,
                     "prof": "RUF",
-                    "location": "H1007 "
+                    "locations": [
+                        "H1007"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
                     "prof": "RUF",
-                    "location": "H1007 "
+                    "locations": [
+                        "H1007"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
                     "prof": "RUF",
-                    "location": "H1007 "
+                    "locations": [
+                        "H1007"
+                    ]
                 }
             ]
         },
@@ -81,7 +95,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 2,
                     "prof": "KIO",
-                    "location": "H1009 "
+                    "locations": [
+                        "H1009"
+                    ]
                 }
             ]
         },
@@ -93,7 +109,9 @@
                     "dayOfWeek": 4,
                     "timeSlot": 2,
                     "prof": "STN",
-                    "location": "H0407 "
+                    "locations": [
+                        "H0407"
+                    ]
                 }
             ]
         },
@@ -105,7 +123,9 @@
                     "dayOfWeek": 2,
                     "timeSlot": 3,
                     "prof": "ARR",
-                    "location": "G054 "
+                    "locations": [
+                        "G054"
+                    ]
                 }
             ]
         },
@@ -117,7 +137,9 @@
                     "dayOfWeek": 3,
                     "timeSlot": 3,
                     "prof": "RUO",
-                    "location": "B002 "
+                    "locations": [
+                        "B002"
+                    ]
                 }
             ]
         },
@@ -129,7 +151,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 4,
                     "prof": "KUZ",
-                    "location": "H1009 "
+                    "locations": [
+                        "H1009"
+                    ]
                 }
             ]
         },
@@ -141,7 +165,9 @@
                     "dayOfWeek": 1,
                     "timeSlot": 5,
                     "prof": "GRE",
-                    "location": "G045 "
+                    "locations": [
+                        "G045"
+                    ]
                 }
             ]
         },
@@ -153,7 +179,9 @@
                     "dayOfWeek": 2,
                     "timeSlot": 5,
                     "prof": "SWZ",
-                    "location": "H0908 "
+                    "locations": [
+                        "H0908"
+                    ]
                 }
             ]
         }

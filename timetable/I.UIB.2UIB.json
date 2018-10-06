@@ -9,13 +9,17 @@
                     "dayOfWeek": 2,
                     "timeSlot": 0,
                     "prof": "DOP",
-                    "location": "H0407 "
+                    "locations": [
+                        "H0407"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
                     "prof": "DOP",
-                    "location": "H0407 "
+                    "locations": [
+                        "H0407"
+                    ]
                 }
             ]
         },
@@ -27,13 +31,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 1,
                     "prof": "STL",
-                    "location": "H0910 "
+                    "locations": [
+                        "H0910"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
                     "prof": "STL",
-                    "location": "H0809 "
+                    "locations": [
+                        "H0809"
+                    ]
                 }
             ]
         },
@@ -45,13 +53,17 @@
                     "dayOfWeek": 2,
                     "timeSlot": 2,
                     "prof": "SPE",
-                    "location": "H0809 "
+                    "locations": [
+                        "H0809"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
                     "prof": "SPE",
-                    "location": "H0408 "
+                    "locations": [
+                        "H0408"
+                    ]
                 }
             ]
         },
@@ -63,13 +75,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 2,
                     "prof": "GMI",
-                    "location": "H0409 "
+                    "locations": [
+                        "H0409"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
                     "prof": "GMI",
-                    "location": "H0409 "
+                    "locations": [
+                        "H0409"
+                    ]
                 }
             ]
         },
@@ -81,13 +97,17 @@
                     "dayOfWeek": 3,
                     "timeSlot": 2,
                     "prof": "DCH",
-                    "location": "L011 "
+                    "locations": [
+                        "L011"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
                     "prof": "DCH",
-                    "location": "L011 "
+                    "locations": [
+                        "L011"
+                    ]
                 }
             ]
         },
@@ -99,19 +119,25 @@
                     "dayOfWeek": 0,
                     "timeSlot": 4,
                     "prof": "DOP",
-                    "location": "H1114 "
+                    "locations": [
+                        "H1114"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
                     "prof": "DOP",
-                    "location": "H1008 "
+                    "locations": [
+                        "H1008"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
                     "prof": "DOP",
-                    "location": "H1114 "
+                    "locations": [
+                        "H1114"
+                    ]
                 }
             ]
         },
@@ -123,13 +149,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 3,
                     "prof": "GMI",
-                    "location": "H0409 "
+                    "locations": [
+                        "H0409"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
                     "prof": "GMI",
-                    "location": "H0409 "
+                    "locations": [
+                        "H0409"
+                    ]
                 }
             ]
         },
@@ -141,25 +171,33 @@
                     "dayOfWeek": 1,
                     "timeSlot": 3,
                     "prof": "DOP",
-                    "location": "H0506 "
+                    "locations": [
+                        "H0506"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 3,
                     "prof": "KML",
-                    "location": "H0507 "
+                    "locations": [
+                        "H0507"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
                     "prof": "DOP",
-                    "location": "H0506 "
+                    "locations": [
+                        "H0506"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 4,
                     "prof": "KML",
-                    "location": "H0507 "
+                    "locations": [
+                        "H0507"
+                    ]
                 }
             ]
         }

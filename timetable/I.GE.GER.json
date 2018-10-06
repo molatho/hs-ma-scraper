@@ -9,13 +9,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 4,
                     "prof": "KLS",
-                    "location": "A107 "
+                    "locations": [
+                        "A107"
+                    ]
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 5,
                     "prof": "KLS",
-                    "location": "A107 "
+                    "locations": [
+                        "A107"
+                    ]
                 }
             ]
         }

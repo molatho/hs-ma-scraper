@@ -9,13 +9,17 @@
                     "dayOfWeek": 2,
                     "timeSlot": 3,
                     "prof": "MNE",
-                    "location": "Z105 "
+                    "locations": [
+                        "Z105"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
                     "prof": "MNE",
-                    "location": "L013 "
+                    "locations": [
+                        "L013"
+                    ]
                 }
             ]
         }

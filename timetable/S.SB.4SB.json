@@ -9,13 +9,17 @@
                     "dayOfWeek": 3,
                     "timeSlot": 0,
                     "prof": "BAL",
-                    "location": "C306 "
+                    "locations": [
+                        "C306"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 1,
                     "prof": "BAL",
-                    "location": "C306 "
+                    "locations": [
+                        "C306"
+                    ]
                 }
             ]
         },
@@ -27,13 +31,17 @@
                     "dayOfWeek": 1,
                     "timeSlot": 1,
                     "prof": "KIL",
-                    "location": "C003 "
+                    "locations": [
+                        "C003"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
                     "prof": "KIL",
-                    "location": "C003 "
+                    "locations": [
+                        "C003"
+                    ]
                 }
             ]
         },
@@ -45,13 +53,17 @@
                     "dayOfWeek": 2,
                     "timeSlot": 1,
                     "prof": "SHM",
-                    "location": "C306 "
+                    "locations": [
+                        "C306"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
                     "prof": "SHM",
-                    "location": "C306 "
+                    "locations": [
+                        "C306"
+                    ]
                 }
             ]
         },
@@ -63,13 +75,17 @@
                     "dayOfWeek": 3,
                     "timeSlot": 2,
                     "prof": "SSC",
-                    "location": "C306 "
+                    "locations": [
+                        "C306"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 3,
                     "prof": "SSC",
-                    "location": "C306 "
+                    "locations": [
+                        "C306"
+                    ]
                 }
             ]
         }

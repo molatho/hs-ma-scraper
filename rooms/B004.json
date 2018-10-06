@@ -144,6 +144,36 @@
                     "professor": "KIT",
                     "course": "REN2",
                     "semester": "6EB"
+                },
+                {
+                    "number": 3,
+                    "professor": "DIT",
+                    "course": "T-DV1",
+                    "semester": "1EB"
+                },
+                {
+                    "number": 3,
+                    "professor": "DIT",
+                    "course": "T-DV1",
+                    "semester": "1ELB"
+                },
+                {
+                    "number": 3,
+                    "professor": "DIT",
+                    "course": "T-DV1",
+                    "semester": "1UB"
+                },
+                {
+                    "number": 3,
+                    "professor": "DIT",
+                    "course": "T-DV1",
+                    "semester": "2EB"
+                },
+                {
+                    "number": 3,
+                    "professor": "DIT",
+                    "course": "T-DV1",
+                    "semester": "2UB"
                 }
             ]
         },

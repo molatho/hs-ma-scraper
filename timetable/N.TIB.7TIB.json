@@ -9,13 +9,17 @@
                     "dayOfWeek": 2,
                     "timeSlot": 1,
                     "prof": "DAM",
-                    "location": "L215 "
+                    "locations": [
+                        "L215"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
                     "prof": "DAM",
-                    "location": "S117 "
+                    "locations": [
+                        "S117"
+                    ]
                 }
             ]
         },
@@ -27,13 +31,17 @@
                     "dayOfWeek": 4,
                     "timeSlot": 1,
                     "prof": "BTH",
-                    "location": "L208 "
+                    "locations": [
+                        "L208"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
                     "prof": "BTH",
-                    "location": "H0406 "
+                    "locations": [
+                        "H0406"
+                    ]
                 }
             ]
         }

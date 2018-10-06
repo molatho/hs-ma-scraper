@@ -9,13 +9,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 1,
                     "prof": "FIJ",
-                    "location": "H0408 "
+                    "locations": [
+                        "H0408"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 0,
                     "prof": "FIJ",
-                    "location": "A210 "
+                    "locations": [
+                        "A210"
+                    ]
                 }
             ]
         },
@@ -27,13 +31,17 @@
                     "dayOfWeek": 4,
                     "timeSlot": 0,
                     "prof": "FOL",
-                    "location": "H0408 "
+                    "locations": [
+                        "H0408"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
                     "prof": "FOL",
-                    "location": "H0408 "
+                    "locations": [
+                        "H0408"
+                    ]
                 }
             ]
         },
@@ -45,25 +53,33 @@
                     "dayOfWeek": 1,
                     "timeSlot": 1,
                     "prof": "FIJ",
-                    "location": "H0507 "
+                    "locations": [
+                        "H0507"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 1,
                     "prof": "IHU",
-                    "location": "H0506 "
+                    "locations": [
+                        "H0506"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
                     "prof": "FIJ",
-                    "location": "H0507 "
+                    "locations": [
+                        "H0507"
+                    ]
                 },
                 {
                     "dayOfWeek": 1,
                     "timeSlot": 2,
                     "prof": "IHU",
-                    "location": "H0506 "
+                    "locations": [
+                        "H0506"
+                    ]
                 }
             ]
         },
@@ -75,13 +91,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 2,
                     "prof": "GUM",
-                    "location": "H0408 "
+                    "locations": [
+                        "H0408"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 1,
                     "prof": "GUM",
-                    "location": "A010 "
+                    "locations": [
+                        "A010"
+                    ]
                 }
             ]
         },
@@ -93,13 +113,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 3,
                     "prof": "TOY",
-                    "location": "A211 "
+                    "locations": [
+                        "A211"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 2,
                     "prof": "TOY",
-                    "location": "A211 "
+                    "locations": [
+                        "A211"
+                    ]
                 }
             ]
         },
@@ -111,13 +135,17 @@
                     "dayOfWeek": 2,
                     "timeSlot": 4,
                     "prof": "LBN1",
-                    "location": "MED-U "
+                    "locations": [
+                        "MED-U"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
                     "prof": "LBN1",
-                    "location": "MED-U "
+                    "locations": [
+                        "MED-U"
+                    ]
                 }
             ]
         }

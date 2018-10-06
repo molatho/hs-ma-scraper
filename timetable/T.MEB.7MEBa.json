@@ -9,13 +9,17 @@
                     "dayOfWeek": 1,
                     "timeSlot": 0,
                     "prof": "FIJ",
-                    "location": "A111 "
+                    "locations": [
+                        "A111"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
                     "prof": "FIJ",
-                    "location": "A111 "
+                    "locations": [
+                        "A111"
+                    ]
                 }
             ]
         }

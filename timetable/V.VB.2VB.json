@@ -9,13 +9,17 @@
                     "dayOfWeek": 1,
                     "timeSlot": 0,
                     "prof": "VIN",
-                    "location": "A305 "
+                    "locations": [
+                        "A305"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 1,
                     "prof": "VIN",
-                    "location": "A305 "
+                    "locations": [
+                        "A305"
+                    ]
                 }
             ]
         },
@@ -27,13 +31,17 @@
                     "dayOfWeek": 3,
                     "timeSlot": 1,
                     "prof": "RAD",
-                    "location": "H0908 "
+                    "locations": [
+                        "H0908"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 0,
                     "prof": "RAD",
-                    "location": "H1010 "
+                    "locations": [
+                        "H1010"
+                    ]
                 }
             ]
         },
@@ -45,13 +53,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 1,
                     "prof": "RAS",
-                    "location": "A208 "
+                    "locations": [
+                        "A208"
+                    ]
                 },
                 {
                     "dayOfWeek": 0,
                     "timeSlot": 2,
                     "prof": "RAS",
-                    "location": "A208 "
+                    "locations": [
+                        "A208"
+                    ]
                 }
             ]
         },
@@ -63,13 +75,17 @@
                     "dayOfWeek": 1,
                     "timeSlot": 1,
                     "prof": "BEL",
-                    "location": "G133 "
+                    "locations": [
+                        "G133"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 2,
                     "prof": "BEL",
-                    "location": "G133 "
+                    "locations": [
+                        "G133"
+                    ]
                 }
             ]
         },
@@ -81,13 +97,17 @@
                     "dayOfWeek": 1,
                     "timeSlot": 2,
                     "prof": "SCV",
-                    "location": "H0806 "
+                    "locations": [
+                        "H0806"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 4,
                     "prof": "SCV",
-                    "location": "L210 "
+                    "locations": [
+                        "L210"
+                    ]
                 }
             ]
         },
@@ -99,13 +119,17 @@
                     "dayOfWeek": 0,
                     "timeSlot": 4,
                     "prof": "DIW",
-                    "location": "H1009 "
+                    "locations": [
+                        "H1009"
+                    ]
                 },
                 {
                     "dayOfWeek": 3,
                     "timeSlot": 2,
                     "prof": "DIW",
-                    "location": "L012 "
+                    "locations": [
+                        "L012"
+                    ]
                 }
             ]
         },
@@ -117,19 +141,25 @@
                     "dayOfWeek": 2,
                     "timeSlot": 3,
                     "prof": "VIN",
-                    "location": "G103 "
+                    "locations": [
+                        "G103"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
                     "prof": "VIN",
-                    "location": "G103 "
+                    "locations": [
+                        "G103"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 5,
                     "prof": "VIN",
-                    "location": "G103 "
+                    "locations": [
+                        "G103"
+                    ]
                 }
             ]
         },
@@ -141,13 +171,17 @@
                     "dayOfWeek": 3,
                     "timeSlot": 3,
                     "prof": "DIW",
-                    "location": "G045 "
+                    "locations": [
+                        "G045"
+                    ]
                 },
                 {
                     "dayOfWeek": 4,
                     "timeSlot": 3,
                     "prof": "DIW",
-                    "location": "G045 "
+                    "locations": [
+                        "G045"
+                    ]
                 }
             ]
         }

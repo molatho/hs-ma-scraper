@@ -9,7 +9,9 @@
                     "dayOfWeek": 0,
                     "timeSlot": 0,
                     "prof": "LNG",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 }
             ]
         },
@@ -21,7 +23,9 @@
                     "dayOfWeek": 2,
                     "timeSlot": 0,
                     "prof": "WEJ",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 }
             ]
         },
@@ -33,7 +37,9 @@
                     "dayOfWeek": 0,
                     "timeSlot": 1,
                     "prof": "SSC",
-                    "location": "C212 "
+                    "locations": [
+                        "C212"
+                    ]
                 }
             ]
         },
@@ -45,7 +51,9 @@
                     "dayOfWeek": 2,
                     "timeSlot": 1,
                     "prof": "KIL",
-                    "location": "C211 "
+                    "locations": [
+                        "C211"
+                    ]
                 }
             ]
         },
@@ -57,7 +65,9 @@
                     "dayOfWeek": 0,
                     "timeSlot": 2,
                     "prof": "UTZ",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 }
             ]
         },
@@ -69,7 +79,9 @@
                     "dayOfWeek": 0,
                     "timeSlot": 3,
                     "prof": "SHM",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 }
             ]
         },
@@ -81,13 +93,17 @@
                     "dayOfWeek": 2,
                     "timeSlot": 3,
                     "prof": "BAL",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 },
                 {
                     "dayOfWeek": 2,
                     "timeSlot": 4,
                     "prof": "BAL",
-                    "location": "C310 "
+                    "locations": [
+                        "C310"
+                    ]
                 }
             ]
         }
